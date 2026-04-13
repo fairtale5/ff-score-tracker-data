@@ -1,0 +1,51 @@
+{
+  "Records" : {
+    "default" : {
+      "bmw_z4_gt3" : {
+        "Clear" : {
+          "TimestampMs" : 1775085632153,
+          "LapTimeMs" : 111651,
+          "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale"
+        }
+      },
+      "bmw_m3_gt2" : {
+        "Clear" : {
+          "LapTimeMs" : 112521,
+          "TimestampMs" : 1774918751329,
+          "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+          "PlayerName" : "m araujo",
+          "PlayerGuid" : 76561199054712842
+        }
+      },
+      "mercedes_sls_gt3" : {
+        "Clear" : {
+          "PlayerGuid" : 76561199054712842,
+          "PlayerName" : "m araujo",
+          "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+          "TimestampMs" : 1775085777553,
+          "LapTimeMs" : 109567
+        }
+      },
+      "mclaren_mp412c_gt3" : {
+        "Clear" : {
+          "PlayerGuid" : 76561199041523051,
+          "PlayerName" : "ChristianoAguiar",
+          "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+          "LapTimeMs" : 114013,
+          "TimestampMs" : 1774917648836
+        }
+      },
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "PlayerName" : "Hxed",
+          "PlayerGuid" : 76561198036817635,
+          "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+          "TimestampMs" : 1775330005763,
+          "LapTimeMs" : 111965
+        }
+      }
+    }
+  }
+}

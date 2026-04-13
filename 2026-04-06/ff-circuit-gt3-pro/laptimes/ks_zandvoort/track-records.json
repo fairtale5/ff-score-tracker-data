@@ -1,0 +1,33 @@
+{
+  "Records": {
+    "default": {
+      "rss_gtm_hyperion_v8": {
+        "Cold": {
+          "LapTimeMs": 102972,
+          "PlayerName": "Edson Nicolas",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1775171097003,
+          "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4"
+        }
+      },
+      "rss_gtm_furiano_96_v6": {
+        "Mixed": {
+          "LapTimeMs": 109611,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1775171229631,
+          "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4"
+        }
+      },
+      "rss_gtm_lanzo_v10": {
+        "ScatteredClouds": {
+          "LapTimeMs": 103089,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1775173653753,
+          "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "Layout" : "",
+    "TimestampMs" : 1775351715874,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 141763,
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775351856559,
+    "LapTimeMs" : 140685
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 140288,
+    "TimestampMs" : 1775352547078,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa"
+  },
+  {
+    "TimestampMs" : 1775352700845,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 153768,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775352841226,
+    "LapTimeMs" : 140382,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775352981808,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 140584,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+  },
+  {
+    "TimestampMs" : 1775353121926,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 140118,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Layout" : "",
+    "LapTimeMs" : 140741,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775353262667,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "Layout" : "hh_suburbs",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 47741,
+    "TimestampMs" : 1774822467847,
+    "WeatherCategory" : "Clear",
+    "Car" : "hhrc_vette_c6",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "hhrc_vette_c6",
+    "Layout" : "hh_suburbs",
+    "TimestampMs" : 1774822820330,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 352487,
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "Track" : "Hamburg_by_4r_v.1.3"
+  },
+  {
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 89690,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774823046513,
+    "WeatherCategory" : "Clear",
+    "Car" : "hhrc_vette_c6",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "hhrc_vette_c6",
+    "WeatherCategory" : "Clear",
+    "LapTimeMs" : 189398,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774823235914,
+    "Layout" : "hh_suburbs",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b"
+  },
+  {
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 62150,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774823500636,
+    "WeatherCategory" : "Clear",
+    "Car" : "hhrc_vette_c6",
+    "WeatherStart" : "Clear"
+  }
+]

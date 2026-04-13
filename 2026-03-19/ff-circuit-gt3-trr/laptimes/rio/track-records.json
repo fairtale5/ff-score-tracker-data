@@ -1,0 +1,70 @@
+{
+  "Records": {
+    "rio": {
+      "TRR_GT3_bmw_m4_gt3": {
+        "Mixed": {
+          "LapTimeMs": 155608,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773034912879,
+          "SessionId": "18dd6b43-685c-4aaa-92a4-83228e9e5330"
+        },
+        "Cold": {
+          "LapTimeMs": 148979,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773035306460,
+          "SessionId": "18dd6b43-685c-4aaa-92a4-83228e9e5330"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 146378,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773036162416,
+          "SessionId": "18dd6b43-685c-4aaa-92a4-83228e9e5330"
+        }
+      },
+      "TRR_GT3_ford_mustang_gt3": {
+        "Cold": {
+          "LapTimeMs": 146832,
+          "PlayerName": "LiuIAM",
+          "PlayerGuid": 76561199789828867,
+          "TimestampMs": 1773035306087,
+          "SessionId": "18dd6b43-685c-4aaa-92a4-83228e9e5330"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 141459,
+          "PlayerName": "LiuIAM",
+          "PlayerGuid": 76561199789828867,
+          "TimestampMs": 1773036634094,
+          "SessionId": "18dd6b43-685c-4aaa-92a4-83228e9e5330"
+        },
+        "Clear": {
+          "LapTimeMs": 241894,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773856754912,
+          "SessionId": "ac0de4b9-8e9e-401a-8cc9-00b85636794f"
+        }
+      },
+      "TRR_GT3_mclaren_720s_gt3_evo": {
+        "Mixed": {
+          "LapTimeMs": 147068,
+          "PlayerName": "WiewiuraPawcio",
+          "PlayerGuid": 76561198134272640,
+          "TimestampMs": 1773245615611,
+          "SessionId": "8f7e49ae-2bce-4d52-9747-c1188901831f"
+        }
+      },
+      "TRR_GT3_ferrari_296_gt3": {
+        "Mixed": {
+          "LapTimeMs": 149880,
+          "PlayerName": "munhozin",
+          "PlayerGuid": 76561198142960686,
+          "TimestampMs": 1773648623291,
+          "SessionId": "c950830f-f9a8-4f40-b9b7-e129babb72ef"
+        }
+      }
+    }
+  }
+}

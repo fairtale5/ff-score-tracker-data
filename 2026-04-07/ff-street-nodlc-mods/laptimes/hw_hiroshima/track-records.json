@@ -1,0 +1,129 @@
+{
+  "Records" : {
+    "arrows" : {
+      "rx7_fc3s_infini-III_tuned" : {
+        "ScatteredClouds" : {
+          "LapTimeMs" : 325046,
+          "TimestampMs" : 1774490637336,
+          "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale"
+        },
+        "Clear" : {
+          "TimestampMs" : 1775368420736,
+          "LapTimeMs" : 1651478,
+          "SessionId" : "8d545af4-fd67-46ba-91ac-3ebfe06f841a",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale"
+        }
+      },
+      "jk_subaru_brz_tuned" : {
+        "Hot" : {
+          "LapTimeMs" : 329114,
+          "TimestampMs" : 1774152061269,
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "bd22f8dc-6b49-4a47-a5fb-195ccac9432e"
+        },
+        "Clear" : {
+          "TimestampMs" : 1774656811751,
+          "LapTimeMs" : 332803,
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304"
+        },
+        "Mixed" : {
+          "LapTimeMs" : 308228,
+          "TimestampMs" : 1774242265875,
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale"
+        }
+      },
+      "zesty_toyota_supra_mk4_shuto_street" : {
+        "Mist" : {
+          "PlayerName" : "André Zain",
+          "PlayerGuid" : 76561198996191453,
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "LapTimeMs" : 271004,
+          "TimestampMs" : 1774243924925
+        }
+      },
+      "lexus_lfa_tuned" : {
+        "Mixed" : {
+          "PlayerGuid" : 76561199789828867,
+          "PlayerName" : "LiuIAM",
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "LapTimeMs" : 294420,
+          "TimestampMs" : 1774243354273
+        },
+        "Clear" : {
+          "TimestampMs" : 1774243059852,
+          "LapTimeMs" : 316637,
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "PlayerName" : "LiuIAM",
+          "PlayerGuid" : 76561199789828867
+        }
+      },
+      "kimdog_drift_bmw_e36" : {
+        "Mixed" : {
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "PlayerGuid" : 76561198996191453,
+          "PlayerName" : "André Zain",
+          "LapTimeMs" : 322253,
+          "TimestampMs" : 1774249513555
+        }
+      },
+      "mazda_rx7_veilside_pushin_p" : {
+        "ScatteredClouds" : {
+          "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "TimestampMs" : 1774491651970,
+          "LapTimeMs" : 262688
+        }
+      },
+      "hhrc_vette_c6" : {
+        "Clear" : {
+          "LapTimeMs" : 325398,
+          "TimestampMs" : 1774814916828,
+          "PlayerName" : "01viegax",
+          "PlayerGuid" : 76561199029482706,
+          "SessionId" : "491ab01d-b02c-4e1a-99b2-61b6f5ed0492"
+        }
+      },
+      "hd_gt86_nfsnl1" : {
+        "Mixed" : {
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "LapTimeMs" : 407880,
+          "TimestampMs" : 1774240342127
+        },
+        "Clear" : {
+          "SessionId" : "b34862fa-5500-4036-a70e-907986022358",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "TimestampMs" : 1774580883704,
+          "LapTimeMs" : 303140
+        }
+      },
+      "pb_camaro_2010_tuned" : {
+        "Mixed" : {
+          "TimestampMs" : 1774249494648,
+          "LapTimeMs" : 303375,
+          "PlayerName" : "LiuIAM",
+          "PlayerGuid" : 76561199789828867,
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb"
+        },
+        "ScatteredClouds" : {
+          "PlayerGuid" : 76561198996191453,
+          "PlayerName" : "André Zain",
+          "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+          "LapTimeMs" : 323852,
+          "TimestampMs" : 1774247420350
+        }
+      }
+    }
+  }
+}

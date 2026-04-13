@@ -1,0 +1,134 @@
+[
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "Layout" : "",
+    "TimestampMs" : 1775348812494,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 146781
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "LapTimeMs" : 163642,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775348976135,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa"
+  },
+  {
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 162906,
+    "TimestampMs" : 1775349139042,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "Layout" : "",
+    "TimestampMs" : 1775349287992,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 148950,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 148326,
+    "TimestampMs" : 1775349875884,
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775350022744,
+    "LapTimeMs" : 146861,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa"
+  },
+  {
+    "TimestampMs" : 1775350869518,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 151465,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "TimestampMs" : 1775351016579,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 147061,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_m3_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "Layout" : "",
+    "LapTimeMs" : 166212,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775352595496
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "LapTimeMs" : 158116,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775352753612,
+    "Layout" : ""
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_m3_gt2",
+    "Layout" : "",
+    "LapTimeMs" : 147695,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775352901308,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 279079,
+    "TimestampMs" : 1775353180386,
+    "Layout" : "",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_m3_gt2",
+    "WeatherCategory" : "Clear"
+  }
+]

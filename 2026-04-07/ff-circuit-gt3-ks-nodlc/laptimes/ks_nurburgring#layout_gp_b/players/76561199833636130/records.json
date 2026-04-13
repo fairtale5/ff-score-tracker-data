@@ -1,0 +1,16 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "LapTimeMs" : 125858,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774667636868,
+      "WeatherStart" : "Clear",
+      "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640"
+    }
+  },
+  "Track" : "ks_nurburgring",
+  "Username" : "PZA",
+  "GUID" : 76561199833636130,
+  "Layout" : "layout_gp_b"
+}

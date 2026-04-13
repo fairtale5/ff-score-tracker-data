@@ -1,0 +1,90 @@
+[
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca",
+    "Layout" : "",
+    "TimestampMs" : 1774813118210,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 96834
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "TimestampMs" : 1774813210094,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 91871,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 89944,
+    "TimestampMs" : 1774813300056
+  },
+  {
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 91252,
+    "TimestampMs" : 1774813391322,
+    "Layout" : "",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774813590408,
+    "LapTimeMs" : 91515,
+    "Layout" : ""
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774813679563,
+    "LapTimeMs" : 89135,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca"
+  },
+  {
+    "Layout" : "",
+    "LapTimeMs" : 88841,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774813768415,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774813865561,
+    "LapTimeMs" : 97130,
+    "Layout" : "",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear"
+  }
+]

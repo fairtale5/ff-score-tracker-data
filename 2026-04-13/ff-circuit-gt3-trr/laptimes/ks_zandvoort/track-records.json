@@ -1,0 +1,33 @@
+{
+  "Records": {
+    "default": {
+      "TRR_GT3_lamborghini_huracan_gt3_evo_2": {
+        "Drizzle": {
+          "LapTimeMs": 106145,
+          "PlayerName": "jajowbetoniarce",
+          "PlayerGuid": 76561198237280032,
+          "TimestampMs": 1773244386215,
+          "SessionId": "a7b636dd-cfab-43ba-aa35-3ee5dfd3e4d4"
+        }
+      },
+      "TRR_GT3_aston_martin_vantage_gt3_evo": {
+        "ScatteredClouds": {
+          "LapTimeMs": 98832,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1774140187407,
+          "SessionId": "391f7956-59d6-4d29-81f3-8c8c5d30904d"
+        }
+      },
+      "TRR_GT3_ferrari_296_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 98561,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1774316743270,
+          "SessionId": "913e2a0f-ce67-4ca9-afd0-5ae78c5fcc04"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "Layout" : "c1_time_attack",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775074020662,
+    "LapTimeMs" : 637061,
+    "SessionId" : "4c37f69e-856f-415e-8171-04433308119d",
+    "Track" : "shuto_revival_project_beta"
+  },
+  {
+    "Layout" : "c1_time_attack",
+    "TimestampMs" : 1775074505430,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 484792,
+    "SessionId" : "4c37f69e-856f-415e-8171-04433308119d",
+    "Track" : "shuto_revival_project_beta",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mazda_rx7_veilside_pushin_p"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "Layout" : "c1_time_attack",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775079851023,
+    "LapTimeMs" : 379157,
+    "SessionId" : "4c37f69e-856f-415e-8171-04433308119d",
+    "Track" : "shuto_revival_project_beta"
+  }
+]

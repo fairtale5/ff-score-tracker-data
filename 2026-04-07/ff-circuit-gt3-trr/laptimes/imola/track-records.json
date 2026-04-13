@@ -1,0 +1,84 @@
+{
+  "Records": {
+    "default": {
+      "TRR_GT3_ferrari_296_gt3": {
+        "Cold": {
+          "LapTimeMs": 114365,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773803965709,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        },
+        "Mixed": {
+          "LapTimeMs": 113683,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773805509718,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        }
+      },
+      "TRR_GT3_bmw_m4_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 111343,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773804578447,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        },
+        "Mixed": {
+          "LapTimeMs": 109050,
+          "PlayerName": "Edson Nicolas",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1774397378013,
+          "SessionId": "84e58d39-4a87-4060-b6a2-9189e7cc7ee2"
+        },
+        "Drizzle": {
+          "LapTimeMs": 110589,
+          "PlayerName": "Edson Nicolas",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1774397819940,
+          "SessionId": "84e58d39-4a87-4060-b6a2-9189e7cc7ee2"
+        }
+      },
+      "TRR_GT3_nissan_gtr_gt3": {
+        "Cold": {
+          "LapTimeMs": 111896,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865114065,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        },
+        "Mixed": {
+          "LapTimeMs": 111130,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865349704,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        },
+        "Mist": {
+          "LapTimeMs": 110849,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865460553,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        }
+      },
+      "TRR_GT3_aston_martin_vantage_gt3_evo": {
+        "Hot": {
+          "LapTimeMs": 107725,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1774138227422,
+          "SessionId": "c0521b1b-ebbf-4666-ad7a-1d6377d41502"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 105493,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1774138566541,
+          "SessionId": "c0521b1b-ebbf-4666-ad7a-1d6377d41502"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775086929480,
+    "LapTimeMs" : 120128,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090098679,
+    "LapTimeMs" : 122723,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "TimestampMs" : 1775090215175,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 116494,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 118459,
+    "TimestampMs" : 1775090333632,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 118796,
+    "TimestampMs" : 1775090452424,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza"
+  },
+  {
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "Layout" : "",
+    "LapTimeMs" : 127020,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090579444,
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "TimestampMs" : 1775337804179,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 117333,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "Track" : "monza"
+  }
+]

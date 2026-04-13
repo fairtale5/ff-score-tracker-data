@@ -1,0 +1,23 @@
+{
+  "Layout" : "",
+  "GUID" : 76561198435979312,
+  "Username" : "Merce",
+  "Track" : "spa",
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "TimestampMs" : 1775350907099,
+      "LapTimeMs" : 148908,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775353733713,
+      "LapTimeMs" : 144778,
+      "WeatherStart" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

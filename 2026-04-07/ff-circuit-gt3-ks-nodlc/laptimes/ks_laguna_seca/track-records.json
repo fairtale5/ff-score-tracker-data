@@ -1,0 +1,51 @@
+{
+  "Records" : {
+    "default" : {
+      "bmw_z4_gt3" : {
+        "Clear" : {
+          "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+          "PlayerGuid" : 76561198891919938,
+          "PlayerName" : "ouai pas mal ouai",
+          "LapTimeMs" : 85754,
+          "TimestampMs" : 1774813348818
+        }
+      },
+      "mclaren_mp412c_gt3" : {
+        "Clear" : {
+          "LapTimeMs" : 98671,
+          "TimestampMs" : 1774824932199,
+          "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+          "PlayerGuid" : 76561198135094513,
+          "PlayerName" : "Comandante Hamilton"
+        }
+      },
+      "mercedes_sls_gt3" : {
+        "Clear" : {
+          "PlayerName" : "BigBad",
+          "PlayerGuid" : 76561198162154945,
+          "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+          "LapTimeMs" : 85013,
+          "TimestampMs" : 1774829800378
+        }
+      },
+      "bmw_m3_gt2" : {
+        "Clear" : {
+          "PlayerGuid" : 76561199062751490,
+          "PlayerName" : "FEDERICO ROT",
+          "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+          "TimestampMs" : 1774813836003,
+          "LapTimeMs" : 84442
+        }
+      },
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "LapTimeMs" : 85912,
+          "TimestampMs" : 1774829260260,
+          "PlayerGuid" : 76561198142279002,
+          "PlayerName" : "NuklearPower",
+          "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9"
+        }
+      }
+    }
+  }
+}

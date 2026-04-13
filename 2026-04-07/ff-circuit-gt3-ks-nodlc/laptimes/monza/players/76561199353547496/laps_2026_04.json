@@ -1,0 +1,79 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "Layout" : "",
+    "LapTimeMs" : 126783,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775329172514,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "Track" : "monza"
+  },
+  {
+    "Layout" : "",
+    "TimestampMs" : 1775329592688,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 131791,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "Track" : "monza",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear",
+    "LapTimeMs" : 125231,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775329717921,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear",
+    "LapTimeMs" : 122807,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775329840725,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3"
+  },
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "LapTimeMs" : 125993,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775329966720,
+    "Layout" : ""
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherStart" : "Clear",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "Track" : "monza",
+    "Layout" : "",
+    "LapTimeMs" : 129054,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775330095775
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 132259,
+    "TimestampMs" : 1775330228033,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "WeatherStart" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear"
+  }
+]

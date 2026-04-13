@@ -1,0 +1,140 @@
+{
+  "Records" : {
+    "default" : {
+      "bmw_z4_gt3" : {
+        "ScatteredClouds" : {
+          "PlayerGuid" : 76561198764193100,
+          "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334",
+          "PlayerName" : "Edson Nicolas",
+          "TimestampMs" : 1774312680209,
+          "LapTimeMs" : 107794
+        },
+        "Mixed" : {
+          "PlayerGuid" : 76561198764193100,
+          "PlayerName" : "Edson Nicolas",
+          "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334",
+          "TimestampMs" : 1774312463457,
+          "LapTimeMs" : 108193
+        },
+        "Clear" : {
+          "TimestampMs" : 1774228908183,
+          "LapTimeMs" : 109048,
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+        },
+        "Mist" : {
+          "TimestampMs" : 1774227825763,
+          "LapTimeMs" : 110881,
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+        },
+        "Hot" : {
+          "PlayerGuid" : 76561198764193100,
+          "PlayerName" : "Edson Nicolas",
+          "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334",
+          "TimestampMs" : 1774312355225,
+          "LapTimeMs" : 108732
+        }
+      },
+      "mclaren_mp412c_gt3" : {
+        "Hot" : {
+          "TimestampMs" : 1774311240662,
+          "LapTimeMs" : 107805,
+          "PlayerGuid" : 76561199660068513,
+          "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334",
+          "PlayerName" : "_six_"
+        },
+        "Clear" : {
+          "LapTimeMs" : 105960,
+          "TimestampMs" : 1774229214878,
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerName" : "m araujo",
+          "PlayerGuid" : 76561199054712842
+        },
+        "ScatteredClouds" : {
+          "PlayerName" : "m araujo",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561199054712842,
+          "LapTimeMs" : 106274,
+          "TimestampMs" : 1774229565582
+        },
+        "Mixed" : {
+          "PlayerGuid" : 76561199054712842,
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerName" : "m araujo",
+          "TimestampMs" : 1774228789187,
+          "LapTimeMs" : 107596
+        }
+      },
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "PlayerGuid" : 76561198980637491,
+          "PlayerName" : "rvnozbk",
+          "SessionId" : "085d6732-58c3-49f8-9b18-5902c71859f1",
+          "TimestampMs" : 1774671921275,
+          "LapTimeMs" : 106337
+        },
+        "Mixed" : {
+          "PlayerName" : "André Zain",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561198996191453,
+          "LapTimeMs" : 107016,
+          "TimestampMs" : 1774228787759
+        },
+        "ScatteredClouds" : {
+          "LapTimeMs" : 108021,
+          "TimestampMs" : 1774227125050,
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerName" : "André Zain",
+          "PlayerGuid" : 76561198996191453
+        },
+        "Mist" : {
+          "PlayerName" : "André Zain",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561198996191453,
+          "LapTimeMs" : 108601,
+          "TimestampMs" : 1774227896118
+        },
+        "Hot" : {
+          "TimestampMs" : 1774312273539,
+          "LapTimeMs" : 116866,
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334"
+        }
+      },
+      "mercedes_sls_gt3" : {
+        "Mist" : {
+          "LapTimeMs" : 116809,
+          "TimestampMs" : 1774227789720,
+          "PlayerName" : "LiuIAM",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561199789828867
+        },
+        "ScatteredClouds" : {
+          "PlayerName" : "LiuIAM",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561199789828867,
+          "LapTimeMs" : 113221,
+          "TimestampMs" : 1774229602562
+        },
+        "Mixed" : {
+          "TimestampMs" : 1774230366696,
+          "LapTimeMs" : 110137,
+          "PlayerGuid" : 76561199789828867,
+          "PlayerName" : "LiuIAM",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+        },
+        "Clear" : {
+          "PlayerName" : "LiuIAM",
+          "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+          "PlayerGuid" : 76561199789828867,
+          "LapTimeMs" : 110589,
+          "TimestampMs" : 1774230256562
+        }
+      }
+    }
+  }
+}

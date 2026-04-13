@@ -1,0 +1,57 @@
+[
+  {
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "shuto_revival_project_beta",
+    "SessionId" : "970b08ce-193e-4498-beeb-eb02334f5dae",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774652780836,
+    "LapTimeMs" : 553123,
+    "Layout" : "c1_time_attack"
+  },
+  {
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "shuto_revival_project_beta",
+    "SessionId" : "970b08ce-193e-4498-beeb-eb02334f5dae",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774653308905,
+    "LapTimeMs" : 528085,
+    "Layout" : "c1_time_attack"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "WeatherStart" : "Clear",
+    "SessionId" : "970b08ce-193e-4498-beeb-eb02334f5dae",
+    "Track" : "shuto_revival_project_beta",
+    "Layout" : "c1_time_attack",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 274222,
+    "TimestampMs" : 1774653583133
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "w_subaru_wrx_sti_tuned",
+    "WeatherCategory" : "Clear",
+    "LapTimeMs" : 445523,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774956290975,
+    "Layout" : "c1_time_attack",
+    "Track" : "shuto_revival_project_beta",
+    "SessionId" : "e39fb874-77db-49df-9798-ce37974aa731"
+  },
+  {
+    "Layout" : "c1_time_attack",
+    "TimestampMs" : 1774956591350,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 300387,
+    "SessionId" : "e39fb874-77db-49df-9798-ce37974aa731",
+    "Track" : "shuto_revival_project_beta",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "w_subaru_wrx_sti_tuned"
+  }
+]

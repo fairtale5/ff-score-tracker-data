@@ -1,0 +1,37 @@
+{
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 147366,
+      "TimestampMs" : 1775350560198
+    },
+    "bmw_z4_gt3_Drizzle" : {
+      "SessionId" : "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherEnd" : "Drizzle",
+      "TimestampMs" : 1774310623142,
+      "LapTimeMs" : 167331,
+      "WeatherStart" : "Drizzle"
+    },
+    "bmw_z4_gt3_Mixed" : {
+      "SessionId" : "2314ed80-3df3-4e31-b015-95059e9b039d",
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774568065315,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 156185
+    },
+    "bmw_z4_gt3_ScatteredClouds" : {
+      "SessionId" : "2314ed80-3df3-4e31-b015-95059e9b039d",
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774567909131,
+      "LapTimeMs" : 147195,
+      "WeatherEnd" : "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory" : [],
+  "Layout" : "",
+  "GUID" : 76561199833636130,
+  "Username" : "PZA",
+  "Track" : "spa"
+}

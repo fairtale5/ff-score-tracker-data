@@ -1,0 +1,30 @@
+{
+  "Username": "rafelgiroto",
+  "GUID": 76561199447178709,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 148307,
+      "TimestampMs": 1775945837609,
+      "SessionId": "25127aad-56be-4196-8fd8-435f320ce1fd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 148701,
+      "TimestampMs": 1775964835634,
+      "SessionId": "ee76ed90-a65d-47ab-acc2-26f83a461bb6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 147625,
+      "TimestampMs": 1775966033120,
+      "SessionId": "ee76ed90-a65d-47ab-acc2-26f83a461bb6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

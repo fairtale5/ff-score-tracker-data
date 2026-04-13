@@ -1,0 +1,51 @@
+{
+  "Layout" : "hh_suburbs",
+  "GUID" : 76561198875054677,
+  "Track" : "Hamburg_by_4r_v.1.3",
+  "Username" : "LA_PESTE",
+  "BestLaps" : {
+    "tw_toyota_supra_70_redd_tuned_Clear" : {
+      "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 86307,
+      "TimestampMs" : 1774823499618
+    },
+    "RX7_TCP_Magic_KaTo_LG7_redd_tuned_Clear" : {
+      "SessionId" : "c6f56d09-234f-4266-ab69-95fc8b803cf2",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 24503,
+      "TimestampMs" : 1774955129875
+    },
+    "hd_gt86_nfsnl1_Clear" : {
+      "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 70975,
+      "TimestampMs" : 1775070622449,
+      "WeatherStart" : "Clear"
+    },
+    "lexus_lfa_tuned_Clear" : {
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1774955340525,
+      "LapTimeMs" : 55567,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "c6f56d09-234f-4266-ab69-95fc8b803cf2"
+    },
+    "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned_Clear" : {
+      "TimestampMs" : 1775071984764,
+      "LapTimeMs" : 26218,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34"
+    },
+    "mazda_rx7_veilside_pushin_p_Clear" : {
+      "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+      "TimestampMs" : 1775072398186,
+      "LapTimeMs" : 24017,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

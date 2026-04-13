@@ -1,0 +1,79 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 113628,
+    "TimestampMs" : 1775090090366,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090210247,
+    "LapTimeMs" : 119888
+  },
+  {
+    "LapTimeMs" : 115027,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090325269,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090437615,
+    "LapTimeMs" : 112352,
+    "Layout" : ""
+  },
+  {
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 112331,
+    "TimestampMs" : 1775090549940,
+    "Layout" : "",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "Layout" : "",
+    "TimestampMs" : 1775090662709,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 112773
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "",
+    "LapTimeMs" : 123970,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090786675,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza"
+  }
+]

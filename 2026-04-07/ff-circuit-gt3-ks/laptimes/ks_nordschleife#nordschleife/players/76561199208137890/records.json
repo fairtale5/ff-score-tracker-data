@@ -1,0 +1,16 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "ks_audi_r8_lms_2016_Clear" : {
+      "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 427686,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774649684372
+    }
+  },
+  "Track" : "ks_nordschleife",
+  "Username" : "LANOSO",
+  "Layout" : "nordschleife",
+  "GUID" : 76561199208137890
+}

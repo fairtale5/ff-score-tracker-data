@@ -1,0 +1,65 @@
+{
+  "Layout" : "arrows",
+  "GUID" : 76561197995375366,
+  "Track" : "hw_hiroshima",
+  "Username" : "Erik Fairtale",
+  "BestLaps" : {
+    "hd_gt86_nfsnl1_Clear" : {
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 303140,
+      "TimestampMs" : 1774580883704,
+      "SessionId" : "b34862fa-5500-4036-a70e-907986022358"
+    },
+    "rx7_fc3s_infini-III_tuned_ScatteredClouds" : {
+      "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc",
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774490637336,
+      "LapTimeMs" : 325046,
+      "WeatherEnd" : "ScatteredClouds"
+    },
+    "mazda_rx7_veilside_pushin_p_ScatteredClouds" : {
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 262688,
+      "TimestampMs" : 1774491651970,
+      "WeatherStart" : "ScatteredClouds",
+      "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc"
+    },
+    "jk_subaru_brz_tuned_Hot" : {
+      "SessionId" : "bd22f8dc-6b49-4a47-a5fb-195ccac9432e",
+      "WeatherStart" : "Hot",
+      "LapTimeMs" : 329114,
+      "TimestampMs" : 1774152061269,
+      "WeatherEnd" : "Hot"
+    },
+    "jk_subaru_brz_tuned_Mixed" : {
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+      "LapTimeMs" : 308228,
+      "TimestampMs" : 1774242265875,
+      "WeatherEnd" : "Hot",
+      "WeatherStart" : "Mist"
+    },
+    "jk_subaru_brz_tuned_Clear" : {
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1774656811751,
+      "LapTimeMs" : 332803,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304"
+    },
+    "hd_gt86_nfsnl1_Mixed" : {
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+      "WeatherStart" : "Drizzle",
+      "TimestampMs" : 1774240342127,
+      "LapTimeMs" : 407880,
+      "WeatherEnd" : "Mist"
+    },
+    "rx7_fc3s_infini-III_tuned_Clear" : {
+      "SessionId" : "8d545af4-fd67-46ba-91ac-3ebfe06f841a",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775368420736,
+      "LapTimeMs" : 1651478,
+      "WeatherStart" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

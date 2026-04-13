@@ -1,0 +1,23 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "LapTimeMs" : 152669,
+      "TimestampMs" : 1775349291214,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+    },
+    "bmw_m3_gt2_Clear" : {
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775350570872,
+      "LapTimeMs" : 146737
+    }
+  },
+  "Track" : "spa",
+  "Username" : "Player",
+  "GUID" : 76561198733885303,
+  "Layout" : ""
+}

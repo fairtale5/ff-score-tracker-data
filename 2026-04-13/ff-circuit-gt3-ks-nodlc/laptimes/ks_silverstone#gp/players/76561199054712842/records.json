@@ -1,0 +1,30 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 122852,
+      "TimestampMs": 1775166282157,
+      "SessionId": "48a47624-87f0-4884-9099-d5b3182f650e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 121964,
+      "TimestampMs": 1775001007170,
+      "SessionId": "28138f39-b1a3-4baf-947d-b2aed0783c42",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 121092,
+      "TimestampMs": 1775865329863,
+      "SessionId": "1fd6a3d9-59ee-49db-9864-bc87aca812c3",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

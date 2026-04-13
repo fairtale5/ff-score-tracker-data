@@ -1,0 +1,23 @@
+{
+  "Username" : "Ojohnny",
+  "Track" : "ks_silverstone",
+  "GUID" : 76561198840444210,
+  "Layout" : "gp",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "TimestampMs" : 1775226016244,
+      "SessionId" : "fead758f-db81-4a97-ab41-0911bc23bec6",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 131486,
+      "WeatherEnd" : "Clear"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+      "TimestampMs" : 1774749996387,
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 128373,
+      "WeatherEnd" : "Clear"
+    }
+  }
+}

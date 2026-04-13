@@ -1,0 +1,46 @@
+[
+  {
+    "Car" : "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "TimestampMs" : 1774823234734,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 209498,
+    "Layout" : "hh_suburbs"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "tw_toyota_supra_70_redd_tuned",
+    "Layout" : "hh_suburbs",
+    "TimestampMs" : 1774823499618,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 86307,
+    "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b",
+    "Track" : "Hamburg_by_4r_v.1.3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "RX7_TCP_Magic_KaTo_LG7_redd_tuned",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774955129875,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 24503,
+    "Layout" : "hh_suburbs",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "c6f56d09-234f-4266-ab69-95fc8b803cf2"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "lexus_lfa_tuned",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774955340525,
+    "LapTimeMs" : 55567,
+    "Layout" : "hh_suburbs",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "c6f56d09-234f-4266-ab69-95fc8b803cf2"
+  }
+]

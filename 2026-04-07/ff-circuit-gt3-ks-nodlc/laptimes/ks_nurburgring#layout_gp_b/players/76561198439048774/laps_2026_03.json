@@ -1,0 +1,79 @@
+[
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_nurburgring",
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "TimestampMs" : 1774755472788,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 135393,
+    "Layout" : "layout_gp_b"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774755593023,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 120235,
+    "Layout" : "layout_gp_b",
+    "Track" : "ks_nurburgring",
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 118545,
+    "TimestampMs" : 1774755711565,
+    "Layout" : "layout_gp_b",
+    "Track" : "ks_nurburgring",
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "TimestampMs" : 1774755843293,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 131728,
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 123306,
+    "TimestampMs" : 1774755966600,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring"
+  },
+  {
+    "Layout" : "layout_gp_b",
+    "LapTimeMs" : 120275,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774756086872,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "layout_gp_b",
+    "LapTimeMs" : 120638,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774756207509,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring"
+  }
+]

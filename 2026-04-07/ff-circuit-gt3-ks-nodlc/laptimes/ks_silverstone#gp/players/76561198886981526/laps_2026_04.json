@@ -1,0 +1,79 @@
+[
+  {
+    "Layout" : "gp",
+    "LapTimeMs" : 143165,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775408110414,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "Track" : "ks_silverstone",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "Track" : "ks_silverstone",
+    "Layout" : "gp",
+    "LapTimeMs" : 133252,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775408243659
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "LapTimeMs" : 129966,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775408373615,
+    "Layout" : "gp"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "TimestampMs" : 1775408503465,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 129874,
+    "Layout" : "gp"
+  },
+  {
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "Track" : "ks_silverstone",
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 131032,
+    "TimestampMs" : 1775408634490,
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "gp",
+    "LapTimeMs" : 129592,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775409024815,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "Track" : "ks_silverstone"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 128509,
+    "TimestampMs" : 1775409289229,
+    "Layout" : "gp",
+    "Track" : "ks_silverstone",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  }
+]

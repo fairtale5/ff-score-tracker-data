@@ -1,0 +1,90 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775085667988,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 109795,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775085777553,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 109567,
+    "Layout" : ""
+  },
+  {
+    "Layout" : "",
+    "TimestampMs" : 1775090204247,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 111037,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "Layout" : "",
+    "TimestampMs" : 1775090315014,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 110769,
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Layout" : "",
+    "TimestampMs" : 1775090429511,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 114498,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 109921,
+    "TimestampMs" : 1775090539432,
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 111475,
+    "TimestampMs" : 1775090650902,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775090760598,
+    "LapTimeMs" : 109698,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear"
+  }
+]

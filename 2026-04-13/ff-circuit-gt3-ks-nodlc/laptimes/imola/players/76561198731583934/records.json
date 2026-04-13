@@ -1,0 +1,30 @@
+{
+  "GUID" : 76561198731583934,
+  "Layout" : "",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Mixed" : {
+      "WeatherEnd" : "Transition",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 120977,
+      "TimestampMs" : 1774229333651,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "mercedes_sls_gt3_ScatteredClouds" : {
+      "TimestampMs" : 1774227282569,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 119024,
+      "WeatherEnd" : "ScatteredClouds"
+    },
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "TimestampMs" : 1774229212669,
+      "LapTimeMs" : 115248,
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "Username" : "matheus pereira",
+  "Track" : "imola"
+}

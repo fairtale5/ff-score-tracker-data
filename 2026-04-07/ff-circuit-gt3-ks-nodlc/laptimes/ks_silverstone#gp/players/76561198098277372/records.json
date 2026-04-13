@@ -1,0 +1,23 @@
+{
+  "GUID" : 76561198098277372,
+  "Layout" : "gp",
+  "Username" : "kwertz",
+  "Track" : "ks_silverstone",
+  "BestLaps" : {
+    "bmw_m3_gt2_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 143383,
+      "TimestampMs" : 1774988751721,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "e43711f0-a720-4fbc-a476-45cbad9ea6f5"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1775000750533,
+      "LapTimeMs" : 124424,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

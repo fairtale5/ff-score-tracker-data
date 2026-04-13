@@ -1,0 +1,16 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 157279,
+      "TimestampMs" : 1774753986028,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "Track" : "ks_nurburgring",
+  "Username" : "CaioSF",
+  "Layout" : "layout_gp_b",
+  "GUID" : 76561198868270003
+}

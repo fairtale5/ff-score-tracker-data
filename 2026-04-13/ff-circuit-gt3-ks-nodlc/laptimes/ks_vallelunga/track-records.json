@@ -1,0 +1,33 @@
+{
+  "Records" : {
+    "extended_circuit" : {
+      "mercedes_sls_gt3" : {
+        "Clear" : {
+          "TimestampMs" : 1774809159806,
+          "SessionId" : "e8ec0069-9687-44a1-96c6-76127c0ead54",
+          "PlayerGuid" : 76561199228768564,
+          "LapTimeMs" : 109312,
+          "PlayerName" : "Nomias11"
+        }
+      },
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "PlayerName" : "Divyang Dodia",
+          "LapTimeMs" : 100223,
+          "PlayerGuid" : 76561199000309633,
+          "TimestampMs" : 1775060329465,
+          "SessionId" : "602322b2-e338-47eb-92e0-f635eeb983c4"
+        }
+      },
+      "bmw_z4_gt3" : {
+        "Clear" : {
+          "TimestampMs" : 1774808511645,
+          "SessionId" : "e8ec0069-9687-44a1-96c6-76127c0ead54",
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "LapTimeMs" : 98374
+        }
+      }
+    }
+  }
+}

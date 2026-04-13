@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1775875972173,
+    "SessionId": "aa99e9bc-ae62-42d0-bc49-641864ed3eaf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 151826,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775876128901,
+    "SessionId": "aa99e9bc-ae62-42d0-bc49-641864ed3eaf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 156724,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775876299392,
+    "SessionId": "aa99e9bc-ae62-42d0-bc49-641864ed3eaf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 170488,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

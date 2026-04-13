@@ -1,0 +1,72 @@
+{
+  "GUID" : 76561197995375366,
+  "Layout" : "",
+  "Username" : "Erik Fairtale",
+  "Track" : "ks_zandvoort",
+  "BestLaps" : {
+    "bmw_z4_gt3_Mixed" : {
+      "LapTimeMs" : 104481,
+      "TimestampMs" : 1774053391048,
+      "WeatherEnd" : "Transition",
+      "WeatherStart" : "Clear",
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "SessionId" : "0decbbd9-7d42-41b0-a61d-48c2ded90096",
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774313455862,
+      "LapTimeMs" : 105750,
+      "WeatherEnd" : "Transition"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1775442152140,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 100559
+    },
+    "bmw_z4_gt3_Cold" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "TimestampMs" : 1774053601952,
+      "LapTimeMs" : 106114,
+      "WeatherEnd" : "Cold",
+      "WeatherStart" : "Cold"
+    },
+    "ferrari_458_gt2_ScatteredClouds" : {
+      "SessionId" : "0decbbd9-7d42-41b0-a61d-48c2ded90096",
+      "TimestampMs" : 1774313350110,
+      "LapTimeMs" : 105030,
+      "WeatherEnd" : "ScatteredClouds",
+      "WeatherStart" : "ScatteredClouds"
+    },
+    "bmw_z4_gt3_ScatteredClouds" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "TimestampMs" : 1774052484266,
+      "LapTimeMs" : 104238,
+      "WeatherEnd" : "ScatteredClouds",
+      "WeatherStart" : "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 100800,
+      "TimestampMs" : 1774728378502,
+      "WeatherStart" : "Clear",
+      "SessionId" : "d07db10c-d45c-4426-ac96-2f6b91d9026d"
+    },
+    "bmw_z4_gt3_Drizzle" : {
+      "LapTimeMs" : 107572,
+      "TimestampMs" : 1773965165663,
+      "WeatherEnd" : "Drizzle",
+      "WeatherStart" : "Drizzle",
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500"
+    },
+    "bmw_z4_gt3_Mist" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "WeatherStart" : "Mist",
+      "WeatherEnd" : "Mist",
+      "LapTimeMs" : 104782,
+      "TimestampMs" : 1774051160471
+    }
+  },
+  "LapTimeHistory" : []
+}

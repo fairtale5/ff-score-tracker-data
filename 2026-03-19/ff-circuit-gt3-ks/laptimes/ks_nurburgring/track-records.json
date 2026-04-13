@@ -1,0 +1,63 @@
+{
+  "Records": {
+    "layout_gp_a": {
+      "ks_mercedes_amg_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 119980,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1773612915160,
+          "SessionId": "549a9402-d901-40ae-9d65-2b7de4071b8b"
+        }
+      }
+    },
+    "layout_gp_b": {
+      "ks_audi_r8_lms_2016": {
+        "Mixed": {
+          "LapTimeMs": 117851,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1773706849831,
+          "SessionId": "7994549a-edb9-4467-9f01-f41b5dc02671"
+        },
+        "Cold": {
+          "LapTimeMs": 125583,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773614304500,
+          "SessionId": "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea"
+        },
+        "Clear": {
+          "LapTimeMs": 122395,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773707431393,
+          "SessionId": "7994549a-edb9-4467-9f01-f41b5dc02671"
+        },
+        "Hot": {
+          "LapTimeMs": 127094,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773617676859,
+          "SessionId": "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 116744,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1773707083760,
+          "SessionId": "7994549a-edb9-4467-9f01-f41b5dc02671"
+        }
+      },
+      "ks_mercedes_amg_gt3": {
+        "Mixed": {
+          "LapTimeMs": 116820,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1773614660264,
+          "SessionId": "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea"
+        }
+      }
+    }
+  }
+}

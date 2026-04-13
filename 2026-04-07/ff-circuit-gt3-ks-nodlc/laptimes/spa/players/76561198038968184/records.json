@@ -1,0 +1,51 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mclaren_mp412c_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 161044,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774924139293,
+      "SessionId" : "ebde6d69-1632-458e-9560-0d5502d5205f"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "LapTimeMs" : 200876,
+      "TimestampMs" : 1774310312238,
+      "WeatherEnd" : "Drizzle",
+      "WeatherStart" : "Cold",
+      "SessionId" : "bf8fa79d-335d-47de-bd65-ac0a4eaffb64"
+    },
+    "ferrari_458_gt2_Cold" : {
+      "SessionId" : "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart" : "Cold",
+      "LapTimeMs" : 221238,
+      "TimestampMs" : 1774309019430,
+      "WeatherEnd" : "Cold"
+    },
+    "ferrari_458_gt2_Drizzle" : {
+      "SessionId" : "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart" : "Drizzle",
+      "WeatherEnd" : "Drizzle",
+      "LapTimeMs" : 206476,
+      "TimestampMs" : 1774310518729
+    },
+    "ferrari_458_gt2_Mist" : {
+      "LapTimeMs" : 205236,
+      "WeatherEnd" : "Mist",
+      "TimestampMs" : 1774308326083,
+      "WeatherStart" : "Mist",
+      "SessionId" : "bf8fa79d-335d-47de-bd65-ac0a4eaffb64"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "SessionId" : "ebde6d69-1632-458e-9560-0d5502d5205f",
+      "TimestampMs" : 1774922725924,
+      "LapTimeMs" : 165420,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear"
+    }
+  },
+  "Track" : "spa",
+  "Username" : "Ricardo Bianchi",
+  "GUID" : 76561198038968184,
+  "Layout" : ""
+}

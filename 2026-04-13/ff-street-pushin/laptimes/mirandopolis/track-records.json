@@ -1,0 +1,29 @@
+{
+  "Records": {
+    "default": {
+      "mazda_rx7_veilside_pushin_p": {
+        "Mixed": {
+          "LapTimeMs": 126636,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773109428684,
+          "SessionId": "6ebf979e-8646-4784-960a-7b401d8a52e7"
+        },
+        "Drizzle": {
+          "LapTimeMs": 127601,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773108668456,
+          "SessionId": "6ebf979e-8646-4784-960a-7b401d8a52e7"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 124345,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773109174755,
+          "SessionId": "6ebf979e-8646-4784-960a-7b401d8a52e7"
+        }
+      }
+    }
+  }
+}

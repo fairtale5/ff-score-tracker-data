@@ -1,0 +1,65 @@
+{
+  "BestLaps" : {
+    "bmw_m3_gt2_Hot" : {
+      "LapTimeMs" : 108596,
+      "WeatherEnd" : "Hot",
+      "TimestampMs" : 1773962705337,
+      "WeatherStart" : "Hot",
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "60e668a3-542d-4a46-a47d-6f489fd5b27a",
+      "TimestampMs" : 1774659180960,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 101959,
+      "WeatherStart" : "Clear"
+    },
+    "bmw_m3_gt2_Mixed" : {
+      "LapTimeMs" : 109932,
+      "TimestampMs" : 1774051695615,
+      "WeatherEnd" : "Transition",
+      "WeatherStart" : "ScatteredClouds",
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d"
+    },
+    "bmw_z4_gt3_Mixed" : {
+      "TimestampMs" : 1774313466271,
+      "LapTimeMs" : 101921,
+      "WeatherEnd" : "Transition",
+      "WeatherStart" : "ScatteredClouds",
+      "SessionId" : "0decbbd9-7d42-41b0-a61d-48c2ded90096"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "WeatherStart" : "Transition",
+      "LapTimeMs" : 103195,
+      "TimestampMs" : 1774053513813,
+      "WeatherEnd" : "Cold"
+    },
+    "bmw_m3_gt2_Mist" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "WeatherStart" : "Mist",
+      "WeatherEnd" : "Mist",
+      "TimestampMs" : 1774051143783,
+      "LapTimeMs" : 107916
+    },
+    "bmw_m3_gt2_Drizzle" : {
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500",
+      "WeatherStart" : "Drizzle",
+      "WeatherEnd" : "Drizzle",
+      "LapTimeMs" : 141609,
+      "TimestampMs" : 1773963756222
+    },
+    "bmw_m3_gt2_ScatteredClouds" : {
+      "LapTimeMs" : 113013,
+      "TimestampMs" : 1773965461563,
+      "WeatherEnd" : "ScatteredClouds",
+      "WeatherStart" : "ScatteredClouds",
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500"
+    }
+  },
+  "LapTimeHistory" : [],
+  "Layout" : "",
+  "GUID" : 76561198764193100,
+  "Username" : "edson",
+  "Track" : "ks_zandvoort"
+}

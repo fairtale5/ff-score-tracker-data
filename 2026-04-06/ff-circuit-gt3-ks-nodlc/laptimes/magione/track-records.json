@@ -1,0 +1,42 @@
+{
+  "Records" : {
+    "default" : {
+      "bmw_z4_gt3" : {
+        "Clear" : {
+          "PlayerName" : "Erik Fairtale",
+          "SessionId" : "435689d7-07a3-4b5f-9f29-eed244833d64",
+          "PlayerGuid" : 76561197995375366,
+          "LapTimeMs" : 72971,
+          "TimestampMs" : 1774805849408
+        }
+      },
+      "mercedes_sls_gt3" : {
+        "Clear" : {
+          "TimestampMs" : 1775256824996,
+          "LapTimeMs" : 72624,
+          "PlayerGuid" : 76561199054712842,
+          "SessionId" : "2344d031-3dbf-40cb-ab79-3e84a3bcf9d2",
+          "PlayerName" : "m araujo"
+        }
+      },
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "PlayerName" : "Gustavo Senna",
+          "SessionId" : "435689d7-07a3-4b5f-9f29-eed244833d64",
+          "PlayerGuid" : 76561198132239395,
+          "LapTimeMs" : 75626,
+          "TimestampMs" : 1774803621670
+        }
+      },
+      "bmw_m3_gt2" : {
+        "Clear" : {
+          "LapTimeMs" : 75776,
+          "TimestampMs" : 1775269135814,
+          "SessionId" : "2344d031-3dbf-40cb-ab79-3e84a3bcf9d2",
+          "PlayerName" : "Hitch",
+          "PlayerGuid" : 76561198014814538
+        }
+      }
+    }
+  }
+}

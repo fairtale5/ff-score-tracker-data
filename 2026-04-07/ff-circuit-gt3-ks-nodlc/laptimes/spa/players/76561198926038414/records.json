@@ -1,0 +1,23 @@
+{
+  "BestLaps" : {
+    "ferrari_458_gt2_Clear" : {
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1775350904006,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 141710,
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775351708547,
+      "LapTimeMs" : 141425
+    }
+  },
+  "LapTimeHistory" : [],
+  "GUID" : 76561198926038414,
+  "Layout" : "",
+  "Track" : "spa",
+  "Username" : "ER1US"
+}

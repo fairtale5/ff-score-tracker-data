@@ -1,0 +1,30 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "jk_subaru_brz_tuned_Clear" : {
+      "LapTimeMs" : 52840,
+      "TimestampMs" : 1774723620214,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "SessionId" : "5ba4c519-f6a1-47ca-b35e-4a7f895cacd5"
+    },
+    "mazda_rx7_veilside_pushin_p_Clear" : {
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1774760857217,
+      "LapTimeMs" : 20247,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "ff747d16-f712-44b0-a17b-e493e15924f6"
+    },
+    "RX7_TCP_Magic_KaTo_LG7_redd_tuned_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 33081,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774823502180,
+      "SessionId" : "30c52e11-8683-4741-9a4e-6b93886a7b6b"
+    }
+  },
+  "Track" : "Hamburg_by_4r_v.1.3",
+  "Username" : "Erik Fairtale",
+  "Layout" : "hh_suburbs",
+  "GUID" : 76561197995375366
+}

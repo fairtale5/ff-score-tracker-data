@@ -1,0 +1,23 @@
+{
+  "Username" : "Erik Fairtale",
+  "Track" : "ks_nordschleife",
+  "GUID" : 76561197995375366,
+  "Layout" : "nordschleife",
+  "BestLaps" : {
+    "ks_audi_r8_lms_2016_Clear" : {
+      "TimestampMs" : 1774651486162,
+      "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 428578,
+      "WeatherEnd" : "Clear"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear" : {
+      "TimestampMs" : 1774835998774,
+      "SessionId" : "ed8258c1-9eba-4a4d-aa3d-cf6882e6b35a",
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 430732
+    }
+  },
+  "LapTimeHistory" : []
+}

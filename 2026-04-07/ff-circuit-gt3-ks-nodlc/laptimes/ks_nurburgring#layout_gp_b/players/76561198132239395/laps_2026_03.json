@@ -1,0 +1,101 @@
+[
+  {
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 128406,
+    "TimestampMs" : 1774668356814,
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Track" : "ks_nurburgring",
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "TimestampMs" : 1774669177007,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 125931,
+    "Layout" : "layout_gp_b",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 129024,
+    "TimestampMs" : 1774669306037,
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Track" : "ks_nurburgring",
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 126459,
+    "TimestampMs" : 1774669432518,
+    "Layout" : "layout_gp_b",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "LapTimeMs" : 124586,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774669557124
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "Layout" : "layout_gp_b",
+    "TimestampMs" : 1774669681660,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 124463,
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "Track" : "ks_nurburgring"
+  },
+  {
+    "TimestampMs" : 1774669808448,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 126813,
+    "Layout" : "layout_gp_b",
+    "Track" : "ks_nurburgring",
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "LapTimeMs" : 128920,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774669937392,
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Layout" : "layout_gp_b",
+    "TimestampMs" : 1774912079549,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 124852,
+    "SessionId" : "6b44fbc3-9253-4281-82b0-9d62a30e2a27",
+    "Track" : "ks_nurburgring",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  }
+]

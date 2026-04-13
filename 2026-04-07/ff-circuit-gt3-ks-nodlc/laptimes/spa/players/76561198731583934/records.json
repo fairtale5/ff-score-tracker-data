@@ -1,0 +1,51 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "0dd89ff5-1a1c-4296-8e8c-a90ed6a0d15a",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 146361,
+      "TimestampMs" : 1774751838686,
+      "WeatherEnd" : "Clear"
+    },
+    "mercedes_sls_gt3_Mixed" : {
+      "SessionId" : "1956ab55-4df1-4264-aa8f-88bb766d2729",
+      "WeatherStart" : "Cold",
+      "TimestampMs" : 1774404466722,
+      "LapTimeMs" : 147223,
+      "WeatherEnd" : "Transition"
+    },
+    "mclaren_mp412c_gt3_Clear" : {
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "LapTimeMs" : 151163,
+      "TimestampMs" : 1775354592116,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear"
+    },
+    "mercedes_sls_gt3_Cold" : {
+      "SessionId" : "1956ab55-4df1-4264-aa8f-88bb766d2729",
+      "WeatherStart" : "Cold",
+      "TimestampMs" : 1774404319492,
+      "LapTimeMs" : 149728,
+      "WeatherEnd" : "Cold"
+    },
+    "mercedes_sls_gt3_ScatteredClouds" : {
+      "WeatherStart" : "ScatteredClouds",
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 147440,
+      "TimestampMs" : 1774567913552,
+      "SessionId" : "2314ed80-3df3-4e31-b015-95059e9b039d"
+    },
+    "mercedes_sls_gt3_Hot" : {
+      "LapTimeMs" : 157368,
+      "WeatherEnd" : "Hot",
+      "TimestampMs" : 1774224264183,
+      "WeatherStart" : "Hot",
+      "SessionId" : "c0736c6b-79f3-429a-933f-4d23f0cb729a"
+    }
+  },
+  "Username" : "matheus pereira",
+  "Track" : "spa",
+  "Layout" : "",
+  "GUID" : 76561198731583934
+}

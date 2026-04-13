@@ -1,0 +1,46 @@
+[
+  {
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "Track" : "ks_nordschleife",
+    "Layout" : "nordschleife",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774649263075,
+    "LapTimeMs" : 408619,
+    "WeatherCategory" : "Clear",
+    "Car" : "ks_ferrari_488_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Car" : "ks_ferrari_488_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774649668745,
+    "LapTimeMs" : 405698,
+    "Layout" : "nordschleife"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "ks_porsche_911_gt3_r_2016",
+    "WeatherStart" : "Clear",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "Track" : "ks_nordschleife",
+    "Layout" : "nordschleife",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 418923,
+    "TimestampMs" : 1774651479538
+  },
+  {
+    "Track" : "ks_nordschleife",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 408329,
+    "TimestampMs" : 1774651887861,
+    "Layout" : "nordschleife",
+    "Car" : "ks_porsche_911_gt3_r_2016",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  }
+]

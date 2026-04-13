@@ -1,0 +1,68 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774753495615,
+    "LapTimeMs" : 132605,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring"
+  },
+  {
+    "Track" : "ks_nurburgring",
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "TimestampMs" : 1774753626219,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 130610,
+    "Layout" : "layout_gp_b",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774753758994,
+    "LapTimeMs" : 132775,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 141323,
+    "TimestampMs" : 1774753900317,
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Layout" : "layout_gp_b",
+    "TimestampMs" : 1774754030664,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 130349,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "Layout" : "layout_gp_b",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774754169142,
+    "LapTimeMs" : 138476,
+    "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e",
+    "Track" : "ks_nurburgring"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "GUID" : 76561197995375366,
+  "Layout" : "",
+  "Username" : "Erik Fairtale",
+  "Track" : "imola",
+  "BestLaps" : {
+    "ferrari_458_gt2_Hot" : {
+      "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334",
+      "WeatherStart" : "Hot",
+      "TimestampMs" : 1774312273539,
+      "WeatherEnd" : "Hot",
+      "LapTimeMs" : 116866
+    },
+    "bmw_z4_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 109048,
+      "TimestampMs" : 1774228908183,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "bmw_z4_gt3_Hot" : {
+      "LapTimeMs" : 111659,
+      "TimestampMs" : 1774226118914,
+      "WeatherEnd" : "Hot",
+      "WeatherStart" : "Hot",
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "bmw_z4_gt3_Mixed" : {
+      "WeatherEnd" : "Mist",
+      "LapTimeMs" : 111190,
+      "TimestampMs" : 1774227714880,
+      "WeatherStart" : "Transition",
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "WeatherEnd" : "Transition",
+      "LapTimeMs" : 109780,
+      "TimestampMs" : 1774312845185,
+      "WeatherStart" : "ScatteredClouds",
+      "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334"
+    },
+    "bmw_z4_gt3_Mist" : {
+      "LapTimeMs" : 110881,
+      "WeatherEnd" : "Mist",
+      "TimestampMs" : 1774227825763,
+      "WeatherStart" : "Mist",
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "bmw_z4_gt3_ScatteredClouds" : {
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 111013,
+      "TimestampMs" : 1774227142535,
+      "WeatherStart" : "ScatteredClouds"
+    },
+    "ferrari_458_gt2_ScatteredClouds" : {
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774312735402,
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 110885,
+      "SessionId" : "101db4f8-0e41-4fdd-8c14-857feedc5334"
+    }
+  },
+  "LapTimeHistory" : []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775166159309,
+    "LapTimeMs" : 124355,
+    "Layout" : "gp",
+    "Track" : "ks_silverstone",
+    "SessionId" : "48a47624-87f0-4884-9099-d5b3182f650e"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "Layout" : "gp",
+    "LapTimeMs" : 122852,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775166282157,
+    "SessionId" : "48a47624-87f0-4884-9099-d5b3182f650e",
+    "Track" : "ks_silverstone"
+  }
+]

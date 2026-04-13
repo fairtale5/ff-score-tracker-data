@@ -1,0 +1,23 @@
+{
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 89089,
+      "TimestampMs" : 1774811951064,
+      "WeatherEnd" : "Clear"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "TimestampMs" : 1774829563055,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 88950,
+      "WeatherStart" : "Clear",
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9"
+    }
+  },
+  "LapTimeHistory" : [],
+  "GUID" : 76561197995375366,
+  "Layout" : "",
+  "Username" : "Erik Fairtale",
+  "Track" : "ks_laguna_seca"
+}

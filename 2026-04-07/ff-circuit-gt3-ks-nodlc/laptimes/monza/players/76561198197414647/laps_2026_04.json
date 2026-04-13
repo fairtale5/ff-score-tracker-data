@@ -1,0 +1,24 @@
+[
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775090126460,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 124205,
+    "Layout" : ""
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 118285,
+    "TimestampMs" : 1775090244740,
+    "Layout" : "",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherStart" : "Clear",
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherCategory" : "Clear"
+  }
+]

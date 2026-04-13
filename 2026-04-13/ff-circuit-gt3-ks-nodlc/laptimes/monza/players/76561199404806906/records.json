@@ -1,0 +1,23 @@
+{
+  "Track" : "monza",
+  "Username" : "Breno Tomboly",
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 114347,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+      "TimestampMs" : 1774916711393
+    },
+    "ferrari_458_gt2_Clear" : {
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 116253,
+      "TimestampMs" : 1774918130662,
+      "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d"
+    }
+  },
+  "LapTimeHistory" : [],
+  "GUID" : 76561199404806906,
+  "Layout" : ""
+}

@@ -1,0 +1,44 @@
+{
+  "Track" : "hw_hiroshima",
+  "Username" : "André Zain",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "lexus_lfa_tuned_Mixed" : {
+      "TimestampMs" : 1774246424655,
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+      "LapTimeMs" : 306274,
+      "WeatherStart" : "Cold",
+      "WeatherEnd" : "Clear"
+    },
+    "zesty_toyota_supra_mk4_shuto_street_Mist" : {
+      "WeatherStart" : "Mist",
+      "LapTimeMs" : 271004,
+      "WeatherEnd" : "Mist",
+      "TimestampMs" : 1774243924925,
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb"
+    },
+    "hd_gt86_nfsnl1_Clear" : {
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 331240,
+      "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304",
+      "TimestampMs" : 1774656809567
+    },
+    "kimdog_drift_bmw_e36_Mixed" : {
+      "TimestampMs" : 1774249513555,
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+      "WeatherEnd" : "Mist",
+      "LapTimeMs" : 322253,
+      "WeatherStart" : "ScatteredClouds"
+    },
+    "pb_camaro_2010_tuned_ScatteredClouds" : {
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 323852,
+      "WeatherEnd" : "ScatteredClouds",
+      "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+      "TimestampMs" : 1774247420350
+    }
+  },
+  "Layout" : "arrows",
+  "GUID" : 76561198996191453
+}

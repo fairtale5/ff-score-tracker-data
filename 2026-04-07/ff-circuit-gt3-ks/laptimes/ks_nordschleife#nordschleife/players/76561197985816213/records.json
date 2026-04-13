@@ -1,0 +1,16 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "ks_lamborghini_huracan_gt3_Clear" : {
+      "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 427065,
+      "TimestampMs" : 1774649293668
+    }
+  },
+  "Track" : "ks_nordschleife",
+  "Username" : "f",
+  "GUID" : 76561197985816213,
+  "Layout" : "nordschleife"
+}

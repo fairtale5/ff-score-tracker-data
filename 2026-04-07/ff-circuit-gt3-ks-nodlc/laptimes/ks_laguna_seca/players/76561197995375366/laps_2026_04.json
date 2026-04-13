@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs" : 1775315329978,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 90360,
+    "Layout" : "",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "LapTimeMs" : 94104,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775315520687,
+    "Layout" : ""
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 89933,
+    "TimestampMs" : 1775315699783,
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "Track" : "ks_laguna_seca"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "TimestampMs" : 1775315789436,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 89633,
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "Track" : "ks_laguna_seca"
+  },
+  {
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "LapTimeMs" : 90849,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775315880268,
+    "Layout" : "",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 103423,
+    "TimestampMs" : 1775315983690,
+    "Layout" : "",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 91270,
+    "TimestampMs" : 1775316074962,
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "Track" : "ks_laguna_seca"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear",
+    "SessionId" : "0e822494-56e7-4c83-8f80-21daf04986de",
+    "Track" : "ks_laguna_seca",
+    "Layout" : "",
+    "TimestampMs" : 1775316165400,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 90428
+  }
+]

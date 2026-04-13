@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs" : 1775094468763,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 439867,
+    "Layout" : "nordschleife",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "99bf7d68-75e6-4a52-9e85-d6040e25864f",
+    "WeatherStart" : "Clear",
+    "Car" : "ks_ferrari_488_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "LapTimeMs" : 459438,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775094928212,
+    "Layout" : "nordschleife",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "99bf7d68-75e6-4a52-9e85-d6040e25864f",
+    "WeatherStart" : "Clear",
+    "Car" : "ks_ferrari_488_gt3",
+    "WeatherCategory" : "Clear"
+  }
+]

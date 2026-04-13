@@ -1,0 +1,167 @@
+[
+  {
+    "TimestampMs": 1775170994036,
+    "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 103130,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775171097003,
+    "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 102972,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775171229631,
+    "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 109611,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1775173550662,
+    "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_lanzo_v10",
+    "LapTimeMs": 105827,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1775173653753,
+    "SessionId": "b4e61ea3-8c71-4dd6-9451-81f6d99160d4",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_lanzo_v10",
+    "LapTimeMs": 103089,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1775694832122,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 105064,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1775695151133,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 104998,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775695254601,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 103469,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775695552760,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 106696,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775695655210,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 102453,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1775695756360,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 101146,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775695961315,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 102632,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775696064169,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 102850,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775696169599,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 105432,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775696442139,
+    "SessionId": "9fe126ca-6338-4da6-8329-e40d50cff607",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 104474,
+    "WeatherCategory": "Unknown",
+    "WeatherStart": "Unknown",
+    "WeatherEnd": "Unknown"
+  }
+]

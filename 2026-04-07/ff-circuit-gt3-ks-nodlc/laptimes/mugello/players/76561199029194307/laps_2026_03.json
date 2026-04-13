@@ -1,0 +1,46 @@
+[
+  {
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774885524084,
+    "LapTimeMs" : 122294,
+    "SessionId" : "c0fac658-d190-4440-88a6-2b32cfe5e7c9",
+    "Track" : "mugello",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 121138,
+    "TimestampMs" : 1774885645208,
+    "SessionId" : "c0fac658-d190-4440-88a6-2b32cfe5e7c9",
+    "Track" : "mugello"
+  },
+  {
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774885766450,
+    "LapTimeMs" : 121244,
+    "SessionId" : "c0fac658-d190-4440-88a6-2b32cfe5e7c9",
+    "Track" : "mugello",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Track" : "mugello",
+    "SessionId" : "c0fac658-d190-4440-88a6-2b32cfe5e7c9",
+    "LapTimeMs" : 186771,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774886218275,
+    "Layout" : "",
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  }
+]

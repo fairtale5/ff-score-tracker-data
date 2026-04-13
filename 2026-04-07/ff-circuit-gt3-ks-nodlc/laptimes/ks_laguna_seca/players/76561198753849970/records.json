@@ -1,0 +1,23 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "bmw_m3_gt2_Clear" : {
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "TimestampMs" : 1774811445792,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 94553,
+      "WeatherStart" : "Clear"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 88816,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774813370948
+    }
+  },
+  "Track" : "ks_laguna_seca",
+  "Username" : "Isaías1",
+  "Layout" : "",
+  "GUID" : 76561198753849970
+}

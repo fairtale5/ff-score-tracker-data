@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1775612972921,
+    "SessionId": "d5bdb094-46f4-4d09-a6c1-76c9b22d14fb",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 130188,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775613117243,
+    "SessionId": "d5bdb094-46f4-4d09-a6c1-76c9b22d14fb",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 144328,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775613519313,
+    "SessionId": "d5bdb094-46f4-4d09-a6c1-76c9b22d14fb",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 124945,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

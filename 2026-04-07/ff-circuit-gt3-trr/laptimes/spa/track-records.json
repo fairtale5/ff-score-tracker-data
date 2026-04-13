@@ -1,0 +1,77 @@
+{
+  "Records": {
+    "default": {
+      "TRR_GT3_audi_r8_lms_evo_ii": {
+        "Cold": {
+          "LapTimeMs": 145167,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773875313550,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        },
+        "Clear": {
+          "LapTimeMs": 146714,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773875887362,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        }
+      },
+      "TRR_GT3_bentley_continental_gt3": {
+        "Mist": {
+          "LapTimeMs": 148530,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773876362112,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        },
+        "Clear": {
+          "LapTimeMs": 146065,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773876773659,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        }
+      },
+      "TRR_GT3_mclaren_720s_gt3_evo": {
+        "Mixed": {
+          "LapTimeMs": 146565,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773877577430,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        },
+        "Cold": {
+          "LapTimeMs": 146393,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1773877723819,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        }
+      },
+      "TRR_GT3_bmw_m4_gt3": {
+        "Cold": {
+          "LapTimeMs": 147995,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773877778068,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        },
+        "Clear": {
+          "LapTimeMs": 145764,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773879310783,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 147140,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773880621946,
+          "SessionId": "c07b961e-5fb4-4cf3-8601-f08c5b40371e"
+        }
+      }
+    }
+  }
+}

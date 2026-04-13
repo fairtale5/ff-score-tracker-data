@@ -1,0 +1,121 @@
+{
+  "Records" : {
+    "gp" : {
+      "ferrari_458_gt2" : {
+        "Clear" : {
+          "PlayerGuid" : 76561198098277372,
+          "PlayerName" : "kwertz",
+          "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+          "LapTimeMs" : 124424,
+          "TimestampMs" : 1775000750533
+        },
+        "ScatteredClouds" : {
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+          "PlayerName" : "munhozin",
+          "PlayerGuid" : 76561198142960686,
+          "TimestampMs" : 1773960276157,
+          "LapTimeMs" : 129297
+        },
+        "Mixed" : {
+          "TimestampMs" : 1773960666733,
+          "LapTimeMs" : 128756,
+          "PlayerName" : "munhozin",
+          "PlayerGuid" : 76561198142960686,
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d"
+        }
+      },
+      "mclaren_mp412c_gt3" : {
+        "Clear" : {
+          "LapTimeMs" : 121964,
+          "TimestampMs" : 1775001007170,
+          "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+          "PlayerGuid" : 76561199054712842,
+          "PlayerName" : "m araujo"
+        }
+      },
+      "bmw_m3_gt2" : {
+        "Clear" : {
+          "PlayerGuid" : 76561198146906712,
+          "PlayerName" : "Elite Pyroth",
+          "SessionId" : "6a2f0db3-1cd5-436a-97cc-bf08272c5f09",
+          "LapTimeMs" : 126718,
+          "TimestampMs" : 1774663049611
+        }
+      },
+      "mercedes_sls_gt3" : {
+        "Clear" : {
+          "SessionId" : "48a47624-87f0-4884-9099-d5b3182f650e",
+          "PlayerGuid" : 76561199054712842,
+          "PlayerName" : "m araujo",
+          "TimestampMs" : 1775166282157,
+          "LapTimeMs" : 122852
+        },
+        "Mixed" : {
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+          "PlayerName" : "Matheus da Silva",
+          "PlayerGuid" : 76561198045176538,
+          "LapTimeMs" : 134379,
+          "TimestampMs" : 1773961995896
+        },
+        "ScatteredClouds" : {
+          "LapTimeMs" : 130229,
+          "TimestampMs" : 1773962126129,
+          "PlayerGuid" : 76561198045176538,
+          "PlayerName" : "Matheus da Silva",
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d"
+        },
+        "Mist" : {
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+          "PlayerGuid" : 76561198045176538,
+          "PlayerName" : "Matheus da Silva",
+          "LapTimeMs" : 135371,
+          "TimestampMs" : 1773961442620
+        },
+        "Hot" : {
+          "PlayerName" : "munhozin",
+          "PlayerGuid" : 76561198142960686,
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+          "TimestampMs" : 1773961225095,
+          "LapTimeMs" : 130719
+        }
+      },
+      "bmw_z4_gt3" : {
+        "ScatteredClouds" : {
+          "TimestampMs" : 1773960317895,
+          "LapTimeMs" : 129745,
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d"
+        },
+        "Mixed" : {
+          "TimestampMs" : 1774140695537,
+          "LapTimeMs" : 128404,
+          "SessionId" : "902bccd4-1827-4bb3-ae74-4bd489aed5bc",
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366
+        },
+        "Clear" : {
+          "SessionId" : "48a47624-87f0-4884-9099-d5b3182f650e",
+          "PlayerName" : "Bruno Takatsu",
+          "PlayerGuid" : 76561198983208729,
+          "TimestampMs" : 1775164608748,
+          "LapTimeMs" : 124108
+        },
+        "Hot" : {
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+          "PlayerName" : "Erik Fairtale",
+          "PlayerGuid" : 76561197995375366,
+          "TimestampMs" : 1773961211423,
+          "LapTimeMs" : 130171
+        },
+        "Mist" : {
+          "LapTimeMs" : 129443,
+          "TimestampMs" : 1773961618591,
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d"
+        }
+      }
+    }
+  }
+}

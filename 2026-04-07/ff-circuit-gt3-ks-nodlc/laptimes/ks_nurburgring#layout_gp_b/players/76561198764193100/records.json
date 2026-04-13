@@ -1,0 +1,51 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "TimestampMs" : 1775527840513,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 125092,
+      "WeatherStart" : "Clear",
+      "SessionId" : "c5752613-aed4-4584-8189-7a95276679bc"
+    },
+    "ferrari_458_gt2_Mist" : {
+      "LapTimeMs" : 123558,
+      "TimestampMs" : 1774220852653,
+      "WeatherEnd" : "Mist",
+      "WeatherStart" : "Mist",
+      "SessionId" : "6cffce59-ecce-4161-98a9-3943ca1ccf33"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1774756963265,
+      "LapTimeMs" : 120738,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "9b5729f5-f16c-4ba4-b851-f01d5ae11c2e"
+    },
+    "mclaren_mp412c_gt3_Clear" : {
+      "LapTimeMs" : 131917,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775526535143,
+      "WeatherStart" : "Clear",
+      "SessionId" : "c5752613-aed4-4584-8189-7a95276679bc"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 126556,
+      "TimestampMs" : 1774220729093,
+      "WeatherEnd" : "Mist",
+      "SessionId" : "6cffce59-ecce-4161-98a9-3943ca1ccf33"
+    },
+    "ferrari_458_gt2_ScatteredClouds" : {
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774221632700,
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 123793,
+      "SessionId" : "6cffce59-ecce-4161-98a9-3943ca1ccf33"
+    }
+  },
+  "Track" : "ks_nurburgring",
+  "Username" : "Edson Nicolas",
+  "Layout" : "layout_gp_b",
+  "GUID" : 76561198764193100
+}

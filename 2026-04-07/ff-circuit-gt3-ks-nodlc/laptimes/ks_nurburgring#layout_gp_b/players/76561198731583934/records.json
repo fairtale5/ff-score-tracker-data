@@ -1,0 +1,30 @@
+{
+  "Track" : "ks_nurburgring",
+  "Username" : "matheus pereira",
+  "GUID" : 76561198731583934,
+  "Layout" : "layout_gp_b",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "TimestampMs" : 1774667540438,
+      "LapTimeMs" : 127431,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "SessionId" : "f85bcabc-ae6e-4b23-9314-1547f8db7640"
+    },
+    "mercedes_sls_gt3_Mixed" : {
+      "WeatherStart" : "Mist",
+      "TimestampMs" : 1774221260616,
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 131875,
+      "SessionId" : "6cffce59-ecce-4161-98a9-3943ca1ccf33"
+    },
+    "mercedes_sls_gt3_ScatteredClouds" : {
+      "SessionId" : "6cffce59-ecce-4161-98a9-3943ca1ccf33",
+      "TimestampMs" : 1774221523269,
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 130561,
+      "WeatherStart" : "ScatteredClouds"
+    }
+  }
+}

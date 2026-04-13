@@ -1,0 +1,156 @@
+[
+  {
+    "WeatherEnd" : "Hot",
+    "TimestampMs" : 1774152061269,
+    "LapTimeMs" : 329114,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "bd22f8dc-6b49-4a47-a5fb-195ccac9432e",
+    "WeatherStart" : "Hot",
+    "Car" : "jk_subaru_brz_tuned",
+    "WeatherCategory" : "Hot"
+  },
+  {
+    "WeatherStart" : "Drizzle",
+    "WeatherCategory" : "Mixed",
+    "Car" : "hd_gt86_nfsnl1",
+    "Layout" : "arrows",
+    "TimestampMs" : 1774240342127,
+    "WeatherEnd" : "Mist",
+    "LapTimeMs" : 407880,
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "Track" : "hw_hiroshima"
+  },
+  {
+    "WeatherStart" : "ScatteredClouds",
+    "Car" : "jk_subaru_brz_tuned",
+    "WeatherCategory" : "Mixed",
+    "TimestampMs" : 1774241957643,
+    "WeatherEnd" : "Mist",
+    "LapTimeMs" : 313411,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb"
+  },
+  {
+    "WeatherEnd" : "Hot",
+    "LapTimeMs" : 308228,
+    "TimestampMs" : 1774242265875,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "WeatherStart" : "Mist",
+    "Car" : "jk_subaru_brz_tuned",
+    "WeatherCategory" : "Mixed"
+  },
+  {
+    "WeatherStart" : "Mist",
+    "Car" : "jk_subaru_brz_tuned",
+    "WeatherCategory" : "Mixed",
+    "WeatherEnd" : "Transition",
+    "TimestampMs" : 1774320409956,
+    "LapTimeMs" : 848486,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "c2222ca0-57ce-4f7e-bf6b-17db6ef5034a"
+  },
+  {
+    "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc",
+    "Track" : "hw_hiroshima",
+    "Layout" : "arrows",
+    "LapTimeMs" : 325046,
+    "WeatherEnd" : "ScatteredClouds",
+    "TimestampMs" : 1774490637336,
+    "WeatherCategory" : "ScatteredClouds",
+    "Car" : "rx7_fc3s_infini-III_tuned",
+    "WeatherStart" : "ScatteredClouds"
+  },
+  {
+    "Track" : "hw_hiroshima",
+    "SessionId" : "3a51c48e-67b1-4a6d-b51d-b448717a0ccc",
+    "TimestampMs" : 1774491651970,
+    "WeatherEnd" : "ScatteredClouds",
+    "LapTimeMs" : 262688,
+    "Layout" : "arrows",
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "WeatherCategory" : "ScatteredClouds",
+    "WeatherStart" : "ScatteredClouds"
+  },
+  {
+    "Layout" : "arrows",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 503759,
+    "TimestampMs" : 1774576969187,
+    "SessionId" : "b34862fa-5500-4036-a70e-907986022358",
+    "Track" : "hw_hiroshima",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "hd_gt86_nfsnl1"
+  },
+  {
+    "Layout" : "arrows",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 1439499,
+    "TimestampMs" : 1774578408704,
+    "SessionId" : "b34862fa-5500-4036-a70e-907986022358",
+    "Track" : "hw_hiroshima",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "hd_gt86_nfsnl1"
+  },
+  {
+    "Car" : "hd_gt86_nfsnl1",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "b34862fa-5500-4036-a70e-907986022358",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 333551,
+    "TimestampMs" : 1774580276542,
+    "Layout" : "arrows"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Car" : "hd_gt86_nfsnl1",
+    "WeatherStart" : "Clear",
+    "SessionId" : "b34862fa-5500-4036-a70e-907986022358",
+    "Track" : "hw_hiroshima",
+    "Layout" : "arrows",
+    "TimestampMs" : 1774580580558,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 304013
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "hd_gt86_nfsnl1",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774580883704,
+    "LapTimeMs" : 303140,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "b34862fa-5500-4036-a70e-907986022358"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "jk_subaru_brz_tuned",
+    "Layout" : "arrows",
+    "TimestampMs" : 1774656478943,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 342889,
+    "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304",
+    "Track" : "hw_hiroshima"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Car" : "jk_subaru_brz_tuned",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 332803,
+    "TimestampMs" : 1774656811751,
+    "Layout" : "arrows",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304"
+  }
+]

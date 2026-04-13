@@ -1,0 +1,37 @@
+{
+  "Username" : "André Zain",
+  "Track" : "imola",
+  "GUID" : 76561198996191453,
+  "Layout" : "",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "ferrari_458_gt2_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 106382,
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774671360112,
+      "SessionId" : "085d6732-58c3-49f8-9b18-5902c71859f1"
+    },
+    "ferrari_458_gt2_Mist" : {
+      "TimestampMs" : 1774227896118,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherEnd" : "Mist",
+      "WeatherStart" : "Mist",
+      "LapTimeMs" : 108601
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "LapTimeMs" : 107016,
+      "WeatherStart" : "Transition",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1774228787759,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3"
+    },
+    "ferrari_458_gt2_ScatteredClouds" : {
+      "TimestampMs" : 1774227125050,
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 108021,
+      "WeatherEnd" : "ScatteredClouds"
+    }
+  }
+}

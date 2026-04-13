@@ -1,0 +1,23 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 111651,
+      "TimestampMs": 1775085632153,
+      "SessionId": "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 111145,
+      "TimestampMs": 1775963066700,
+      "SessionId": "0cd1c75a-86dc-440a-9788-8071f6e4a6f1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

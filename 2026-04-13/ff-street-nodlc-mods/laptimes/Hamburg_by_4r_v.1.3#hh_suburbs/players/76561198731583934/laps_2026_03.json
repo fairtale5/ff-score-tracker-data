@@ -1,0 +1,35 @@
+[
+  {
+    "Car" : "gravygarage_oaktree_street_s13_tye_2023",
+    "SessionId" : "ff747d16-f712-44b0-a17b-e493e15924f6",
+    "TimestampMs" : 1774743009909,
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 72123,
+    "Layout" : "hh_suburbs",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "gravygarage_oaktree_street_s13_tye_2023",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 67817,
+    "Layout" : "hh_suburbs",
+    "TimestampMs" : 1774743174445,
+    "SessionId" : "ff747d16-f712-44b0-a17b-e493e15924f6",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Car" : "gravygarage_oaktree_street_s13_tye_2023",
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "ff747d16-f712-44b0-a17b-e493e15924f6",
+    "TimestampMs" : 1774743518392,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 91878,
+    "Layout" : "hh_suburbs",
+    "WeatherStart" : "Clear"
+  }
+]

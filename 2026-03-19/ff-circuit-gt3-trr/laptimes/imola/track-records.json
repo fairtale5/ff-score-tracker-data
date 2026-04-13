@@ -1,0 +1,61 @@
+{
+  "Records": {
+    "default": {
+      "TRR_GT3_ferrari_296_gt3": {
+        "Cold": {
+          "LapTimeMs": 114365,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773803965709,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        },
+        "Mixed": {
+          "LapTimeMs": 113683,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773805509718,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        }
+      },
+      "TRR_GT3_bmw_m4_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 111343,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773804578447,
+          "SessionId": "0a851f5b-7db4-4522-b6a9-ce19ed05a603"
+        },
+        "Mixed": {
+          "LapTimeMs": 110133,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773867686727,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        }
+      },
+      "TRR_GT3_nissan_gtr_gt3": {
+        "Cold": {
+          "LapTimeMs": 111896,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865114065,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        },
+        "Mixed": {
+          "LapTimeMs": 111130,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865349704,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        },
+        "Mist": {
+          "LapTimeMs": 110849,
+          "PlayerName": "edson",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1773865460553,
+          "SessionId": "2b587e52-47d1-478e-9fbf-346b8fa0167b"
+        }
+      }
+    }
+  }
+}

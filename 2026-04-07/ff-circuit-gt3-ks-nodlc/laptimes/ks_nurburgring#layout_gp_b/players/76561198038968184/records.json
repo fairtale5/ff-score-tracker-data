@@ -1,0 +1,16 @@
+{
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "ferrari_458_gt2_Clear" : {
+      "SessionId" : "6b44fbc3-9253-4281-82b0-9d62a30e2a27",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 137375,
+      "TimestampMs" : 1774914255031,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "Track" : "ks_nurburgring",
+  "Username" : "Ricardo Bianchi",
+  "Layout" : "layout_gp_b",
+  "GUID" : 76561198038968184
+}

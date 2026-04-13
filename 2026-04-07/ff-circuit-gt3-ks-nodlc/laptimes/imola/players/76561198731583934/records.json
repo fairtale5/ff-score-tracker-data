@@ -1,0 +1,30 @@
+{
+  "Layout" : "",
+  "GUID" : 76561198731583934,
+  "Track" : "imola",
+  "Username" : "matheus pereira",
+  "BestLaps" : {
+    "mercedes_sls_gt3_ScatteredClouds" : {
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherEnd" : "ScatteredClouds",
+      "LapTimeMs" : 119024,
+      "TimestampMs" : 1774227282569,
+      "WeatherStart" : "ScatteredClouds"
+    },
+    "mercedes_sls_gt3_Mixed" : {
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 120977,
+      "WeatherEnd" : "Transition",
+      "TimestampMs" : 1774229333651
+    },
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "TimestampMs" : 1774229212669,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 115248,
+      "WeatherStart" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

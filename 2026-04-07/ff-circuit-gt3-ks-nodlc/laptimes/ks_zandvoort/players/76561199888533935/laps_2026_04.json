@@ -1,0 +1,79 @@
+[
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 102972,
+    "TimestampMs" : 1775440506505,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort"
+  },
+  {
+    "Track" : "ks_zandvoort",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 105718,
+    "TimestampMs" : 1775440612221,
+    "Layout" : "",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775441435500,
+    "LapTimeMs" : 103158,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort"
+  },
+  {
+    "LapTimeMs" : 102699,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775441538200,
+    "Layout" : "",
+    "Track" : "ks_zandvoort",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Track" : "ks_zandvoort",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "TimestampMs" : 1775441904780,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 102545,
+    "Layout" : ""
+  },
+  {
+    "TimestampMs" : 1775442116825,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 103034,
+    "Layout" : "",
+    "Track" : "ks_zandvoort",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3",
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775442219418,
+    "LapTimeMs" : 102593,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort"
+  }
+]
