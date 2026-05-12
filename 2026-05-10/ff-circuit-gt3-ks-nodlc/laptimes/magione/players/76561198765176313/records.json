@@ -1,0 +1,30 @@
+{
+  "Username": "pespeslolo",
+  "GUID": 76561198765176313,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 86143,
+      "TimestampMs": 1777762148045,
+      "SessionId": "4f91c78c-08ea-4c79-9c57-df75637fa142",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 80829,
+      "TimestampMs": 1777762601725,
+      "SessionId": "4f91c78c-08ea-4c79-9c57-df75637fa142",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 113136,
+      "TimestampMs": 1777763938580,
+      "SessionId": "4f91c78c-08ea-4c79-9c57-df75637fa142",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

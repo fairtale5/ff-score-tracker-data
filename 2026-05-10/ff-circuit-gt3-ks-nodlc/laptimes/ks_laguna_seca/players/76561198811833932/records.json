@@ -1,0 +1,30 @@
+{
+  "Username": "vMork",
+  "GUID": 76561198811833932,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 100607,
+      "TimestampMs": 1777437476129,
+      "SessionId": "87e0aca0-dae7-4b77-89db-dbab5f733707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 102884,
+      "TimestampMs": 1777436293631,
+      "SessionId": "87e0aca0-dae7-4b77-89db-dbab5f733707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 100989,
+      "TimestampMs": 1777436879500,
+      "SessionId": "87e0aca0-dae7-4b77-89db-dbab5f733707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

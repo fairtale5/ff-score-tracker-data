@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs" : 1775438104670,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 106218,
+    "Car" : "bmw_m3_gt2"
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "TimestampMs" : 1775438327982,
+    "WeatherEnd" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 105503,
+    "WeatherStart" : "Clear"
+  }
+]

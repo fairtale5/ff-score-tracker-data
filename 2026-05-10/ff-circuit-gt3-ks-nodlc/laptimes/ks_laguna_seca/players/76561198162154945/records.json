@@ -1,0 +1,37 @@
+{
+  "GUID" : 76561198162154945,
+  "Layout" : "",
+  "BestLaps" : {
+    "bmw_m3_gt2_Clear" : {
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "TimestampMs" : 1774825209164,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 86764,
+      "WeatherStart" : "Clear"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "TimestampMs" : 1774821750436,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 90490
+    },
+    "mercedes_sls_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 85013,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "TimestampMs" : 1774829800378
+    },
+    "ferrari_458_gt2_Clear" : {
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 100326,
+      "WeatherStart" : "Clear",
+      "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "TimestampMs" : 1774823140715
+    }
+  },
+  "LapTimeHistory" : [],
+  "Username" : "BigBad",
+  "Track" : "ks_laguna_seca"
+}

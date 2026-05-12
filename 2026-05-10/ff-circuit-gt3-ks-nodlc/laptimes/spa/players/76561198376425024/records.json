@@ -1,0 +1,16 @@
+{
+  "Username" : "Player",
+  "Track" : "spa",
+  "GUID" : 76561198376425024,
+  "Layout" : "",
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "893cbb7c-44cf-4058-80ac-7332f99018e6",
+      "TimestampMs" : 1775179341040,
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 149602
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1777688829990,
+    "SessionId": "35091d0a-4f21-4550-bfa2-96d1f1a2f9c0",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 116187,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1777688936161,
+    "SessionId": "35091d0a-4f21-4550-bfa2-96d1f1a2f9c0",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 106177,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

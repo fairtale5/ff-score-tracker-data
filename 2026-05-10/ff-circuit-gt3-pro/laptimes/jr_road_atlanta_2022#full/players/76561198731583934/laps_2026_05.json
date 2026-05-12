@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1778380214694,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 85889,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1778381181293,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 104443,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778381333734,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 152438,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "LightDrizzle"
+  },
+  {
+    "TimestampMs": 1778381420689,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 86951,
+    "WeatherCategory": "LightDrizzle",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "LightDrizzle"
+  },
+  {
+    "TimestampMs": 1778381544062,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 123365,
+    "WeatherCategory": "LightDrizzle",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "LightDrizzle"
+  },
+  {
+    "TimestampMs": 1778381633780,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 89715,
+    "WeatherCategory": "LightDrizzle",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "LightDrizzle"
+  },
+  {
+    "TimestampMs": 1778381726289,
+    "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 92506,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Cold"
+  }
+]

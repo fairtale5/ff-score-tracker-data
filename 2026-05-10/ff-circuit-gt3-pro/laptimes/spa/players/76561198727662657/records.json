@@ -1,0 +1,23 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Clear": {
+      "LapTimeMs": 142105,
+      "TimestampMs": 1778126358785,
+      "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 141166,
+      "TimestampMs": 1778126499950,
+      "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

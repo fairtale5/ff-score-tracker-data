@@ -1,0 +1,30 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Mixed": {
+      "LapTimeMs": 106682,
+      "TimestampMs": 1774314053419,
+      "SessionId": "0decbbd9-7d42-41b0-a61d-48c2ded90096",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 98828,
+      "TimestampMs": 1774725430513,
+      "SessionId": "d07db10c-d45c-4426-ac96-2f6b91d9026d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_ScatteredClouds": {
+      "LapTimeMs": 99508,
+      "TimestampMs": 1774313416926,
+      "SessionId": "0decbbd9-7d42-41b0-a61d-48c2ded90096",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

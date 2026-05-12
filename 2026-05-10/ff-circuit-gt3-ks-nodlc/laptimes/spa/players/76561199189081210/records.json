@@ -1,0 +1,30 @@
+{
+  "Username": "Altivel",
+  "GUID": 76561199189081210,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 149806,
+      "TimestampMs": 1775780001416,
+      "SessionId": "3bb86df9-8d60-4ded-8aa9-10950cd72644",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 149574,
+      "TimestampMs": 1775868050245,
+      "SessionId": "aa99e9bc-ae62-42d0-bc49-641864ed3eaf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 147816,
+      "TimestampMs": 1775950257567,
+      "SessionId": "25127aad-56be-4196-8fd8-435f320ce1fd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

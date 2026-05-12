@@ -1,0 +1,51 @@
+{
+  "Records": {
+    "default": {
+      "bmw_z4_gt3": {
+        "Clear": {
+          "LapTimeMs": 109196,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1776121974435,
+          "SessionId": "f56a8751-2098-47fe-b679-eb7860cdcbe0"
+        }
+      },
+      "bmw_m3_gt2": {
+        "Clear": {
+          "LapTimeMs": 109959,
+          "PlayerName": "Gaston Diaz",
+          "PlayerGuid": 76561199364128329,
+          "TimestampMs": 1776126016677,
+          "SessionId": "54660ff4-61b2-4f9e-985a-8ceb9177e67f"
+        }
+      },
+      "mclaren_mp412c_gt3": {
+        "Clear": {
+          "LapTimeMs": 112157,
+          "PlayerName": "Tito",
+          "PlayerGuid": 76561198376776387,
+          "TimestampMs": 1776106898651,
+          "SessionId": "f56a8751-2098-47fe-b679-eb7860cdcbe0"
+        }
+      },
+      "mercedes_sls_gt3": {
+        "Clear": {
+          "LapTimeMs": 108694,
+          "PlayerName": "Vinicius Lopes",
+          "PlayerGuid": 76561198224530756,
+          "TimestampMs": 1776128151674,
+          "SessionId": "54660ff4-61b2-4f9e-985a-8ceb9177e67f"
+        }
+      },
+      "ferrari_458_gt2": {
+        "Clear": {
+          "LapTimeMs": 109589,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1776125920111,
+          "SessionId": "54660ff4-61b2-4f9e-985a-8ceb9177e67f"
+        }
+      }
+    }
+  }
+}

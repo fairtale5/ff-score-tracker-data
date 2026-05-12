@@ -1,0 +1,79 @@
+[
+  {
+    "Car" : "bmw_z4_gt3",
+    "TimestampMs" : 1774829115913,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 153539,
+    "Layout" : "",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "LapTimeMs" : 136244,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774829252158,
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 111422,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774829363578,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Track" : "ks_laguna_seca",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774829489574,
+    "LapTimeMs" : 125998,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 99104,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774829588677,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Track" : "ks_laguna_seca",
+    "WeatherCategory" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774829691036,
+    "LapTimeMs" : 102360,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Layout" : "",
+    "LapTimeMs" : 113467,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "TimestampMs" : 1774829804507,
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "Car" : "bmw_z4_gt3"
+  }
+]

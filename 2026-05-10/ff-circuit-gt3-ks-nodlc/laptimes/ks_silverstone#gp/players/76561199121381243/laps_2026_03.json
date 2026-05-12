@@ -1,0 +1,46 @@
+[
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "LapTimeMs" : 151312,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+    "TimestampMs" : 1775000810630
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 148722,
+    "WeatherStart" : "Clear",
+    "Track" : "ks_silverstone",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775000959351,
+    "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 162895,
+    "WeatherEnd" : "Clear",
+    "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+    "TimestampMs" : 1775001122250,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "SessionId" : "28138f39-b1a3-4baf-947d-b2aed0783c42",
+    "TimestampMs" : 1775001465027,
+    "Track" : "ks_silverstone",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 145526,
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear"
+  }
+]

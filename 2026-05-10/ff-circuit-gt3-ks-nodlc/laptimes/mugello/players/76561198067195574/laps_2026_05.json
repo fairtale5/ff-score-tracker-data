@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778028576976,
+    "SessionId": "3edf716d-f0d6-4401-8dfc-20519c252eb1",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 130311,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778028707216,
+    "SessionId": "3edf716d-f0d6-4401-8dfc-20519c252eb1",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 130239,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

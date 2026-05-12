@@ -1,0 +1,30 @@
+{
+  "Username": "Ricardo Bianchi",
+  "GUID": 76561198038968184,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_bayer_v8_Mixed": {
+      "LapTimeMs": 140328,
+      "TimestampMs": 1776310679037,
+      "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Cold"
+    },
+    "rss_gtm_bayer_v8_ScatteredClouds": {
+      "LapTimeMs": 140962,
+      "TimestampMs": 1776310395761,
+      "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_bayer_v8_Cold": {
+      "LapTimeMs": 147528,
+      "TimestampMs": 1776310826576,
+      "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

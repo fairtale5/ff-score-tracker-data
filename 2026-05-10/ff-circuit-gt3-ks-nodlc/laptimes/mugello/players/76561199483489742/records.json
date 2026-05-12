@@ -1,0 +1,23 @@
+{
+  "Username": "artesano.del.amor",
+  "GUID": 76561199483489742,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 110457,
+      "TimestampMs": 1777947940064,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 109965,
+      "TimestampMs": 1778107152678,
+      "SessionId": "c7e01fa8-6e78-4e3f-9bcf-820afb868cc4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

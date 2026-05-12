@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1776392157032,
+    "SessionId": "9e0c5a90-eb4b-4028-9266-4a1ffb88efe0",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 90521,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776471701788,
+    "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 88030,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776471789504,
+    "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 87715,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

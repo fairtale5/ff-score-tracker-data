@@ -1,0 +1,30 @@
+{
+  "Username": "y i e",
+  "GUID": 76561199330326813,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 103448,
+      "TimestampMs": 1778305787222,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 102050,
+      "TimestampMs": 1778305683775,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_furiano_96_v6_ScatteredClouds": {
+      "LapTimeMs": 103842,
+      "TimestampMs": 1778306013073,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

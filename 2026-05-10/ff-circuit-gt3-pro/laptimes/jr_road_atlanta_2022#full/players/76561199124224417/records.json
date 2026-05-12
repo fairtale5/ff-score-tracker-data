@@ -1,0 +1,23 @@
+{
+  "Username": "Maguila_rs",
+  "GUID": 76561199124224417,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 123230,
+      "TimestampMs": 1778203466249,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Hot": {
+      "LapTimeMs": 155522,
+      "TimestampMs": 1778203890812,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    }
+  },
+  "LapTimeHistory": []
+}

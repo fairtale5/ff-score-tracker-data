@@ -1,0 +1,79 @@
+[
+  {
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775440506505,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "LapTimeMs" : 102972,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 105718,
+    "Layout" : "",
+    "TimestampMs" : 1775440612221,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_zandvoort"
+  },
+  {
+    "TimestampMs" : 1775441435500,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 103158,
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 102699,
+    "WeatherEnd" : "Clear",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "TimestampMs" : 1775441538200,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_zandvoort"
+  },
+  {
+    "Layout" : "",
+    "LapTimeMs" : 102545,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "TimestampMs" : 1775441904780,
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 103034,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_zandvoort",
+    "TimestampMs" : 1775442116825,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 102593,
+    "TimestampMs" : 1775442219418,
+    "SessionId" : "fdf9ba9a-9c4e-4e58-a82d-04f52f2817f2",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear"
+  }
+]

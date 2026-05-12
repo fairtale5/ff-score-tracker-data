@@ -1,0 +1,23 @@
+{
+  "Layout" : "",
+  "GUID" : 76561199041523051,
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 143269,
+      "WeatherStart" : "Clear",
+      "TimestampMs" : 1774922437296,
+      "SessionId" : "ebde6d69-1632-458e-9560-0d5502d5205f"
+    },
+    "ferrari_458_gt2_Clear" : {
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 145399,
+      "WeatherStart" : "Clear",
+      "SessionId" : "0dd89ff5-1a1c-4296-8e8c-a90ed6a0d15a",
+      "TimestampMs" : 1774751490891
+    }
+  },
+  "LapTimeHistory" : [],
+  "Username" : "ChristianoAguiar",
+  "Track" : "spa"
+}

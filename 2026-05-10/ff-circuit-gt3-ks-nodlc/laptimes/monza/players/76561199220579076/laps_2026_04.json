@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1776484650720,
+    "SessionId": "52843a94-ef4b-45e5-8eb8-b6a023e178c7",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 134391,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776485053729,
+    "SessionId": "52843a94-ef4b-45e5-8eb8-b6a023e178c7",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 151145,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776485191945,
+    "SessionId": "52843a94-ef4b-45e5-8eb8-b6a023e178c7",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 138207,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

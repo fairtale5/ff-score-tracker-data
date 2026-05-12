@@ -1,0 +1,23 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 103011,
+      "TimestampMs": 1778006114259,
+      "SessionId": "675881de-a017-4aa0-a052-9367dec13983",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 104921,
+      "TimestampMs": 1778436884589,
+      "SessionId": "1d91d8fe-0471-467c-9ab5-cd9ddedbc197",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1778193465358,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 82884,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778193856233,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 80890,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778193937067,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 80835,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778194300689,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 154993,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778194398596,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 97908,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778194490195,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 91601,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778194573093,
+    "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 82902,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

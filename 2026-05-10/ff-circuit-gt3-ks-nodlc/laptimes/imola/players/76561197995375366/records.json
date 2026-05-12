@@ -1,0 +1,72 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 109048,
+      "TimestampMs": 1774228908183,
+      "SessionId": "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Mixed": {
+      "LapTimeMs": 111190,
+      "TimestampMs": 1774227714880,
+      "SessionId": "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist"
+    },
+    "ferrari_458_gt2_ScatteredClouds": {
+      "LapTimeMs": 110885,
+      "TimestampMs": 1774312735402,
+      "SessionId": "101db4f8-0e41-4fdd-8c14-857feedc5334",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 109780,
+      "TimestampMs": 1774312845185,
+      "SessionId": "101db4f8-0e41-4fdd-8c14-857feedc5334",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "bmw_z4_gt3_Mist": {
+      "LapTimeMs": 110881,
+      "TimestampMs": 1774227825763,
+      "SessionId": "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "bmw_z4_gt3_Hot": {
+      "LapTimeMs": 111659,
+      "TimestampMs": 1774226118914,
+      "SessionId": "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "bmw_z4_gt3_ScatteredClouds": {
+      "LapTimeMs": 111013,
+      "TimestampMs": 1774227142535,
+      "SessionId": "f4cafe30-8fc5-4a19-9730-a260889ba9b3",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Hot": {
+      "LapTimeMs": 116866,
+      "TimestampMs": 1774312273539,
+      "SessionId": "101db4f8-0e41-4fdd-8c14-857feedc5334",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 107318,
+      "TimestampMs": 1776386364807,
+      "SessionId": "0fa0c8d5-30a5-4bdb-b3ba-a526349806d7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

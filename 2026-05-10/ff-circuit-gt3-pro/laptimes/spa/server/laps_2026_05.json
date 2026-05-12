@@ -1,0 +1,167 @@
+[
+  {
+    "TimestampMs": 1778124189510,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 143342,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778124779756,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 141357,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778124921286,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 141533,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778125070739,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 149452,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778125211285,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 140545,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778126181567,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 139594,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778126358785,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 142105,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778126499950,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 141166,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778127130829,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 156021,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778129462924,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 156852,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1778129929812,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 142839,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778130252645,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 171452,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778130590676,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 164303,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778130737326,
+    "SessionId": "f9c5afec-6b07-4323-99d5-82b2d500c1d9",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 146649,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778428304095,
+    "SessionId": "47d45897-51ce-4e5a-8fe7-4bccc0a39f6c",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 138845,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

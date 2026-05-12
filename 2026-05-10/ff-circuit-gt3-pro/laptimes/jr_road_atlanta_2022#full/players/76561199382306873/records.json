@@ -1,0 +1,37 @@
+{
+  "Username": "vitor36000x",
+  "GUID": 76561199382306873,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_ScatteredClouds": {
+      "LapTimeMs": 90746,
+      "TimestampMs": 1778381260436,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 89742,
+      "TimestampMs": 1778381350178,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "LightDrizzle"
+    },
+    "rss_gtm_hyperion_v8_LightDrizzle": {
+      "LapTimeMs": 91435,
+      "TimestampMs": 1778381441614,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle"
+    },
+    "rss_gtm_hyperion_v8_Cold": {
+      "LapTimeMs": 92274,
+      "TimestampMs": 1778381835204,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "tales1000grau",
+  "GUID": 76561198858290983,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 134619,
+      "TimestampMs": 1778292453850,
+      "SessionId": "c182c0f8-0a99-49e9-a029-69f64f413053",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 135338,
+      "TimestampMs": 1778293593574,
+      "SessionId": "c182c0f8-0a99-49e9-a029-69f64f413053",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778109607802,
+    "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 89301,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778110099296,
+    "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 89768,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "Layout" : "gp",
+  "GUID" : 76561198142960686,
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "mercedes_sls_gt3_Clear" : {
+      "TimestampMs" : 1774749464661,
+      "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 132004,
+      "WeatherStart" : "Clear"
+    },
+    "mercedes_sls_gt3_Hot" : {
+      "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+      "TimestampMs" : 1773961225095,
+      "WeatherEnd" : "Hot",
+      "LapTimeMs" : 130719,
+      "WeatherStart" : "Hot"
+    },
+    "ferrari_458_gt2_ScatteredClouds" : {
+      "TimestampMs" : 1773960276157,
+      "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d",
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 129297,
+      "WeatherEnd" : "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "WeatherEnd" : "Hot",
+      "LapTimeMs" : 128756,
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1773960666733,
+      "SessionId" : "d9ae5d80-89f3-40fa-b154-a4c31492446d"
+    }
+  },
+  "Username" : "munhozin",
+  "Track" : "ks_silverstone"
+}

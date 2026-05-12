@@ -1,0 +1,30 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_evo2_Drizzle": {
+      "LapTimeMs": 95825,
+      "TimestampMs": 1778119165916,
+      "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 90396,
+      "TimestampMs": 1778184136250,
+      "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_evo2_Mixed": {
+      "LapTimeMs": 93187,
+      "TimestampMs": 1778186041920,
+      "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

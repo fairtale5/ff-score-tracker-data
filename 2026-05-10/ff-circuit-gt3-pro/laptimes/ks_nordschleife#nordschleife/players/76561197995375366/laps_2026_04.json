@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1776051355605,
+    "SessionId": "019a11d0-b410-48d8-be63-60d938eba34b",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 560270,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1776051779794,
+    "SessionId": "019a11d0-b410-48d8-be63-60d938eba34b",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 424191,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1777174884821,
+    "SessionId": "e15c57bd-90ad-49c6-af84-8475915329ad",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 440600,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Clear"
+  }
+]

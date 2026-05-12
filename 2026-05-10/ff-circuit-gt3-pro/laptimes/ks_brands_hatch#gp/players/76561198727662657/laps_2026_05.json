@@ -1,0 +1,101 @@
+[
+  {
+    "TimestampMs": 1778119165916,
+    "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 95825,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1778184136250,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 90396,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778185013121,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 91385,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186041920,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 93187,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186135549,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 93632,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186230397,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 94845,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186347788,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 117391,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186439514,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 91733,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778186544453,
+    "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 104938,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  }
+]

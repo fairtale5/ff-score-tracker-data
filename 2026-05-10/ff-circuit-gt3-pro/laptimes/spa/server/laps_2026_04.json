@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs": 1776488044260,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 145630,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776488156302,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 153491,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776488298093,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 141789,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776489009247,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 142109,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1776490942664,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 145044,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776491084818,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 142154,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776491549971,
+    "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 142009,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1777172098975,
+    "SessionId": "40be310c-49b4-4670-8eca-fb2ee186f751",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 144033,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Transition"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "Records": {
+    "c1_time_attack": {
+      "mazda_rx7_veilside_pushin_p": {
+        "Mixed": {
+          "LapTimeMs": 321693,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773202999337,
+          "SessionId": "c486e14b-a53d-413c-a030-9d91c08918b3"
+        },
+        "Clear": {
+          "LapTimeMs": 266175,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773203265509,
+          "SessionId": "c486e14b-a53d-413c-a030-9d91c08918b3"
+        }
+      },
+      "nissan_skyline_r34_PUSHIN_P_TUNED": {
+        "Mixed": {
+          "LapTimeMs": 394493,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773641986603,
+          "SessionId": "82c9aa92-6787-437b-a028-da41001c8fbf"
+        }
+      },
+      "subaru_wrx_sti_pushin_p_tunedv2": {
+        "Mixed": {
+          "LapTimeMs": 330431,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773202559080,
+          "SessionId": "c486e14b-a53d-413c-a030-9d91c08918b3"
+        }
+      },
+      "subaru_grb_pushin_p_tuned": {
+        "Mixed": {
+          "LapTimeMs": 307376,
+          "PlayerName": "LiuIAM",
+          "PlayerGuid": 76561199789828867,
+          "TimestampMs": 1773203430762,
+          "SessionId": "c486e14b-a53d-413c-a030-9d91c08918b3"
+        },
+        "Clear": {
+          "LapTimeMs": 289770,
+          "PlayerName": "LiuIAM",
+          "PlayerGuid": 76561199789828867,
+          "TimestampMs": 1773203123392,
+          "SessionId": "c486e14b-a53d-413c-a030-9d91c08918b3"
+        }
+      },
+      "as_bmw_m3_g80_ceky_x_pushin_p": {
+        "Mixed": {
+          "LapTimeMs": 353378,
+          "PlayerName": "munhozin",
+          "PlayerGuid": 76561198142960686,
+          "TimestampMs": 1773643180645,
+          "SessionId": "82c9aa92-6787-437b-a028-da41001c8fbf"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1776732908150,
+    "SessionId": "89ea01a6-9558-4f8a-b633-954527644dc9",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 124083,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776733017573,
+    "SessionId": "89ea01a6-9558-4f8a-b633-954527644dc9",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 109422,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

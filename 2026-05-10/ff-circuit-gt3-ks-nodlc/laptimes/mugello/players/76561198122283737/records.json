@@ -1,0 +1,23 @@
+{
+  "Username": "Zione",
+  "GUID": 76561198122283737,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 115025,
+      "TimestampMs": 1778244722527,
+      "SessionId": "88b28dff-827a-444e-b043-a37719ac1ffd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 114417,
+      "TimestampMs": 1778246327357,
+      "SessionId": "88b28dff-827a-444e-b043-a37719ac1ffd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

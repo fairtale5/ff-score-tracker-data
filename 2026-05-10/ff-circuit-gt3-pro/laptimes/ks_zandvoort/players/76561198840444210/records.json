@@ -1,0 +1,51 @@
+{
+  "Username": "Ojohnny",
+  "GUID": 76561198840444210,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_Mist": {
+      "LapTimeMs": 138103,
+      "TimestampMs": 1778304983654,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_hyperion_v8_Clear": {
+      "LapTimeMs": 106751,
+      "TimestampMs": 1778305692314,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 99346,
+      "TimestampMs": 1778306401215,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_hyperion_v8_ScatteredClouds": {
+      "LapTimeMs": 100578,
+      "TimestampMs": 1778306099075,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_hyperion_v8_LightRain": {
+      "LapTimeMs": 127079,
+      "TimestampMs": 1778307786790,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain"
+    },
+    "rss_gtm_hyperion_v8_HeavyThunderstorm": {
+      "LapTimeMs": 129793,
+      "TimestampMs": 1778308173420,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "HeavyThunderstorm",
+      "WeatherEnd": "HeavyThunderstorm"
+    }
+  },
+  "LapTimeHistory": []
+}

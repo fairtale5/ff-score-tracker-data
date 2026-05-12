@@ -1,0 +1,72 @@
+{
+  "Username": "y i e",
+  "GUID": 76561199330326813,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 84920,
+      "TimestampMs": 1778203490104,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_aero_v10_evo2_Mixed": {
+      "LapTimeMs": 84582,
+      "TimestampMs": 1778203659482,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_aero_v10_evo2_Clear": {
+      "LapTimeMs": 86428,
+      "TimestampMs": 1778201527055,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_aero_v10_evo2_Hot": {
+      "LapTimeMs": 83421,
+      "TimestampMs": 1778203742906,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_furiano_96_v6_Mist": {
+      "LapTimeMs": 81791,
+      "TimestampMs": 1778301913552,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 80985,
+      "TimestampMs": 1778304248988,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Hot": {
+      "LapTimeMs": 83101,
+      "TimestampMs": 1778300992062,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_furiano_96_v6_ScatteredClouds": {
+      "LapTimeMs": 81883,
+      "TimestampMs": 1778304413909,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 82065,
+      "TimestampMs": 1778303803301,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

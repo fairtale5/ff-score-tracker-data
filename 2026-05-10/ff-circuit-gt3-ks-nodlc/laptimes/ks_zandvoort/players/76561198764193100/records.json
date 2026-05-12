@@ -1,0 +1,65 @@
+{
+  "Username" : "edson",
+  "Track" : "ks_zandvoort",
+  "Layout" : "",
+  "GUID" : 76561198764193100,
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "bmw_m3_gt2_Mixed" : {
+      "WeatherEnd" : "Transition",
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 109932,
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "TimestampMs" : 1774051695615
+    },
+    "bmw_z4_gt3_Mixed" : {
+      "WeatherEnd" : "Transition",
+      "LapTimeMs" : 101921,
+      "WeatherStart" : "ScatteredClouds",
+      "TimestampMs" : 1774313466271,
+      "SessionId" : "0decbbd9-7d42-41b0-a61d-48c2ded90096"
+    },
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "60e668a3-542d-4a46-a47d-6f489fd5b27a",
+      "TimestampMs" : 1774659180960,
+      "LapTimeMs" : 101959,
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear"
+    },
+    "bmw_m3_gt2_ScatteredClouds" : {
+      "WeatherStart" : "ScatteredClouds",
+      "LapTimeMs" : 113013,
+      "WeatherEnd" : "ScatteredClouds",
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500",
+      "TimestampMs" : 1773965461563
+    },
+    "bmw_m3_gt2_Drizzle" : {
+      "TimestampMs" : 1773963756222,
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500",
+      "WeatherEnd" : "Drizzle",
+      "WeatherStart" : "Drizzle",
+      "LapTimeMs" : 141609
+    },
+    "bmw_m3_gt2_Mist" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "TimestampMs" : 1774051143783,
+      "LapTimeMs" : 107916,
+      "WeatherStart" : "Mist",
+      "WeatherEnd" : "Mist"
+    },
+    "ferrari_458_gt2_Mixed" : {
+      "SessionId" : "0f1f0f76-4541-4559-b164-f98a13b4612d",
+      "TimestampMs" : 1774053513813,
+      "WeatherEnd" : "Cold",
+      "LapTimeMs" : 103195,
+      "WeatherStart" : "Transition"
+    },
+    "bmw_m3_gt2_Hot" : {
+      "LapTimeMs" : 108596,
+      "WeatherStart" : "Hot",
+      "WeatherEnd" : "Hot",
+      "TimestampMs" : 1773962705337,
+      "SessionId" : "cbd5f8c9-ea7d-479a-9ed0-dd4ff654b500"
+    }
+  }
+}

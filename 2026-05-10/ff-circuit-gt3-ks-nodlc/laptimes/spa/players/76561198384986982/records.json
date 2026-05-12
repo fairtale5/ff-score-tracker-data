@@ -1,0 +1,23 @@
+{
+  "Track" : "spa",
+  "Username" : "Marcelo Cuadrado",
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "LapTimeMs" : 139769,
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear",
+      "TimestampMs" : 1775352830848,
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+    },
+    "mclaren_mp412c_gt3_Clear" : {
+      "TimestampMs" : 1775351913320,
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 142373,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "LapTimeHistory" : [],
+  "Layout" : "",
+  "GUID" : 76561198384986982
+}

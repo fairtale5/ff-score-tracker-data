@@ -1,0 +1,72 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_evo2_Mixed": {
+      "LapTimeMs": 81990,
+      "TimestampMs": 1778304162315,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_lanzo_v10_evo2_Clear": {
+      "LapTimeMs": 82249,
+      "TimestampMs": 1778265021091,
+      "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 82985,
+      "TimestampMs": 1778304510108,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_evo2_Hot": {
+      "LapTimeMs": 83883,
+      "TimestampMs": 1778301021280,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_lanzo_v10_evo2_Mist": {
+      "LapTimeMs": 83327,
+      "TimestampMs": 1778264388981,
+      "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_lanzo_v10_evo2_Cold": {
+      "LapTimeMs": 84865,
+      "TimestampMs": 1778263782571,
+      "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "urd_darche_egt_2020_sprint_ScatteredClouds": {
+      "LapTimeMs": 81023,
+      "TimestampMs": 1778375459549,
+      "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "urd_darche_egt_2020_sprint_Mixed": {
+      "LapTimeMs": 80719,
+      "TimestampMs": 1778375540268,
+      "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_lanzo_v10_evo2_LightDrizzle": {
+      "LapTimeMs": 84748,
+      "TimestampMs": 1778381603332,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

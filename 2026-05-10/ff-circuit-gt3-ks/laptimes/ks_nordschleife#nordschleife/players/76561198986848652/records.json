@@ -1,0 +1,16 @@
+{
+  "Username" : "Pawel",
+  "Track" : "ks_nordschleife",
+  "Layout" : "nordschleife",
+  "GUID" : 76561198986848652,
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "ks_ferrari_488_gt3_Clear" : {
+      "SessionId" : "99bf7d68-75e6-4a52-9e85-d6040e25864f",
+      "TimestampMs" : 1775094468763,
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 439867,
+      "WeatherStart" : "Clear"
+    }
+  }
+}

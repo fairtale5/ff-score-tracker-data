@@ -1,0 +1,44 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_evo2_Mixed": {
+      "LapTimeMs": 101905,
+      "TimestampMs": 1778388154106,
+      "SessionId": "841ef8c4-5eef-45e6-93b9-8c112de2aeab",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_lanzo_v10_evo2_Clear": {
+      "LapTimeMs": 101848,
+      "TimestampMs": 1778305684442,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 102067,
+      "TimestampMs": 1778387949139,
+      "SessionId": "841ef8c4-5eef-45e6-93b9-8c112de2aeab",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_evo2_Hot": {
+      "LapTimeMs": 101825,
+      "TimestampMs": 1778306731175,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_lanzo_v10_evo2_HeavyThunderstorm": {
+      "LapTimeMs": 121003,
+      "TimestampMs": 1778308194441,
+      "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+      "WeatherStart": "HeavyThunderstorm",
+      "WeatherEnd": "HeavyThunderstorm"
+    }
+  },
+  "LapTimeHistory": []
+}

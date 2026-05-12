@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1778393915861,
+    "SessionId": "4c337cc6-41c4-4224-808c-6aa0e58eecc4",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 116777,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778394032513,
+    "SessionId": "4c337cc6-41c4-4224-808c-6aa0e58eecc4",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 116660,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778396362337,
+    "SessionId": "4c337cc6-41c4-4224-808c-6aa0e58eecc4",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 178818,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

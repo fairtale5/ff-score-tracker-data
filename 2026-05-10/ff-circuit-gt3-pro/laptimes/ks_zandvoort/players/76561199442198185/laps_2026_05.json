@@ -1,0 +1,145 @@
+[
+  {
+    "TimestampMs": 1778305707552,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 115646,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778305813858,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 106306,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778305940751,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 126896,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778306074405,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 133653,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778306204556,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 130157,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778306333526,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 128972,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1778306440304,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 106779,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778306965554,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 103409,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1778307677939,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 142071,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Rain",
+    "WeatherEnd": "LightRain"
+  },
+  {
+    "TimestampMs": 1778307809833,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 131895,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain"
+  },
+  {
+    "TimestampMs": 1778307950768,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 140939,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "HeavyThunderstorm"
+  },
+  {
+    "TimestampMs": 1778308077635,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 126867,
+    "WeatherCategory": "HeavyThunderstorm",
+    "WeatherStart": "HeavyThunderstorm",
+    "WeatherEnd": "HeavyThunderstorm"
+  },
+  {
+    "TimestampMs": 1778308200410,
+    "SessionId": "bf6321a2-1b65-4054-92e9-87e9c2d3fb86",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 122777,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "HeavyThunderstorm",
+    "WeatherEnd": "Transition"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "Username": "ARGOS .R.",
+  "GUID": 76561198876105264,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 165133,
+      "TimestampMs": 1777330306670,
+      "SessionId": "9e360736-526f-4467-8e48-34781170a9ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 162516,
+      "TimestampMs": 1777333492006,
+      "SessionId": "9e360736-526f-4467-8e48-34781170a9ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 167497,
+      "TimestampMs": 1777335521324,
+      "SessionId": "9e360736-526f-4467-8e48-34781170a9ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

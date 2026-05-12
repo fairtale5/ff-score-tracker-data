@@ -1,0 +1,123 @@
+{
+  "Records": {
+    "gp": {
+      "rss_gtm_lanzo_v10_evo2": {
+        "ScatteredClouds": {
+          "LapTimeMs": 90396,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778184136250,
+          "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb"
+        },
+        "Mist": {
+          "LapTimeMs": 91815,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776354729193,
+          "SessionId": "189e3709-cdd4-4dd1-af32-290bb7776b8d"
+        },
+        "Drizzle": {
+          "LapTimeMs": 95825,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778119165916,
+          "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28"
+        },
+        "Mixed": {
+          "LapTimeMs": 93187,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778186041920,
+          "SessionId": "24e3f567-97cf-4748-9169-6861ec6e19eb"
+        }
+      },
+      "rss_gtm_mercer_v8": {
+        "ScatteredClouds": {
+          "LapTimeMs": 87715,
+          "PlayerName": "Edson Nicolas",
+          "PlayerGuid": 76561198764193100,
+          "TimestampMs": 1776471789504,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        },
+        "Mist": {
+          "LapTimeMs": 89768,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1778110099296,
+          "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28"
+        }
+      },
+      "rss_gtm_lanzo_v10": {
+        "Cold": {
+          "LapTimeMs": 90674,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776470304414,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 89600,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776470497043,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        }
+      },
+      "rss_gtm_furiano_96_v6": {
+        "Mixed": {
+          "LapTimeMs": 89050,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776471049508,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        }
+      },
+      "rss_gtm_lux_v8": {
+        "Hot": {
+          "LapTimeMs": 89065,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776471453821,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        },
+        "Mixed": {
+          "LapTimeMs": 89614,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776471543433,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        }
+      },
+      "rss_gtm_protech_p92_f6": {
+        "Clear": {
+          "LapTimeMs": 86956,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1776473419748,
+          "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 87471,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1778256303612,
+          "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2"
+        },
+        "Mist": {
+          "LapTimeMs": 86825,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1778256769733,
+          "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2"
+        },
+        "Mixed": {
+          "LapTimeMs": 86727,
+          "PlayerName": "tales1000grau",
+          "PlayerGuid": 76561198858290983,
+          "TimestampMs": 1778256856458,
+          "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2"
+        }
+      }
+    }
+  }
+}

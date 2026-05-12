@@ -1,0 +1,30 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Clear": {
+      "LapTimeMs": 141789,
+      "TimestampMs": 1776488298093,
+      "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 142009,
+      "TimestampMs": 1776491549971,
+      "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_protech_p92_f6_Mist": {
+      "LapTimeMs": 142154,
+      "TimestampMs": 1776491084818,
+      "SessionId": "32d48f18-d69d-4be5-a39d-2b41e1841110",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

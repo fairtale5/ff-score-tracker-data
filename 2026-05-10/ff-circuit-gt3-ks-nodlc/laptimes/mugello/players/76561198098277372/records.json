@@ -1,0 +1,23 @@
+{
+  "Username": "kwertz",
+  "GUID": 76561198098277372,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 110337,
+      "TimestampMs": 1778112701335,
+      "SessionId": "c7e01fa8-6e78-4e3f-9bcf-820afb868cc4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 110102,
+      "TimestampMs": 1778199795168,
+      "SessionId": "e67dc0a6-3737-48fe-87cd-a2efafbcb68f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

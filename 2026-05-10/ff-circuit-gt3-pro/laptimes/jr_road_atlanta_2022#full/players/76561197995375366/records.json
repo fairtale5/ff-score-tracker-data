@@ -1,0 +1,65 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_ScatteredClouds": {
+      "LapTimeMs": 82697,
+      "TimestampMs": 1777777687491,
+      "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_protech_p92_f6_Mist": {
+      "LapTimeMs": 82690,
+      "TimestampMs": 1778301715453,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_protech_p92_f6_Hot": {
+      "LapTimeMs": 83834,
+      "TimestampMs": 1777776019645,
+      "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 82984,
+      "TimestampMs": 1778304232870,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_protech_p92_f6_Clear": {
+      "LapTimeMs": 82151,
+      "TimestampMs": 1778303983630,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_protech_p92_f6_HeavyThunderstorm": {
+      "LapTimeMs": 86923,
+      "TimestampMs": 1778308558351,
+      "SessionId": "db660526-a264-44db-bdfa-3099367d96e8",
+      "WeatherStart": "HeavyThunderstorm",
+      "WeatherEnd": "HeavyThunderstorm"
+    },
+    "rss_gtm_protech_p92_f6_LightDrizzle": {
+      "LapTimeMs": 83345,
+      "TimestampMs": 1778381604040,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle"
+    },
+    "rss_gtm_protech_p92_f6_Cold": {
+      "LapTimeMs": 86350,
+      "TimestampMs": 1778381873520,
+      "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

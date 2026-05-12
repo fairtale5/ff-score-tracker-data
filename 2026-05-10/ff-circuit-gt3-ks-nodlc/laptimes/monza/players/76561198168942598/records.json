@@ -1,0 +1,23 @@
+{
+  "Username": "Saraiva",
+  "GUID": 76561198168942598,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 120737,
+      "TimestampMs": 1776129300395,
+      "SessionId": "54660ff4-61b2-4f9e-985a-8ceb9177e67f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 118727,
+      "TimestampMs": 1776131065405,
+      "SessionId": "54660ff4-61b2-4f9e-985a-8ceb9177e67f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

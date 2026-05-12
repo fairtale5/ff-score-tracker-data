@@ -1,0 +1,65 @@
+{
+  "Username": "Ojohnny",
+  "GUID": 76561198840444210,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Drizzle": {
+      "LapTimeMs": 194481,
+      "TimestampMs": 1774404860248,
+      "SessionId": "1956ab55-4df1-4264-aa8f-88bb766d2729",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "ferrari_458_gt2_Hot": {
+      "LapTimeMs": 150630,
+      "TimestampMs": 1774469239674,
+      "SessionId": "5b9ab394-e2f1-4323-8739-4522a1fa18f8",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 147568,
+      "TimestampMs": 1774750641447,
+      "SessionId": "0dd89ff5-1a1c-4296-8e8c-a90ed6a0d15a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 151567,
+      "TimestampMs": 1774469089043,
+      "SessionId": "5b9ab394-e2f1-4323-8739-4522a1fa18f8",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 144681,
+      "TimestampMs": 1775870880458,
+      "SessionId": "aa99e9bc-ae62-42d0-bc49-641864ed3eaf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 148898,
+      "TimestampMs": 1774923274005,
+      "SessionId": "ebde6d69-1632-458e-9560-0d5502d5205f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Cold": {
+      "LapTimeMs": 154743,
+      "TimestampMs": 1774404338900,
+      "SessionId": "1956ab55-4df1-4264-aa8f-88bb766d2729",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "mercedes_sls_gt3_Mixed": {
+      "LapTimeMs": 157720,
+      "TimestampMs": 1774404496621,
+      "SessionId": "1956ab55-4df1-4264-aa8f-88bb766d2729",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

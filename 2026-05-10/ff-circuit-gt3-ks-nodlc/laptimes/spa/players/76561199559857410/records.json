@@ -1,0 +1,23 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 146069,
+      "TimestampMs": 1778364732725,
+      "SessionId": "d7ee642b-c2a7-4e79-b8d1-639d97cbe9ee",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 150288,
+      "TimestampMs": 1778371267006,
+      "SessionId": "d7ee642b-c2a7-4e79-b8d1-639d97cbe9ee",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

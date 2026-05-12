@@ -1,0 +1,23 @@
+{
+  "Username": "Flavius",
+  "GUID": 76561199087639415,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 99253,
+      "TimestampMs": 1776445453662,
+      "SessionId": "1701b4c1-ef0b-4a47-a557-86fe1bd54cb0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 89904,
+      "TimestampMs": 1776447612163,
+      "SessionId": "1701b4c1-ef0b-4a47-a557-86fe1bd54cb0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,86 @@
+{
+  "Username": "kwertz",
+  "GUID": 76561198098277372,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 80865,
+      "TimestampMs": 1778302381794,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Clear": {
+      "LapTimeMs": 81981,
+      "TimestampMs": 1778303804076,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_mercer_v8_Hot": {
+      "LapTimeMs": 81436,
+      "TimestampMs": 1777776103399,
+      "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 80905,
+      "TimestampMs": 1778301974642,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_mercer_v8_Mist": {
+      "LapTimeMs": 80979,
+      "TimestampMs": 1777779752905,
+      "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 83587,
+      "TimestampMs": 1778200931254,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 82536,
+      "TimestampMs": 1778203575440,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_furiano_96_v6_ScatteredClouds": {
+      "LapTimeMs": 81985,
+      "TimestampMs": 1778203492901,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Hot": {
+      "LapTimeMs": 80382,
+      "TimestampMs": 1778203902022,
+      "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "urd_darche_egt_2020_sprint_ScatteredClouds": {
+      "LapTimeMs": 79385,
+      "TimestampMs": 1778373848299,
+      "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "urd_darche_egt_2020_sprint_Mixed": {
+      "LapTimeMs": 80040,
+      "TimestampMs": 1778373928333,
+      "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

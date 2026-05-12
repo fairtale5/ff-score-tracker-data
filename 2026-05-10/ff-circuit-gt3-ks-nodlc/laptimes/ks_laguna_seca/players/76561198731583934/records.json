@@ -1,0 +1,23 @@
+{
+  "Username": "matheus pereira",
+  "GUID": 76561198731583934,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 105817,
+      "TimestampMs": 1774829037243,
+      "SessionId": "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 211594,
+      "TimestampMs": 1776486275266,
+      "SessionId": "7b152c05-8c08-4187-89f7-2860ea6a2d8d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

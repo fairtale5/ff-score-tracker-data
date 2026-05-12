@@ -1,0 +1,44 @@
+{
+  "Username": "Ojohnny",
+  "GUID": 76561198840444210,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_Hot": {
+      "LapTimeMs": 90818,
+      "TimestampMs": 1778301297876,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_hyperion_v8_Mist": {
+      "LapTimeMs": 83161,
+      "TimestampMs": 1778303218259,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 83967,
+      "TimestampMs": 1778301954675,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_hyperion_v8_ScatteredClouds": {
+      "LapTimeMs": 83173,
+      "TimestampMs": 1778304275335,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_hyperion_v8_Clear": {
+      "LapTimeMs": 82322,
+      "TimestampMs": 1778302881110,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

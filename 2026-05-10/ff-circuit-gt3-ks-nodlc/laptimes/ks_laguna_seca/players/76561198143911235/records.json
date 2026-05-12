@@ -1,0 +1,23 @@
+{
+  "Username": "I NETO",
+  "GUID": 76561198143911235,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 89730,
+      "TimestampMs": 1776302456082,
+      "SessionId": "c6945500-e19f-4e2c-86a1-c0335d5d691f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 90083,
+      "TimestampMs": 1776306501390,
+      "SessionId": "c6945500-e19f-4e2c-86a1-c0335d5d691f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

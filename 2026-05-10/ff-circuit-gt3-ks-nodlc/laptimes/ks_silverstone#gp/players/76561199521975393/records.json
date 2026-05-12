@@ -1,0 +1,23 @@
+{
+  "Username": "Niki Lauda",
+  "GUID": 76561199521975393,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 124655,
+      "TimestampMs": 1775968736616,
+      "SessionId": "790668f7-a632-4120-9ae2-84e18a90fb0e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 124712,
+      "TimestampMs": 1776458240368,
+      "SessionId": "a6d59a77-5793-4475-a2e5-481276ef2ef0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,30 @@
+{
+  "Username": "Kaduzinsk",
+  "GUID": 76561198856763011,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 145846,
+      "TimestampMs": 1776573791665,
+      "SessionId": "a721a329-c8fc-4ff2-9716-6ffdd9fd8e0f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 149594,
+      "TimestampMs": 1778029373020,
+      "SessionId": "8a043863-aec2-423c-933f-41d84936c8f8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 155221,
+      "TimestampMs": 1778378749253,
+      "SessionId": "d7ee642b-c2a7-4e79-b8d1-639d97cbe9ee",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

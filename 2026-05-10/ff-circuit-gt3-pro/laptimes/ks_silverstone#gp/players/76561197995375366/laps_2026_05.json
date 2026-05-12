@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778207641725,
+    "SessionId": "e1b948b0-9a20-47b0-bf13-941bee0ec3c2",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 126974,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778207768274,
+    "SessionId": "e1b948b0-9a20-47b0-bf13-941bee0ec3c2",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 126542,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "Records": {
+    "default": {
+      "bmw_m3_gt2": {
+        "Clear": {
+          "LapTimeMs": 75776,
+          "PlayerName": "Hitch",
+          "PlayerGuid": 76561198014814538,
+          "TimestampMs": 1775269135814,
+          "SessionId": "2344d031-3dbf-40cb-ab79-3e84a3bcf9d2"
+        }
+      },
+      "bmw_z4_gt3": {
+        "Clear": {
+          "LapTimeMs": 72343,
+          "PlayerName": "Niki Lauda",
+          "PlayerGuid": 76561199521975393,
+          "TimestampMs": 1776371267038,
+          "SessionId": "a36bdc31-34de-4618-837c-e5d3ba5569eb"
+        }
+      },
+      "mercedes_sls_gt3": {
+        "Clear": {
+          "LapTimeMs": 72624,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1775256824996,
+          "SessionId": "2344d031-3dbf-40cb-ab79-3e84a3bcf9d2"
+        }
+      },
+      "ferrari_458_gt2": {
+        "Clear": {
+          "LapTimeMs": 71704,
+          "PlayerName": "Player",
+          "PlayerGuid": 76561198807033275,
+          "TimestampMs": 1777413674560,
+          "SessionId": "87d414e2-4e40-47f8-b50b-bb291752537c"
+        }
+      },
+      "mclaren_mp412c_gt3": {
+        "Clear": {
+          "LapTimeMs": 73299,
+          "PlayerName": "Fernando Schmidt",
+          "PlayerGuid": 76561198140316091,
+          "TimestampMs": 1777763772838,
+          "SessionId": "4f91c78c-08ea-4c79-9c57-df75637fa142"
+        }
+      }
+    }
+  }
+}

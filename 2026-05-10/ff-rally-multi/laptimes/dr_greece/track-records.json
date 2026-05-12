@@ -1,0 +1,33 @@
+{
+  "Records": {
+    "ladders": {
+      "rfc_ford_fiesta_r2t": {
+        "Clear": {
+          "LapTimeMs": 639269,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1778033735776,
+          "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8"
+        }
+      },
+      "rfc_opel_adam_r2": {
+        "Clear": {
+          "LapTimeMs": 639406,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778033739805,
+          "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8"
+        }
+      },
+      "ks_toyota_celica_st185_gravel": {
+        "Clear": {
+          "LapTimeMs": 494407,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778034409361,
+          "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8"
+        }
+      }
+    }
+  }
+}

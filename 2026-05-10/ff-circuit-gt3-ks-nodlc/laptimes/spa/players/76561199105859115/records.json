@@ -1,0 +1,23 @@
+{
+  "Username" : "Rodrigues",
+  "Track" : "spa",
+  "Layout" : "",
+  "GUID" : 76561199105859115,
+  "BestLaps" : {
+    "ferrari_458_gt2_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 160830,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "TimestampMs" : 1775346132690
+    },
+    "mclaren_mp412c_gt3_Clear" : {
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 160585,
+      "WeatherEnd" : "Clear",
+      "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "TimestampMs" : 1775345548606
+    }
+  },
+  "LapTimeHistory" : []
+}

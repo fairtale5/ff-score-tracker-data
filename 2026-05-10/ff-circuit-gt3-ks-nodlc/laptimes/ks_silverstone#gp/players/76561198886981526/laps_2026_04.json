@@ -1,0 +1,79 @@
+[
+  {
+    "Car" : "bmw_z4_gt3",
+    "TimestampMs" : 1775408110414,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 143165,
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "TimestampMs" : 1775408243659,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 133252,
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "TimestampMs" : 1775408373615,
+    "Track" : "ks_silverstone",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 129966
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "TimestampMs" : 1775408503465,
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 129874,
+    "WeatherStart" : "Clear",
+    "Car" : "bmw_z4_gt3"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "TimestampMs" : 1775408634490,
+    "Track" : "ks_silverstone",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 131032,
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 129592,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "TimestampMs" : 1775409024815,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone"
+  },
+  {
+    "Car" : "bmw_z4_gt3",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 128509,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775409289229,
+    "SessionId" : "002b81d4-2a2b-4a35-8b61-aaed99dd1662",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone"
+  }
+]

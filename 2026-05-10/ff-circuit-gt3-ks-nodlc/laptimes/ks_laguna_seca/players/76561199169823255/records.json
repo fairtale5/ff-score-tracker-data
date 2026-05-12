@@ -1,0 +1,30 @@
+{
+  "Username": "JHONNY BALLA",
+  "GUID": 76561199169823255,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 97778,
+      "TimestampMs": 1776302402689,
+      "SessionId": "c6945500-e19f-4e2c-86a1-c0335d5d691f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 94390,
+      "TimestampMs": 1776305258800,
+      "SessionId": "c6945500-e19f-4e2c-86a1-c0335d5d691f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 97820,
+      "TimestampMs": 1777083445658,
+      "SessionId": "0c297376-3fae-4118-a58e-b2c785364c63",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

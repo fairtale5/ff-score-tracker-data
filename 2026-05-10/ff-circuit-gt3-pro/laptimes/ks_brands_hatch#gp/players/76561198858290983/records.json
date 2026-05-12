@@ -1,0 +1,86 @@
+{
+  "Username": "tales1000grau",
+  "GUID": 76561198858290983,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 93058,
+      "TimestampMs": 1776047666428,
+      "SessionId": "1b90b2aa-6d61-47e5-b151-7cec61682fd6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_evo2_Mist": {
+      "LapTimeMs": 91815,
+      "TimestampMs": 1776354729193,
+      "SessionId": "189e3709-cdd4-4dd1-af32-290bb7776b8d",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_lanzo_v10_Cold": {
+      "LapTimeMs": 90674,
+      "TimestampMs": 1776470304414,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "rss_gtm_lanzo_v10_ScatteredClouds": {
+      "LapTimeMs": 89600,
+      "TimestampMs": 1776470497043,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 89050,
+      "TimestampMs": 1776471049508,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_lux_v8_Hot": {
+      "LapTimeMs": 89065,
+      "TimestampMs": 1776471453821,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_lux_v8_Mixed": {
+      "LapTimeMs": 89614,
+      "TimestampMs": 1776471543433,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_protech_p92_f6_Clear": {
+      "LapTimeMs": 86956,
+      "TimestampMs": 1776473419748,
+      "SessionId": "88abd938-8abb-4e0a-9075-1235b5159893",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds": {
+      "LapTimeMs": 87471,
+      "TimestampMs": 1778256303612,
+      "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_protech_p92_f6_Mist": {
+      "LapTimeMs": 86825,
+      "TimestampMs": 1778256769733,
+      "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 86727,
+      "TimestampMs": 1778256856458,
+      "SessionId": "28dd1566-d993-4293-97c4-2d0e70e211a2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "BrowTag",
+  "GUID": 76561198149213544,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 100104,
+      "TimestampMs": 1776403921011,
+      "SessionId": "08408779-9336-4572-a73e-a911438bcc02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 77721,
+      "TimestampMs": 1776405677306,
+      "SessionId": "08408779-9336-4572-a73e-a911438bcc02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

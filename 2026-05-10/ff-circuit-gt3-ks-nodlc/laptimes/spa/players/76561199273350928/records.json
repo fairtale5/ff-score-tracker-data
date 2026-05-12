@@ -1,0 +1,23 @@
+{
+  "Username": "Hond",
+  "GUID": 76561199273350928,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 172381,
+      "TimestampMs": 1778029383701,
+      "SessionId": "8a043863-aec2-423c-933f-41d84936c8f8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 145837,
+      "TimestampMs": 1778029845207,
+      "SessionId": "8a043863-aec2-423c-933f-41d84936c8f8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}
