@@ -1,0 +1,23 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 127828,
+      "TimestampMs": 1781019758973,
+      "SessionId": "0de7e152-270d-46fa-a3c5-30c0769905f1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 126821,
+      "TimestampMs": 1781020779642,
+      "SessionId": "0de7e152-270d-46fa-a3c5-30c0769905f1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

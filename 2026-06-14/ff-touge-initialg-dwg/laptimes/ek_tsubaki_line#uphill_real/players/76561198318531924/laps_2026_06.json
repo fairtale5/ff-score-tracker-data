@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1781281550268,
+    "SessionId": "5e4af626-db1b-4810-adce-6196298c0d36",
+    "Track": "ek_tsubaki_line",
+    "Layout": "uphill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 365818,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781282016564,
+    "SessionId": "5e4af626-db1b-4810-adce-6196298c0d36",
+    "Track": "ek_tsubaki_line",
+    "Layout": "uphill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 358882,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Mist"
+  }
+]

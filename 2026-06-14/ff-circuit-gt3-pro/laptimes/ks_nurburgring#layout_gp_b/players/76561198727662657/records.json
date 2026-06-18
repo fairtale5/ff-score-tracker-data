@@ -1,0 +1,23 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_Mixed": {
+      "LapTimeMs": 148517,
+      "TimestampMs": 1778624049444,
+      "SessionId": "6aab3b6c-e4e6-4173-a320-e787f074a804",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 126740,
+      "TimestampMs": 1778865746970,
+      "SessionId": "c7c844ec-ccac-4acc-b897-e3f42450c4a4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

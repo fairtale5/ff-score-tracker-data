@@ -1,0 +1,68 @@
+[
+  {
+    "TimestampMs": 1778623770279,
+    "SessionId": "6aab3b6c-e4e6-4173-a320-e787f074a804",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 146947,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1778624049444,
+    "SessionId": "6aab3b6c-e4e6-4173-a320-e787f074a804",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 148517,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778624302236,
+    "SessionId": "6aab3b6c-e4e6-4173-a320-e787f074a804",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 129716,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778624430709,
+    "SessionId": "6aab3b6c-e4e6-4173-a320-e787f074a804",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 128473,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778855938664,
+    "SessionId": "c7c844ec-ccac-4acc-b897-e3f42450c4a4",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 119963,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1778865746970,
+    "SessionId": "c7c844ec-ccac-4acc-b897-e3f42450c4a4",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 126740,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

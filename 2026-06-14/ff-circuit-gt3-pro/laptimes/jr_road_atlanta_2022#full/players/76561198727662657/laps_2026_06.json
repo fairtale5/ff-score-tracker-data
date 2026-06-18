@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780359710664,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 81984,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780359792775,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 82116,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition"
+  }
+]

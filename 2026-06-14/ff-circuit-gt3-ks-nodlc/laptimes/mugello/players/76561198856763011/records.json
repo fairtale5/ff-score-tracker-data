@@ -1,0 +1,23 @@
+{
+  "Username": "Kaduzinsk",
+  "GUID": 76561198856763011,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 114215,
+      "TimestampMs": 1778025939752,
+      "SessionId": "3edf716d-f0d6-4401-8dfc-20519c252eb1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 117678,
+      "TimestampMs": 1778028563144,
+      "SessionId": "3edf716d-f0d6-4401-8dfc-20519c252eb1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

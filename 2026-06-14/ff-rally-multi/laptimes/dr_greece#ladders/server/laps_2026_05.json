@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1778033735776,
+    "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8",
+    "Track": "dr_greece",
+    "Layout": "ladders",
+    "Car": "rfc_ford_fiesta_r2t",
+    "LapTimeMs": 639269,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778033739805,
+    "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8",
+    "Track": "dr_greece",
+    "Layout": "ladders",
+    "Car": "rfc_opel_adam_r2",
+    "LapTimeMs": 639406,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778034409361,
+    "SessionId": "3300fae6-18b4-464a-921d-b6f992dfbbb8",
+    "Track": "dr_greece",
+    "Layout": "ladders",
+    "Car": "ks_toyota_celica_st185_gravel",
+    "LapTimeMs": 494407,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

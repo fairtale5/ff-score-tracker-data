@@ -1,0 +1,23 @@
+{
+  "Layout" : "layout_gp_b",
+  "GUID" : 76561199852823856,
+  "LapTimeHistory" : [],
+  "BestLaps" : {
+    "bmw_z4_gt3_Clear" : {
+      "SessionId" : "4d096a67-e9b8-4bdb-8795-b23087415f05",
+      "TimestampMs" : 1775111075575,
+      "LapTimeMs" : 230672,
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear" : {
+      "TimestampMs" : 1775109083275,
+      "SessionId" : "4d096a67-e9b8-4bdb-8795-b23087415f05",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 132243,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "Username" : "LomosBetos2x1",
+  "Track" : "ks_nurburgring"
+}

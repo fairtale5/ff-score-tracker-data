@@ -1,0 +1,23 @@
+{
+  "Username": "kwertz",
+  "GUID": 76561198098277372,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 89301,
+      "TimestampMs": 1778109607802,
+      "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Mist": {
+      "LapTimeMs": 89768,
+      "TimestampMs": 1778110099296,
+      "SessionId": "261d2025-93f8-4e86-a761-938f95f1ed28",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

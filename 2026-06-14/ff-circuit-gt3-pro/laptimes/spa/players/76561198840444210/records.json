@@ -1,0 +1,30 @@
+{
+  "Username": "Ojohnny",
+  "GUID": 76561198840444210,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 143614,
+      "TimestampMs": 1778465220080,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_hyperion_v8_Mist": {
+      "LapTimeMs": 141578,
+      "TimestampMs": 1778465515930,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_hyperion_v8_Drizzle": {
+      "LapTimeMs": 142991,
+      "TimestampMs": 1778465950399,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

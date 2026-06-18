@@ -1,0 +1,23 @@
+{
+  "Username": "YgorNH",
+  "GUID": 76561198127532517,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 146313,
+      "TimestampMs": 1779503582383,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 146179,
+      "TimestampMs": 1779754304287,
+      "SessionId": "5f833bf8-4ccb-41d0-9298-f64beecc5707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

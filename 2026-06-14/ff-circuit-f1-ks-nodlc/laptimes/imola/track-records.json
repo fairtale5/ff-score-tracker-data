@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 87246,
+          "PlayerName": "fonthy",
+          "PlayerGuid": 76561198223948872,
+          "TimestampMs": 1781133554479,
+          "SessionId": "c4c72a81-b1f0-4d27-b380-eb8347476db1"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 97100,
+          "PlayerName": "Bruno Prado",
+          "PlayerGuid": 76561199064218007,
+          "TimestampMs": 1780793370944,
+          "SessionId": "270d63be-960b-4298-8df6-c6b29410b376"
+        }
+      }
+    }
+  }
+}

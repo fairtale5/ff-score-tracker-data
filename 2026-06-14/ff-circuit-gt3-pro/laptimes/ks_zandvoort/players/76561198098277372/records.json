@@ -1,0 +1,30 @@
+{
+  "Username": "kwertz",
+  "GUID": 76561198098277372,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Cold": {
+      "LapTimeMs": 101587,
+      "TimestampMs": 1778468866069,
+      "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 100469,
+      "TimestampMs": 1778469476895,
+      "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_furiano_96_v6_Mist": {
+      "LapTimeMs": 100592,
+      "TimestampMs": 1778469376416,
+      "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

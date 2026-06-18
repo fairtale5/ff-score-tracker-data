@@ -1,0 +1,23 @@
+{
+  "Username": "juanhahaha",
+  "GUID": 76561199387625771,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 106831,
+      "TimestampMs": 1779576586287,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 94880,
+      "TimestampMs": 1779578005633,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+{
+  "Records": {
+    "downhill_real": {
+      "dthwsh_nissan_silvia_s15_vaero": {
+        "Mixed": {
+          "LapTimeMs": 364275,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1775179885705,
+          "SessionId": "ffa16cef-1130-46a4-966b-9748c82c8b5f"
+        }
+      }
+    },
+    "uphill_real": {
+      "dthwsh_nissan_240sx_c_missile": {
+        "Mixed": {
+          "LapTimeMs": 358882,
+          "PlayerName": "Reaper",
+          "PlayerGuid": 76561198318531924,
+          "TimestampMs": 1781282016564,
+          "SessionId": "5e4af626-db1b-4810-adce-6196298c0d36"
+        }
+      }
+    }
+  }
+}

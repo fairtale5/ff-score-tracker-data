@@ -1,0 +1,23 @@
+{
+  "Username": "K02",
+  "GUID": 76561199227641181,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 113376,
+      "TimestampMs": 1781373210678,
+      "SessionId": "07ac0656-c88f-45dd-bab3-6cbb5f6889d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 113097,
+      "TimestampMs": 1781374729956,
+      "SessionId": "07ac0656-c88f-45dd-bab3-6cbb5f6889d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

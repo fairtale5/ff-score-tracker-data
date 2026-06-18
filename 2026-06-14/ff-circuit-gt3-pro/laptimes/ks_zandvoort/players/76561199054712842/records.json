@@ -1,0 +1,37 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 98077,
+      "TimestampMs": 1779236106292,
+      "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 97808,
+      "TimestampMs": 1779236204093,
+      "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_mercer_v8_Hot": {
+      "LapTimeMs": 97274,
+      "TimestampMs": 1779236663279,
+      "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 98011,
+      "TimestampMs": 1779240608775,
+      "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

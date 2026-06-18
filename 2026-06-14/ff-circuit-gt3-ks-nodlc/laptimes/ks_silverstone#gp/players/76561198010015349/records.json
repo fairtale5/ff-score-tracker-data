@@ -1,0 +1,30 @@
+{
+  "Username": "leonardo moura",
+  "GUID": 76561198010015349,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 134773,
+      "TimestampMs": 1779226121111,
+      "SessionId": "df478e5e-9fe3-477b-98e1-df96abfe9378",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 130738,
+      "TimestampMs": 1779230375462,
+      "SessionId": "df478e5e-9fe3-477b-98e1-df96abfe9378",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 130664,
+      "TimestampMs": 1780011013071,
+      "SessionId": "2c59bbdf-c082-4955-83f9-43c300b96c1b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

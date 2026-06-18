@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "gp": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 99291,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1781024735213,
+          "SessionId": "650fe3af-f2cd-4e6b-9115-1d0f36d5c722"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 110760,
+          "PlayerName": "Tiago Goes",
+          "PlayerGuid": 76561198793711420,
+          "TimestampMs": 1781015471151,
+          "SessionId": "650fe3af-f2cd-4e6b-9115-1d0f36d5c722"
+        }
+      }
+    }
+  }
+}

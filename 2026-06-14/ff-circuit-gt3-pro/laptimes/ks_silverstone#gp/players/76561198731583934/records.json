@@ -1,0 +1,23 @@
+{
+  "Username": "matheus pereira",
+  "GUID": 76561198731583934,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 137834,
+      "TimestampMs": 1776310355699,
+      "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 130844,
+      "TimestampMs": 1776310486548,
+      "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

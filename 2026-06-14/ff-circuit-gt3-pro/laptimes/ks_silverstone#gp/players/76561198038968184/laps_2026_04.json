@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1776310254789,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 145566,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310395761,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 140962,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310538695,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 142926,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310679037,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 140328,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1776310826576,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 147528,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

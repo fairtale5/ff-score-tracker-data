@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 114069,
+          "PlayerName": "Andre Barranco",
+          "PlayerGuid": 76561198001219103,
+          "TimestampMs": 1779925932517,
+          "SessionId": "5b31e0a3-b2e6-4856-b587-3d8fc0b302eb"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 129453,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1779923377527,
+          "SessionId": "5b31e0a3-b2e6-4856-b587-3d8fc0b302eb"
+        }
+      }
+    }
+  }
+}

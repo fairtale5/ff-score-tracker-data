@@ -1,0 +1,23 @@
+{
+  "Username": "Prime Shadow",
+  "GUID": 76561198757425956,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 149135,
+      "TimestampMs": 1781221008120,
+      "SessionId": "22aec622-bce6-4c53-903d-a18ce5e0536b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 144865,
+      "TimestampMs": 1781222111333,
+      "SessionId": "22aec622-bce6-4c53-903d-a18ce5e0536b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}
