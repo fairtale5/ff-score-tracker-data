@@ -1,0 +1,23 @@
+{
+  "Username": "Andr\u00E9 de pantufas",
+  "GUID": 76561198353890957,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 128776,
+      "TimestampMs": 1781477578479,
+      "SessionId": "d0886901-492a-40b9-be76-9bddd06cea88",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 129699,
+      "TimestampMs": 1781479136461,
+      "SessionId": "d0886901-492a-40b9-be76-9bddd06cea88",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

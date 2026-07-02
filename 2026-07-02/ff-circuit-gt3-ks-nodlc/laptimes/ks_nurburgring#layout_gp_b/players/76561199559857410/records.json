@@ -1,0 +1,25 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 122666,
+      "TimestampMs": 1781835230692,
+      "SessionId": "95ee0e99-563c-4621-a0a8-6c5a47e8ac64",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 123508,
+      "TimestampMs": 1781977048336,
+      "SessionId": "562810de-3353-48cc-95c6-982c15fc366a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

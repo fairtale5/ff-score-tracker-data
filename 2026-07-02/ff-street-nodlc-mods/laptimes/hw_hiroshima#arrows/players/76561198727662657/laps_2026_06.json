@@ -1,0 +1,68 @@
+[
+  {
+    "TimestampMs": 1781568619583,
+    "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 272979,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781570250263,
+    "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 269165,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1781736924925,
+    "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 512865,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781737198644,
+    "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 273717,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1781899581275,
+    "SessionId": "15ad3b7c-3d3e-4ae5-aac5-8e9fb9ed3ce4",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 279229,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds"
+  },
+  {
+    "TimestampMs": 1781900189787,
+    "SessionId": "15ad3b7c-3d3e-4ae5-aac5-8e9fb9ed3ce4",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 332593,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Fog"
+  }
+]

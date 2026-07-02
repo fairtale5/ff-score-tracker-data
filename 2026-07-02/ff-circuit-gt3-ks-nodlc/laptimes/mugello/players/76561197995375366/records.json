@@ -1,0 +1,58 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Mixed": {
+      "LapTimeMs": 113600,
+      "TimestampMs": 1774129264785,
+      "SessionId": "e54bb12c-ed62-46d9-88b6-f37b0c31c005",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Transition"
+    },
+    "bmw_z4_gt3_Drizzle": {
+      "LapTimeMs": 113759,
+      "TimestampMs": 1774129151154,
+      "SessionId": "e54bb12c-ed62-46d9-88b6-f37b0c31c005",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 114175,
+      "TimestampMs": 1774833817344,
+      "SessionId": "32dbbefb-1964-4b50-b604-cf1ed4c5811f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Mist": {
+      "LapTimeMs": 113437,
+      "TimestampMs": 1774129609518,
+      "SessionId": "e54bb12c-ed62-46d9-88b6-f37b0c31c005",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "bmw_z4_gt3_Cold": {
+      "LapTimeMs": 113979,
+      "TimestampMs": 1774131342710,
+      "SessionId": "e54bb12c-ed62-46d9-88b6-f37b0c31c005",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "bmw_z4_gt3_ScatteredClouds": {
+      "LapTimeMs": 115219,
+      "TimestampMs": 1774130999744,
+      "SessionId": "e54bb12c-ed62-46d9-88b6-f37b0c31c005",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 109897,
+      "TimestampMs": 1778199575474,
+      "SessionId": "e67dc0a6-3737-48fe-87cd-a2efafbcb68f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

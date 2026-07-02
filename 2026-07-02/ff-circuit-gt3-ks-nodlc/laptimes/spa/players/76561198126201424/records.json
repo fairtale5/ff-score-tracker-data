@@ -1,0 +1,23 @@
+{
+  "Username": "KAFF",
+  "GUID": 76561198126201424,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 141218,
+      "TimestampMs": 1777849596476,
+      "SessionId": "f52de384-6c3b-474b-9d8e-dac5d414f2e9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 148025,
+      "TimestampMs": 1774922756190,
+      "SessionId": "ebde6d69-1632-458e-9560-0d5502d5205f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

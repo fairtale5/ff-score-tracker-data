@@ -1,0 +1,30 @@
+{
+  "Username": "Altivel",
+  "GUID": 76561199189081210,
+  "Track": "spa",
+  "Layout": "2022",
+  "BestLaps": {
+    "rss_mph_lanzo_v8_evo_Clear": {
+      "LapTimeMs": 215027,
+      "TimestampMs": 1780172505373,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_mph_lanzo_v8_evo_Mixed": {
+      "LapTimeMs": 231208,
+      "TimestampMs": 1780172736590,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    },
+    "rss_mph_lanzo_v8_evo_Cold": {
+      "LapTimeMs": 201607,
+      "TimestampMs": 1780173121577,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

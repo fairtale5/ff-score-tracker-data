@@ -1,0 +1,25 @@
+{
+  "Username": "Dayvison Silva",
+  "GUID": 76561199065523813,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 131671,
+      "TimestampMs": 1782700935079,
+      "SessionId": "c6656302-c37f-43b2-82f3-d6bd1d01bfe5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 125503,
+      "TimestampMs": 1782701817959,
+      "SessionId": "c6656302-c37f-43b2-82f3-d6bd1d01bfe5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

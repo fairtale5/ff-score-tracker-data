@@ -1,0 +1,25 @@
+{
+  "Username": "rusnako",
+  "GUID": 76561199040819664,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 164423,
+      "TimestampMs": 1782068231501,
+      "SessionId": "d805c58d-2076-4392-a78a-47c819945c59",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 175866,
+      "TimestampMs": 1782066605751,
+      "SessionId": "d805c58d-2076-4392-a78a-47c819945c59",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

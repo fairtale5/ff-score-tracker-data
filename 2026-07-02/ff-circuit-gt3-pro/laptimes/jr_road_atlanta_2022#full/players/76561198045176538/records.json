@@ -1,0 +1,23 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 87344,
+      "TimestampMs": 1781457022369,
+      "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_aero_v10_evo2_Mixed": {
+      "LapTimeMs": 84623,
+      "TimestampMs": 1781457430180,
+      "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

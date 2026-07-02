@@ -1,0 +1,112 @@
+[
+  {
+    "TimestampMs" : 1775068432033,
+    "SessionId" : "adeaf0bd-75ac-4368-9182-aa93294a7b97",
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherStart" : "Clear",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 79880,
+    "WeatherEnd" : "Clear",
+    "Car" : "hd_gt86_nfsnl1"
+  },
+  {
+    "Car" : "hd_gt86_nfsnl1",
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775070622449,
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 70975,
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775070997858,
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherStart" : "Clear",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 74849,
+    "WeatherEnd" : "Clear",
+    "Car" : "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned"
+  },
+  {
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775071177262,
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 42427,
+    "Layout" : "hh_suburbs",
+    "WeatherEnd" : "Clear",
+    "Car" : "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "TimestampMs" : 1775071984764,
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "WeatherEnd" : "Clear",
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 26218,
+    "WeatherStart" : "Clear",
+    "Car" : "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned"
+  },
+  {
+    "Layout" : "hh_suburbs",
+    "LapTimeMs" : 62081,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775072177562,
+    "Car" : "bkXHM_nissan_gtr_21_RB_KIT_redd_tuned"
+  },
+  {
+    "TimestampMs" : 1775072398186,
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 24017,
+    "Layout" : "hh_suburbs",
+    "Car" : "mazda_rx7_veilside_pushin_p"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "TimestampMs" : 1775072506903,
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "LapTimeMs" : 108718,
+    "Layout" : "hh_suburbs",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "mazda_rx7_veilside_pushin_p"
+  },
+  {
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775072623714,
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 116817,
+    "Layout" : "hh_suburbs",
+    "Car" : "mazda_rx7_veilside_pushin_p"
+  },
+  {
+    "Car" : "mazda_rx7_veilside_pushin_p",
+    "WeatherCategory" : "Clear",
+    "Track" : "Hamburg_by_4r_v.1.3",
+    "SessionId" : "173f95ae-fc33-4414-a969-43ce3c772c34",
+    "TimestampMs" : 1775072673324,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 32359,
+    "Layout" : "hh_suburbs",
+    "WeatherStart" : "Clear"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs" : 1775090570295,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 121370,
+    "Layout" : "",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "LapTimeMs" : 129144,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775090699441,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775323741100,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 144969,
+    "Layout" : "",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "TimestampMs" : 1775323859609,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "LapTimeMs" : 118502,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_m3_gt2"
+  },
+  {
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "TimestampMs" : 1775323982702,
+    "LapTimeMs" : 123077,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "bmw_m3_gt2"
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "LapTimeMs" : 119091,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "TimestampMs" : 1775324101773
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "TimestampMs" : 1775324241103,
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 139329,
+    "Layout" : ""
+  },
+  {
+    "Car" : "bmw_m3_gt2",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 119860,
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+    "TimestampMs" : 1775324849431,
+    "WeatherCategory" : "Clear",
+    "Track" : "monza"
+  }
+]

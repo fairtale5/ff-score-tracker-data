@@ -1,0 +1,25 @@
+{
+  "Username": "gabrielsilvamaia17",
+  "GUID": 76561199530047148,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 89555,
+      "TimestampMs": 1782895898473,
+      "SessionId": "3239f6e5-cd58-45dd-b7e7-eca554bbdcf0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 88394,
+      "TimestampMs": 1782896204915,
+      "SessionId": "3239f6e5-cd58-45dd-b7e7-eca554bbdcf0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

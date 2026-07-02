@@ -1,0 +1,30 @@
+{
+  "Username": "tales1000grau",
+  "GUID": 76561198858290983,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_Mixed": {
+      "LapTimeMs": 151073,
+      "TimestampMs": 1778466628007,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_ScatteredClouds": {
+      "LapTimeMs": 161872,
+      "TimestampMs": 1778466789877,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lux_v8_Mixed": {
+      "LapTimeMs": 150530,
+      "TimestampMs": 1778796543506,
+      "SessionId": "ce2c5177-f8ec-48e7-ba9b-34c0aac1e621",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

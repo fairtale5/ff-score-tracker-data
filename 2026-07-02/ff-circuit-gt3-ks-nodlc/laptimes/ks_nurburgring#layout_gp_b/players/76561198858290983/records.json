@@ -1,0 +1,30 @@
+{
+  "Username": "tales jesus",
+  "GUID": 76561198858290983,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 127158,
+      "TimestampMs": 1778897419850,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 122172,
+      "TimestampMs": 1780158844288,
+      "SessionId": "b410457d-713b-4a4e-b867-b14fcf8aaebe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_HeavyDrizzle": {
+      "LapTimeMs": 132876,
+      "TimestampMs": 1781299391594,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780545145122,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 215732,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780545312670,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 167546,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "HeavyDrizzle"
+  }
+]

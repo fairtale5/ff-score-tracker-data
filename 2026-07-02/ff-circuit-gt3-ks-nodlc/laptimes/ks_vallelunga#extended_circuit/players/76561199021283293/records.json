@@ -1,0 +1,23 @@
+{
+  "Username": "mateo",
+  "GUID": 76561199021283293,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 97133,
+      "TimestampMs": 1779424576492,
+      "SessionId": "05a8e8f4-c35c-4d74-bbb2-2ec021692b06",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 97665,
+      "TimestampMs": 1779425583197,
+      "SessionId": "05a8e8f4-c35c-4d74-bbb2-2ec021692b06",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

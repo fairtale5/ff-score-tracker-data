@@ -1,0 +1,23 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 98374,
+      "TimestampMs": 1774808511645,
+      "SessionId": "e8ec0069-9687-44a1-96c6-76127c0ead54",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 94598,
+      "TimestampMs": 1779407117020,
+      "SessionId": "05a8e8f4-c35c-4d74-bbb2-2ec021692b06",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

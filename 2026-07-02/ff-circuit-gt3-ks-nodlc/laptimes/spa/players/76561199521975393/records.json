@@ -1,0 +1,37 @@
+{
+  "Username": "Niki Lauda",
+  "GUID": 76561199521975393,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 139697,
+      "TimestampMs": 1775703133977,
+      "SessionId": "9438249f-8fcc-4009-a5ea-f23acdaceb18",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 142789,
+      "TimestampMs": 1775779482526,
+      "SessionId": "3bb86df9-8d60-4ded-8aa9-10950cd72644",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 141848,
+      "TimestampMs": 1776217622570,
+      "SessionId": "e749f677-4975-4e47-8131-b864b5efafda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 141701,
+      "TimestampMs": 1776215920343,
+      "SessionId": "e749f677-4975-4e47-8131-b864b5efafda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1780458291493,
+    "SessionId": "b06e0ebd-f136-48f7-b611-d07709c50327",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 228182,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780461395502,
+    "SessionId": "b06e0ebd-f136-48f7-b611-d07709c50327",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 250371,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780855910431,
+    "SessionId": "7bc7d9de-b975-473e-a3b8-16b3669a72f9",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 229639,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781536298145,
+    "SessionId": "b8e0d706-eed6-4c2d-b692-9f3ef6052bb3",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 250426,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781537172453,
+    "SessionId": "b8e0d706-eed6-4c2d-b692-9f3ef6052bb3",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 242939,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot"
+  }
+]

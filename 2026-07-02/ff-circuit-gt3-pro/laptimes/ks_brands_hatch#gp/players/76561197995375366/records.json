@@ -1,0 +1,37 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mist": {
+      "LapTimeMs": 89465,
+      "TimestampMs": 1778555937391,
+      "SessionId": "19fed99e-fced-4911-bdc4-12598b2d148e",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 87583,
+      "TimestampMs": 1778557972352,
+      "SessionId": "19fed99e-fced-4911-bdc4-12598b2d148e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_protech_p92_f6_Clear": {
+      "LapTimeMs": 89068,
+      "TimestampMs": 1778556427339,
+      "SessionId": "19fed99e-fced-4911-bdc4-12598b2d148e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_protech_p92_f6_Hot": {
+      "LapTimeMs": 87485,
+      "TimestampMs": 1778558059836,
+      "SessionId": "19fed99e-fced-4911-bdc4-12598b2d148e",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    }
+  },
+  "LapTimeHistory": []
+}

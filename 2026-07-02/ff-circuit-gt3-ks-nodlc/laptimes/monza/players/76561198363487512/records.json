@@ -1,0 +1,30 @@
+{
+  "Username": "Bombini",
+  "GUID": 76561198363487512,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 116759,
+      "TimestampMs": 1775083658517,
+      "SessionId": "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 115013,
+      "TimestampMs": 1776624941598,
+      "SessionId": "f0f2c010-ff2e-4791-bca1-1061b0083ab6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 119234,
+      "TimestampMs": 1776633407887,
+      "SessionId": "f0f2c010-ff2e-4791-bca1-1061b0083ab6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

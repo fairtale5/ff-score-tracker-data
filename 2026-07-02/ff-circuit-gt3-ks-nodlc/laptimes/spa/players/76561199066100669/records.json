@@ -1,0 +1,25 @@
+{
+  "Username": "willz27",
+  "GUID": 76561199066100669,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 151351,
+      "TimestampMs": 1782680129725,
+      "SessionId": "cf95fa95-77a2-4bc3-bd9c-03d82affe621",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 153617,
+      "TimestampMs": 1782680793671,
+      "SessionId": "cf95fa95-77a2-4bc3-bd9c-03d82affe621",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,33 @@
+{
+  "Username": "Jm nordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 95337,
+      "TimestampMs": 1782342008647,
+      "SessionId": "9a7c3128-6043-47d2-992c-bba23538cada",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 94564,
+      "TimestampMs": 1782342544713,
+      "SessionId": "9a7c3128-6043-47d2-992c-bba23538cada",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 94394,
+      "TimestampMs": 1782354486163,
+      "SessionId": "9a7c3128-6043-47d2-992c-bba23538cada",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

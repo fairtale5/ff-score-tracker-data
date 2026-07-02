@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1781457022369,
+    "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 87344,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1781457345545,
+    "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 84751,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781457430180,
+    "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 84623,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  }
+]

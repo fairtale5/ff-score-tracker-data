@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778816745121,
+    "SessionId": "9eb7ef90-8cd0-4f14-8570-ef44273a1ade",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_mazda_rx7_spirit_r",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1778817497054,
+    "SessionId": "9eb7ef90-8cd0-4f14-8570-ef44273a1ade",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_mazda_rx7_spirit_r",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Clear"
+  }
+]

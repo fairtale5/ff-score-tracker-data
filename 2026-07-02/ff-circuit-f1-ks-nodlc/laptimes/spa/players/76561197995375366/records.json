@@ -1,0 +1,23 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_98t_Clear": {
+      "LapTimeMs": 129453,
+      "TimestampMs": 1779923377527,
+      "SessionId": "5b31e0a3-b2e6-4856-b587-3d8fc0b302eb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 115668,
+      "TimestampMs": 1780027550038,
+      "SessionId": "5b31e0a3-b2e6-4856-b587-3d8fc0b302eb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1782825292697,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 77094,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782825369433,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 76743,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782825446307,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 76877,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782825861108,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 75655,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782825935864,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 74759,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782826273084,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 74981,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782826546598,
+    "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 76153,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]
