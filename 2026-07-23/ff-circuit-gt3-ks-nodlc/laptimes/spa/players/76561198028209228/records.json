@@ -1,0 +1,33 @@
+{
+  "Username": "Arthur Dias",
+  "GUID": 76561198028209228,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 152287,
+      "TimestampMs": 1782678285944,
+      "SessionId": "cf95fa95-77a2-4bc3-bd9c-03d82affe621",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 150788,
+      "TimestampMs": 1782678819123,
+      "SessionId": "cf95fa95-77a2-4bc3-bd9c-03d82affe621",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 151327,
+      "TimestampMs": 1782679492941,
+      "SessionId": "cf95fa95-77a2-4bc3-bd9c-03d82affe621",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

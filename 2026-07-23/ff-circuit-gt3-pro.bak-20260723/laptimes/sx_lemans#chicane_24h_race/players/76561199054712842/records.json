@@ -1,0 +1,37 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "sx_lemans",
+  "Layout": "chicane_24h_race",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 239404,
+      "TimestampMs": 1780170027534,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 238394,
+      "TimestampMs": 1780165772362,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 237247,
+      "TimestampMs": 1780166009597,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_mph_protech_p96_v8_Mixed": {
+      "LapTimeMs": 212773,
+      "TimestampMs": 1780167486904,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

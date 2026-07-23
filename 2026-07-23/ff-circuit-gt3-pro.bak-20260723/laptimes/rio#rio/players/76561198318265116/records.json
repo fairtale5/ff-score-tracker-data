@@ -1,0 +1,23 @@
+{
+  "Username": "FireZz",
+  "GUID": 76561198318265116,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "rss_gtm_bayer_v8_LightDrizzle": {
+      "LapTimeMs": 151738,
+      "TimestampMs": 1780534443970,
+      "SessionId": "af0b2138-68c2-4527-9574-b054125effab",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 142677,
+      "TimestampMs": 1780535558320,
+      "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

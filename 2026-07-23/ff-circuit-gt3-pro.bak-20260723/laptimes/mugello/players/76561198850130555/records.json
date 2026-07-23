@@ -1,0 +1,23 @@
+{
+  "Username": "Vitaum",
+  "GUID": 76561198850130555,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_akuro_v6_evo2_Mist": {
+      "LapTimeMs": 113214,
+      "TimestampMs": 1779059098653,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_akuro_v6_evo2_ScatteredClouds": {
+      "LapTimeMs": 110943,
+      "TimestampMs": 1781839335501,
+      "SessionId": "1aa6be5d-c381-4f99-86b6-dfa7492c5ca3",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

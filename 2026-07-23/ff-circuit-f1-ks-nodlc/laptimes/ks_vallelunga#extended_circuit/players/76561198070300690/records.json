@@ -1,0 +1,25 @@
+{
+  "Username": "Rachilei Silva",
+  "GUID": 76561198070300690,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 81028,
+      "TimestampMs": 1784336905076,
+      "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 79670,
+      "TimestampMs": 1784337320737,
+      "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "Car" : "zesty_toyota_supra_mk4_shuto_street",
+    "WeatherEnd" : "Mist",
+    "WeatherStart" : "Mist",
+    "Layout" : "arrows",
+    "LapTimeMs" : 271004,
+    "TimestampMs" : 1774243924925,
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "WeatherCategory" : "Mist",
+    "Track" : "hw_hiroshima"
+  },
+  {
+    "WeatherCategory" : "Mixed",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "TimestampMs" : 1774245702442,
+    "LapTimeMs" : 908026,
+    "Layout" : "arrows",
+    "WeatherStart" : "ScatteredClouds",
+    "WeatherEnd" : "Clear",
+    "Car" : "lexus_lfa_tuned"
+  },
+  {
+    "Car" : "lexus_lfa_tuned",
+    "WeatherEnd" : "Cold",
+    "WeatherStart" : "Clear",
+    "Layout" : "arrows",
+    "LapTimeMs" : 415932,
+    "TimestampMs" : 1774246118380,
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "Track" : "hw_hiroshima",
+    "WeatherCategory" : "Mixed"
+  },
+  {
+    "TimestampMs" : 1774246424655,
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "Track" : "hw_hiroshima",
+    "WeatherCategory" : "Mixed",
+    "WeatherStart" : "Cold",
+    "LapTimeMs" : 306274,
+    "Layout" : "arrows",
+    "WeatherEnd" : "Clear",
+    "Car" : "lexus_lfa_tuned"
+  },
+  {
+    "Layout" : "arrows",
+    "LapTimeMs" : 323852,
+    "WeatherStart" : "ScatteredClouds",
+    "WeatherEnd" : "ScatteredClouds",
+    "WeatherCategory" : "ScatteredClouds",
+    "Track" : "hw_hiroshima",
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "TimestampMs" : 1774247420350,
+    "Car" : "pb_camaro_2010_tuned"
+  },
+  {
+    "SessionId" : "fd6f907f-240c-429b-9585-e803bcbc8cfb",
+    "TimestampMs" : 1774249513555,
+    "Track" : "hw_hiroshima",
+    "WeatherCategory" : "Mixed",
+    "WeatherStart" : "ScatteredClouds",
+    "Layout" : "arrows",
+    "LapTimeMs" : 322253,
+    "WeatherEnd" : "Mist",
+    "Car" : "kimdog_drift_bmw_e36"
+  },
+  {
+    "Track" : "hw_hiroshima",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304",
+    "TimestampMs" : 1774656478326,
+    "LapTimeMs" : 342858,
+    "Layout" : "arrows",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "hd_gt86_nfsnl1"
+  },
+  {
+    "TimestampMs" : 1774656809567,
+    "SessionId" : "4f5b7bb3-9084-4d78-a2d9-5f70b73c4304",
+    "Track" : "hw_hiroshima",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 331240,
+    "Layout" : "arrows",
+    "Car" : "hd_gt86_nfsnl1"
+  }
+]

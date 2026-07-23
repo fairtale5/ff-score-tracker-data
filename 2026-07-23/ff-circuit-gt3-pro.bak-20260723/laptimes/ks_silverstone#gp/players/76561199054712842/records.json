@@ -1,0 +1,30 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Hot": {
+      "LapTimeMs": 121833,
+      "TimestampMs": 1779152215324,
+      "SessionId": "b4595559-aee8-459d-a97d-0e413f5bf725",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 121354,
+      "TimestampMs": 1779152523705,
+      "SessionId": "b4595559-aee8-459d-a97d-0e413f5bf725",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_mercer_v8_Clear": {
+      "LapTimeMs": 121078,
+      "TimestampMs": 1779152644782,
+      "SessionId": "b4595559-aee8-459d-a97d-0e413f5bf725",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

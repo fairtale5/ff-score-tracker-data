@@ -1,0 +1,30 @@
+{
+  "Username": "Fahur",
+  "GUID": 76561199382306873,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_Mist": {
+      "LapTimeMs": 117338,
+      "TimestampMs": 1779054224658,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 115725,
+      "TimestampMs": 1779054811188,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_hyperion_v8_Clear": {
+      "LapTimeMs": 116928,
+      "TimestampMs": 1779054928115,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

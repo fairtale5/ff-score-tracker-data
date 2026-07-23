@@ -1,0 +1,23 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 95393,
+      "TimestampMs": 1776733375618,
+      "SessionId": "89ea01a6-9558-4f8a-b633-954527644dc9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 94542,
+      "TimestampMs": 1776737595129,
+      "SessionId": "89ea01a6-9558-4f8a-b633-954527644dc9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

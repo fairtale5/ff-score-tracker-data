@@ -1,0 +1,25 @@
+{
+  "Username": "Matheus",
+  "GUID": 76561199817609978,
+  "Track": "melbourne",
+  "Layout": "layout_f1_2026",
+  "BestLaps": {
+    "gp_2025_c45_Clear_S": {
+      "LapTimeMs": 82109,
+      "TimestampMs": 1783195521224,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "gp_2025_c45_Clear": {
+      "LapTimeMs": 88568,
+      "TimestampMs": 1783196994416,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

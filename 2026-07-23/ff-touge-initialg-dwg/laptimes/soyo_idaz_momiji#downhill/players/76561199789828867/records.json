@@ -1,0 +1,23 @@
+{
+  "Username": "LiuIAM",
+  "GUID": 76561199789828867,
+  "Track": "soyo_idaz_momiji",
+  "Layout": "downhill",
+  "BestLaps": {
+    "dthwsh_nissan_240sx_c_missile_Mixed": {
+      "LapTimeMs": 1,
+      "TimestampMs": 1780037191018,
+      "SessionId": "5e0ff7eb-fb51-45af-9335-866f517cd93e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot"
+    },
+    "dthwsh_nissan_silvia_s15_vaero_Mixed": {
+      "LapTimeMs": 2,
+      "TimestampMs": 1780046439409,
+      "SessionId": "5e0ff7eb-fb51-45af-9335-866f517cd93e",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

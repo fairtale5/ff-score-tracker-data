@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780173978258,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_callahan_v8",
+    "LapTimeMs": 129078,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780174104677,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_callahan_v8",
+    "LapTimeMs": 126423,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot"
+  }
+]

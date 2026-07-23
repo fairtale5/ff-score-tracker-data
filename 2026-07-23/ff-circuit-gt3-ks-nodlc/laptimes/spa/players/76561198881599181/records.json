@@ -1,0 +1,25 @@
+{
+  "Username": "Iluminati",
+  "GUID": 76561198881599181,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 144112,
+      "TimestampMs": 1783474930988,
+      "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 143632,
+      "TimestampMs": 1783477085145,
+      "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

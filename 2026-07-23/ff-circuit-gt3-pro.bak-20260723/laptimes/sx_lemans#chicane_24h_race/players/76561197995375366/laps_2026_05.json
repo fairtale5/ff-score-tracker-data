@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1779932996756,
+    "SessionId": "d0a60256-750a-465b-8cb4-1b17c504594a",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_lmgt_nisumo_r39_v8",
+    "LapTimeMs": 247553,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1779933484642,
+    "SessionId": "d0a60256-750a-465b-8cb4-1b17c504594a",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_lmgt_nisumo_r39_v8",
+    "LapTimeMs": 245085,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1779949233108,
+    "SessionId": "496e01cd-7a37-46f5-939d-31f53ec9490e",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 223849,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780168623999,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_bayer_hybrid_v8",
+    "LapTimeMs": 234955,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780170004633,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 232161,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780170249457,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 244826,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780170498084,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 248627,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  }
+]

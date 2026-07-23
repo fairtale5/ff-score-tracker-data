@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1779619337866,
+    "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 109395,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1779619714643,
+    "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 107501,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

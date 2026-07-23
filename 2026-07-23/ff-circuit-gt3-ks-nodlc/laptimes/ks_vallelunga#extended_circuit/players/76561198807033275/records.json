@@ -1,0 +1,23 @@
+{
+  "Username": "Player",
+  "GUID": 76561198807033275,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 96748,
+      "TimestampMs": 1777486043880,
+      "SessionId": "df7dae83-c072-42b2-99e6-2d26d0e1f4be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 101984,
+      "TimestampMs": 1777496022703,
+      "SessionId": "df7dae83-c072-42b2-99e6-2d26d0e1f4be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

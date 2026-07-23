@@ -1,0 +1,44 @@
+{
+  "Username": "Kauan Aguiar",
+  "GUID": 76561199127033398,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 125162,
+      "TimestampMs": 1780154844234,
+      "SessionId": "b410457d-713b-4a4e-b867-b14fcf8aaebe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 124263,
+      "TimestampMs": 1780158724027,
+      "SessionId": "b410457d-713b-4a4e-b867-b14fcf8aaebe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 120616,
+      "TimestampMs": 1781300229474,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_HeavyDrizzle": {
+      "LapTimeMs": 125091,
+      "TimestampMs": 1781299536082,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle"
+    },
+    "bmw_z4_gt3_Mixed": {
+      "LapTimeMs": 124510,
+      "TimestampMs": 1781299660590,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

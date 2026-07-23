@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1780172807135,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 181500,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780172950876,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 143743,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780173611661,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 148406,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780173757669,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 146023,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780173901913,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 144248,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 144855,
+      "TimestampMs": 1784774402813,
+      "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Cold_S": {
+      "LapTimeMs": 143174,
+      "TimestampMs": 1784774693287,
+      "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

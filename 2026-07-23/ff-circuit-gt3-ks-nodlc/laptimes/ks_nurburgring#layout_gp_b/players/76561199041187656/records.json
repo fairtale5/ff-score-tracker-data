@@ -1,0 +1,25 @@
+{
+  "Username": "Nicol\u00E1s Ballatore",
+  "GUID": 76561199041187656,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 124651,
+      "TimestampMs": 1783028809550,
+      "SessionId": "ff8b1787-42f3-4d49-8e78-88a47e118b75",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 134232,
+      "TimestampMs": 1783029561310,
+      "SessionId": "ff8b1787-42f3-4d49-8e78-88a47e118b75",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

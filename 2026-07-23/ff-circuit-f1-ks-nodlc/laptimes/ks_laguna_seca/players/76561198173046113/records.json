@@ -1,0 +1,23 @@
+{
+  "Username": "Maria do Ros\u00E1rio",
+  "GUID": 76561198173046113,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_98t_Clear": {
+      "LapTimeMs": 100631,
+      "TimestampMs": 1781732795650,
+      "SessionId": "5ea1189f-8649-4892-af47-8928005b075a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 77592,
+      "TimestampMs": 1781733786660,
+      "SessionId": "5ea1189f-8649-4892-af47-8928005b075a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "Car" : "ferrari_458_gt2",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775090455551,
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 126133,
+    "Layout" : "",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "TimestampMs" : 1775090575491,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 119944,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "TimestampMs" : 1775090694317,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 118828,
+    "Layout" : ""
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "TimestampMs" : 1775090823584,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherEnd" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 129268,
+    "WeatherStart" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775091293796,
+    "Layout" : "",
+    "LapTimeMs" : 118500,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 118009,
+    "WeatherEnd" : "Clear",
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "TimestampMs" : 1775091666297,
+    "Track" : "monza",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 116569,
+    "TimestampMs" : 1775091782863,
+    "SessionId" : "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "Car" : "ferrari_458_gt2"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "salvatorethadeo",
+  "GUID": 76561199199344399,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 125335,
+      "TimestampMs": 1784228264086,
+      "SessionId": "2689dd07-4ce2-4b9e-81ce-9e84553c2ac6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 137965,
+      "TimestampMs": 1784256470287,
+      "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

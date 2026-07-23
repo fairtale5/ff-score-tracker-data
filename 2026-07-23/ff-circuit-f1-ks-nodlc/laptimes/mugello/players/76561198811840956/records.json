@@ -1,0 +1,23 @@
+{
+  "Username": "Player",
+  "GUID": 76561198811840956,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_98t_Clear": {
+      "LapTimeMs": 131086,
+      "TimestampMs": 1780190250711,
+      "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 98515,
+      "TimestampMs": 1780194336354,
+      "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

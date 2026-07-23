@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1783828360519,
+    "SessionId": "85a2171d-9b60-49aa-81ee-51be8b32295a",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 465508,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784345213605,
+    "SessionId": "85a2171d-9b60-49aa-81ee-51be8b32295a",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 267814,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "M"
+  }
+]

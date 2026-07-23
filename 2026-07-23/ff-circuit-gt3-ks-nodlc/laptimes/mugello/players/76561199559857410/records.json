@@ -1,0 +1,23 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 115611,
+      "TimestampMs": 1777947277796,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 115683,
+      "TimestampMs": 1777944679099,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Fran6six",
+  "GUID": 76561198722959236,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 127071,
+      "TimestampMs": 1781029647613,
+      "SessionId": "0de7e152-270d-46fa-a3c5-30c0769905f1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 126865,
+      "TimestampMs": 1781475631749,
+      "SessionId": "d0886901-492a-40b9-be76-9bddd06cea88",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

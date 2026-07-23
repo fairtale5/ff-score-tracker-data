@@ -1,0 +1,37 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 138595,
+      "TimestampMs": 1778465635901,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_mercer_v8_Mist": {
+      "LapTimeMs": 138588,
+      "TimestampMs": 1778465497307,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_mercer_v8_Drizzle": {
+      "LapTimeMs": 138134,
+      "TimestampMs": 1778465913224,
+      "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "rss_gtm_furiano_96_v6_Cold": {
+      "LapTimeMs": 137420,
+      "TimestampMs": 1780073429687,
+      "SessionId": "0e42123c-608b-47bb-9d54-e529db11d09e",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

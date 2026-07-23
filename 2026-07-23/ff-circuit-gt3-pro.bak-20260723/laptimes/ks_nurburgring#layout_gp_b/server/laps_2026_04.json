@@ -1,0 +1,112 @@
+[
+  {
+    "TimestampMs": 1776048090995,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtn_protech_96",
+    "LapTimeMs": 130046,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776048370028,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtn_protech_96",
+    "LapTimeMs": 141662,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1776048830346,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 143961,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776049389166,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 131148,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1776049519832,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 130666,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1776049585005,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 125799,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1776049642692,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 122860,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1776049711424,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 126418,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1776049985501,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 124003,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776050115518,
+    "SessionId": "4c9a6bf9-2cea-4d35-884d-42a0fe2c637b",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 130019,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

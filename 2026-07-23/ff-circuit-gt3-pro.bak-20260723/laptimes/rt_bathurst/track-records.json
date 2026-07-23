@@ -1,0 +1,47 @@
+{
+  "Records": {
+    "default": {
+      "ks_mclaren_650_gt3": {
+        "Mixed": {
+          "LapTimeMs": 143997,
+          "PlayerName": "IVANDIR NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1784774358527,
+          "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4"
+        },
+        "Cold": {
+          "LapTimeMs": 138783,
+          "PlayerName": "IVANDIR NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1784774636462,
+          "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4"
+        }
+      },
+      "ks_porsche_911_gt3_r_2016": {
+        "Mixed": {
+          "LapTimeMs": 144855,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1784774402813,
+          "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4"
+        },
+        "Cold": {
+          "LapTimeMs": 143174,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1784774693287,
+          "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4"
+        }
+      },
+      "ks_nissan_gtr_gt3": {
+        "Cold": {
+          "LapTimeMs": 142101,
+          "PlayerName": "Shooter_Fast",
+          "PlayerGuid": 76561197984073279,
+          "TimestampMs": 1784775018737,
+          "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "ks_toyota_celica_st185_gravel": {
+        "Clear": {
+          "LapTimeMs": 499223,
+          "PlayerName": "DrGuyLeShace",
+          "PlayerGuid": 76561199186843950,
+          "TimestampMs": 1778778597406,
+          "SessionId": "206e5adc-5665-4dc8-9306-1a56b023de32"
+        }
+      },
+      "rw_subaru_imprezaS12_wrc": {
+        "Clear": {
+          "LapTimeMs": 501515,
+          "PlayerName": "Cuadry",
+          "PlayerGuid": 76561199087972783,
+          "TimestampMs": 1778956900872,
+          "SessionId": "1b6575d1-82d6-4235-9de0-a1e51f4242d9"
+        }
+      }
+    }
+  }
+}

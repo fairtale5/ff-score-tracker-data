@@ -1,0 +1,167 @@
+[
+  {
+    "TimestampMs": 1775162623706,
+    "SessionId": "48d23ed2-0fba-41a1-b736-997638d43a00",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 386247,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1775174008356,
+    "SessionId": "48d23ed2-0fba-41a1-b736-997638d43a00",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775183856266,
+    "SessionId": "96c7c1f3-be9d-4229-828f-c1c6c0431b41",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_mazda_rx7_spirit_r",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1775276015073,
+    "SessionId": "9ea571ab-e303-44cd-bd54-e8b5f333440d",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_gr86_premium",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1775309483864,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1775334741237,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1775335208544,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1775340546142,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1775340892521,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1775341854111,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1775343197421,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1775344180295,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_gtr_nismo2022",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1775344204630,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1775344600944,
+    "SessionId": "0f059e6a-c9cb-44dc-8d32-e3ee998009a0",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776054568126,
+    "SessionId": "f4c51478-4993-4943-95de-49acfff7b408",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs": 1778468764475,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 112056,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778468866069,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 101587,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778468970942,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 104874,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778469072111,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 101173,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778469174555,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 102439,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778469275830,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 101274,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778469376416,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 100592,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778469476895,
+    "SessionId": "0eb17f65-33f5-45c8-b56b-be517ac8787b",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 100469,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  }
+]

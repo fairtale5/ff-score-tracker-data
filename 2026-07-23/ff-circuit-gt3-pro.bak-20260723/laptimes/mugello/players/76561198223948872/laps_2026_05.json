@@ -1,0 +1,46 @@
+[
+  {
+    "TimestampMs": 1779055511649,
+    "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 153453,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1779055635243,
+    "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 123587,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1779055757994,
+    "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 122744,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1779055884607,
+    "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 126605,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Transition"
+  }
+]
