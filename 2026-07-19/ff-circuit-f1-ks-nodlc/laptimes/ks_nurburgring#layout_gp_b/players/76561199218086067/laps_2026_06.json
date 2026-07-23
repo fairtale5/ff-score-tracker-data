@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780605085608,
+    "SessionId": "357769a6-bb2d-4007-9dda-e15cea31be8f",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 134594,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780605753533,
+    "SessionId": "357769a6-bb2d-4007-9dda-e15cea31be8f",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 127309,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780605883579,
+    "SessionId": "357769a6-bb2d-4007-9dda-e15cea31be8f",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 130047,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

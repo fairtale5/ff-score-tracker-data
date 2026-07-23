@@ -1,0 +1,25 @@
+{
+  "Username": "Senna",
+  "GUID": 76561199803876498,
+  "Track": "melbourne",
+  "Layout": "layout_f1_2026",
+  "BestLaps": {
+    "gp_2025_vcarb02_Clear_S": {
+      "LapTimeMs": 81299,
+      "TimestampMs": 1783196192260,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "gp_2025_vcarb02_Clear": {
+      "LapTimeMs": 81851,
+      "TimestampMs": 1783196988309,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

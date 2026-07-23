@@ -1,0 +1,51 @@
+{
+  "Records": {
+    "suzukagp": {
+      "gp_2025_sf25": {
+        "Clear": {
+          "LapTimeMs": 87560,
+          "PlayerName": "Nicolas",
+          "PlayerGuid": 76561199876824946,
+          "TimestampMs": 1783542020850,
+          "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931"
+        }
+      },
+      "gp_2025_rb21": {
+        "Clear": {
+          "LapTimeMs": 87307,
+          "PlayerName": "Vettel",
+          "PlayerGuid": 76561199182698342,
+          "TimestampMs": 1783799796435,
+          "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931"
+        }
+      },
+      "gp_2025_mcl39": {
+        "Clear": {
+          "LapTimeMs": 88067,
+          "PlayerName": "deloco7a",
+          "PlayerGuid": 76561199819013487,
+          "TimestampMs": 1783798882445,
+          "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931"
+        }
+      },
+      "gp_2025_fw47": {
+        "Clear": {
+          "LapTimeMs": 95827,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1783799907470,
+          "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931"
+        }
+      },
+      "gp_2025_vcarb02": {
+        "Clear": {
+          "LapTimeMs": 92550,
+          "PlayerName": "Senna",
+          "PlayerGuid": 76561199803876498,
+          "TimestampMs": 1783799881207,
+          "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931"
+        }
+      }
+    }
+  }
+}

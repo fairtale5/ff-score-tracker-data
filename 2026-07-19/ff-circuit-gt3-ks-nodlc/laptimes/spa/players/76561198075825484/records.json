@@ -1,0 +1,23 @@
+{
+  "Username": "Decayst",
+  "GUID": 76561198075825484,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 161491,
+      "TimestampMs": 1777332913765,
+      "SessionId": "9e360736-526f-4467-8e48-34781170a9ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 152239,
+      "TimestampMs": 1779068372069,
+      "SessionId": "1c1120fd-2920-467c-861c-d83e8b00e3c2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

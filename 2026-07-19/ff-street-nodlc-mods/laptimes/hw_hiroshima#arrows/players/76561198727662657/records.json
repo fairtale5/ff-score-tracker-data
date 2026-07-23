@@ -1,0 +1,30 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "hw_hiroshima",
+  "Layout": "arrows",
+  "BestLaps": {
+    "hhrc_vette_c6_Clear": {
+      "LapTimeMs": 392769,
+      "TimestampMs": 1778298565585,
+      "SessionId": "62f95dd5-e259-4780-8d24-d0bc5dfa5591",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Mixed": {
+      "LapTimeMs": 269165,
+      "TimestampMs": 1781570250263,
+      "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 279229,
+      "TimestampMs": 1781899581275,
+      "SessionId": "15ad3b7c-3d3e-4ae5-aac5-8e9fb9ed3ce4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "OvercastClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Ego.Chaser",
+  "GUID": 76561198173062463,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 149642,
+      "TimestampMs": 1779507948540,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 146629,
+      "TimestampMs": 1779510603298,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

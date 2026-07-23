@@ -1,0 +1,90 @@
+[
+  {
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774759769716,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "LapTimeMs" : 107083,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 105350,
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_brands_hatch",
+    "TimestampMs" : 1774759875070,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774759973178,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 98103,
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 96295,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774760069477,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_brands_hatch"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 95248,
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1774760164731,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774760268544,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 103811,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "TimestampMs" : 1774760372330,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_brands_hatch",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 103781,
+    "Layout" : "gp",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774760498885,
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 126551,
+    "Layout" : "gp"
+  }
+]

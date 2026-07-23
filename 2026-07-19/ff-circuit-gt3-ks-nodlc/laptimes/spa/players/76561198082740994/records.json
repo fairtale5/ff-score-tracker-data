@@ -1,0 +1,23 @@
+{
+  "Username": "KarneMijada",
+  "GUID": 76561198082740994,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 155811,
+      "TimestampMs": 1775360184791,
+      "SessionId": "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 140323,
+      "TimestampMs": 1779510118329,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

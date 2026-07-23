@@ -1,0 +1,33 @@
+{
+  "Username": "Mauricio",
+  "GUID": 76561199643394988,
+  "Track": "rt_suzuka",
+  "Layout": "suzukagp",
+  "BestLaps": {
+    "gp_2025_rb21_Clear_S": {
+      "LapTimeMs": 88778,
+      "TimestampMs": 1783798866690,
+      "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "gp_2025_rb21_Clear": {
+      "LapTimeMs": 88880,
+      "TimestampMs": 1783799638105,
+      "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "gp_2025_rb21_Clear_M": {
+      "LapTimeMs": 89811,
+      "TimestampMs": 1783801888472,
+      "SessionId": "9f308faf-cc0f-475b-9f36-d6e5e4a50931",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

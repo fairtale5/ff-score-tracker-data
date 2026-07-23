@@ -1,0 +1,23 @@
+{
+  "Username": "rafelgiroto",
+  "GUID": 76561199447178709,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_Mixed": {
+      "LapTimeMs": 113825,
+      "TimestampMs": 1779055946078,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_aero_v10_evo2_Cold": {
+      "LapTimeMs": 114355,
+      "TimestampMs": 1779055715171,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

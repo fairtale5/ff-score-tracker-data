@@ -1,0 +1,25 @@
+{
+  "Username": "SloppyPriest96",
+  "GUID": 76561199093191052,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 145697,
+      "TimestampMs": 1782094015682,
+      "SessionId": "f4da841b-216f-43ea-9b50-09148653331d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 144024,
+      "TimestampMs": 1782094463796,
+      "SessionId": "f4da841b-216f-43ea-9b50-09148653331d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

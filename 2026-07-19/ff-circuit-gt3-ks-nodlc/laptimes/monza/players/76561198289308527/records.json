@@ -1,0 +1,23 @@
+{
+  "Username": "Felipe massa",
+  "GUID": 76561198289308527,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 126092,
+      "TimestampMs": 1780275952987,
+      "SessionId": "c6610e83-4ed5-4067-afb7-bef4837df53d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 130722,
+      "TimestampMs": 1780278339398,
+      "SessionId": "c6610e83-4ed5-4067-afb7-bef4837df53d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Lost Andes VR",
+  "GUID": 76561198142451071,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 119627,
+      "TimestampMs": 1779851241043,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 121838,
+      "TimestampMs": 1779852015203,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

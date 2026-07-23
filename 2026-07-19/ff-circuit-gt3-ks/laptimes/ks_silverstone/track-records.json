@@ -1,0 +1,43 @@
+{
+  "Records": {
+    "gp": {
+      "ks_audi_r8_lms_2016": {
+        "Mixed": {
+          "LapTimeMs": 129151,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773359322085,
+          "SessionId": "89baed90-81c2-4fc7-9ec5-c5223beca30e"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 128738,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773357600942,
+          "SessionId": "89baed90-81c2-4fc7-9ec5-c5223beca30e"
+        },
+        "Hot": {
+          "LapTimeMs": 128501,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773358560824,
+          "SessionId": "89baed90-81c2-4fc7-9ec5-c5223beca30e"
+        },
+        "Clear": {
+          "LapTimeMs": 129710,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773605388277,
+          "SessionId": "d0b479a4-90c7-4a5c-8f44-e595772b411b"
+        },
+        "Cold": {
+          "LapTimeMs": 134238,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773606295764,
+          "SessionId": "d0b479a4-90c7-4a5c-8f44-e595772b411b"
+        }
+      }
+    }
+  }
+}

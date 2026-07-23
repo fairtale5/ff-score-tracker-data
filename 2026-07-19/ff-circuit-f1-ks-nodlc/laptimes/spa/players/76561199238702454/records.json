@@ -1,0 +1,25 @@
+{
+  "Username": "Alex  Betancur",
+  "GUID": 76561199238702454,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 122068,
+      "TimestampMs": 1783651741644,
+      "SessionId": "4938ccb3-763b-4b4e-b6d4-6ab14c2ad5b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 120041,
+      "TimestampMs": 1783651336456,
+      "SessionId": "4938ccb3-763b-4b4e-b6d4-6ab14c2ad5b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

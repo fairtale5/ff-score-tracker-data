@@ -1,0 +1,49 @@
+{
+  "Username": "Henrique Caetano",
+  "GUID": 76561198949156367,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 149878,
+      "TimestampMs": 1783386859956,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 147417,
+      "TimestampMs": 1783389470933,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 159597,
+      "TimestampMs": 1783390927950,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 161978,
+      "TimestampMs": 1783391411115,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 167527,
+      "TimestampMs": 1783392164360,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

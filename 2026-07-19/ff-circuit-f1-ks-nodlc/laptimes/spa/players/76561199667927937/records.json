@@ -1,0 +1,25 @@
+{
+  "Username": "Emir Acar",
+  "GUID": 76561199667927937,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 123028,
+      "TimestampMs": 1783648502742,
+      "SessionId": "4938ccb3-763b-4b4e-b6d4-6ab14c2ad5b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 122671,
+      "TimestampMs": 1783649035611,
+      "SessionId": "4938ccb3-763b-4b4e-b6d4-6ab14c2ad5b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

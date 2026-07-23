@@ -1,0 +1,49 @@
+{
+  "Username": "Jm nordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 156432,
+      "TimestampMs": 1782604593787,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 130110,
+      "TimestampMs": 1782605015464,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 114072,
+      "TimestampMs": 1782607122930,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 115190,
+      "TimestampMs": 1782606383223,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 122042,
+      "TimestampMs": 1782613756775,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

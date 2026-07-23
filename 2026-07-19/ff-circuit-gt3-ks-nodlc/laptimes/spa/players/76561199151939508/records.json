@@ -1,0 +1,30 @@
+{
+  "Username": "pedroka",
+  "GUID": 76561199151939508,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_FewClouds": {
+      "LapTimeMs": 149356,
+      "TimestampMs": 1778198094404,
+      "SessionId": "df7b3f00-b027-4ad9-866f-b44489c0bb0c",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds"
+    },
+    "mclaren_mp412c_gt3_Mixed": {
+      "LapTimeMs": 168355,
+      "TimestampMs": 1778198262753,
+      "SessionId": "df7b3f00-b027-4ad9-866f-b44489c0bb0c",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 152785,
+      "TimestampMs": 1778198415578,
+      "SessionId": "df7b3f00-b027-4ad9-866f-b44489c0bb0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

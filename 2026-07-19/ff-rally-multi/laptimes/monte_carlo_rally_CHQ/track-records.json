@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "rfc_ford_fiesta_r2_09": {
+        "Clear": {
+          "LapTimeMs": 248607,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1778212917084,
+          "SessionId": "9c7fdab9-d2b0-4b9a-8088-3f168f85b857"
+        }
+      },
+      "rfc_peugeot_208_r2": {
+        "Clear": {
+          "LapTimeMs": 246321,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778213183789,
+          "SessionId": "9c7fdab9-d2b0-4b9a-8088-3f168f85b857"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Ridolfi Ignacio",
+  "GUID": 76561198257348178,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 108310,
+      "TimestampMs": 1784262283945,
+      "SessionId": "6dd5d893-3536-421c-9a02-578ecf5ec6aa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 105525,
+      "TimestampMs": 1784263205318,
+      "SessionId": "6dd5d893-3536-421c-9a02-578ecf5ec6aa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

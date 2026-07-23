@@ -1,0 +1,33 @@
+{
+  "Username": "Jm nordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 94568,
+      "TimestampMs": 1783718854570,
+      "SessionId": "77ee87e1-30c5-45ad-b00a-801a7fcd4946",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 97502,
+      "TimestampMs": 1783555765063,
+      "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 92981,
+      "TimestampMs": 1783738858867,
+      "SessionId": "77ee87e1-30c5-45ad-b00a-801a7fcd4946",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

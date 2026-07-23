@@ -1,0 +1,33 @@
+{
+  "Username": "VINICIUS.S.A",
+  "GUID": 76561198837401849,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 108104,
+      "TimestampMs": 1782604361063,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 109107,
+      "TimestampMs": 1782606052134,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 109676,
+      "TimestampMs": 1782605004561,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780088625409,
+    "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 132660,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780088750568,
+    "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 125154,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780088869756,
+    "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 119195,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

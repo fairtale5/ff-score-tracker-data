@@ -1,0 +1,23 @@
+{
+  "Username": "PIX\u003E\u003CKarneMijada",
+  "GUID": 76561198082740994,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "etc_formula_uno_turbo_Clear": {
+      "LapTimeMs": 115087,
+      "TimestampMs": 1779507464264,
+      "SessionId": "b8956a7b-f947-4af5-a88a-ae4db13b33ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "etc_formula_uno_turbo_Mixed": {
+      "LapTimeMs": 116040,
+      "TimestampMs": 1779506717474,
+      "SessionId": "b8956a7b-f947-4af5-a88a-ae4db13b33ba",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "Drizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

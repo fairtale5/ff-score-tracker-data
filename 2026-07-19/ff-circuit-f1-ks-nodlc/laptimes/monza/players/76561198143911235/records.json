@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 90743,
+      "TimestampMs": 1783563652399,
+      "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 95079,
+      "TimestampMs": 1783736254737,
+      "SessionId": "77ee87e1-30c5-45ad-b00a-801a7fcd4946",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

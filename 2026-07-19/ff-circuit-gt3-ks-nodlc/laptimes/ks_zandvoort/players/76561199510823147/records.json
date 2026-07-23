@@ -1,0 +1,33 @@
+{
+  "Username": "Fede Pizzico",
+  "GUID": 76561199510823147,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 107356,
+      "TimestampMs": 1782423808682,
+      "SessionId": "7980628f-856c-4489-a17d-1087f2338a50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 100393,
+      "TimestampMs": 1782427897787,
+      "SessionId": "7980628f-856c-4489-a17d-1087f2338a50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 100940,
+      "TimestampMs": 1782427111788,
+      "SessionId": "7980628f-856c-4489-a17d-1087f2338a50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

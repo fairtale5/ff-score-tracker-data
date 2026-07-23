@@ -1,0 +1,25 @@
+{
+  "Username": "Phadi Wolf",
+  "GUID": 76561197987509115,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 90077,
+      "TimestampMs": 1783892247128,
+      "SessionId": "136afce2-ac57-4b33-ba26-d03ac636e2ad",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 89065,
+      "TimestampMs": 1783892800514,
+      "SessionId": "136afce2-ac57-4b33-ba26-d03ac636e2ad",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

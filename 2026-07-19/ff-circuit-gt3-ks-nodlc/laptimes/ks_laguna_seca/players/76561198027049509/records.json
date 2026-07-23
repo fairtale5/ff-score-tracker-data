@@ -1,0 +1,23 @@
+{
+  "Username": "Nandy",
+  "GUID": 76561198027049509,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 86694,
+      "TimestampMs": 1778808473137,
+      "SessionId": "97d039ae-e096-4cd3-b370-6d6cdf7f7e5b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 87192,
+      "TimestampMs": 1779577204104,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

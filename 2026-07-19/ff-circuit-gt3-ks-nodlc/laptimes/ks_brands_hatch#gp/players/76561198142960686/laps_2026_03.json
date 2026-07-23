@@ -1,0 +1,90 @@
+[
+  {
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774759761963,
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 107525,
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774759857698,
+    "LapTimeMs" : 95736,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774759952231,
+    "Layout" : "gp",
+    "LapTimeMs" : 94535,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 92887,
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_brands_hatch",
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774760045116,
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 112784,
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_brands_hatch",
+    "TimestampMs" : 1774760157897,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "TimestampMs" : 1774760263910,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 106014,
+    "Layout" : "gp",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 125612,
+    "WeatherStart" : "Clear",
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774760389519,
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "Car" : "mclaren_mp412c_gt3"
+  },
+  {
+    "SessionId" : "c030ec2c-5b24-40de-8bfc-25c71ea11c59",
+    "TimestampMs" : 1774760504983,
+    "Track" : "ks_brands_hatch",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 115464,
+    "Layout" : "gp",
+    "Car" : "mclaren_mp412c_gt3"
+  }
+]

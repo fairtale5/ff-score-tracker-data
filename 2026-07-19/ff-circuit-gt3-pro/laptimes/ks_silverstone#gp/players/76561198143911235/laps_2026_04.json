@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1776309339763,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 139347,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1776310147644,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 137435,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1776310287669,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 140025,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310423138,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 135467,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310574440,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 151297,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1776310717440,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 142998,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1776310857809,
+    "SessionId": "86763de2-ec98-4698-87fe-dc488819c474",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "rss_gtm_lux_v8",
+    "LapTimeMs": 140364,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

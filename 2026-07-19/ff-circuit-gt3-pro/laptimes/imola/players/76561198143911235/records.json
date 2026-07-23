@@ -1,0 +1,23 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 111048,
+      "TimestampMs": 1781138760529,
+      "SessionId": "7f8f0062-dddb-4559-8bc3-86830328df5f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 115764,
+      "TimestampMs": 1781139253496,
+      "SessionId": "7f8f0062-dddb-4559-8bc3-86830328df5f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

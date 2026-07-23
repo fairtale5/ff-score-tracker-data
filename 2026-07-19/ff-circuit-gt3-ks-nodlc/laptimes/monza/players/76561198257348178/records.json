@@ -1,0 +1,25 @@
+{
+  "Username": "Ridolfi Ignacio",
+  "GUID": 76561198257348178,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 118580,
+      "TimestampMs": 1784072859368,
+      "SessionId": "f9a6163e-876d-4abf-830d-67533e3d997e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 121822,
+      "TimestampMs": 1784074764925,
+      "SessionId": "f9a6163e-876d-4abf-830d-67533e3d997e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

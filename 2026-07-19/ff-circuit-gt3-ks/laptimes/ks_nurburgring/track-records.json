@@ -1,0 +1,72 @@
+{
+  "Records" : {
+    "layout_gp_b" : {
+      "ks_mercedes_amg_gt3" : {
+        "Mixed" : {
+          "PlayerName" : "m araujo",
+          "LapTimeMs" : 116820,
+          "PlayerGuid" : 76561199054712842,
+          "SessionId" : "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea",
+          "TimestampMs" : 1773614660264
+        }
+      },
+      "ks_mclaren_650_gt3" : {
+        "Clear" : {
+          "PlayerName" : "DT-Snow",
+          "LapTimeMs" : 122394,
+          "PlayerGuid" : 76561198103671356,
+          "SessionId" : "616f4317-b0cb-44fc-8bfe-36bc67c3d586",
+          "TimestampMs" : 1774919497871
+        }
+      },
+      "ks_audi_r8_lms_2016" : {
+        "Clear" : {
+          "PlayerName" : "Erik Fairtale",
+          "LapTimeMs" : 122395,
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "7994549a-edb9-4467-9f01-f41b5dc02671",
+          "TimestampMs" : 1773707431393
+        },
+        "ScatteredClouds" : {
+          "PlayerGuid" : 76561199054712842,
+          "PlayerName" : "m araujo",
+          "LapTimeMs" : 116744,
+          "TimestampMs" : 1773707083760,
+          "SessionId" : "7994549a-edb9-4467-9f01-f41b5dc02671"
+        },
+        "Mixed" : {
+          "TimestampMs" : 1773706849831,
+          "SessionId" : "7994549a-edb9-4467-9f01-f41b5dc02671",
+          "PlayerGuid" : 76561199054712842,
+          "LapTimeMs" : 117851,
+          "PlayerName" : "m araujo"
+        },
+        "Cold" : {
+          "PlayerGuid" : 76561197995375366,
+          "PlayerName" : "Erik Fairtale",
+          "LapTimeMs" : 125583,
+          "TimestampMs" : 1773614304500,
+          "SessionId" : "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea"
+        },
+        "Hot" : {
+          "PlayerName" : "Erik Fairtale",
+          "LapTimeMs" : 127094,
+          "PlayerGuid" : 76561197995375366,
+          "SessionId" : "4aa7bc42-b5c4-460f-b5b4-7931aa6565ea",
+          "TimestampMs" : 1773617676859
+        }
+      }
+    },
+    "layout_gp_a" : {
+      "ks_mercedes_amg_gt3" : {
+        "ScatteredClouds" : {
+          "PlayerGuid" : 76561199054712842,
+          "PlayerName" : "m araujo",
+          "LapTimeMs" : 119980,
+          "TimestampMs" : 1773612915160,
+          "SessionId" : "549a9402-d901-40ae-9d65-2b7de4071b8b"
+        }
+      }
+    }
+  }
+}

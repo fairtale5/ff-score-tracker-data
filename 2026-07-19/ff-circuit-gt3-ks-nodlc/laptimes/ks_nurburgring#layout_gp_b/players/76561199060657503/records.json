@@ -1,0 +1,23 @@
+{
+  "Username": "pomelo",
+  "GUID": 76561199060657503,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 126318,
+      "TimestampMs": 1778895652034,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 124048,
+      "TimestampMs": 1779854766427,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1784256089270,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 125238,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256209335,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 120068,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256329908,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 120575,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256450257,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 120351,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256570718,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 120464,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256691453,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 120737,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784256811313,
+    "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 119846,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

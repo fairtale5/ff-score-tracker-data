@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1783553248500,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 91833,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783553521023,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 92240,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783553802854,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 98624,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783553895092,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 92239,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783553986438,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 91346,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783554077791,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 91353,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783554167951,
+    "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 90161,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

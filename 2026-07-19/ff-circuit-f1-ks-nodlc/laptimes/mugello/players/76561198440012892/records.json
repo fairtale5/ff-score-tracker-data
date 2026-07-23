@@ -1,0 +1,25 @@
+{
+  "Username": "Cody Maverick",
+  "GUID": 76561198440012892,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 98789,
+      "TimestampMs": 1782353850145,
+      "SessionId": "9a7c3128-6043-47d2-992c-bba23538cada",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 95177,
+      "TimestampMs": 1782354580499,
+      "SessionId": "9a7c3128-6043-47d2-992c-bba23538cada",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Bruno Cabral3",
+  "GUID": 76561198119039760,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 141604,
+      "TimestampMs": 1776537091767,
+      "SessionId": "7a9d09f9-f27b-4ea3-818f-8dc6fe2cbf09",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 145504,
+      "TimestampMs": 1776538785757,
+      "SessionId": "7a9d09f9-f27b-4ea3-818f-8dc6fe2cbf09",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

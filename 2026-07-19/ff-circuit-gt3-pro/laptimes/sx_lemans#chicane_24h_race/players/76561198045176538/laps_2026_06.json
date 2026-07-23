@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1781536298145,
+    "SessionId": "b8e0d706-eed6-4c2d-b692-9f3ef6052bb3",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 250426,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1781537172453,
+    "SessionId": "b8e0d706-eed6-4c2d-b692-9f3ef6052bb3",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 242939,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot"
+  }
+]

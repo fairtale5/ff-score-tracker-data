@@ -1,0 +1,23 @@
+{
+  "Username": "teuzinbolado",
+  "GUID": 76561198862172981,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 125046,
+      "TimestampMs": 1775792012365,
+      "SessionId": "c5792c3c-9d3f-487f-a04e-8c3ed71e044f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 126235,
+      "TimestampMs": 1775969767361,
+      "SessionId": "790668f7-a632-4120-9ae2-84e18a90fb0e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1778465219636,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 140807,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778465358722,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 139093,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778465497307,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 138588,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1778465635901,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 138595,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1778465775096,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 139199,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1778465913224,
+    "SessionId": "b12e9e02-7fe3-4860-8cee-a1e7b322adcf",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 138134,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1780073429687,
+    "SessionId": "0e42123c-608b-47bb-9d54-e529db11d09e",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 137420,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

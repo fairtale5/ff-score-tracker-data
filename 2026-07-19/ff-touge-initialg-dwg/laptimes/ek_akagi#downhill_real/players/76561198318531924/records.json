@@ -1,0 +1,30 @@
+{
+  "Username": "Reaper",
+  "GUID": 76561198318531924,
+  "Track": "ek_akagi",
+  "Layout": "downhill_real",
+  "BestLaps": {
+    "dthwsh_nissan_240sx_c_missile_ScatteredClouds": {
+      "LapTimeMs": 292063,
+      "TimestampMs": 1780030778392,
+      "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "dthwsh_nissan_240sx_c_missile_Mixed": {
+      "LapTimeMs": 266713,
+      "TimestampMs": 1780221748011,
+      "SessionId": "16946545-b2d0-4235-9191-4742269cd371",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Clear"
+    },
+    "dthwsh_nissan_240sx_c_missile_Mist": {
+      "LapTimeMs": 296721,
+      "TimestampMs": 1780032268017,
+      "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 72160,
+      "TimestampMs": 1783219351387,
+      "SessionId": "06a5c3ee-4755-491a-9c4e-b9ca5b180310",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 70929,
+      "TimestampMs": 1783219801662,
+      "SessionId": "06a5c3ee-4755-491a-9c4e-b9ca5b180310",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

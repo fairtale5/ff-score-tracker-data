@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1784336741975,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 81093,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784336824043,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 82066,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784336905076,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 81028,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784336987253,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 82175,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784337241065,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 79718,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1784337320737,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 79670,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  }
+]

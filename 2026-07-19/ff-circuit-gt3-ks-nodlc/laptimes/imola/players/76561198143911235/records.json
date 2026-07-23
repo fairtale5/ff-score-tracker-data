@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 108697,
+      "TimestampMs": 1780122332915,
+      "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 109269,
+      "TimestampMs": 1784333182382,
+      "SessionId": "5d2dea29-e1a6-4293-8859-b402c54b8943",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

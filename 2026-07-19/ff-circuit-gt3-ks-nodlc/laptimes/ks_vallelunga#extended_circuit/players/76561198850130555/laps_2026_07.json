@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1783068222621,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 98757,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783068320616,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 98000,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783068834670,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 98586,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783068933147,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 98478,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783069266805,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 98584,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1783069364688,
+    "SessionId": "fee9779a-e602-4e7c-9af4-433af5385daa",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 97885,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "*Visracing",
+  "GUID": 76561198719355309,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 146532,
+      "TimestampMs": 1783585715586,
+      "SessionId": "76c7832b-6c37-40ae-ba6f-c7f830adf855",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 145664,
+      "TimestampMs": 1783586092579,
+      "SessionId": "76c7832b-6c37-40ae-ba6f-c7f830adf855",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

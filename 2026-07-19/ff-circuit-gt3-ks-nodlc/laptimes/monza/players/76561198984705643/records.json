@@ -1,0 +1,25 @@
+{
+  "Username": "Flakes_Cross",
+  "GUID": 76561198984705643,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 117806,
+      "TimestampMs": 1783296108332,
+      "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 114685,
+      "TimestampMs": 1783297918937,
+      "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

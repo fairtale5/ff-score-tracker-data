@@ -1,0 +1,25 @@
+{
+  "Username": "Liso BMX on Instagram fol",
+  "GUID": 76561198867437402,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 117051,
+      "TimestampMs": 1783814979078,
+      "SessionId": "f6ba351a-27df-4f47-9f55-a73c3691f16a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 130271,
+      "TimestampMs": 1783815838071,
+      "SessionId": "f6ba351a-27df-4f47-9f55-a73c3691f16a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

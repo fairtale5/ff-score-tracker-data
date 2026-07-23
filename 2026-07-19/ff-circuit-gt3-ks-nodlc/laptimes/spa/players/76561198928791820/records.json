@@ -1,0 +1,23 @@
+{
+  "Username": "Folotinho",
+  "GUID": 76561198928791820,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 142984,
+      "TimestampMs": 1779510152942,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 141825,
+      "TimestampMs": 1779513264966,
+      "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

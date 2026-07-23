@@ -1,0 +1,25 @@
+{
+  "Username": "NivelHard",
+  "GUID": 76561199068298325,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 120777,
+      "TimestampMs": 1783818056028,
+      "SessionId": "f6ba351a-27df-4f47-9f55-a73c3691f16a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 120537,
+      "TimestampMs": 1783818449767,
+      "SessionId": "f6ba351a-27df-4f47-9f55-a73c3691f16a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

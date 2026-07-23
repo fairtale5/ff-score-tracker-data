@@ -1,0 +1,23 @@
+{
+  "Username": "tales jesus",
+  "GUID": 76561198858290983,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 102180,
+      "TimestampMs": 1778955709199,
+      "SessionId": "4f3f833f-a4e6-4140-a311-bbe246ed1615",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 99536,
+      "TimestampMs": 1778975374255,
+      "SessionId": "4f3f833f-a4e6-4140-a311-bbe246ed1615",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1782022212265,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 105458,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1782022315805,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 103539,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1782022524097,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 103847,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1782022834409,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 104151,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782022937409,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 102986,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1782023389399,
+    "SessionId": "9b6dddb9-cadf-45cc-9a62-5fbeea0b0e0c",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 103356,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

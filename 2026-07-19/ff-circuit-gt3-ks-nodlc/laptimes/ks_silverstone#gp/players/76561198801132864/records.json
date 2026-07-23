@@ -1,0 +1,23 @@
+{
+  "Username": "Faiser",
+  "GUID": 76561198801132864,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 132769,
+      "TimestampMs": 1779227149140,
+      "SessionId": "df478e5e-9fe3-477b-98e1-df96abfe9378",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 133257,
+      "TimestampMs": 1780022874842,
+      "SessionId": "2c59bbdf-c082-4955-83f9-43c300b96c1b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

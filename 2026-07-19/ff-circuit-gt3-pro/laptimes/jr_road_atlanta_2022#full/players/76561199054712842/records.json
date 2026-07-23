@@ -1,0 +1,128 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_hyperion_v8_ScatteredClouds": {
+      "LapTimeMs": 81091,
+      "TimestampMs": 1778452958671,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 79294,
+      "TimestampMs": 1778454253743,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_hyperion_v8_Clear": {
+      "LapTimeMs": 79723,
+      "TimestampMs": 1778453198377,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_hyperion_v8_Hot": {
+      "LapTimeMs": 79598,
+      "TimestampMs": 1778453751903,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_furiano_96_v6_ScatteredClouds": {
+      "LapTimeMs": 79936,
+      "TimestampMs": 1778454645887,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 79125,
+      "TimestampMs": 1778454725013,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_akuro_v6_evo2_ScatteredClouds": {
+      "LapTimeMs": 79178,
+      "TimestampMs": 1778459646522,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed": {
+      "LapTimeMs": 79732,
+      "TimestampMs": 1778459882477,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_mercer_v8_Mist": {
+      "LapTimeMs": 80813,
+      "TimestampMs": 1778460255451,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 79102,
+      "TimestampMs": 1778464030397,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Clear": {
+      "LapTimeMs": 79176,
+      "TimestampMs": 1778460494542,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 79003,
+      "TimestampMs": 1778464109393,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Hot": {
+      "LapTimeMs": 78860,
+      "TimestampMs": 1778462724918,
+      "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_mph_protech_p96_v8_Drizzle": {
+      "LapTimeMs": 71996,
+      "TimestampMs": 1780145953560,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "rss_mph_protech_p96_v8_ScatteredClouds": {
+      "LapTimeMs": 72446,
+      "TimestampMs": 1780161124385,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_mph_protech_p96_v8_Mixed": {
+      "LapTimeMs": 71098,
+      "TimestampMs": 1780161195480,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_mph_protech_p96_v8_Cold": {
+      "LapTimeMs": 71580,
+      "TimestampMs": 1780161502957,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}
