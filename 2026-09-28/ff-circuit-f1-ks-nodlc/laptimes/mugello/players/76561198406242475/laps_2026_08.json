@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1788217392241,
+    "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 97769,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788217485626,
+    "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 93387,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788217578232,
+    "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 92609,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  }
+]

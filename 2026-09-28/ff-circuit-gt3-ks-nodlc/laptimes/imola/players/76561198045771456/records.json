@@ -1,0 +1,23 @@
+{
+  "Username": "Gustavo V.",
+  "GUID": 76561198045771456,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 108640,
+      "TimestampMs": 1779664162607,
+      "SessionId": "16f776bd-78b3-42b8-a69d-27907acfcb3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 106833,
+      "TimestampMs": 1780092935594,
+      "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

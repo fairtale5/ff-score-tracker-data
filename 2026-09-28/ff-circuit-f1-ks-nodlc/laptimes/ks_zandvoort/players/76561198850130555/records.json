@@ -1,0 +1,33 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 81421,
+      "TimestampMs": 1790113687916,
+      "SessionId": "b8fb154e-de3d-4427-9938-c3cc6ec918e7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 81356,
+      "TimestampMs": 1785025694892,
+      "SessionId": "2521d13d-2356-4794-be0f-92ae9afd419d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 81962,
+      "TimestampMs": 1785901211250,
+      "SessionId": "5a1bed73-e7b9-4645-8da8-e35f13454453",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

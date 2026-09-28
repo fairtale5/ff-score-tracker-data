@@ -1,0 +1,33 @@
+{
+  "Username": "The Quebecois",
+  "GUID": 76561198979032566,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 112169,
+      "TimestampMs": 1789945591386,
+      "SessionId": "cc440d09-7089-4bf6-8a3b-9d204dfa2b47",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 110606,
+      "TimestampMs": 1790555426479,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 111620,
+      "TimestampMs": 1790549550186,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

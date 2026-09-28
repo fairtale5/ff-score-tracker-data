@@ -1,0 +1,23 @@
+{
+  "Username": "Kauan Aguiar",
+  "GUID": 76561199127033398,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 107074,
+      "TimestampMs": 1780281972507,
+      "SessionId": "7502e279-7c18-4ed1-bb91-26d7dd7182f4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds": {
+      "LapTimeMs": 110410,
+      "TimestampMs": 1780281548914,
+      "SessionId": "7502e279-7c18-4ed1-bb91-26d7dd7182f4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

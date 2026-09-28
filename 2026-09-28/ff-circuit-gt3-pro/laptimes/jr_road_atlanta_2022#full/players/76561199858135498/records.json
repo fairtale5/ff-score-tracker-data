@@ -1,0 +1,25 @@
+{
+  "Username": "Jotinha Sapeca",
+  "GUID": 76561199858135498,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Mixed_M": {
+      "LapTimeMs": 84680,
+      "TimestampMs": 1784837926288,
+      "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 84376,
+      "TimestampMs": 1784837177456,
+      "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

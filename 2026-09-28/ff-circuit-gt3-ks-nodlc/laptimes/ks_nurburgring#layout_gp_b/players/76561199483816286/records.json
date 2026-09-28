@@ -1,0 +1,41 @@
+{
+  "Username": "Joao Santos",
+  "GUID": 76561199483816286,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 124399,
+      "TimestampMs": 1786741476698,
+      "SessionId": "88e28fce-03d4-48df-bee5-92b5c65d87c2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 125670,
+      "TimestampMs": 1787416059673,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 122003,
+      "TimestampMs": 1787416805168,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 128428,
+      "TimestampMs": 1788534781487,
+      "SessionId": "0ab3aabf-1228-4cfa-abb0-feed25016148",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

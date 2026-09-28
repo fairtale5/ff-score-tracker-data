@@ -1,0 +1,25 @@
+{
+  "Username": "Jose Abruzzesi",
+  "GUID": 76561199755917310,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 151075,
+      "TimestampMs": 1782526066986,
+      "SessionId": "ce21cc7f-4bf8-44a7-8adf-5d0ac843697d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 146834,
+      "TimestampMs": 1783736982766,
+      "SessionId": "1de5d3cf-dada-4b99-8ef3-46a009b4e2e2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

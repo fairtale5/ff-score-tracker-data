@@ -1,0 +1,73 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Mixed_S": {
+      "LapTimeMs": 103763,
+      "TimestampMs": 1789259186542,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Cold_S": {
+      "LapTimeMs": 103696,
+      "TimestampMs": 1789259715262,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Cold_M": {
+      "LapTimeMs": 104087,
+      "TimestampMs": 1789260173245,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Cold_S": {
+      "LapTimeMs": 103842,
+      "TimestampMs": 1789261511810,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Mixed_S": {
+      "LapTimeMs": 103117,
+      "TimestampMs": 1789261614930,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Mist_S": {
+      "LapTimeMs": 102717,
+      "TimestampMs": 1789262519847,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 103914,
+      "TimestampMs": 1789276076294,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 103376,
+      "TimestampMs": 1789276575867,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Danizin99",
+  "GUID": 76561199753950530,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 95813,
+      "TimestampMs": 1788902570201,
+      "SessionId": "519885de-915b-4481-a083-7cf60dd48be2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 94523,
+      "TimestampMs": 1788904582847,
+      "SessionId": "519885de-915b-4481-a083-7cf60dd48be2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

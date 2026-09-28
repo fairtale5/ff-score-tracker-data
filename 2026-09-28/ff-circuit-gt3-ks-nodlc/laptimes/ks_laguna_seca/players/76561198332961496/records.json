@@ -1,0 +1,25 @@
+{
+  "Username": "Igor Rego",
+  "GUID": 76561198332961496,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 92027,
+      "TimestampMs": 1789519407687,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 87640,
+      "TimestampMs": 1789521918294,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1790291080540,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 111872,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790291213480,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 132933,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790292084253,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 106112,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790292191854,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 107597,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790292298939,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 107093,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790292405669,
+    "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 106724,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

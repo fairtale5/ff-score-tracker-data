@@ -1,0 +1,25 @@
+{
+  "Username": "mateusvolponi",
+  "GUID": 76561198879960675,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 87641,
+      "TimestampMs": 1789530273071,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 88470,
+      "TimestampMs": 1784771002981,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

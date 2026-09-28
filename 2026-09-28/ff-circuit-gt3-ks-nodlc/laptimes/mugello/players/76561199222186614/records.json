@@ -1,0 +1,25 @@
+{
+  "Username": "Ogoid",
+  "GUID": 76561199222186614,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 116862,
+      "TimestampMs": 1790553571207,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 113461,
+      "TimestampMs": 1790554322550,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

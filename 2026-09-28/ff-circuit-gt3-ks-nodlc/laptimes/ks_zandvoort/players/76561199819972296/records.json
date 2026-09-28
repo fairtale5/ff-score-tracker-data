@@ -1,0 +1,33 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 113139,
+      "TimestampMs": 1787350899310,
+      "SessionId": "ada15c97-9385-4f66-b7e6-b72c8df2ff02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 107073,
+      "TimestampMs": 1787351797936,
+      "SessionId": "ada15c97-9385-4f66-b7e6-b72c8df2ff02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 106930,
+      "TimestampMs": 1787365201775,
+      "SessionId": "ada15c97-9385-4f66-b7e6-b72c8df2ff02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

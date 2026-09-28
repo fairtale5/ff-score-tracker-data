@@ -1,0 +1,25 @@
+{
+  "Username": "PASTELEIRO",
+  "GUID": 76561198381179760,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 116803,
+      "TimestampMs": 1789688488280,
+      "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 115934,
+      "TimestampMs": 1789689224356,
+      "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

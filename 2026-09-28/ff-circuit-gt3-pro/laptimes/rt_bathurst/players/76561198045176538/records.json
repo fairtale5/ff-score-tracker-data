@@ -1,0 +1,41 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Drizzle_WET": {
+      "LapTimeMs": 139883,
+      "TimestampMs": 1785604834452,
+      "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_ferrari_488_gt3_Mixed_WET": {
+      "LapTimeMs": 137380,
+      "TimestampMs": 1785605876177,
+      "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "WET"
+    },
+    "ks_ferrari_488_gt3_Mist_S": {
+      "LapTimeMs": 131510,
+      "TimestampMs": 1786597041147,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 128932,
+      "TimestampMs": 1786597921809,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

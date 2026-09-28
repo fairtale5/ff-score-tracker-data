@@ -1,0 +1,25 @@
+{
+  "Username": "Jotinha Sapeca",
+  "GUID": 76561199858135498,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 109164,
+      "TimestampMs": 1784354907230,
+      "SessionId": "5d2dea29-e1a6-4293-8859-b402c54b8943",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 109950,
+      "TimestampMs": 1784353263622,
+      "SessionId": "5d2dea29-e1a6-4293-8859-b402c54b8943",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

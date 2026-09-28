@@ -1,0 +1,25 @@
+{
+  "Username": "SuperMario_Ichiban",
+  "GUID": 76561198796450779,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 110215,
+      "TimestampMs": 1785278881290,
+      "SessionId": "182cd433-7cf8-4783-a709-801703b11a76",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 109635,
+      "TimestampMs": 1785279300677,
+      "SessionId": "182cd433-7cf8-4783-a709-801703b11a76",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

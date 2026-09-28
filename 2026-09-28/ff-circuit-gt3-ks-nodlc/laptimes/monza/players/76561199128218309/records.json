@@ -1,0 +1,25 @@
+{
+  "Username": "TomiZarck",
+  "GUID": 76561199128218309,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 116734,
+      "TimestampMs": 1783640240351,
+      "SessionId": "d194495f-e767-41d4-8c35-3ce976487ba4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 121371,
+      "TimestampMs": 1783640521535,
+      "SessionId": "d194495f-e767-41d4-8c35-3ce976487ba4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Prexeks",
+  "GUID": 76561199083302600,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 80053,
+      "TimestampMs": 1786059240036,
+      "SessionId": "ae5437e2-38dc-4bc4-94fb-7aa8fbeae56c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 79696,
+      "TimestampMs": 1786059611471,
+      "SessionId": "ae5437e2-38dc-4bc4-94fb-7aa8fbeae56c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

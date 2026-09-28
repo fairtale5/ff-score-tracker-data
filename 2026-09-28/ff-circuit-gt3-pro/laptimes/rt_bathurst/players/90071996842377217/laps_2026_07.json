@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1784949748628,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 134326,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784949881862,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 133223,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784950016322,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 134471,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784950160189,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 143859,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784999548575,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 135315,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784999790263,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 241690,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785000444246,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 130339,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1781901490947,
+    "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 73426,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1781901563399,
+    "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 72456,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1781901636375,
+    "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 72976,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1781901709452,
+    "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 73081,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1781901781475,
+    "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+    "Track": "magione",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 72023,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

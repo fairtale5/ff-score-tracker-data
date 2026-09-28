@@ -1,0 +1,137 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 125607,
+      "TimestampMs": 1789515739437,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Clear_S": {
+      "LapTimeMs": 125299,
+      "TimestampMs": 1786364867528,
+      "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 125154,
+      "TimestampMs": 1789515864589,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Cold_S": {
+      "LapTimeMs": 125925,
+      "TimestampMs": 1789481296558,
+      "SessionId": "0f4d1191-8747-4af9-b8bb-8d686176cf46",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Cold_S": {
+      "LapTimeMs": 126604,
+      "TimestampMs": 1789519964449,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mist_S": {
+      "LapTimeMs": 125241,
+      "TimestampMs": 1789523375255,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mixed_S": {
+      "LapTimeMs": 125388,
+      "TimestampMs": 1789523500652,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed_H": {
+      "LapTimeMs": 123458,
+      "TimestampMs": 1790306879740,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Clear": {
+      "LapTimeMs": 122631,
+      "TimestampMs": 1790301888988,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed": {
+      "LapTimeMs": 122780,
+      "TimestampMs": 1790304730864,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Hot_H": {
+      "LapTimeMs": 122786,
+      "TimestampMs": 1790302666120,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Clear_H": {
+      "LapTimeMs": 123279,
+      "TimestampMs": 1790303038745,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_FewClouds": {
+      "LapTimeMs": 122656,
+      "TimestampMs": 1790303730940,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Hot": {
+      "LapTimeMs": 123224,
+      "TimestampMs": 1790305117061,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_ScatteredClouds_H": {
+      "LapTimeMs": 123049,
+      "TimestampMs": 1790306756280,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_BrokenClouds_H": {
+      "LapTimeMs": 123248,
+      "TimestampMs": 1790307250463,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

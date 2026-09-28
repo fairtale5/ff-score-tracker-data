@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1784780779761,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 107617,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784780889480,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 109729,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784780996242,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 106768,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784781242292,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 107398,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784781349501,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 107218,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784781484878,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 135383,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784781811399,
+    "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 106733,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

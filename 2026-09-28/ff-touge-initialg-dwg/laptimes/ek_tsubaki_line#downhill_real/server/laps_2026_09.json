@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1788633882955,
+    "SessionId": "fc8e2f53-ca42-4c00-b707-7b9719c33ae7",
+    "Track": "ek_tsubaki_line",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 356726,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "ST"
+  },
+  {
+    "TimestampMs": 1788668878333,
+    "SessionId": "ca2a1f55-ffc9-442a-a2a0-efc99b799720",
+    "Track": "ek_tsubaki_line",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 350268,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "ST"
+  },
+  {
+    "TimestampMs": 1788669464994,
+    "SessionId": "ca2a1f55-ffc9-442a-a2a0-efc99b799720",
+    "Track": "ek_tsubaki_line",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 403955,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "ST"
+  },
+  {
+    "TimestampMs": 1789012250107,
+    "SessionId": "ff1eed9a-ec99-4ed0-a41d-7971aadc8a8c",
+    "Track": "ek_tsubaki_line",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 376555,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "ST"
+  }
+]

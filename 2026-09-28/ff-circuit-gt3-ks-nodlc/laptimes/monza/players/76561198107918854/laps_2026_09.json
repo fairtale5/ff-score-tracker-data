@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1789073667522,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 139604,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789073790458,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 122942,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789073927198,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 136740,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789074051227,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 124024,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789074171523,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 120304,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789074291480,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 119958,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789075201399,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 121039,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "Records": {
+    "layout_f1_2026": {
+      "gp_2025_w16": {
+        "Clear": {
+          "LapTimeMs": 77752,
+          "PlayerName": "nurburg",
+          "PlayerGuid": 76561199636020595,
+          "TimestampMs": 1783195744920,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      },
+      "gp_2025_rb21": {
+        "Clear": {
+          "LapTimeMs": 75312,
+          "PlayerName": "Vettel",
+          "PlayerGuid": 76561199182698342,
+          "TimestampMs": 1783196126290,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      },
+      "gp_2025_c45": {
+        "Clear": {
+          "LapTimeMs": 82109,
+          "PlayerName": "Matheus",
+          "PlayerGuid": 76561199817609978,
+          "TimestampMs": 1783195521224,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      },
+      "gp_2025_vf25": {
+        "Clear": {
+          "LapTimeMs": 86154,
+          "PlayerName": "Tavarim",
+          "PlayerGuid": 76561199403514068,
+          "TimestampMs": 1783195730327,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      },
+      "gp_2025_fw47": {
+        "Clear": {
+          "LapTimeMs": 79879,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1783197917888,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      },
+      "gp_2025_vcarb02": {
+        "Clear": {
+          "LapTimeMs": 81299,
+          "PlayerName": "Senna",
+          "PlayerGuid": 76561199803876498,
+          "TimestampMs": 1783196192260,
+          "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e"
+        }
+      }
+    }
+  }
+}

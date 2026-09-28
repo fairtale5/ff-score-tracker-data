@@ -1,0 +1,25 @@
+{
+  "Username": "cole.bennettk",
+  "GUID": 76561199214955401,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 89246,
+      "TimestampMs": 1788309242253,
+      "SessionId": "5af444ea-a65d-4074-8aa5-d0b89cb019f9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 86924,
+      "TimestampMs": 1788310004105,
+      "SessionId": "5af444ea-a65d-4074-8aa5-d0b89cb019f9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

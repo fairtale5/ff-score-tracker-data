@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 143997,
+      "TimestampMs": 1784774358527,
+      "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Cold_S": {
+      "LapTimeMs": 138783,
+      "TimestampMs": 1784774636462,
+      "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

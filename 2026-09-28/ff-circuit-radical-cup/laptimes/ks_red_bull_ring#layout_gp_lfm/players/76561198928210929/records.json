@@ -1,0 +1,33 @@
+{
+  "Username": "Verdi",
+  "GUID": 76561198928210929,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Fog_S": {
+      "LapTimeMs": 96689,
+      "TimestampMs": 1790518986901,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Fog",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 95717,
+      "TimestampMs": 1790520202691,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 95975,
+      "TimestampMs": 1790519788342,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

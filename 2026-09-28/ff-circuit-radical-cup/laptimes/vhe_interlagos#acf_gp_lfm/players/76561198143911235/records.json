@@ -1,0 +1,49 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Cold_M": {
+      "LapTimeMs": 107568,
+      "TimestampMs": 1785800621564,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 101839,
+      "TimestampMs": 1785801079396,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 98119,
+      "TimestampMs": 1785801177516,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 98800,
+      "TimestampMs": 1785977509166,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 100074,
+      "TimestampMs": 1785979730364,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

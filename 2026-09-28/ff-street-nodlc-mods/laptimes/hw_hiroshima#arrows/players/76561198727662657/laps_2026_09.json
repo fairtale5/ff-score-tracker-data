@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1788489240617,
+    "SessionId": "16adf40e-7dbd-41c5-a387-ecb276737671",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 802282,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788489796552,
+    "SessionId": "16adf40e-7dbd-41c5-a387-ecb276737671",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 275006,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789103308866,
+    "SessionId": "d9e5d150-4389-4190-b3aa-96ed749531c7",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 280847,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790550820231,
+    "SessionId": "5734a006-2972-4e1d-a618-b6bc7a396957",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "naz_porsche_924_tuned",
+    "LapTimeMs": 317465,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "SM"
+  },
+  {
+    "TimestampMs": 1790551400058,
+    "SessionId": "5734a006-2972-4e1d-a618-b6bc7a396957",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "naz_porsche_924_tuned",
+    "LapTimeMs": 579836,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "SM"
+  },
+  {
+    "TimestampMs": 1790551715316,
+    "SessionId": "5734a006-2972-4e1d-a618-b6bc7a396957",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "naz_porsche_924_tuned",
+    "LapTimeMs": 315259,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SM"
+  }
+]

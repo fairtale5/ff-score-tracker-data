@@ -1,0 +1,25 @@
+{
+  "Username": "UNGARO",
+  "GUID": 76561198031787737,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 90452,
+      "TimestampMs": 1784591545294,
+      "SessionId": "9ef7346a-285e-426e-9f68-22fbfb7f5fd7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 93254,
+      "TimestampMs": 1784592537252,
+      "SessionId": "9ef7346a-285e-426e-9f68-22fbfb7f5fd7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

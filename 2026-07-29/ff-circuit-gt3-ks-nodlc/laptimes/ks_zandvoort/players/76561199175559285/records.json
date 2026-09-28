@@ -1,0 +1,25 @@
+{
+  "Username": "Marino Rossi",
+  "GUID": 76561199175559285,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 112549,
+      "TimestampMs": 1785030212387,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 106327,
+      "TimestampMs": 1785030556078,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

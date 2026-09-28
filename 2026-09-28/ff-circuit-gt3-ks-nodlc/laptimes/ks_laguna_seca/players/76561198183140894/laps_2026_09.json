@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1790038294118,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 106652,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790038406049,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 111931,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790039402329,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 127665,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790039738087,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 114569,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790039842219,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 104128,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790039971810,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 129587,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790040071508,
+    "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 99700,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

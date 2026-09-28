@@ -1,0 +1,33 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "acu_unitedstates",
+  "Layout": "a",
+  "BestLaps": {
+    "rss_gtm_adonis_v8_evo_Mixed_D": {
+      "LapTimeMs": 136501,
+      "TimestampMs": 1790405221109,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_adonis_v8_evo_Clear_D": {
+      "LapTimeMs": 133458,
+      "TimestampMs": 1790404404287,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_adonis_v8_evo_Hot_D": {
+      "LapTimeMs": 136631,
+      "TimestampMs": 1790404940476,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

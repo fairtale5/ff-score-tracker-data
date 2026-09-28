@@ -1,0 +1,41 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_Drizzle_M": {
+      "LapTimeMs": 104089,
+      "TimestampMs": 1784914028740,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 101734,
+      "TimestampMs": 1784914451144,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Cold_M": {
+      "LapTimeMs": 102382,
+      "TimestampMs": 1784914774151,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_LightDrizzle_M": {
+      "LapTimeMs": 101717,
+      "TimestampMs": 1784916352002,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

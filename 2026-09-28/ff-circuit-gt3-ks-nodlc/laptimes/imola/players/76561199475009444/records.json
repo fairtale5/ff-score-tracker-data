@@ -1,0 +1,23 @@
+{
+  "Username": "PABLITO",
+  "GUID": 76561199475009444,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 123426,
+      "TimestampMs": 1780108615705,
+      "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 121813,
+      "TimestampMs": 1780110870768,
+      "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

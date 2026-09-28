@@ -1,0 +1,33 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "mugello",
+  "Layout": "mugello_osrw",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_FewClouds_D": {
+      "LapTimeMs": 117979,
+      "TimestampMs": 1790061169809,
+      "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_Mixed_D": {
+      "LapTimeMs": 110900,
+      "TimestampMs": 1790061392430,
+      "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 109527,
+      "TimestampMs": 1790062857697,
+      "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

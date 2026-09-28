@@ -1,0 +1,41 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198708244240,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mist_M": {
+      "LapTimeMs": 132676,
+      "TimestampMs": 1785716474255,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mist": {
+      "LapTimeMs": 124901,
+      "TimestampMs": 1785717191992,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "urd_radical_sr3xxr_2023_Mixed": {
+      "LapTimeMs": 127834,
+      "TimestampMs": 1785717735056,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "urd_radical_sr3xxr_2023_Hot": {
+      "LapTimeMs": 126609,
+      "TimestampMs": 1785718118076,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

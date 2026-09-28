@@ -1,0 +1,33 @@
+{
+  "Username": "Pablo Garcia",
+  "GUID": 76561199096856296,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 111288,
+      "TimestampMs": 1776481308736,
+      "SessionId": "52843a94-ef4b-45e5-8eb8-b6a023e178c7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 111423,
+      "TimestampMs": 1784682836335,
+      "SessionId": "18c0f21a-0480-45a4-85d2-cd8fad881945",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 112705,
+      "TimestampMs": 1784683794953,
+      "SessionId": "18c0f21a-0480-45a4-85d2-cd8fad881945",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

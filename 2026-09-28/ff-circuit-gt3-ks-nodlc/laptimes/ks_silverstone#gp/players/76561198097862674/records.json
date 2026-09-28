@@ -1,0 +1,25 @@
+{
+  "Username": "Trentini",
+  "GUID": 76561198097862674,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 131845,
+      "TimestampMs": 1789839111299,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 130562,
+      "TimestampMs": 1789839840667,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

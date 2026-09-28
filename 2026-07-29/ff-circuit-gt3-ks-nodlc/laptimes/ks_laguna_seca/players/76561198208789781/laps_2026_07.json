@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785089734305,
+    "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 95525,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785090083437,
+    "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 100904,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789685814391,
+    "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 127247,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789685938134,
+    "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 123748,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789686080065,
+    "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 141935,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

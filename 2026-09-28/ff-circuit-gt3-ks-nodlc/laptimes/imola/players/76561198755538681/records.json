@@ -1,0 +1,25 @@
+{
+  "Username": "Danngerman",
+  "GUID": 76561198755538681,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 116175,
+      "TimestampMs": 1788750148348,
+      "SessionId": "c413f201-ca9d-4f50-8424-ab60e1de123b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 112275,
+      "TimestampMs": 1788751386926,
+      "SessionId": "c413f201-ca9d-4f50-8424-ab60e1de123b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

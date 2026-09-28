@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1789094083415,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 122550,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789094234552,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 151146,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789094649587,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 116340,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789095092931,
+    "SessionId": "b377e573-4b0e-44c3-85d1-b0fa65825c66",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 130031,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789671058389,
+    "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 114956,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "Username": "Poseidon00z",
+  "GUID": 76561199562876631,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 105370,
+      "TimestampMs": 1780790441928,
+      "SessionId": "9e84150e-eed1-40ff-80de-b9efcf96f86c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 104635,
+      "TimestampMs": 1780791098385,
+      "SessionId": "9e84150e-eed1-40ff-80de-b9efcf96f86c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

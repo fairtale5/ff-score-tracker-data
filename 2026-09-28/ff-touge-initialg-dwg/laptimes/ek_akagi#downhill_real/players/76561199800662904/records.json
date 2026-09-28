@@ -1,0 +1,33 @@
+{
+  "Username": "Trind4z",
+  "GUID": 76561199800662904,
+  "Track": "ek_akagi",
+  "Layout": "downhill_real",
+  "BestLaps": {
+    "..novibe_a90_Hot_WDTS": {
+      "LapTimeMs": 270312,
+      "TimestampMs": 1787086624721,
+      "SessionId": "db7bb2ed-beee-43f8-8bda-532a13caae42",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "WDTS"
+    },
+    "..novibe_a90_Clear_WDTS": {
+      "LapTimeMs": 247282,
+      "TimestampMs": 1787102694096,
+      "SessionId": "58f57d9a-d37c-4bba-b8f1-be13da8b06a4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "WDTS"
+    },
+    "..novibe_a90_ScatteredClouds_WDTS": {
+      "LapTimeMs": 244728,
+      "TimestampMs": 1787367797073,
+      "SessionId": "58f57d9a-d37c-4bba-b8f1-be13da8b06a4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "WDTS"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1788995269045,
+    "SessionId": "b841b5db-25ef-4634-8c76-05ea81b315de",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 103382,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788995371445,
+    "SessionId": "b841b5db-25ef-4634-8c76-05ea81b315de",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 102400,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  }
+]

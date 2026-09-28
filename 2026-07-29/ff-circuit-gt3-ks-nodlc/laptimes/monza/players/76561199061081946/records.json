@@ -1,0 +1,33 @@
+{
+  "Username": "Roberto Carlos Petrelli",
+  "GUID": 76561199061081946,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 109872,
+      "TimestampMs": 1785276926470,
+      "SessionId": "182cd433-7cf8-4783-a709-801703b11a76",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 109750,
+      "TimestampMs": 1784674042400,
+      "SessionId": "18c0f21a-0480-45a4-85d2-cd8fad881945",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 109742,
+      "TimestampMs": 1785280131314,
+      "SessionId": "182cd433-7cf8-4783-a709-801703b11a76",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

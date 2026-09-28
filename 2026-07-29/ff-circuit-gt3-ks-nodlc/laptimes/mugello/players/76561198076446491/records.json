@@ -1,0 +1,23 @@
+{
+  "Username": "Luiz Severino",
+  "GUID": 76561198076446491,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 112150,
+      "TimestampMs": 1780879838637,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 113263,
+      "TimestampMs": 1780884818011,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

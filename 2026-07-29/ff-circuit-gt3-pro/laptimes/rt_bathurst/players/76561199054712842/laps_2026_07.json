@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1784994937502,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 130809,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784995067376,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 129878,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784995195593,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 128221,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784996451783,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 129163,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784996579467,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 127688,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

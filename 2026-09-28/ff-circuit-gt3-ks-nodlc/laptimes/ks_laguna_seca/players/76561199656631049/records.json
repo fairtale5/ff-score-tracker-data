@@ -1,0 +1,41 @@
+{
+  "Username": "guilhermefernandes4188",
+  "GUID": 76561199656631049,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 92032,
+      "TimestampMs": 1786118978105,
+      "SessionId": "6e4e75d4-9a4c-4377-8d55-428d0aef8aeb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 87700,
+      "TimestampMs": 1786162594652,
+      "SessionId": "6e4e75d4-9a4c-4377-8d55-428d0aef8aeb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 87396,
+      "TimestampMs": 1786167153318,
+      "SessionId": "6e4e75d4-9a4c-4377-8d55-428d0aef8aeb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 87388,
+      "TimestampMs": 1786166662316,
+      "SessionId": "6e4e75d4-9a4c-4377-8d55-428d0aef8aeb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

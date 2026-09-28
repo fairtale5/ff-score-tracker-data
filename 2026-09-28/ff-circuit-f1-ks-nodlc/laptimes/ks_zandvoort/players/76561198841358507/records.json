@@ -1,0 +1,25 @@
+{
+  "Username": "\uD835\uDD78\uD835\uDD86\uD835\uDD8F\uD835\uDD94\uD835\uDD7D\u5929\u624D SKINS",
+  "GUID": 76561198841358507,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 93295,
+      "TimestampMs": 1785443606147,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 92543,
+      "TimestampMs": 1785444313049,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

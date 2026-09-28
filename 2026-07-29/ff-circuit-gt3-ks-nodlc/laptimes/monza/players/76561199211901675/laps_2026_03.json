@@ -1,0 +1,79 @@
+[
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 117906,
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "TimestampMs" : 1774918137385,
+    "WeatherCategory" : "Clear",
+    "Track" : "monza"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "Track" : "monza",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774918261829,
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "WeatherEnd" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 124447,
+    "WeatherStart" : "Clear"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 120443,
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "TimestampMs" : 1774918382273,
+    "WeatherCategory" : "Clear",
+    "Track" : "monza"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "Layout" : "",
+    "LapTimeMs" : 116174,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "TimestampMs" : 1774918498450,
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "TimestampMs" : 1774918623649,
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 125197,
+    "Layout" : "",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 117455,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "monza",
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "TimestampMs" : 1774918741102,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 117047,
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "SessionId" : "1f2afa3d-8e6e-4012-98e4-f29d53e60f7d",
+    "TimestampMs" : 1774918858153,
+    "Track" : "monza",
+    "WeatherCategory" : "Clear"
+  }
+]

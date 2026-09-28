@@ -1,0 +1,25 @@
+{
+  "Username": "Mark Lyons",
+  "GUID": 76561198098029574,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 118892,
+      "TimestampMs": 1789616960440,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 118473,
+      "TimestampMs": 1789617364129,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

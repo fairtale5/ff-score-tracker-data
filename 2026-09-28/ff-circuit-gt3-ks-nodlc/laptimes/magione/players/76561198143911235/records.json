@@ -1,0 +1,23 @@
+{
+  "Username": "I NETO",
+  "GUID": 76561198143911235,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 78089,
+      "TimestampMs": 1777211582717,
+      "SessionId": "bf50a1f7-5e9f-4379-8718-f7a9202c65c3",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 81249,
+      "TimestampMs": 1780605146382,
+      "SessionId": "a013d083-62bb-40e5-8898-6832381d87ab",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,33 @@
+{
+  "Username": "DUAL IPA",
+  "GUID": 76561198928948022,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 89577,
+      "TimestampMs": 1784761599965,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 88982,
+      "TimestampMs": 1784762606283,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 87683,
+      "TimestampMs": 1784762967130,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

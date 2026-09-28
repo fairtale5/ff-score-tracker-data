@@ -1,0 +1,25 @@
+{
+  "Username": "Verdi",
+  "GUID": 76561198928210929,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_FewClouds_D": {
+      "LapTimeMs": 96004,
+      "TimestampMs": 1790517053523,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 94763,
+      "TimestampMs": 1790530302122,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

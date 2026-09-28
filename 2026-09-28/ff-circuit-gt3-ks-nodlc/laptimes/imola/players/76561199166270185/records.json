@@ -1,0 +1,25 @@
+{
+  "Username": "D. Marchi | HWS",
+  "GUID": 76561199166270185,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 107098,
+      "TimestampMs": 1789354291475,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 107310,
+      "TimestampMs": 1789355160184,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

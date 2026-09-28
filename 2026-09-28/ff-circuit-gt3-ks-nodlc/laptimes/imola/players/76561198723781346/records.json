@@ -1,0 +1,33 @@
+{
+  "Username": "Gabriel Casanova",
+  "GUID": 76561198723781346,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 111123,
+      "TimestampMs": 1788754364593,
+      "SessionId": "c413f201-ca9d-4f50-8424-ab60e1de123b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 110054,
+      "TimestampMs": 1788755517021,
+      "SessionId": "c413f201-ca9d-4f50-8424-ab60e1de123b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 138238,
+      "TimestampMs": 1789356453721,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

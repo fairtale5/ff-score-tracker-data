@@ -1,0 +1,25 @@
+{
+  "Username": "Tons de Roxo - Serj\u00E3o",
+  "GUID": 76561198971638981,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 118183,
+      "TimestampMs": 1790539357975,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 120439,
+      "TimestampMs": 1790542203922,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

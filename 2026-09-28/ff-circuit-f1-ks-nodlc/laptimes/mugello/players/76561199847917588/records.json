@@ -1,0 +1,25 @@
+{
+  "Username": "Fernando Stellet",
+  "GUID": 76561199847917588,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 91911,
+      "TimestampMs": 1790393512434,
+      "SessionId": "a07da00b-1b7c-49ed-bb50-dad4b30ec130",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 90888,
+      "TimestampMs": 1790392842142,
+      "SessionId": "a07da00b-1b7c-49ed-bb50-dad4b30ec130",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

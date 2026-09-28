@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1789755026382,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 104774,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789755131110,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 104727,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789755234551,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 103414,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789756319940,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 102800,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1789756423869,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 103926,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1789756533437,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 109566,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1789756825457,
+    "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 107627,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

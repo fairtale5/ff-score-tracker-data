@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1784338859925,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 89288,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784338948243,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 88311,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784339881081,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 87222,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784341539608,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 85765,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784341709698,
+    "SessionId": "6f3eb55c-7585-4f35-a703-dc081704ac2d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 84977,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

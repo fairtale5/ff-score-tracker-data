@@ -1,0 +1,33 @@
+{
+  "Username": "Jeremy Knight",
+  "GUID": 76561198734126677,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_lux_v8_Clear": {
+      "LapTimeMs": 130336,
+      "TimestampMs": 1790303068014,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_lux_v8_Mixed": {
+      "LapTimeMs": 130261,
+      "TimestampMs": 1790302213802,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    },
+    "rss_gtm_lux_v8_Hot": {
+      "LapTimeMs": 128323,
+      "TimestampMs": 1790302342121,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

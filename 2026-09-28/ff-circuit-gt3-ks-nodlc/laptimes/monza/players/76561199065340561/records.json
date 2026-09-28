@@ -1,0 +1,25 @@
+{
+  "Username": "Knine",
+  "GUID": 76561199065340561,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 116575,
+      "TimestampMs": 1787011348887,
+      "SessionId": "c8431c18-b415-4c50-9dc7-87c9f35b6136",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 116374,
+      "TimestampMs": 1787012888224,
+      "SessionId": "c8431c18-b415-4c50-9dc7-87c9f35b6136",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "gelon",
+  "GUID": 76561198445983388,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 135240,
+      "TimestampMs": 1779329884161,
+      "SessionId": "8b139a8b-e132-4ae6-8a32-5a0236479457",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 121440,
+      "TimestampMs": 1779330659747,
+      "SessionId": "8b139a8b-e132-4ae6-8a32-5a0236479457",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

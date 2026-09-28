@@ -1,0 +1,25 @@
+{
+  "Username": "Rafael Teixeira",
+  "GUID": 76561198034963406,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 91357,
+      "TimestampMs": 1784766311936,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 92356,
+      "TimestampMs": 1784767159642,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

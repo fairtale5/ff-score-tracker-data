@@ -1,0 +1,25 @@
+{
+  "Username": "Vinymullerr_",
+  "GUID": 76561199155689747,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 141831,
+      "TimestampMs": 1787876346468,
+      "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 137627,
+      "TimestampMs": 1787877063559,
+      "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

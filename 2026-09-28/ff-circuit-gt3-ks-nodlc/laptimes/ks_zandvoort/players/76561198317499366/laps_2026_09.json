@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1789768093568,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 101315,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789768477195,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 113059,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789768578091,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 100895,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789768679325,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 101234,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789768791953,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 112633,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789768896350,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 104397,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789769010013,
+    "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 113665,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

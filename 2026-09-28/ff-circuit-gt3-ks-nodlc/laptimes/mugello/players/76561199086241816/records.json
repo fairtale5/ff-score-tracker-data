@@ -1,0 +1,25 @@
+{
+  "Username": "Mc10ut",
+  "GUID": 76561199086241816,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 113368,
+      "TimestampMs": 1790539365063,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 112007,
+      "TimestampMs": 1790540502919,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

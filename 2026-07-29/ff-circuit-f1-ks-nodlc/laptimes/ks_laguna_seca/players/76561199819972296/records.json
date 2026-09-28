@@ -1,0 +1,25 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 80537,
+      "TimestampMs": 1783218903570,
+      "SessionId": "06a5c3ee-4755-491a-9c4e-b9ca5b180310",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 80972,
+      "TimestampMs": 1783220308653,
+      "SessionId": "06a5c3ee-4755-491a-9c4e-b9ca5b180310",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1785248059152,
+    "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 96484,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785248407697,
+    "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 93562,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785333475898,
+    "SessionId": "b3791a83-a4f7-43bb-ab71-33ad39ae788c",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 110856,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785334426826,
+    "SessionId": "b3791a83-a4f7-43bb-ab71-33ad39ae788c",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 93858,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785335064829,
+    "SessionId": "b3791a83-a4f7-43bb-ab71-33ad39ae788c",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 91742,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

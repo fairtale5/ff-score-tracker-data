@@ -1,0 +1,33 @@
+{
+  "Username": "heitor.xavier09",
+  "GUID": 90071996842377217,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_Hot": {
+      "LapTimeMs": 133223,
+      "TimestampMs": 1784949881862,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    },
+    "ks_mercedes_amg_gt3_Cold_M": {
+      "LapTimeMs": 135315,
+      "TimestampMs": 1784999548575,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Cold": {
+      "LapTimeMs": 130339,
+      "TimestampMs": 1785000444246,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

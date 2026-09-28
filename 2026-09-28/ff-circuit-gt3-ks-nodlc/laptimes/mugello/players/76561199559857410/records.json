@@ -1,0 +1,33 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 115611,
+      "TimestampMs": 1777947277796,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 113728,
+      "TimestampMs": 1789185483522,
+      "SessionId": "94e81004-0d42-4aae-a779-b20dccc33cd0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 117039,
+      "TimestampMs": 1785622184327,
+      "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

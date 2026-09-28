@@ -1,0 +1,25 @@
+{
+  "Username": "luca la torraca",
+  "GUID": 76561199004266656,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 108184,
+      "TimestampMs": 1784849831177,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 97447,
+      "TimestampMs": 1784850432361,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

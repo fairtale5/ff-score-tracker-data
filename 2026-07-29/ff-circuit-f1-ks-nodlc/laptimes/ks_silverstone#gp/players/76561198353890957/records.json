@@ -1,0 +1,25 @@
+{
+  "Username": "Andr\u00E9 de pantufas",
+  "GUID": 76561198353890957,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 102813,
+      "TimestampMs": 1784755679521,
+      "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 102197,
+      "TimestampMs": 1784758048657,
+      "SessionId": "307643cd-3597-484a-bee6-826a5bc983fd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

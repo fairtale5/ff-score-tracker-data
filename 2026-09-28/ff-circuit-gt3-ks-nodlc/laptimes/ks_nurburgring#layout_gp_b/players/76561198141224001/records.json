@@ -1,0 +1,30 @@
+{
+  "Username": "Fruss",
+  "GUID": 76561198141224001,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 123616,
+      "TimestampMs": 1778897131311,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 123531,
+      "TimestampMs": 1778902887670,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 121160,
+      "TimestampMs": 1779845906930,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

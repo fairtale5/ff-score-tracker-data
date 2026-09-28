@@ -1,0 +1,33 @@
+{
+  "Username": "PiCAbOO",
+  "GUID": 76561199806453848,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 143202,
+      "TimestampMs": 1790383525640,
+      "SessionId": "e3f4b531-a644-491f-abd6-147acae2b4ac",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 143727,
+      "TimestampMs": 1790383915000,
+      "SessionId": "e3f4b531-a644-491f-abd6-147acae2b4ac",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 144463,
+      "TimestampMs": 1790386218413,
+      "SessionId": "e3f4b531-a644-491f-abd6-147acae2b4ac",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

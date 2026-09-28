@@ -1,0 +1,25 @@
+{
+  "Username": "Soares Rodrigo",
+  "GUID": 76561198252964575,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 90740,
+      "TimestampMs": 1788309870820,
+      "SessionId": "6ccee4ee-3930-4b65-b4b2-f43677af9312",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 88909,
+      "TimestampMs": 1788310466352,
+      "SessionId": "6ccee4ee-3930-4b65-b4b2-f43677af9312",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

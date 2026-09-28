@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786065067832,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 150488,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786065638572,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 145529,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  }
+]

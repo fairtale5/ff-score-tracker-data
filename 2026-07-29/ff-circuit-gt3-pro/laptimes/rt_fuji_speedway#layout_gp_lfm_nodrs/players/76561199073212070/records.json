@@ -1,0 +1,25 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_M": {
+      "LapTimeMs": 109973,
+      "TimestampMs": 1784902649639,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_M": {
+      "LapTimeMs": 112437,
+      "TimestampMs": 1784903456798,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

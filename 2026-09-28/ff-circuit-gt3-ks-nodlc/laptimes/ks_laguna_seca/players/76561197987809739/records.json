@@ -1,0 +1,25 @@
+{
+  "Username": "TheFlyingDutch",
+  "GUID": 76561197987809739,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 91517,
+      "TimestampMs": 1784763606902,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 88996,
+      "TimestampMs": 1784765164137,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

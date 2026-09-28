@@ -1,0 +1,25 @@
+{
+  "Username": "TettaNegga4i20",
+  "GUID": 76561199062825160,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 91883,
+      "TimestampMs": 1789763752875,
+      "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 92375,
+      "TimestampMs": 1788925273222,
+      "SessionId": "519885de-915b-4481-a083-7cf60dd48be2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

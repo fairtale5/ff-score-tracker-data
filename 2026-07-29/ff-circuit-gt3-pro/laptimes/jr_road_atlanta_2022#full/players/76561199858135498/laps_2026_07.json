@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1784835913884,
+    "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 86709,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784836300156,
+    "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 86063,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784837177456,
+    "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 84376,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784837545549,
+    "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 84966,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784837926288,
+    "SessionId": "9c2950c3-796a-4928-a7f6-29e875e88b0d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 84680,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  }
+]

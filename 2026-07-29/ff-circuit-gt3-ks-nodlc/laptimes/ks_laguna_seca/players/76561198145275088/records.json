@@ -1,0 +1,23 @@
+{
+  "Username": "DrewSafado",
+  "GUID": 76561198145275088,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 85983,
+      "TimestampMs": 1778810846649,
+      "SessionId": "97d039ae-e096-4cd3-b370-6d6cdf7f7e5b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 84921,
+      "TimestampMs": 1778814350910,
+      "SessionId": "97d039ae-e096-4cd3-b370-6d6cdf7f7e5b",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

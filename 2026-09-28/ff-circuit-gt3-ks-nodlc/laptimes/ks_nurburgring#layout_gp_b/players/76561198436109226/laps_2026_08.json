@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1786943847867,
+    "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 144665,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SH"
+  },
+  {
+    "TimestampMs": 1786944297283,
+    "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 142138,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SH"
+  },
+  {
+    "TimestampMs": 1786944435431,
+    "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 138147,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SH"
+  }
+]

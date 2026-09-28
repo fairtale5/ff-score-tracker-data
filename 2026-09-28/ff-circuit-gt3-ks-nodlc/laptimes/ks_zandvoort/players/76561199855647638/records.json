@@ -1,0 +1,25 @@
+{
+  "Username": "KODA",
+  "GUID": 76561199855647638,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 107013,
+      "TimestampMs": 1788666019199,
+      "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 120580,
+      "TimestampMs": 1788666475577,
+      "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

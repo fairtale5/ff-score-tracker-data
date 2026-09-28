@@ -1,0 +1,25 @@
+{
+  "Username": "PoPeron",
+  "GUID": 76561198044491637,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 148282,
+      "TimestampMs": 1780615233476,
+      "SessionId": "f94f4dcc-bcde-40be-8547-a320fca60a9c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 160114,
+      "TimestampMs": 1783723062310,
+      "SessionId": "1de5d3cf-dada-4b99-8ef3-46a009b4e2e2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

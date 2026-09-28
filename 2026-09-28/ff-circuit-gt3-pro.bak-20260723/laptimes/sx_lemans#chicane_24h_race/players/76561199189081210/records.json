@@ -1,0 +1,23 @@
+{
+  "Username": "Altivel",
+  "GUID": 76561199189081210,
+  "Track": "sx_lemans",
+  "Layout": "chicane_24h_race",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mixed": {
+      "LapTimeMs": 267720,
+      "TimestampMs": 1780170067185,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_macca_72_evo_v8_ScatteredClouds": {
+      "LapTimeMs": 260806,
+      "TimestampMs": 1780170327987,
+      "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

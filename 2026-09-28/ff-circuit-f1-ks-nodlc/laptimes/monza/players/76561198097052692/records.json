@@ -1,0 +1,25 @@
+{
+  "Username": "\uD83C\uDF20Stealers Wheel",
+  "GUID": 76561198097052692,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 86744,
+      "TimestampMs": 1789193385201,
+      "SessionId": "9e9b5a23-649d-4f11-8474-b6d9fcffa324",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 88837,
+      "TimestampMs": 1789192155398,
+      "SessionId": "9e9b5a23-649d-4f11-8474-b6d9fcffa324",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

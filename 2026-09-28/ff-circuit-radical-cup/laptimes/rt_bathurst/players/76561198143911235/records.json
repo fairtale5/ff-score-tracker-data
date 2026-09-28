@@ -1,0 +1,49 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 149072,
+      "TimestampMs": 1786667252454,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_LightDrizzle_S": {
+      "LapTimeMs": 137612,
+      "TimestampMs": 1786668570014,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 135473,
+      "TimestampMs": 1786671225592,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 134250,
+      "TimestampMs": 1786669281981,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 134281,
+      "TimestampMs": 1786672079152,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

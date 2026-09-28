@@ -1,0 +1,25 @@
+{
+  "Username": "marcel211101",
+  "GUID": 76561198352872061,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 106678,
+      "TimestampMs": 1789413591816,
+      "SessionId": "530b5f7c-b3d1-45a6-8135-f27354aa429f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 99346,
+      "TimestampMs": 1789414783060,
+      "SessionId": "530b5f7c-b3d1-45a6-8135-f27354aa429f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "GUID" : 76561198338137451,
+  "Layout" : "",
+  "BestLaps" : {
+    "ferrari_458_gt2_Clear" : {
+      "TimestampMs" : 1775325077134,
+      "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+      "LapTimeMs" : 118768,
+      "WeatherStart" : "Clear",
+      "WeatherEnd" : "Clear"
+    },
+    "mercedes_sls_gt3_Clear" : {
+      "SessionId" : "9cb4d219-5e59-4622-a686-e5c5894475a3",
+      "TimestampMs" : 1775329621066,
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 124601,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "LapTimeHistory" : [],
+  "Username" : "Nemesis My God",
+  "Track" : "monza"
+}

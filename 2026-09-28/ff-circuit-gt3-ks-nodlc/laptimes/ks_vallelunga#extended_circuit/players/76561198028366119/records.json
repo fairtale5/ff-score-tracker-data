@@ -1,0 +1,33 @@
+{
+  "Username": "Daniel Vinicius",
+  "GUID": 76561198028366119,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 101458,
+      "TimestampMs": 1786313335700,
+      "SessionId": "c5ac244e-352c-4fa0-8e88-cb1530bf1de1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 96904,
+      "TimestampMs": 1786313673835,
+      "SessionId": "c5ac244e-352c-4fa0-8e88-cb1530bf1de1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 96428,
+      "TimestampMs": 1787702771016,
+      "SessionId": "82574e15-868d-4d15-9970-a97bbb19a767",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,57 @@
+{
+  "Username": "Fahur",
+  "GUID": 76561199382306873,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 124629,
+      "TimestampMs": 1778897407165,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 124701,
+      "TimestampMs": 1779836388940,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_HeavyDrizzle": {
+      "LapTimeMs": 135919,
+      "TimestampMs": 1781299544993,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Mixed": {
+      "LapTimeMs": 130389,
+      "TimestampMs": 1781299675381,
+      "SessionId": "0823e0bb-2789-4f30-ad6e-d6aea8ae88a7",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 137102,
+      "TimestampMs": 1782007342123,
+      "SessionId": "e1b74eb5-cc84-43cf-bcd6-b2db2600dac9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 126517,
+      "TimestampMs": 1782008168263,
+      "SessionId": "e1b74eb5-cc84-43cf-bcd6-b2db2600dac9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

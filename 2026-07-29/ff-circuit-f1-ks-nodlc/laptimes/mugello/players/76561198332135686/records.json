@@ -1,0 +1,23 @@
+{
+  "Username": "Bakaus",
+  "GUID": 76561198332135686,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_98t_Clear": {
+      "LapTimeMs": 124485,
+      "TimestampMs": 1780252727013,
+      "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 108172,
+      "TimestampMs": 1780253997192,
+      "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

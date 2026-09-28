@@ -1,0 +1,25 @@
+{
+  "Username": "Tomi50",
+  "GUID": 76561198868119360,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 116398,
+      "TimestampMs": 1787013274714,
+      "SessionId": "c8431c18-b415-4c50-9dc7-87c9f35b6136",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 115099,
+      "TimestampMs": 1787014008002,
+      "SessionId": "c8431c18-b415-4c50-9dc7-87c9f35b6136",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

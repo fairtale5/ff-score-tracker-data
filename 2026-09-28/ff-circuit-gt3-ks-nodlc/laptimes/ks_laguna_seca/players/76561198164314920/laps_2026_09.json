@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789504631536,
+    "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 89428,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789504721389,
+    "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 89857,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789504808939,
+    "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 87548,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

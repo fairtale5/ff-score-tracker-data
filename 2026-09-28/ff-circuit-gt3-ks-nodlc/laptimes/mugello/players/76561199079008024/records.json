@@ -1,0 +1,25 @@
+{
+  "Username": "Walisson Henrick",
+  "GUID": 76561199079008024,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 117630,
+      "TimestampMs": 1787968895234,
+      "SessionId": "85184e97-8cb2-4c68-95be-67a6dbb18e2a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_H": {
+      "LapTimeMs": 119439,
+      "TimestampMs": 1787967241404,
+      "SessionId": "85184e97-8cb2-4c68-95be-67a6dbb18e2a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

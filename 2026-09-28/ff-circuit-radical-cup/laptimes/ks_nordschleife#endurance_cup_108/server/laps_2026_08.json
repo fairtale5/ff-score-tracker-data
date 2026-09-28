@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1787518374128,
+    "SessionId": "1bf04ae6-e12b-41b3-ad28-a7c080765be3",
+    "Track": "ks_nordschleife",
+    "Layout": "endurance_cup_108",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 522502,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787583521533,
+    "SessionId": "502db22b-cd9a-4508-a481-884eab51fdf0",
+    "Track": "ks_nordschleife",
+    "Layout": "endurance_cup_108",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 536042,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788152817857,
+    "SessionId": "f97ad318-5b55-4acc-84c7-4839fd5cee0b",
+    "Track": "ks_nordschleife",
+    "Layout": "endurance_cup_108",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 535529,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788153348786,
+    "SessionId": "f97ad318-5b55-4acc-84c7-4839fd5cee0b",
+    "Track": "ks_nordschleife",
+    "Layout": "endurance_cup_108",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 530935,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  }
+]

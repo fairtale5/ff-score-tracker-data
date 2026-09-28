@@ -1,0 +1,73 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Mist_M": {
+      "LapTimeMs": 95719,
+      "TimestampMs": 1785072316620,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Mist": {
+      "LapTimeMs": 91490,
+      "TimestampMs": 1785072947567,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 94265,
+      "TimestampMs": 1785074272466,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_lux_v8_evo_Drizzle_D": {
+      "LapTimeMs": 93572,
+      "TimestampMs": 1789691064629,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lux_v8_evo_FewClouds_D": {
+      "LapTimeMs": 91144,
+      "TimestampMs": 1789693461205,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lux_v8_evo_Mixed_D": {
+      "LapTimeMs": 93338,
+      "TimestampMs": 1789693652966,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_mercer_v8_Mist_H": {
+      "LapTimeMs": 90117,
+      "TimestampMs": 1789695797365,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_lux_v8_evo_Hot_D": {
+      "LapTimeMs": 88226,
+      "TimestampMs": 1789696732488,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

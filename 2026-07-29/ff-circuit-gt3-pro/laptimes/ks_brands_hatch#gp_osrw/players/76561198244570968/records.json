@@ -1,0 +1,25 @@
+{
+  "Username": "Martin Solimo",
+  "GUID": 76561198244570968,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_Clear_M": {
+      "LapTimeMs": 89401,
+      "TimestampMs": 1785039972589,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Clear_S": {
+      "LapTimeMs": 92109,
+      "TimestampMs": 1785040652328,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

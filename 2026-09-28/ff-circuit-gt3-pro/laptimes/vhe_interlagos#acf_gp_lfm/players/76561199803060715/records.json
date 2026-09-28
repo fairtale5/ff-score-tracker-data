@@ -1,0 +1,65 @@
+{
+  "Username": "cadu",
+  "GUID": 76561199803060715,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mixed_M": {
+      "LapTimeMs": 103167,
+      "TimestampMs": 1785549472413,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Clear_M": {
+      "LapTimeMs": 105795,
+      "TimestampMs": 1785551844290,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 100606,
+      "TimestampMs": 1785552046743,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Clear_M": {
+      "LapTimeMs": 100454,
+      "TimestampMs": 1788495193139,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mixed_H": {
+      "LapTimeMs": 121607,
+      "TimestampMs": 1788496008533,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "H"
+    },
+    "ks_mclaren_650_gt3_BrokenClouds_H": {
+      "LapTimeMs": 102844,
+      "TimestampMs": 1788496221982,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "H"
+    },
+    "ks_audi_r8_lms_2016_BrokenClouds_M": {
+      "LapTimeMs": 102847,
+      "TimestampMs": 1788497103654,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+{
+  "Records": {
+    "uphill_real": {
+      "ks_mazda_mx5_cup": {
+        "Clear": {
+          "LapTimeMs": 126566,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1779485849496,
+          "SessionId": "6ee95edb-8de2-4181-8e4a-56261db93d2c"
+        }
+      }
+    },
+    "downhill_real": {
+      "ks_mazda_mx5_cup": {
+        "Clear": {
+          "LapTimeMs": 127995,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1780125127875,
+          "SessionId": "72e55e25-ea65-40d1-94fe-9f8fabca85db"
+        }
+      }
+    }
+  }
+}

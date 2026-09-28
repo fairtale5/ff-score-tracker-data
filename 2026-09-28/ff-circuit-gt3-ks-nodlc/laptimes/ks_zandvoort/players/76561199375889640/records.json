@@ -1,0 +1,25 @@
+{
+  "Username": "Kimi Raikkonen",
+  "GUID": 76561199375889640,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 111233,
+      "TimestampMs": 1788629341935,
+      "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 109570,
+      "TimestampMs": 1788629588056,
+      "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

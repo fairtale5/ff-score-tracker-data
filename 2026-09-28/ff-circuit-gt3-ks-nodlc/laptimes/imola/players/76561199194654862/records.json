@@ -1,0 +1,25 @@
+{
+  "Username": "Morgan Martinez",
+  "GUID": 76561199194654862,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 113874,
+      "TimestampMs": 1786680934864,
+      "SessionId": "a98e8de5-4aaa-4b2f-a448-e86776911d08",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 110663,
+      "TimestampMs": 1786681633595,
+      "SessionId": "a98e8de5-4aaa-4b2f-a448-e86776911d08",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

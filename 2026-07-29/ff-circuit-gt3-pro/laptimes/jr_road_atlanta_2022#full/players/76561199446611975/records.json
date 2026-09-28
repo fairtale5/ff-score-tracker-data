@@ -1,0 +1,41 @@
+{
+  "Username": "w1z1",
+  "GUID": 76561199446611975,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_HeavyDrizzle_WET": {
+      "LapTimeMs": 111117,
+      "TimestampMs": 1784944894520,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_lamborghini_huracan_gt3_Clear": {
+      "LapTimeMs": 93797,
+      "TimestampMs": 1784947552888,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_lamborghini_huracan_gt3_Clear_S": {
+      "LapTimeMs": 94938,
+      "TimestampMs": 1784947805133,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 97751,
+      "TimestampMs": 1784948232621,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

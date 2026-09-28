@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1788045589766,
+    "SessionId": "e4b3f2a1-22cd-4b41-9795-c17b14a3532a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 95641,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788045829647,
+    "SessionId": "e4b3f2a1-22cd-4b41-9795-c17b14a3532a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 94188,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  }
+]

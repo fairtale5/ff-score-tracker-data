@@ -1,0 +1,25 @@
+{
+  "Username": "Fureshi",
+  "GUID": 76561199098957179,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 156210,
+      "TimestampMs": 1789263943695,
+      "SessionId": "384facd9-eeea-4d94-9e58-b7d8c604f623",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 152824,
+      "TimestampMs": 1789264648980,
+      "SessionId": "384facd9-eeea-4d94-9e58-b7d8c604f623",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

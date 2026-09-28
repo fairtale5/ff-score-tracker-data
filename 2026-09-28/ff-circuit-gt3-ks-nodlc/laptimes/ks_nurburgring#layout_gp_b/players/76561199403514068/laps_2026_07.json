@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1783187674633,
+    "SessionId": "c9657936-32ee-4f40-892e-1c85bb6851d6",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 140241,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783187808064,
+    "SessionId": "c9657936-32ee-4f40-892e-1c85bb6851d6",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 133434,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783187945021,
+    "SessionId": "c9657936-32ee-4f40-892e-1c85bb6851d6",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 136953,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783188098738,
+    "SessionId": "c9657936-32ee-4f40-892e-1c85bb6851d6",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 153737,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

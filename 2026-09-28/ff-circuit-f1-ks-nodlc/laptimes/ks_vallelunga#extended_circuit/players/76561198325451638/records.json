@@ -1,0 +1,25 @@
+{
+  "Username": "PortalFPV",
+  "GUID": 76561198325451638,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 81867,
+      "TimestampMs": 1789075237340,
+      "SessionId": "559a9402-0657-4fd0-ae00-e93c30cd3ef6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 81047,
+      "TimestampMs": 1789075960102,
+      "SessionId": "559a9402-0657-4fd0-ae00-e93c30cd3ef6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

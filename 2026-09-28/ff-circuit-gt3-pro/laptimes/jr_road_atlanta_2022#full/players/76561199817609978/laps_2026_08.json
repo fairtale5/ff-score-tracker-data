@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1787076355707,
+    "SessionId": "3d5eef94-2932-4664-94ea-be8e99119d19",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 90135,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787076531081,
+    "SessionId": "3d5eef94-2932-4664-94ea-be8e99119d19",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 87608,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787076708729,
+    "SessionId": "3d5eef94-2932-4664-94ea-be8e99119d19",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 85395,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  }
+]

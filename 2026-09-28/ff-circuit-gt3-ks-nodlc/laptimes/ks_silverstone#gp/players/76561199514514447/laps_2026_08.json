@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1787885142277,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 170394,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787885305911,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 163638,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787885503656,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 197748,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787886375858,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 193857,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1787886567977,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 192122,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1787886755178,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 187211,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1787886956806,
+    "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 201634,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

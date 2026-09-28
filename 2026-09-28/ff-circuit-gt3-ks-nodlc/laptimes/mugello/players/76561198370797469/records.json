@@ -1,0 +1,25 @@
+{
+  "Username": "Kimi Antonelli",
+  "GUID": 76561198370797469,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 120785,
+      "TimestampMs": 1789954131902,
+      "SessionId": "cc440d09-7089-4bf6-8a3b-9d204dfa2b47",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 112495,
+      "TimestampMs": 1790545597287,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

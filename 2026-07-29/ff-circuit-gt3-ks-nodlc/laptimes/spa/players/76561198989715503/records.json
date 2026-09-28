@@ -1,0 +1,49 @@
+{
+  "Username": "_darkLz",
+  "GUID": 76561198989715503,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 144430,
+      "TimestampMs": 1779751052610,
+      "SessionId": "5f833bf8-4ccb-41d0-9298-f64beecc5707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 146820,
+      "TimestampMs": 1779757688867,
+      "SessionId": "5f833bf8-4ccb-41d0-9298-f64beecc5707",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 145440,
+      "TimestampMs": 1783392895628,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 144739,
+      "TimestampMs": 1783393933331,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 145872,
+      "TimestampMs": 1783396964786,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

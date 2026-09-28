@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1783873723757,
+    "SessionId": "7b15f6d9-970b-4173-9425-54937e36969f",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 91461,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1783873824368,
+    "SessionId": "7b15f6d9-970b-4173-9425-54937e36969f",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 100611,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

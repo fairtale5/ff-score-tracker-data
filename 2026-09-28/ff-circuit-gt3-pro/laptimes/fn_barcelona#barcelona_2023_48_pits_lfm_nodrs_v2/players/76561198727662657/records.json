@@ -1,0 +1,49 @@
+{
+  "Username": "voc\u00EA vaimo rer",
+  "GUID": 76561198727662657,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Clear_S": {
+      "LapTimeMs": 108258,
+      "TimestampMs": 1787274087509,
+      "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Cold_S": {
+      "LapTimeMs": 107897,
+      "TimestampMs": 1787880393520,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 106263,
+      "TimestampMs": 1787894787641,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Clear_M": {
+      "LapTimeMs": 105542,
+      "TimestampMs": 1787896185062,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 108696,
+      "TimestampMs": 1787898831046,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

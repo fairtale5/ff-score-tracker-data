@@ -1,0 +1,25 @@
+{
+  "Username": "Alex Adrian Lopez Rios",
+  "GUID": 76561199771337756,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 92129,
+      "TimestampMs": 1789003589600,
+      "SessionId": "99635d47-27b7-4ae7-a79b-26b567d442cc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 89696,
+      "TimestampMs": 1789004896061,
+      "SessionId": "99635d47-27b7-4ae7-a79b-26b567d442cc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

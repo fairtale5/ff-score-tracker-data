@@ -1,0 +1,23 @@
+{
+  "Username": "Ojohnny",
+  "GUID": 76561198840444210,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "rss_gtm_bayer_v8_Mist": {
+      "LapTimeMs": 130760,
+      "TimestampMs": 1778775400113,
+      "SessionId": "84364df7-a612-4332-b01e-c071ac5b723a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_bayer_v8_Clear": {
+      "LapTimeMs": 128707,
+      "TimestampMs": 1778776047767,
+      "SessionId": "84364df7-a612-4332-b01e-c071ac5b723a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

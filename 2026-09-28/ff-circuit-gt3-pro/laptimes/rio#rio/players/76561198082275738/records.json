@@ -1,0 +1,25 @@
+{
+  "Username": "O Jogador",
+  "GUID": 76561198082275738,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Cold_M": {
+      "LapTimeMs": 161570,
+      "TimestampMs": 1788656972849,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Clear_M": {
+      "LapTimeMs": 160559,
+      "TimestampMs": 1788665091498,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Gast\u00F3n Bustamante",
+  "GUID": 76561199518129273,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 113093,
+      "TimestampMs": 1785633072866,
+      "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 112840,
+      "TimestampMs": 1785633598014,
+      "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

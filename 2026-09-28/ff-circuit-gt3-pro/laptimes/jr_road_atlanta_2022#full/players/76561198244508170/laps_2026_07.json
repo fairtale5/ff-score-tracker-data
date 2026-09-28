@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1784944941564,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 93676,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784945033948,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 92381,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784945137621,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 103669,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784945871729,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 87657,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784946063560,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 85862,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784946149718,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 86151,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

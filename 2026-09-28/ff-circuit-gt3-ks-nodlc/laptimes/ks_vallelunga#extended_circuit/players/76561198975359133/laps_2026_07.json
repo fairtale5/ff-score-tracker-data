@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1784849995926,
+    "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 100197,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784850096979,
+    "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 101052,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784850206034,
+    "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 109062,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

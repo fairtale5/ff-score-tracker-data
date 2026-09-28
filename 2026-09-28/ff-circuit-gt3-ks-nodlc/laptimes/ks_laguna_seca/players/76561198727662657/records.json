@@ -1,0 +1,81 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 85582,
+      "TimestampMs": 1778533257397,
+      "SessionId": "c1969ba4-74e9-4607-9b04-419569e6b239",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 85537,
+      "TimestampMs": 1788307179276,
+      "SessionId": "5af444ea-a65d-4074-8aa5-d0b89cb019f9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 87516,
+      "TimestampMs": 1788998787014,
+      "SessionId": "99635d47-27b7-4ae7-a79b-26b567d442cc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 85429,
+      "TimestampMs": 1789523802893,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 88138,
+      "TimestampMs": 1789504095242,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 87013,
+      "TimestampMs": 1789501592547,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 88579,
+      "TimestampMs": 1789001416747,
+      "SessionId": "99635d47-27b7-4ae7-a79b-26b567d442cc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 88600,
+      "TimestampMs": 1789001059279,
+      "SessionId": "99635d47-27b7-4ae7-a79b-26b567d442cc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 90058,
+      "TimestampMs": 1790024404045,
+      "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

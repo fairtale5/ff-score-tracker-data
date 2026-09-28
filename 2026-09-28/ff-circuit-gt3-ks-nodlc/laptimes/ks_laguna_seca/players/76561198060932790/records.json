@@ -1,0 +1,33 @@
+{
+  "Username": "madronaracing4",
+  "GUID": 76561198060932790,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 91152,
+      "TimestampMs": 1789508209080,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 89046,
+      "TimestampMs": 1789510880602,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 89330,
+      "TimestampMs": 1789509664672,
+      "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

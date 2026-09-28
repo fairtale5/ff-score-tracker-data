@@ -1,0 +1,25 @@
+{
+  "Username": "Almeida Monteiro",
+  "GUID": 76561197972255733,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 108790,
+      "TimestampMs": 1782612619550,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 108047,
+      "TimestampMs": 1782613591411,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

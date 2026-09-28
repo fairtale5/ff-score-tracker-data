@@ -1,0 +1,25 @@
+{
+  "Username": "adrielsocer",
+  "GUID": 76561199774413578,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 105016,
+      "TimestampMs": 1790377633577,
+      "SessionId": "7ed557a3-61d0-44e2-aae8-8e79d4ccfb4f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 105632,
+      "TimestampMs": 1790376211899,
+      "SessionId": "7ed557a3-61d0-44e2-aae8-8e79d4ccfb4f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

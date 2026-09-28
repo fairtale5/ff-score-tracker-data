@@ -1,0 +1,25 @@
+{
+  "Username": "Juan Brand\u00E3o",
+  "GUID": 76561198110737449,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 100028,
+      "TimestampMs": 1779413514712,
+      "SessionId": "05a8e8f4-c35c-4d74-bbb2-2ec021692b06",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 99299,
+      "TimestampMs": 1784862183044,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

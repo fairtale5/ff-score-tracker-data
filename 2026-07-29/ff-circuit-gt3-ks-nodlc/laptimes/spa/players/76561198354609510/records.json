@@ -1,0 +1,25 @@
+{
+  "Username": "*Sagalovski_ART______Phot",
+  "GUID": 76561198354609510,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 151472,
+      "TimestampMs": 1783377228069,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 149654,
+      "TimestampMs": 1783378448376,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

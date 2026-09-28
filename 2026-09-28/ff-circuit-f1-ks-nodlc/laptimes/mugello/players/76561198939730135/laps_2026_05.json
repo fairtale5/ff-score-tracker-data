@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780197654596,
+    "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 114683,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780197760649,
+    "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 106045,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780197864241,
+    "SessionId": "43423db2-4de2-4929-a37d-9cb1ec9145bb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 103618,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

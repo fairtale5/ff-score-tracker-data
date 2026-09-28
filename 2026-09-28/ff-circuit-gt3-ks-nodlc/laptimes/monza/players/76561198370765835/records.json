@@ -1,0 +1,25 @@
+{
+  "Username": "T\u0027Billy_West",
+  "GUID": 76561198370765835,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 116527,
+      "TimestampMs": 1789690624196,
+      "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_H": {
+      "LapTimeMs": 115856,
+      "TimestampMs": 1789657661965,
+      "SessionId": "3d26e578-e93e-4ecd-b788-07274c44514c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

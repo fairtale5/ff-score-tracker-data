@@ -1,0 +1,49 @@
+{
+  "Username": "Pitanguera",
+  "GUID": 76561198249054100,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mist_M": {
+      "LapTimeMs": 100005,
+      "TimestampMs": 1790520008054,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 96864,
+      "TimestampMs": 1790520608665,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_OvercastClouds_S": {
+      "LapTimeMs": 130594,
+      "TimestampMs": 1790521065684,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed": {
+      "LapTimeMs": 106327,
+      "TimestampMs": 1790521483260,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "urd_radical_sr3xxr_2023_Mist": {
+      "LapTimeMs": 101655,
+      "TimestampMs": 1790521692689,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

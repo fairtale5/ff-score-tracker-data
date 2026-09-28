@@ -1,0 +1,33 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ek_usui_circuit",
+  "Layout": "uphill_real",
+  "BestLaps": {
+    "ks_mazda_mx5_cup_Clear": {
+      "LapTimeMs": 128482,
+      "TimestampMs": 1787791215511,
+      "SessionId": "855adc16-e71b-42ee-b2a4-b0e9887cf4a0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_mazda_mx5_cup_Clear_H": {
+      "LapTimeMs": 128964,
+      "TimestampMs": 1789445517735,
+      "SessionId": "33d27e8f-1e86-439f-a017-118affef5339",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "ks_mazda_mx5_cup_Mixed_H": {
+      "LapTimeMs": 550138,
+      "TimestampMs": 1789444378579,
+      "SessionId": "33d27e8f-1e86-439f-a017-118affef5339",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

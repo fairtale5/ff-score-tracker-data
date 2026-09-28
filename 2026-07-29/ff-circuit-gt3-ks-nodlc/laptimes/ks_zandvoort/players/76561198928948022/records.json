@@ -1,0 +1,25 @@
+{
+  "Username": "DUAL IPA",
+  "GUID": 76561198928948022,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 103252,
+      "TimestampMs": 1785030602963,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 102370,
+      "TimestampMs": 1785030965035,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

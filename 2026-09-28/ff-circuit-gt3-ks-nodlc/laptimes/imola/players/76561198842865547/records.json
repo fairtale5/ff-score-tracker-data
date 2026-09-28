@@ -1,0 +1,23 @@
+{
+  "Username": "Kannabr",
+  "GUID": 76561198842865547,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 125331,
+      "TimestampMs": 1780106761399,
+      "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 133630,
+      "TimestampMs": 1780108188697,
+      "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

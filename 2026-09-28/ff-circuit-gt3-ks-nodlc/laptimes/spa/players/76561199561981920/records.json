@@ -1,0 +1,25 @@
+{
+  "Username": "PoeT",
+  "GUID": 76561199561981920,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 146433,
+      "TimestampMs": 1783740046451,
+      "SessionId": "1de5d3cf-dada-4b99-8ef3-46a009b4e2e2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 147208,
+      "TimestampMs": 1783740569707,
+      "SessionId": "1de5d3cf-dada-4b99-8ef3-46a009b4e2e2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

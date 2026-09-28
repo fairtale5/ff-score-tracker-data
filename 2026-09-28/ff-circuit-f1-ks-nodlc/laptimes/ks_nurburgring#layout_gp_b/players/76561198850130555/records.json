@@ -1,0 +1,25 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 101549,
+      "TimestampMs": 1789340589515,
+      "SessionId": "ef517d9a-de51-4879-b0b4-cf8e3c046032",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 98578,
+      "TimestampMs": 1789369095611,
+      "SessionId": "ef517d9a-de51-4879-b0b4-cf8e3c046032",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Lagadito",
+  "GUID": 76561199232300960,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 160052,
+      "TimestampMs": 1780954780523,
+      "SessionId": "ba2a1268-5b62-4801-9122-9327d19a506e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 124856,
+      "TimestampMs": 1780955381054,
+      "SessionId": "ba2a1268-5b62-4801-9122-9327d19a506e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

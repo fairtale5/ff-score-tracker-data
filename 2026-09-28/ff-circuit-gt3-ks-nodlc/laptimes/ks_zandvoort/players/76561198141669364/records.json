@@ -1,0 +1,25 @@
+{
+  "Username": "Arthur",
+  "GUID": 76561198141669364,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 102188,
+      "TimestampMs": 1789796385706,
+      "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 101069,
+      "TimestampMs": 1789796839172,
+      "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

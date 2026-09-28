@@ -1,0 +1,25 @@
+{
+  "Username": "Ninj4R3D",
+  "GUID": 76561199698203903,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 156548,
+      "TimestampMs": 1788059965981,
+      "SessionId": "9d4f43df-1c96-45f9-ac4e-dae4df3dd974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 156803,
+      "TimestampMs": 1788061679966,
+      "SessionId": "9d4f43df-1c96-45f9-ac4e-dae4df3dd974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

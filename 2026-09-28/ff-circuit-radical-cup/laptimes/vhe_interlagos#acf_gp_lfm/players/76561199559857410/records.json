@@ -1,0 +1,33 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 100846,
+      "TimestampMs": 1785981852690,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 101911,
+      "TimestampMs": 1785981536064,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds": {
+      "LapTimeMs": 102108,
+      "TimestampMs": 1785980457836,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 105943,
+      "TimestampMs": 1780963872940,
+      "SessionId": "ba2a1268-5b62-4801-9122-9327d19a506e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 107565,
+      "TimestampMs": 1780966282508,
+      "SessionId": "ba2a1268-5b62-4801-9122-9327d19a506e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

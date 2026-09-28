@@ -1,0 +1,41 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Drizzle_D": {
+      "LapTimeMs": 87396,
+      "TimestampMs": 1789690635589,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Drizzle_W": {
+      "LapTimeMs": 88576,
+      "TimestampMs": 1789690320646,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "W"
+    },
+    "rss_gtm_furiano_96_v6_Mist_D": {
+      "LapTimeMs": 85354,
+      "TimestampMs": 1789695028723,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Hot_D": {
+      "LapTimeMs": 83374,
+      "TimestampMs": 1789697707709,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

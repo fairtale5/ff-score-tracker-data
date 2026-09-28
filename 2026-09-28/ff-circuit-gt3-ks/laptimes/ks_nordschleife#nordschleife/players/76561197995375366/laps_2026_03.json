@@ -1,0 +1,101 @@
+[
+  {
+    "Car" : "ks_audi_r8_lms_2016",
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 444618,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "TimestampMs" : 1774649313687
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 428578,
+    "WeatherStart" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "TimestampMs" : 1774651486162,
+    "Car" : "ks_audi_r8_lms_2016"
+  },
+  {
+    "Car" : "ks_audi_r8_lms_2016",
+    "LapTimeMs" : 443598,
+    "Layout" : "nordschleife",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1774651929777,
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "d53a5027-4c56-49aa-b5a1-870102972ca5",
+    "TimestampMs" : 1774746151853,
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 445171,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "ks_porsche_911_gt3_r_2016"
+  },
+  {
+    "Car" : "ks_porsche_911_gt3_r_2016",
+    "TimestampMs" : 1774835998774,
+    "SessionId" : "ed8258c1-9eba-4a4d-aa3d-cf6882e6b35a",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherStart" : "Clear",
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 430732,
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "TimestampMs" : 1774837714231,
+    "SessionId" : "ed8258c1-9eba-4a4d-aa3d-cf6882e6b35a",
+    "LapTimeMs" : 446755,
+    "Layout" : "nordschleife",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "ks_porsche_911_gt3_r_2016"
+  },
+  {
+    "Car" : "ks_porsche_911_gt3_r_2016",
+    "TimestampMs" : 1774928320389,
+    "SessionId" : "f5143ce9-a377-4e32-8325-75b6f6161f3a",
+    "Track" : "ks_nordschleife",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 438098,
+    "Layout" : "nordschleife"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 437992,
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "f5143ce9-a377-4e32-8325-75b6f6161f3a",
+    "TimestampMs" : 1774928758380,
+    "Car" : "ks_porsche_911_gt3_r_2016"
+  },
+  {
+    "Layout" : "nordschleife",
+    "LapTimeMs" : 440951,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "f5143ce9-a377-4e32-8325-75b6f6161f3a",
+    "TimestampMs" : 1774929199337,
+    "Car" : "ks_porsche_911_gt3_r_2016"
+  }
+]

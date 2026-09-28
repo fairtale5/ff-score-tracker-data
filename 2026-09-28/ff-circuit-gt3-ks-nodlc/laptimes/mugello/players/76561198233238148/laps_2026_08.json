@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1787091363259,
+    "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 131621,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787091495973,
+    "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 132708,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787091612361,
+    "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 116388,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

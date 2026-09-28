@@ -1,0 +1,25 @@
+{
+  "Username": "NJ4FTP2 VR",
+  "GUID": 76561199560459292,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 87785,
+      "TimestampMs": 1785634900089,
+      "SessionId": "fa9f2c70-fc97-4958-8ff2-3e8d4c67caa8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 87117,
+      "TimestampMs": 1785636077782,
+      "SessionId": "fa9f2c70-fc97-4958-8ff2-3e8d4c67caa8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

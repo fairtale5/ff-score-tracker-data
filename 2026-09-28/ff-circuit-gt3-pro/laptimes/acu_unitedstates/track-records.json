@@ -1,0 +1,86 @@
+{
+  "Records": {
+    "a": {
+      "rss_gtm_bayer_i6_evo": {
+        "Mixed": {
+          "LapTimeMs": 130146,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1790404690963,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        }
+      },
+      "rss_gtm_lanzo_v8": {
+        "Hot": {
+          "LapTimeMs": 130138,
+          "PlayerName": "arthur vitor",
+          "PlayerGuid": 76561199118002810,
+          "TimestampMs": 1790402736080,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        }
+      },
+      "rss_gtm_adonis_v8_evo": {
+        "Mixed": {
+          "LapTimeMs": 136501,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1790405221109,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        },
+        "Clear": {
+          "LapTimeMs": 133458,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1790404404287,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        },
+        "Hot": {
+          "LapTimeMs": 136631,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1790404940476,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        }
+      },
+      "rss_gtm_akuro_v6_evo2": {
+        "Mixed": {
+          "LapTimeMs": 129751,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790404675868,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        },
+        "Clear": {
+          "LapTimeMs": 130082,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790404415871,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        },
+        "Hot": {
+          "LapTimeMs": 131288,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790405128265,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        }
+      },
+      "rss_gtm_macca_72_evo_v8": {
+        "Clear": {
+          "LapTimeMs": 128836,
+          "PlayerName": "arthur vitor",
+          "PlayerGuid": 76561199118002810,
+          "TimestampMs": 1790404137941,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        },
+        "Hot": {
+          "LapTimeMs": 129022,
+          "PlayerName": "arthur vitor",
+          "PlayerGuid": 76561199118002810,
+          "TimestampMs": 1790404924690,
+          "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d"
+        }
+      }
+    }
+  }
+}

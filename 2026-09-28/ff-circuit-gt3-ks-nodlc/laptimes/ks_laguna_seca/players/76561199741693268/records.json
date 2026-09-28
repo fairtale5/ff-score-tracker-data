@@ -1,0 +1,25 @@
+{
+  "Username": "rockplayz2",
+  "GUID": 76561199741693268,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 89252,
+      "TimestampMs": 1784763607291,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 86813,
+      "TimestampMs": 1784764861897,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "TimestampMs": 1778532751177,
+    "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+    "Track": "dr_greece",
+    "Layout": "snakes",
+    "Car": "rfc_opel_adam_r2",
+    "LapTimeMs": 464819,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778534761861,
+    "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+    "Track": "dr_greece",
+    "Layout": "snakes",
+    "Car": "rw_subaru_imprezaS12_wrc",
+    "LapTimeMs": 451630,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778535706902,
+    "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+    "Track": "dr_greece",
+    "Layout": "snakes",
+    "Car": "ks_toyota_celica_st185_gravel",
+    "LapTimeMs": 425012,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778610931498,
+    "SessionId": "08bb53ca-4755-450c-8450-f4c77859b6f5",
+    "Track": "dr_greece",
+    "Layout": "snakes",
+    "Car": "ks_toyota_celica_st185_gravel",
+    "LapTimeMs": 434759,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

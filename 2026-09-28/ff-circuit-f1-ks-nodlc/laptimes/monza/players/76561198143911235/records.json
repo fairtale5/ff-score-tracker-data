@@ -1,0 +1,41 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 90743,
+      "TimestampMs": 1783563652399,
+      "SessionId": "537273e4-b07d-4adb-9af9-a5312654ff5a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 95079,
+      "TimestampMs": 1783736254737,
+      "SessionId": "77ee87e1-30c5-45ad-b00a-801a7fcd4946",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 91779,
+      "TimestampMs": 1787612779986,
+      "SessionId": "522d2914-c377-43f5-8a3d-e9522539e014",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 96266,
+      "TimestampMs": 1789165829929,
+      "SessionId": "9e9b5a23-649d-4f11-8474-b6d9fcffa324",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

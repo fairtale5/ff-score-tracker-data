@@ -1,0 +1,25 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 104363,
+      "TimestampMs": 1786756107286,
+      "SessionId": "c9d88faa-9ff2-4b69-a981-5f76bf531a1e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 104320,
+      "TimestampMs": 1788746003989,
+      "SessionId": "d2dbeae8-9a94-453f-a7cf-0bedcc991473",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

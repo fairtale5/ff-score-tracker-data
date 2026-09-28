@@ -1,0 +1,25 @@
+{
+  "Username": "MKR  D   ZEST",
+  "GUID": 76561198261813213,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Mixed_M": {
+      "LapTimeMs": 120610,
+      "TimestampMs": 1783279269958,
+      "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Rain",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Rain_M": {
+      "LapTimeMs": 115632,
+      "TimestampMs": 1783279620867,
+      "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+      "WeatherStart": "Rain",
+      "WeatherEnd": "Rain",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

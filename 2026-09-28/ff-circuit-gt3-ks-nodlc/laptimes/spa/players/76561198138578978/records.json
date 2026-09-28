@@ -1,0 +1,33 @@
+{
+  "Username": "VFX",
+  "GUID": 76561198138578978,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 151962,
+      "TimestampMs": 1786237148209,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 151219,
+      "TimestampMs": 1786240147903,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 149312,
+      "TimestampMs": 1786242909888,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

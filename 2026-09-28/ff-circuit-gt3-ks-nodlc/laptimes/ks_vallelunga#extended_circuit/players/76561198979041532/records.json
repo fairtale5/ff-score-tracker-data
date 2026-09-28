@@ -1,0 +1,25 @@
+{
+  "Username": "Dacheeselord",
+  "GUID": 76561198979041532,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 97391,
+      "TimestampMs": 1784853646400,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 98254,
+      "TimestampMs": 1784852479827,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

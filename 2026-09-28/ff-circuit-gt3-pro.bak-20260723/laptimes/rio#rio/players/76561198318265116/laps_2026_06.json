@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780534443970,
+    "SessionId": "af0b2138-68c2-4527-9574-b054125effab",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 151738,
+    "WeatherCategory": "LightDrizzle",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "LightDrizzle"
+  },
+  {
+    "TimestampMs": 1780535415647,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 157839,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780535558320,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 142677,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  }
+]

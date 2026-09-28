@@ -1,0 +1,41 @@
+{
+  "Username": "Shooter_Fast",
+  "GUID": 76561197984073279,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 93944,
+      "TimestampMs": 1788214728787,
+      "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 91964,
+      "TimestampMs": 1789701228693,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 100237,
+      "TimestampMs": 1789680772446,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 92146,
+      "TimestampMs": 1789698889357,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

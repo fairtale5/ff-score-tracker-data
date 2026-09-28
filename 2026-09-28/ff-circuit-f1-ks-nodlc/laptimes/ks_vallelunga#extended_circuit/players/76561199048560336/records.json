@@ -1,0 +1,25 @@
+{
+  "Username": "El fachipiola",
+  "GUID": 76561199048560336,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 80884,
+      "TimestampMs": 1786146120116,
+      "SessionId": "c9bffee0-aac8-4d13-b1d1-1b293f465b43",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 80674,
+      "TimestampMs": 1786146394777,
+      "SessionId": "c9bffee0-aac8-4d13-b1d1-1b293f465b43",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,73 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_M": {
+      "LapTimeMs": 99161,
+      "TimestampMs": 1785979269158,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 98778,
+      "TimestampMs": 1786362277086,
+      "SessionId": "430df41e-6f58-483d-a64f-dafd84ca8d7f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 96588,
+      "TimestampMs": 1786362373677,
+      "SessionId": "430df41e-6f58-483d-a64f-dafd84ca8d7f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 97582,
+      "TimestampMs": 1786512866123,
+      "SessionId": "7c118f93-0bdb-44c7-99b2-bd020e7a46e7",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 96437,
+      "TimestampMs": 1786358550594,
+      "SessionId": "430df41e-6f58-483d-a64f-dafd84ca8d7f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_M": {
+      "LapTimeMs": 99437,
+      "TimestampMs": 1785978661065,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_M": {
+      "LapTimeMs": 98189,
+      "TimestampMs": 1785979679652,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 97669,
+      "TimestampMs": 1785981618005,
+      "SessionId": "6495d0bf-81ca-458a-a20f-78eedf2bc5be",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

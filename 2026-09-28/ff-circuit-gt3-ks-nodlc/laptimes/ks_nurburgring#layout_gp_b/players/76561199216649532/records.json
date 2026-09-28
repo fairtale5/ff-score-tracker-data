@@ -1,0 +1,25 @@
+{
+  "Username": "(MDC) Mendon\u00E7a",
+  "GUID": 76561199216649532,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 140908,
+      "TimestampMs": 1783025237612,
+      "SessionId": "ff8b1787-42f3-4d49-8e78-88a47e118b75",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 129720,
+      "TimestampMs": 1783026255985,
+      "SessionId": "ff8b1787-42f3-4d49-8e78-88a47e118b75",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

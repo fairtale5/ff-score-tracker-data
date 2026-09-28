@@ -1,0 +1,25 @@
+{
+  "Username": "Bruno Soto",
+  "GUID": 90071996842377217,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 79991,
+      "TimestampMs": 1786060143857,
+      "SessionId": "ae5437e2-38dc-4bc4-94fb-7aa8fbeae56c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 76517,
+      "TimestampMs": 1786061186649,
+      "SessionId": "ae5437e2-38dc-4bc4-94fb-7aa8fbeae56c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

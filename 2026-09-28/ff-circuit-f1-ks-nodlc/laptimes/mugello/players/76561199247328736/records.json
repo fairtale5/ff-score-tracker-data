@@ -1,0 +1,25 @@
+{
+  "Username": "TACHYON",
+  "GUID": 76561199247328736,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 88932,
+      "TimestampMs": 1788813208044,
+      "SessionId": "259d913a-6616-4109-b687-6172c7a23222",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 90056,
+      "TimestampMs": 1788813690386,
+      "SessionId": "259d913a-6616-4109-b687-6172c7a23222",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

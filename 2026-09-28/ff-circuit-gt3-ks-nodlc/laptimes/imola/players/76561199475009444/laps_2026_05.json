@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1780108358298,
+    "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 125103,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780108492280,
+    "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 133983,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780108615705,
+    "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 123426,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780108744769,
+    "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 129064,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780110870768,
+    "SessionId": "80b8289f-07ba-4c16-9a21-64e1ad5bb5da",
+    "Track": "imola",
+    "Layout": "",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 121813,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

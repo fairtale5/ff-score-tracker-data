@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1783460188751,
+    "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 163136,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783460351880,
+    "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 163128,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783460515368,
+    "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 163484,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

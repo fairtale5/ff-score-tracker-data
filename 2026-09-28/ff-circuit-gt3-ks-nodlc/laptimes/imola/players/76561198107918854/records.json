@@ -1,0 +1,25 @@
+{
+  "Username": "Eduardo Dias",
+  "GUID": 76561198107918854,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 131662,
+      "TimestampMs": 1789334618645,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 122124,
+      "TimestampMs": 1789335604596,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

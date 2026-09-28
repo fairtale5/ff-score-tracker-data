@@ -1,0 +1,57 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_HeavyDrizzle_S": {
+      "LapTimeMs": 98994,
+      "TimestampMs": 1784943247839,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_HeavyDrizzle_WET": {
+      "LapTimeMs": 95347,
+      "TimestampMs": 1784943648268,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_ferrari_488_gt3_HeavyDrizzle": {
+      "LapTimeMs": 92428,
+      "TimestampMs": 1784944718159,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": ""
+    },
+    "ks_ferrari_488_gt3_Mixed_S": {
+      "LapTimeMs": 90180,
+      "TimestampMs": 1784946023910,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Clear_S": {
+      "LapTimeMs": 85784,
+      "TimestampMs": 1784946367528,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Clear": {
+      "LapTimeMs": 84382,
+      "TimestampMs": 1784947270121,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

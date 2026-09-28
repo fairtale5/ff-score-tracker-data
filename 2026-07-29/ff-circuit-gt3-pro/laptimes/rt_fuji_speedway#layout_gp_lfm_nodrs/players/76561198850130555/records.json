@@ -1,0 +1,25 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 105620,
+      "TimestampMs": 1785291377083,
+      "SessionId": "588e7fea-4819-45a5-a49d-c155a8b8211f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 104827,
+      "TimestampMs": 1785293126064,
+      "SessionId": "588e7fea-4819-45a5-a49d-c155a8b8211f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

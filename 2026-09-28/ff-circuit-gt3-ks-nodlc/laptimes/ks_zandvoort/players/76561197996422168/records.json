@@ -1,0 +1,33 @@
+{
+  "Username": "Arcayn",
+  "GUID": 76561197996422168,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 102115,
+      "TimestampMs": 1785019702774,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 98846,
+      "TimestampMs": 1785020087315,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 99400,
+      "TimestampMs": 1785022003428,
+      "SessionId": "3ed16a6b-0fb4-4643-932f-c30e34ba1faf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

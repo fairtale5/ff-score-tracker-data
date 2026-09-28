@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1781453528574,
+    "SessionId": "9691423b-a593-4301-a2c2-11fd3633bc5e",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 97667,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781453636440,
+    "SessionId": "9691423b-a593-4301-a2c2-11fd3633bc5e",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 107868,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781453918169,
+    "SessionId": "9691423b-a593-4301-a2c2-11fd3633bc5e",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 97249,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

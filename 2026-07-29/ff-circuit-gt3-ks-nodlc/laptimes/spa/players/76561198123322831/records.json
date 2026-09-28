@@ -1,0 +1,25 @@
+{
+  "Username": "Lancheloti",
+  "GUID": 76561198123322831,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 159399,
+      "TimestampMs": 1783460645636,
+      "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 156224,
+      "TimestampMs": 1783461363269,
+      "SessionId": "e403cb96-a19e-4cdf-b29c-1d8dad62e969",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

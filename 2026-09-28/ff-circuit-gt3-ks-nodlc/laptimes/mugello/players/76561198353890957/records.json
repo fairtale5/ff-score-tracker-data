@@ -1,0 +1,37 @@
+{
+  "Username": "Andr\u00E9 de pantufas",
+  "GUID": 76561198353890957,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 115508,
+      "TimestampMs": 1780876302501,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 112529,
+      "TimestampMs": 1780870731898,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 116297,
+      "TimestampMs": 1780876926201,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 116176,
+      "TimestampMs": 1780878788470,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

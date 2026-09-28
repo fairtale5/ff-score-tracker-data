@@ -1,0 +1,25 @@
+{
+  "Username": "SuperMario_Ichiban",
+  "GUID": 76561198796450779,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 84526,
+      "TimestampMs": 1785106350506,
+      "SessionId": "f99a3fc7-4b43-40be-8a81-e7e004d1c212",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 85073,
+      "TimestampMs": 1784767676779,
+      "SessionId": "e39960a3-c2b0-481d-9492-4cc83a163bcc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,33 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "acu_unitedstates",
+  "Layout": "a",
+  "BestLaps": {
+    "rss_gtm_akuro_v6_evo2_Mixed_H": {
+      "LapTimeMs": 129751,
+      "TimestampMs": 1790404675868,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Clear_H": {
+      "LapTimeMs": 130082,
+      "TimestampMs": 1790404415871,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Hot_H": {
+      "LapTimeMs": 131288,
+      "TimestampMs": 1790405128265,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1789701063605,
+    "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 168499,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789701203097,
+    "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 139488,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789701344225,
+    "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 141120,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789701818515,
+    "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 154543,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789701972535,
+    "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 154018,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  }
+]

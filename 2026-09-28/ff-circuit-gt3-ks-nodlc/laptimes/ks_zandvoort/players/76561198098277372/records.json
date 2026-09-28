@@ -1,0 +1,41 @@
+{
+  "Username": "kwertz",
+  "GUID": 76561198098277372,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 107238,
+      "TimestampMs": 1785879915927,
+      "SessionId": "237032e6-cf32-4e99-9789-5f4fdc18ca8c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 101893,
+      "TimestampMs": 1785881056714,
+      "SessionId": "237032e6-cf32-4e99-9789-5f4fdc18ca8c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 102246,
+      "TimestampMs": 1785881344245,
+      "SessionId": "237032e6-cf32-4e99-9789-5f4fdc18ca8c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 100425,
+      "TimestampMs": 1785882889077,
+      "SessionId": "237032e6-cf32-4e99-9789-5f4fdc18ca8c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

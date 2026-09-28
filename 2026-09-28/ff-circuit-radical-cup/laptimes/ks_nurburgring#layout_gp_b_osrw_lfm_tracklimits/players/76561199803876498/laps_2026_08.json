@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1785712406884,
+    "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 161588,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785717546006,
+    "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 133914,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785717878401,
+    "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 151183,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "M"
+  }
+]

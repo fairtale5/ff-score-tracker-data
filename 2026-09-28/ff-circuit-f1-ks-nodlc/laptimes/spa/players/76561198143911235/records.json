@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 118387,
+      "TimestampMs": 1787699125167,
+      "SessionId": "747a7057-f042-45c9-b53b-0b30b7e330b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 116289,
+      "TimestampMs": 1787700836349,
+      "SessionId": "747a7057-f042-45c9-b53b-0b30b7e330b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

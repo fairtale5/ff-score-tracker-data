@@ -1,0 +1,49 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 94653,
+      "TimestampMs": 1785218421099,
+      "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Hot_S": {
+      "LapTimeMs": 93625,
+      "TimestampMs": 1785218232034,
+      "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 94474,
+      "TimestampMs": 1785218711361,
+      "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_S": {
+      "LapTimeMs": 92956,
+      "TimestampMs": 1785219702445,
+      "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 95732,
+      "TimestampMs": 1785221380897,
+      "SessionId": "8d0046a2-9c1a-4212-88f7-94641370ff07",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

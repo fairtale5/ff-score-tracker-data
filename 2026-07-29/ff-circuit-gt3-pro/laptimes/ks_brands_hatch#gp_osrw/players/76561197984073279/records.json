@@ -1,0 +1,25 @@
+{
+  "Username": "Shooter_Fast",
+  "GUID": 76561197984073279,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mist_M": {
+      "LapTimeMs": 90910,
+      "TimestampMs": 1785082944064,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_H": {
+      "LapTimeMs": 91640,
+      "TimestampMs": 1785085477253,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

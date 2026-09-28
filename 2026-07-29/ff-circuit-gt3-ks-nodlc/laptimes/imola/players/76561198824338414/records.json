@@ -1,0 +1,25 @@
+{
+  "Username": "DANIEL MANHAES",
+  "GUID": 76561198824338414,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 109849,
+      "TimestampMs": 1784936643833,
+      "SessionId": "23c38dcc-d25d-4503-a044-93aff6f40a1a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 109481,
+      "TimestampMs": 1784936049247,
+      "SessionId": "23c38dcc-d25d-4503-a044-93aff6f40a1a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

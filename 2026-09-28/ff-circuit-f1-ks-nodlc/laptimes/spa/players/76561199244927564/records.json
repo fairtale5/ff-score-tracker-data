@@ -1,0 +1,25 @@
+{
+  "Username": "Vice Admiral Axolotl",
+  "GUID": 76561199244927564,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 117875,
+      "TimestampMs": 1785542179758,
+      "SessionId": "1bb1e7cd-08a1-4d27-82f9-7460ce06edfa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 121617,
+      "TimestampMs": 1785542592935,
+      "SessionId": "1bb1e7cd-08a1-4d27-82f9-7460ce06edfa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

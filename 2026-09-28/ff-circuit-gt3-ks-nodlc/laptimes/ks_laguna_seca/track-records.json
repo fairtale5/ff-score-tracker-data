@@ -1,0 +1,51 @@
+{
+  "Records": {
+    "default": {
+      "ferrari_458_gt2": {
+        "Clear": {
+          "LapTimeMs": 82571,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790035771079,
+          "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5"
+        }
+      },
+      "mercedes_sls_gt3": {
+        "Clear": {
+          "LapTimeMs": 83955,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778536241855,
+          "SessionId": "c1969ba4-74e9-4607-9b04-419569e6b239"
+        }
+      },
+      "bmw_z4_gt3": {
+        "Clear": {
+          "LapTimeMs": 83196,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1789525231762,
+          "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e"
+        }
+      },
+      "bmw_m3_gt2": {
+        "Clear": {
+          "LapTimeMs": 83370,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790042325560,
+          "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5"
+        }
+      },
+      "mclaren_mp412c_gt3": {
+        "Clear": {
+          "LapTimeMs": 83866,
+          "PlayerName": "SuperMario_Ichiban",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1785535646958,
+          "SessionId": "15bc5366-3470-4adb-bb1e-18905ad1d09d"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789959836138,
+    "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 135621,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789959976256,
+    "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 140103,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789960617417,
+    "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 133240,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

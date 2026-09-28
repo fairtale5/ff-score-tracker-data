@@ -1,0 +1,25 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ek_tsubaki_line",
+  "Layout": "downhill_real",
+  "BestLaps": {
+    "dthwsh_nissan_silvia_s15_vaero_Mixed": {
+      "LapTimeMs": 364275,
+      "TimestampMs": 1775179885705,
+      "SessionId": "ffa16cef-1130-46a4-966b-9748c82c8b5f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "dthwsh_nissan_180sx_Mixed_ST": {
+      "LapTimeMs": 350268,
+      "TimestampMs": 1788668878333,
+      "SessionId": "ca2a1f55-ffc9-442a-a2a0-efc99b799720",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "ST"
+    }
+  },
+  "LapTimeHistory": []
+}

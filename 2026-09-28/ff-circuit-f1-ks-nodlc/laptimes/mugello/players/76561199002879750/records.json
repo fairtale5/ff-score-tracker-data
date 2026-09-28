@@ -1,0 +1,25 @@
+{
+  "Username": "Massimo Nutini",
+  "GUID": 76561199002879750,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 89749,
+      "TimestampMs": 1789679490160,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 86965,
+      "TimestampMs": 1789680123011,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Matheus",
+  "GUID": 76561199817609978,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Cold_S": {
+      "LapTimeMs": 103874,
+      "TimestampMs": 1785175765265,
+      "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 104264,
+      "TimestampMs": 1785181760963,
+      "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

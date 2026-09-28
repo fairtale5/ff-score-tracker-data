@@ -1,0 +1,41 @@
+{
+  "Username": "heitor.xavier09",
+  "GUID": 76561199526654062,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 107954,
+      "TimestampMs": 1787273606050,
+      "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Clear_M": {
+      "LapTimeMs": 106448,
+      "TimestampMs": 1787875696472,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mixed_M": {
+      "LapTimeMs": 107296,
+      "TimestampMs": 1787876680325,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_ScatteredClouds": {
+      "LapTimeMs": 105687,
+      "TimestampMs": 1787877390835,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

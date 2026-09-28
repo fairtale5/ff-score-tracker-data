@@ -1,0 +1,65 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 89525,
+      "TimestampMs": 1785086154860,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 89723,
+      "TimestampMs": 1785084664253,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Drizzle_S": {
+      "LapTimeMs": 92385,
+      "TimestampMs": 1785043656674,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mist_S": {
+      "LapTimeMs": 89409,
+      "TimestampMs": 1785082618261,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mist_S": {
+      "LapTimeMs": 92204,
+      "TimestampMs": 1785046658531,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mixed_S": {
+      "LapTimeMs": 93686,
+      "TimestampMs": 1785047143151,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Clear_S": {
+      "LapTimeMs": 88465,
+      "TimestampMs": 1785088654330,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

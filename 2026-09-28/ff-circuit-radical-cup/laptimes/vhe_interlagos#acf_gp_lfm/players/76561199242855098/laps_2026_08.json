@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1785799202061,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 102529,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785799571696,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 102190,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785800098603,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 101402,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785800385680,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 100435,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785800486697,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 101021,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785800596676,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 109983,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785801505407,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 109011,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785801620158,
+    "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 114705,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

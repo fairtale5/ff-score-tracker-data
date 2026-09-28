@@ -1,0 +1,25 @@
+{
+  "Username": "FEDE ROT",
+  "GUID": 76561199062751490,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 99450,
+      "TimestampMs": 1782776954456,
+      "SessionId": "21281b6a-c4f0-479c-97d1-69870a938f1d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 97647,
+      "TimestampMs": 1786756175040,
+      "SessionId": "c9d88faa-9ff2-4b69-a981-5f76bf531a1e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

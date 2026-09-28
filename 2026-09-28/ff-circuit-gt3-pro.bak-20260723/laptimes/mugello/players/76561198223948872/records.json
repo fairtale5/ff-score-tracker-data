@@ -1,0 +1,23 @@
+{
+  "Username": "Thyago Fontenele",
+  "GUID": 76561198223948872,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 126605,
+      "TimestampMs": 1779055884607,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_protech_p92_f6_Cold": {
+      "LapTimeMs": 122744,
+      "TimestampMs": 1779055757994,
+      "SessionId": "3dc38ce2-c2a0-4672-b453-cdaf1b309268",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

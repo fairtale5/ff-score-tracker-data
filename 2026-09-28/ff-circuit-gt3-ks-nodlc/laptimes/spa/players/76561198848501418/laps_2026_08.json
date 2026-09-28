@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786228129591,
+    "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 165693,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1786228299926,
+    "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 170334,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

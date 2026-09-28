@@ -1,0 +1,25 @@
+{
+  "Username": "Vengador",
+  "GUID": 76561197960267366,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 120780,
+      "TimestampMs": 1781548852997,
+      "SessionId": "d83721a0-94db-4696-a58d-b1de2abe767c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 91390,
+      "TimestampMs": 1784159407060,
+      "SessionId": "bed0401b-ef6c-419b-aab6-2a3ab907d6e8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789698996675,
+    "SessionId": "7377ef8f-557c-424a-8312-a65e9fbb4e67",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 83730,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789699080884,
+    "SessionId": "7377ef8f-557c-424a-8312-a65e9fbb4e67",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 84204,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  }
+]

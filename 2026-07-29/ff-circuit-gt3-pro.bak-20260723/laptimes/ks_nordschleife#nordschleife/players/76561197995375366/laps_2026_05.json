@@ -1,0 +1,68 @@
+[
+  {
+    "TimestampMs": 1778383665450,
+    "SessionId": "cf1e78e9-5767-4a62-b313-063f7642b936",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 564190,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "LightThunderstorm"
+  },
+  {
+    "TimestampMs": 1778385984254,
+    "SessionId": "cf1e78e9-5767-4a62-b313-063f7642b936",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 502731,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778644353410,
+    "SessionId": "9ecbbb2b-4ee8-4d58-9bfa-d528d9bb9467",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 423156,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1779074600768,
+    "SessionId": "b0313f3d-d861-4a10-afd5-ffd797f16497",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 434450,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1779075599988,
+    "SessionId": "b0313f3d-d861-4a10-afd5-ffd797f16497",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 419864,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1779076026342,
+    "SessionId": "b0313f3d-d861-4a10-afd5-ffd797f16497",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 426350,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Cold"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Username": "Alex DeLarge",
+  "GUID": 76561198012711346,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 104499,
+      "TimestampMs": 1789796910168,
+      "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 101536,
+      "TimestampMs": 1789801116612,
+      "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 100775,
+      "TimestampMs": 1789798585273,
+      "SessionId": "73bf486d-b978-4944-85c4-9355e7229e12",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

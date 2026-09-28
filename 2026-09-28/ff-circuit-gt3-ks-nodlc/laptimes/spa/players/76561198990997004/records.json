@@ -1,0 +1,25 @@
+{
+  "Username": "Kyoto | MSR",
+  "GUID": 76561198990997004,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 158244,
+      "TimestampMs": 1790417210134,
+      "SessionId": "1b63ec46-6f1a-4146-959d-94a280257519",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 146532,
+      "TimestampMs": 1790418086613,
+      "SessionId": "1b63ec46-6f1a-4146-959d-94a280257519",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

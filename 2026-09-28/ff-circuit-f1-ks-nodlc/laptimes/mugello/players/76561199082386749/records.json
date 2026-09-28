@@ -1,0 +1,25 @@
+{
+  "Username": "TheLastUchiha",
+  "GUID": 76561199082386749,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 88814,
+      "TimestampMs": 1789707100426,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 91045,
+      "TimestampMs": 1789706521085,
+      "SessionId": "4a69c21c-cbed-40e9-9a3f-deed371abfbd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

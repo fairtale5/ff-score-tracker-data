@@ -1,0 +1,71 @@
+{
+  "Records": {
+    "default": {
+      "urd_radical_sr3xxr_2023": {
+        "Hot": {
+          "LapTimeMs": 133065,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789950630390,
+          "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496"
+        },
+        "Mixed": {
+          "LapTimeMs": 131162,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789948154972,
+          "SessionId": "a8c6ccae-cab0-4182-a3b9-0cccabad094d"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 133576,
+          "PlayerName": "DaviDPhaeL",
+          "PlayerGuid": 76561198857157036,
+          "TimestampMs": 1786668617068,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "Clear": {
+          "LapTimeMs": 132301,
+          "PlayerName": "DaviDPhaeL",
+          "PlayerGuid": 76561198857157036,
+          "TimestampMs": 1786669357976,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 130821,
+          "PlayerName": "NJ4FTP2 VR",
+          "PlayerGuid": 76561199560459292,
+          "TimestampMs": 1786673399390,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "Cold": {
+          "LapTimeMs": 129776,
+          "PlayerName": "NJ4FTP2 VR",
+          "PlayerGuid": 76561199560459292,
+          "TimestampMs": 1786674727462,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "Mist": {
+          "LapTimeMs": 136381,
+          "PlayerName": "tabi",
+          "PlayerGuid": 76561199586981976,
+          "TimestampMs": 1786678461253,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "Drizzle": {
+          "LapTimeMs": 138369,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1786699686596,
+          "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95"
+        },
+        "FewClouds": {
+          "LapTimeMs": 135621,
+          "PlayerName": "JulianR",
+          "PlayerGuid": 76561199045421393,
+          "TimestampMs": 1789959836138,
+          "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496"
+        }
+      }
+    }
+  }
+}

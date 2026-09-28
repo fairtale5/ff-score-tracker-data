@@ -1,0 +1,25 @@
+{
+  "Username": "xaxaxaxa",
+  "GUID": 76561199490004547,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Mixed_M": {
+      "LapTimeMs": 154006,
+      "TimestampMs": 1784147910191,
+      "SessionId": "761c9e86-2040-466b-9650-b88e69f2ec17",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_LightDrizzle_M": {
+      "LapTimeMs": 153455,
+      "TimestampMs": 1784148536244,
+      "SessionId": "761c9e86-2040-466b-9650-b88e69f2ec17",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

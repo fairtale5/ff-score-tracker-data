@@ -1,0 +1,33 @@
+{
+  "Username": "s7venp1",
+  "GUID": 76561199482997248,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 100882,
+      "TimestampMs": 1784832872696,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mixed_M": {
+      "LapTimeMs": 100990,
+      "TimestampMs": 1784834280279,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Drizzle_M": {
+      "LapTimeMs": 100431,
+      "TimestampMs": 1784834679338,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

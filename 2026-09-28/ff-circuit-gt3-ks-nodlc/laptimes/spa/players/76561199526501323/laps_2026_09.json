@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789252734143,
+    "SessionId": "384facd9-eeea-4d94-9e58-b7d8c604f623",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 163907,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789252895317,
+    "SessionId": "384facd9-eeea-4d94-9e58-b7d8c604f623",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 160923,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

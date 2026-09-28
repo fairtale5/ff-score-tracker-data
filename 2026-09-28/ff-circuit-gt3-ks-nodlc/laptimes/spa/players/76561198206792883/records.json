@@ -1,0 +1,25 @@
+{
+  "Username": "vegax",
+  "GUID": 76561198206792883,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 147197,
+      "TimestampMs": 1786401702387,
+      "SessionId": "7f41eddf-ef95-40d6-9c62-05a86b64af26",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 146443,
+      "TimestampMs": 1786402153961,
+      "SessionId": "7f41eddf-ef95-40d6-9c62-05a86b64af26",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

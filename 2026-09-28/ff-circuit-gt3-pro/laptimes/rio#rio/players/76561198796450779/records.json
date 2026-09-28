@@ -1,0 +1,73 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 143256,
+      "TimestampMs": 1788649783149,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "rss_gtm_hyperion_v8_Clear_D": {
+      "LapTimeMs": 134743,
+      "TimestampMs": 1790270382321,
+      "SessionId": "6a0a8a6e-07bf-426a-9e77-fa9d6a4d763d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_Mixed_D": {
+      "LapTimeMs": 132314,
+      "TimestampMs": 1790270659176,
+      "SessionId": "6a0a8a6e-07bf-426a-9e77-fa9d6a4d763d",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_BrokenClouds_D": {
+      "LapTimeMs": 140009,
+      "TimestampMs": 1790253290049,
+      "SessionId": "6a0a8a6e-07bf-426a-9e77-fa9d6a4d763d",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_FewClouds_D": {
+      "LapTimeMs": 168390,
+      "TimestampMs": 1790255173569,
+      "SessionId": "6a0a8a6e-07bf-426a-9e77-fa9d6a4d763d",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lux_v8_evo_Mixed_D": {
+      "LapTimeMs": 135194,
+      "TimestampMs": 1790296122339,
+      "SessionId": "8168c35d-0a2a-4d6b-8054-36976a2aa2e9",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lux_v8_evo_Hot_D": {
+      "LapTimeMs": 135990,
+      "TimestampMs": 1790297363428,
+      "SessionId": "33372869-4782-4e74-8e2c-8405384b03f4",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lux_v8_evo_FewClouds_D": {
+      "LapTimeMs": 136449,
+      "TimestampMs": 1790297949818,
+      "SessionId": "33372869-4782-4e74-8e2c-8405384b03f4",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

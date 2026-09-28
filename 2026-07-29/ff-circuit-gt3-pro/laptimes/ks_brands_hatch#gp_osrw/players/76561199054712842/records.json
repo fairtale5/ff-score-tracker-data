@@ -1,0 +1,33 @@
+{
+  "Username": "m araujo",
+  "GUID": 76561199054712842,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Mist_S": {
+      "LapTimeMs": 86649,
+      "TimestampMs": 1785072218497,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mist_M": {
+      "LapTimeMs": 85593,
+      "TimestampMs": 1785072639002,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mist": {
+      "LapTimeMs": 85743,
+      "TimestampMs": 1785073030087,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

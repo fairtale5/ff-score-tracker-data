@@ -1,0 +1,65 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Cold_S": {
+      "LapTimeMs": 131742,
+      "TimestampMs": 1789630334716,
+      "SessionId": "33b810e4-4833-4885-943c-011e19049014",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 136702,
+      "TimestampMs": 1789667406225,
+      "SessionId": "33b810e4-4833-4885-943c-011e19049014",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 132966,
+      "TimestampMs": 1789673588565,
+      "SessionId": "33b810e4-4833-4885-943c-011e19049014",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Clear_S": {
+      "LapTimeMs": 129715,
+      "TimestampMs": 1789674911613,
+      "SessionId": "33b810e4-4833-4885-943c-011e19049014",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_bayer_i6_evo_Mist_D": {
+      "LapTimeMs": 131672,
+      "TimestampMs": 1789700553720,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mist": {
+      "LapTimeMs": 132104,
+      "TimestampMs": 1789701302366,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "rss_gtm_bayer_i6_evo_Cold_D": {
+      "LapTimeMs": 131731,
+      "TimestampMs": 1789703606643,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

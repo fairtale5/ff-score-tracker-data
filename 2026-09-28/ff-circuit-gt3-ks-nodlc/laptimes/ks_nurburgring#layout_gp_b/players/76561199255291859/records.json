@@ -1,0 +1,25 @@
+{
+  "Username": "Waritnan-Tim Krongthanyak",
+  "GUID": 76561199255291859,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 135112,
+      "TimestampMs": 1787417999654,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 146310,
+      "TimestampMs": 1787418552896,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

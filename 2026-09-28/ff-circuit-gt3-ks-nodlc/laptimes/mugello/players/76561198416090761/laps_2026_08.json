@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1785624940421,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 123061,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785625075148,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 134726,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785625200848,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 125696,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785625581493,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 123247,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785625923405,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 119599,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785626530931,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 124102,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785626664975,
+    "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 134042,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

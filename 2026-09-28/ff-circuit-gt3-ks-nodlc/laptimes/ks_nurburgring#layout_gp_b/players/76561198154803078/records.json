@@ -1,0 +1,25 @@
+{
+  "Username": "Coli Doohan",
+  "GUID": 76561198154803078,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 127934,
+      "TimestampMs": 1789608063510,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 127726,
+      "TimestampMs": 1789608751762,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 83511,
+          "PlayerName": "dmg pl4ys",
+          "PlayerGuid": 76561198308940380,
+          "TimestampMs": 1784678409484,
+          "SessionId": "8d3a1651-2f49-45f4-8c14-e077a5c1fc29"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 95198,
+          "PlayerName": "eoc811",
+          "PlayerGuid": 76561199029226761,
+          "TimestampMs": 1781543436822,
+          "SessionId": "d83721a0-94db-4696-a58d-b1de2abe767c"
+        }
+      }
+    }
+  }
+}

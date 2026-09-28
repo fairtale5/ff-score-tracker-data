@@ -1,0 +1,33 @@
+{
+  "Username": "Allanzin",
+  "GUID": 76561198963293176,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 151389,
+      "TimestampMs": 1782522377781,
+      "SessionId": "ce21cc7f-4bf8-44a7-8adf-5d0ac843697d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 152461,
+      "TimestampMs": 1783389453492,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 172495,
+      "TimestampMs": 1788039203103,
+      "SessionId": "9d4f43df-1c96-45f9-ac4e-dae4df3dd974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

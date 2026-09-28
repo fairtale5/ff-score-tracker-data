@@ -1,0 +1,33 @@
+{
+  "Username": "Aureliano BuenDia",
+  "GUID": 76561198430919256,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 135561,
+      "TimestampMs": 1789950765103,
+      "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 133141,
+      "TimestampMs": 1789958681082,
+      "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 131832,
+      "TimestampMs": 1789960527448,
+      "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

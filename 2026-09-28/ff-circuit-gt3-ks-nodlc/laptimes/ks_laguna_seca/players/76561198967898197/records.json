@@ -1,0 +1,25 @@
+{
+  "Username": "speed.doctrine",
+  "GUID": 76561198967898197,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 93392,
+      "TimestampMs": 1790040473072,
+      "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 90222,
+      "TimestampMs": 1790041618512,
+      "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

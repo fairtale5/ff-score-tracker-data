@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1787273979230,
+    "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 108583,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787274087509,
+    "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 108258,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787880393520,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 107897,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787894574787,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 107079,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787894681375,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 106587,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787894787641,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 106263,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787896185062,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 105542,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787898722356,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 110444,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787898831046,
+    "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 108696,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  }
+]

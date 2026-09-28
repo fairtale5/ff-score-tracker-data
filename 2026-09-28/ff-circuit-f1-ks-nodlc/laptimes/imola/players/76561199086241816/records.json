@@ -1,0 +1,25 @@
+{
+  "Username": "Mcthomas",
+  "GUID": 76561199086241816,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 88588,
+      "TimestampMs": 1789763294306,
+      "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 86732,
+      "TimestampMs": 1789765630698,
+      "SessionId": "bb5bdb1c-ac0b-4e1f-b89a-6fa2f96080dc",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

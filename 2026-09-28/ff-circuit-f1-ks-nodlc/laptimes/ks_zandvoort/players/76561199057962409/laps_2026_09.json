@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1790127135891,
+    "SessionId": "b8fb154e-de3d-4427-9938-c3cc6ec918e7",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 83340,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790127240474,
+    "SessionId": "b8fb154e-de3d-4427-9938-c3cc6ec918e7",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 104579,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

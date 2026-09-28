@@ -1,0 +1,25 @@
+{
+  "Username": "matador de argentino",
+  "GUID": 76561199772785623,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 137523,
+      "TimestampMs": 1783804964416,
+      "SessionId": "1650dbe3-5eb2-41fd-a1a9-00100a1d2217",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 148474,
+      "TimestampMs": 1783825448188,
+      "SessionId": "f6ba351a-27df-4f47-9f55-a73c3691f16a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Xuban Sagarna",
+  "GUID": 76561199406284047,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 146905,
+      "TimestampMs": 1786216223704,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 147217,
+      "TimestampMs": 1786217251992,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

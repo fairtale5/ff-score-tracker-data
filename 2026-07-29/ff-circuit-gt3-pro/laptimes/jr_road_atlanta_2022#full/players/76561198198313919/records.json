@@ -1,0 +1,25 @@
+{
+  "Username": "Jayson Silveira",
+  "GUID": 76561198198313919,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed": {
+      "LapTimeMs": 84591,
+      "TimestampMs": 1784946141735,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_nissan_gtr_gt3_Clear_S": {
+      "LapTimeMs": 82011,
+      "TimestampMs": 1784946353482,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

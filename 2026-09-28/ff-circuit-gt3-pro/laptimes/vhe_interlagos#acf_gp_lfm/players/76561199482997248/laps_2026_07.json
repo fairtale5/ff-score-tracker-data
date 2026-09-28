@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1784832667233,
+    "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 102382,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784832771801,
+    "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 104590,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784832872696,
+    "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 100882,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784834280279,
+    "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 100990,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1784834679338,
+    "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 100431,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "M"
+  }
+]

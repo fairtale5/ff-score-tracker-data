@@ -1,0 +1,25 @@
+{
+  "Username": "Himura1704",
+  "GUID": 76561198090534089,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 141624,
+      "TimestampMs": 1788831523129,
+      "SessionId": "0860c2e7-adeb-4d52-8766-a5a9889a8b6e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 141270,
+      "TimestampMs": 1788833248547,
+      "SessionId": "0860c2e7-adeb-4d52-8766-a5a9889a8b6e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

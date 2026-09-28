@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1779493455089,
+    "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 145566,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1779493598727,
+    "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 143635,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1779493743179,
+    "SessionId": "cf29ac5d-e881-4e00-a72b-400a21d8e91b",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 144447,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

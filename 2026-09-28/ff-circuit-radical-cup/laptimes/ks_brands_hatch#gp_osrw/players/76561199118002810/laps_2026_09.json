@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789342052958,
+    "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 90805,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789342905594,
+    "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 87861,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789840564847,
+    "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 133991,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789840710876,
+    "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 146028,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

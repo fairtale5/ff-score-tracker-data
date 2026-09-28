@@ -1,0 +1,25 @@
+{
+  "Username": "dpg",
+  "GUID": 76561199258371815,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 137273,
+      "TimestampMs": 1786922041717,
+      "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 123542,
+      "TimestampMs": 1786922336355,
+      "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

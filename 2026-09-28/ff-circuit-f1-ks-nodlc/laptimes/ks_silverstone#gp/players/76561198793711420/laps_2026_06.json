@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1781015244971,
+    "SessionId": "650fe3af-f2cd-4e6b-9115-1d0f36d5c722",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_98t",
+    "LapTimeMs": 181644,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781015471151,
+    "SessionId": "650fe3af-f2cd-4e6b-9115-1d0f36d5c722",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "lotus_98t",
+    "LapTimeMs": 110760,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

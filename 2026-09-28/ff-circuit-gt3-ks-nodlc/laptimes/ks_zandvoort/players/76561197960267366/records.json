@@ -1,0 +1,25 @@
+{
+  "Username": "Lando Norris",
+  "GUID": 76561197960267366,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 105119,
+      "TimestampMs": 1787346955180,
+      "SessionId": "ada15c97-9385-4f66-b7e6-b72c8df2ff02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 106702,
+      "TimestampMs": 1788644176880,
+      "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

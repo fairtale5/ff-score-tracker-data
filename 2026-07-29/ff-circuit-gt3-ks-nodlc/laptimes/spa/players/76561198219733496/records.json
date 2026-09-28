@@ -1,0 +1,25 @@
+{
+  "Username": "Prozim",
+  "GUID": 76561198219733496,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 177978,
+      "TimestampMs": 1782088287228,
+      "SessionId": "f4da841b-216f-43ea-9b50-09148653331d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 177053,
+      "TimestampMs": 1782089221001,
+      "SessionId": "f4da841b-216f-43ea-9b50-09148653331d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

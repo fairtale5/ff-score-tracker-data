@@ -1,0 +1,33 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "as_singer_dls_Mixed_I": {
+      "LapTimeMs": 148672,
+      "TimestampMs": 1789273242208,
+      "SessionId": "1cc00ddb-65e9-410e-b67b-ba7915e03e73",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "I"
+    },
+    "as_singer_dls_ScatteredClouds_I": {
+      "LapTimeMs": 92980,
+      "TimestampMs": 1789273761000,
+      "SessionId": "1cc00ddb-65e9-410e-b67b-ba7915e03e73",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "I"
+    },
+    "as_singer_dls_ScatteredClouds_HR": {
+      "LapTimeMs": 100252,
+      "TimestampMs": 1789274310341,
+      "SessionId": "1cc00ddb-65e9-410e-b67b-ba7915e03e73",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "HR"
+    }
+  },
+  "LapTimeHistory": []
+}

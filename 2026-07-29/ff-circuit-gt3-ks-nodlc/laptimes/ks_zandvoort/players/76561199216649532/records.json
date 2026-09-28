@@ -1,0 +1,25 @@
+{
+  "Username": "(MDC) Mendon\u00E7a",
+  "GUID": 76561199216649532,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 107338,
+      "TimestampMs": 1782423338935,
+      "SessionId": "7980628f-856c-4489-a17d-1087f2338a50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 114863,
+      "TimestampMs": 1782425682648,
+      "SessionId": "7980628f-856c-4489-a17d-1087f2338a50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

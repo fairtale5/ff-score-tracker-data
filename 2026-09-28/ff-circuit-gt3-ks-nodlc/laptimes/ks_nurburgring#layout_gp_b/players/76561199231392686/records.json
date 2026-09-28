@@ -1,0 +1,25 @@
+{
+  "Username": "Juan Castano",
+  "GUID": 76561199231392686,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 120679,
+      "TimestampMs": 1789604416890,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 120725,
+      "TimestampMs": 1789607499675,
+      "SessionId": "35e08b2c-ccf5-4a90-8fd6-543a2047688e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

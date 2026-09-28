@@ -1,0 +1,25 @@
+{
+  "Username": "Jayson Silveira",
+  "GUID": 76561198198313919,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 86929,
+      "TimestampMs": 1788219356943,
+      "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 86089,
+      "TimestampMs": 1788219958164,
+      "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

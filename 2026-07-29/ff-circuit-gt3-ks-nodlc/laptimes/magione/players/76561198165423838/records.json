@@ -1,0 +1,23 @@
+{
+  "Username": "Mazzo",
+  "GUID": 76561198165423838,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 72113,
+      "TimestampMs": 1779551881675,
+      "SessionId": "55c248d3-f686-46cb-a7cd-8c6162808fde",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 73034,
+      "TimestampMs": 1779555890792,
+      "SessionId": "55c248d3-f686-46cb-a7cd-8c6162808fde",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "brunosilva",
+  "GUID": 76561199831538492,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 118010,
+      "TimestampMs": 1789409244136,
+      "SessionId": "530b5f7c-b3d1-45a6-8135-f27354aa429f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 112309,
+      "TimestampMs": 1789432461920,
+      "SessionId": "530b5f7c-b3d1-45a6-8135-f27354aa429f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

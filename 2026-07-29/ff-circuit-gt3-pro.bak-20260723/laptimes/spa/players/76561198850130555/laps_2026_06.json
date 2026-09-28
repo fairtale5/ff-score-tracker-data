@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780964607821,
+    "SessionId": "e75790f0-d3bb-4d3c-bf8f-8dd88b9bf46b",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 142097,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780964890756,
+    "SessionId": "e75790f0-d3bb-4d3c-bf8f-8dd88b9bf46b",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 140396,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

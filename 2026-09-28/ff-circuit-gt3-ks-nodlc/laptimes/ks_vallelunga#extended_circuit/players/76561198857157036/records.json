@@ -1,0 +1,25 @@
+{
+  "Username": "DaviDPhaeL",
+  "GUID": 76561198857157036,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 100702,
+      "TimestampMs": 1786321813628,
+      "SessionId": "c5ac244e-352c-4fa0-8e88-cb1530bf1de1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 98111,
+      "TimestampMs": 1787697403925,
+      "SessionId": "82574e15-868d-4d15-9970-a97bbb19a767",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,33 @@
+{
+  "Username": "tabi",
+  "GUID": 76561199586981976,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_Mist_M": {
+      "LapTimeMs": 98530,
+      "TimestampMs": 1786768999652,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 95680,
+      "TimestampMs": 1786782208471,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 95192,
+      "TimestampMs": 1786782696128,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

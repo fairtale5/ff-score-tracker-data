@@ -1,0 +1,23 @@
+{
+  "Username": "AlissonSoares",
+  "GUID": 76561198196284298,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 86069,
+      "TimestampMs": 1780629890278,
+      "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_protech_p92_f6_Hot": {
+      "LapTimeMs": 81750,
+      "TimestampMs": 1780632875693,
+      "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Saykopexe",
+  "GUID": 76561198812735322,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 153236,
+      "TimestampMs": 1776030421146,
+      "SessionId": "0ff1b91f-586e-4500-8aea-caec8b354501",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 183783,
+      "TimestampMs": 1786579952082,
+      "SessionId": "b27d12bf-95f7-47af-82cd-ff76680c5439",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,30 @@
+{
+  "Username": "I NETO",
+  "GUID": 76561198143911235,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_ScatteredClouds": {
+      "LapTimeMs": 113354,
+      "TimestampMs": 1776299174159,
+      "SessionId": "626a5898-82e7-42a7-9849-5f7a12a786f2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 109395,
+      "TimestampMs": 1779619337866,
+      "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold"
+    },
+    "rss_gtm_mercer_v8_Cold": {
+      "LapTimeMs": 107501,
+      "TimestampMs": 1779619714643,
+      "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    }
+  },
+  "LapTimeHistory": []
+}

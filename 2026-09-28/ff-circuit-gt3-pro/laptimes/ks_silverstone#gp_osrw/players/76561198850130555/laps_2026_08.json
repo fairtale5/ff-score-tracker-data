@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1786326373320,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 130122,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786326502017,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 128691,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786326628007,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 126000,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786364742230,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 125683,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786364867528,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 125299,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786364992936,
+    "SessionId": "e236dc44-c38e-4a38-a591-05863330c330",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 125393,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

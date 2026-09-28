@@ -1,0 +1,25 @@
+{
+  "Username": "tabi",
+  "GUID": 76561199586981976,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 82011,
+      "TimestampMs": 1787508753108,
+      "SessionId": "0efd4bf4-32e1-4901-99cd-ca9cf824e626",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 85431,
+      "TimestampMs": 1787509912423,
+      "SessionId": "0efd4bf4-32e1-4901-99cd-ca9cf824e626",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

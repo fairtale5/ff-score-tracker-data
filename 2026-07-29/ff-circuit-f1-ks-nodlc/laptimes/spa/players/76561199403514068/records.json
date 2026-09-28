@@ -1,0 +1,33 @@
+{
+  "Username": "Tavarim",
+  "GUID": 76561199403514068,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 121936,
+      "TimestampMs": 1783625057389,
+      "SessionId": "95713201-f7d4-446c-8535-39f722b45613",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 122074,
+      "TimestampMs": 1783624391673,
+      "SessionId": "95713201-f7d4-446c-8535-39f722b45613",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 122935,
+      "TimestampMs": 1783628264107,
+      "SessionId": "4938ccb3-763b-4b4e-b6d4-6ab14c2ad5b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

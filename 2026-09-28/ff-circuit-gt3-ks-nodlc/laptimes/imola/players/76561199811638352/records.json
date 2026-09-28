@@ -1,0 +1,25 @@
+{
+  "Username": "Dim Viesel",
+  "GUID": 76561199811638352,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 106144,
+      "TimestampMs": 1786831298663,
+      "SessionId": "7f70b222-2881-4889-8c2e-01a83750704a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 106351,
+      "TimestampMs": 1786833213105,
+      "SessionId": "7f70b222-2881-4889-8c2e-01a83750704a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

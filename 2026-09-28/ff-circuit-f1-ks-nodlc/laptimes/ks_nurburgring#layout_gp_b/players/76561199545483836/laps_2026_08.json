@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1787162351878,
+    "SessionId": "a8ff6cca-87ca-453a-967a-e13f5b7a2b2a",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 108156,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787162475156,
+    "SessionId": "a8ff6cca-87ca-453a-967a-e13f5b7a2b2a",
+    "Track": "ks_nurburgring",
+    "Layout": "layout_gp_b",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 123295,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

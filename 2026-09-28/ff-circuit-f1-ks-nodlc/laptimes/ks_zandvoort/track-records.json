@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 78114,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790127778038,
+          "SessionId": "b8fb154e-de3d-4427-9938-c3cc6ec918e7"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 88453,
+          "PlayerName": "KyrMartyn",
+          "PlayerGuid": 76561199597802938,
+          "TimestampMs": 1780540327858,
+          "SessionId": "f6281609-9a22-4552-9399-e26bb3e83d51"
+        }
+      }
+    }
+  }
+}

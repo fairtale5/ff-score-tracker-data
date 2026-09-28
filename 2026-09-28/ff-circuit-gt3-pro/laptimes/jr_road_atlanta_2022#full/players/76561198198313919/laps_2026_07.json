@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1784945882586,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 90342,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784945970751,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 88173,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784946057144,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 86391,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784946141735,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 84591,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1784946353482,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 82011,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

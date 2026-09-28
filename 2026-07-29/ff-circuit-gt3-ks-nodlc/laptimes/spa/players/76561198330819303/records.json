@@ -1,0 +1,23 @@
+{
+  "Username": "INFORCA TICO",
+  "GUID": 76561198330819303,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 204192,
+      "TimestampMs": 1775703107543,
+      "SessionId": "9438249f-8fcc-4009-a5ea-f23acdaceb18",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 156947,
+      "TimestampMs": 1775704526194,
+      "SessionId": "9438249f-8fcc-4009-a5ea-f23acdaceb18",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

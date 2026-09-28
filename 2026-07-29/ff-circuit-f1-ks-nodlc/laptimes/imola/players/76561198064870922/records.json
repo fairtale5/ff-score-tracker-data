@@ -1,0 +1,25 @@
+{
+  "Username": "Agus Pala",
+  "GUID": 76561198064870922,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 89709,
+      "TimestampMs": 1784592971669,
+      "SessionId": "9ef7346a-285e-426e-9f68-22fbfb7f5fd7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 88662,
+      "TimestampMs": 1784592540367,
+      "SessionId": "9ef7346a-285e-426e-9f68-22fbfb7f5fd7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

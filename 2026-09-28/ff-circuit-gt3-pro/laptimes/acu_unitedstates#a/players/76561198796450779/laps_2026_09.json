@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1790402704184,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 132378,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790403303553,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 130180,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790404690963,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 130146,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

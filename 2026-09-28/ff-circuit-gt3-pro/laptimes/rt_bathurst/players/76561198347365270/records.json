@@ -1,0 +1,25 @@
+{
+  "Username": "Joao Vittor",
+  "GUID": 76561198347365270,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Hot_S": {
+      "LapTimeMs": 138505,
+      "TimestampMs": 1785891977774,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Hot_M": {
+      "LapTimeMs": 135278,
+      "TimestampMs": 1785892438568,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

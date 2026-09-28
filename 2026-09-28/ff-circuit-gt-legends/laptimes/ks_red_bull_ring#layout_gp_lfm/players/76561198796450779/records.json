@@ -1,0 +1,25 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gt_lanzo_v12_Clear_S": {
+      "LapTimeMs": 92631,
+      "TimestampMs": 1789270862533,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gt_vortex_v10_Cold_S": {
+      "LapTimeMs": 91871,
+      "TimestampMs": 1790219209276,
+      "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

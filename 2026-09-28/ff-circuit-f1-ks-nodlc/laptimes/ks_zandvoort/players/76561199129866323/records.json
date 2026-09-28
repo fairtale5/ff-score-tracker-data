@@ -1,0 +1,25 @@
+{
+  "Username": "Christopher Traylor",
+  "GUID": 76561199129866323,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 83588,
+      "TimestampMs": 1787512502487,
+      "SessionId": "0efd4bf4-32e1-4901-99cd-ca9cf824e626",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 85505,
+      "TimestampMs": 1787512055019,
+      "SessionId": "0efd4bf4-32e1-4901-99cd-ca9cf824e626",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

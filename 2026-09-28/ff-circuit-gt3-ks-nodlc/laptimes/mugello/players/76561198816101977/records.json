@@ -1,0 +1,25 @@
+{
+  "Username": "marcolinguanti4420",
+  "GUID": 76561198816101977,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 113238,
+      "TimestampMs": 1787604104772,
+      "SessionId": "35d46615-f272-40fb-939f-791fcf6e250f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 113140,
+      "TimestampMs": 1787605593241,
+      "SessionId": "35d46615-f272-40fb-939f-791fcf6e250f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

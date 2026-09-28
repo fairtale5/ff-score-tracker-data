@@ -1,0 +1,25 @@
+{
+  "Username": "D4V1",
+  "GUID": 76561199010403265,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 88721,
+      "TimestampMs": 1785815026422,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 87460,
+      "TimestampMs": 1785816498938,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,41 @@
+{
+  "Username": "guilhermefernandes4188",
+  "GUID": 76561199656631049,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 129585,
+      "TimestampMs": 1786050201168,
+      "SessionId": "a41d4bd5-b4b7-4e3e-bfbb-385288af0f10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 129910,
+      "TimestampMs": 1786047049593,
+      "SessionId": "a41d4bd5-b4b7-4e3e-bfbb-385288af0f10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 132088,
+      "TimestampMs": 1786051072767,
+      "SessionId": "a41d4bd5-b4b7-4e3e-bfbb-385288af0f10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 126844,
+      "TimestampMs": 1786053445396,
+      "SessionId": "a41d4bd5-b4b7-4e3e-bfbb-385288af0f10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

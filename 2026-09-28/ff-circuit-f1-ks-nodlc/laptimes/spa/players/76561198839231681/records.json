@@ -1,0 +1,25 @@
+{
+  "Username": "JOJO",
+  "GUID": 76561198839231681,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 120154,
+      "TimestampMs": 1783624368600,
+      "SessionId": "95713201-f7d4-446c-8535-39f722b45613",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 119682,
+      "TimestampMs": 1783625140459,
+      "SessionId": "95713201-f7d4-446c-8535-39f722b45613",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

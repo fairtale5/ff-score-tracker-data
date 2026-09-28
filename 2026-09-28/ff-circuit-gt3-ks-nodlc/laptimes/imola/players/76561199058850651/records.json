@@ -1,0 +1,25 @@
+{
+  "Username": "KUKI",
+  "GUID": 76561199058850651,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 118264,
+      "TimestampMs": 1786832131270,
+      "SessionId": "7f70b222-2881-4889-8c2e-01a83750704a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 115976,
+      "TimestampMs": 1786834599168,
+      "SessionId": "7f70b222-2881-4889-8c2e-01a83750704a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "twitch.tv/bodemancorj",
+  "GUID": 76561198293644447,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 114245,
+      "TimestampMs": 1786662404092,
+      "SessionId": "a98e8de5-4aaa-4b2f-a448-e86776911d08",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 112828,
+      "TimestampMs": 1786831316674,
+      "SessionId": "7f70b222-2881-4889-8c2e-01a83750704a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

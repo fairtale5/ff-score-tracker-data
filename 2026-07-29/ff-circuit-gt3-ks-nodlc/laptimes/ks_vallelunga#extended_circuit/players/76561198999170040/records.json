@@ -1,0 +1,23 @@
+{
+  "Username": "GuiFiu",
+  "GUID": 76561198999170040,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 102629,
+      "TimestampMs": 1777496276010,
+      "SessionId": "df7dae83-c072-42b2-99e6-2d26d0e1f4be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 99675,
+      "TimestampMs": 1777497405214,
+      "SessionId": "df7dae83-c072-42b2-99e6-2d26d0e1f4be",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "TimestampMs" : 1774649291931,
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 435492,
+    "Layout" : "nordschleife",
+    "WeatherEnd" : "Clear",
+    "Car" : "ks_lamborghini_huracan_gt3"
+  },
+  {
+    "Car" : "ks_lamborghini_huracan_gt3",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "TimestampMs" : 1774649723396,
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 431460,
+    "Layout" : "nordschleife",
+    "WeatherStart" : "Clear"
+  },
+  {
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "TimestampMs" : 1774651476211,
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "LapTimeMs" : 421018,
+    "Layout" : "nordschleife",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "ks_lamborghini_huracan_gt3"
+  },
+  {
+    "Car" : "ks_lamborghini_huracan_gt3",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 431110,
+    "Layout" : "nordschleife",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_nordschleife",
+    "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+    "TimestampMs" : 1774651907325
+  }
+]

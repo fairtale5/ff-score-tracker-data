@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1790518986901,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 96689,
+    "WeatherCategory": "Fog",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Fog",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519395125,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 99545,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519498533,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 103404,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519596411,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 97884,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519692369,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 95958,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519788342,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 95975,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519900268,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 111927,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790519996511,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 96245,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790520106976,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 110468,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790520202691,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 95717,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  }
+]

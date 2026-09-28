@@ -1,0 +1,23 @@
+{
+  "Username": "ineedamg",
+  "GUID": 76561198309914903,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 110923,
+      "TimestampMs": 1780539053389,
+      "SessionId": "749fbc32-8837-4669-8d06-659158f77d20",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 120415,
+      "TimestampMs": 1780540026050,
+      "SessionId": "749fbc32-8837-4669-8d06-659158f77d20",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

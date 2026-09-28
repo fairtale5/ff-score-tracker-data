@@ -1,0 +1,25 @@
+{
+  "Username": "Sudati",
+  "GUID": 76561199487850288,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "vrc_erc_1997_beamer_csp_Drizzle_S": {
+      "LapTimeMs": 193884,
+      "TimestampMs": 1789602560088,
+      "SessionId": "9c63c363-2fca-473e-a57d-c8d1de72ff8e",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1999_vorax_csp_ScatteredClouds_S": {
+      "LapTimeMs": 172990,
+      "TimestampMs": 1789607121390,
+      "SessionId": "1d7bd22f-fe6e-4888-8bfe-8cc68d3737b7",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

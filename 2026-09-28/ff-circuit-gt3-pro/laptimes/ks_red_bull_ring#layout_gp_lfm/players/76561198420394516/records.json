@@ -1,0 +1,41 @@
+{
+  "Username": "black",
+  "GUID": 76561198420394516,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_Mist_D": {
+      "LapTimeMs": 96987,
+      "TimestampMs": 1789839311609,
+      "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 90938,
+      "TimestampMs": 1789840824983,
+      "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_ScatteredClouds_D": {
+      "LapTimeMs": 90871,
+      "TimestampMs": 1789841007801,
+      "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_Mist_D": {
+      "LapTimeMs": 93087,
+      "TimestampMs": 1789844102067,
+      "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

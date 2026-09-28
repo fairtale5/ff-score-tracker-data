@@ -1,0 +1,73 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "hw_hiroshima",
+  "Layout": "arrows",
+  "BestLaps": {
+    "hhrc_vette_c6_Clear": {
+      "LapTimeMs": 392769,
+      "TimestampMs": 1778298565585,
+      "SessionId": "62f95dd5-e259-4780-8d24-d0bc5dfa5591",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Mixed": {
+      "LapTimeMs": 269165,
+      "TimestampMs": 1781570250263,
+      "SessionId": "6748b170-0041-433c-9523-896ecea2a92f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 279229,
+      "TimestampMs": 1781899581275,
+      "SessionId": "15ad3b7c-3d3e-4ae5-aac5-8e9fb9ed3ce4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": ""
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 285362,
+      "TimestampMs": 1787380097633,
+      "SessionId": "84bdeea4-679e-45e7-a474-50c45892f807",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 479270,
+      "TimestampMs": 1787380576903,
+      "SessionId": "84bdeea4-679e-45e7-a474-50c45892f807",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 275006,
+      "TimestampMs": 1788489796552,
+      "SessionId": "16adf40e-7dbd-41c5-a387-ecb276737671",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_darche_cup_2021_Mixed_WET": {
+      "LapTimeMs": 299144,
+      "TimestampMs": 1787539098765,
+      "SessionId": "4ca2ee80-e58a-4157-b261-361e7dc6b4c7",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "WET"
+    },
+    "naz_porsche_924_tuned_Mixed_SM": {
+      "LapTimeMs": 315259,
+      "TimestampMs": 1790551715316,
+      "SessionId": "5734a006-2972-4e1d-a618-b6bc7a396957",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SM"
+    }
+  },
+  "LapTimeHistory": []
+}

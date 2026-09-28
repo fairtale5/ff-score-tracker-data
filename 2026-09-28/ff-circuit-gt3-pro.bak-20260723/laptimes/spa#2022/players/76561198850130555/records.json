@@ -1,0 +1,23 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "spa",
+  "Layout": "2022",
+  "BestLaps": {
+    "rss_mph_protech_p96_v8_ScatteredClouds": {
+      "LapTimeMs": 131654,
+      "TimestampMs": 1781242002124,
+      "SessionId": "36f3cd3a-2209-4db4-bfc2-48ce1876cacf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_mph_protech_p96_v8_Mixed": {
+      "LapTimeMs": 131029,
+      "TimestampMs": 1781242133149,
+      "SessionId": "36f3cd3a-2209-4db4-bfc2-48ce1876cacf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

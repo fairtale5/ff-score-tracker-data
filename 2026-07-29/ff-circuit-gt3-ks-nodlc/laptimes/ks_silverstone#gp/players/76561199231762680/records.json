@@ -1,0 +1,23 @@
+{
+  "Username": "ztrewk",
+  "GUID": 76561199231762680,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 131656,
+      "TimestampMs": 1776460119688,
+      "SessionId": "a6d59a77-5793-4475-a2e5-481276ef2ef0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 125015,
+      "TimestampMs": 1776466504105,
+      "SessionId": "a6d59a77-5793-4475-a2e5-481276ef2ef0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

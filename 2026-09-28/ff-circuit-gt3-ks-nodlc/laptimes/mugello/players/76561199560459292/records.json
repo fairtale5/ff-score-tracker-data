@@ -1,0 +1,25 @@
+{
+  "Username": "NJ4FTP2 VR",
+  "GUID": 76561199560459292,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 111077,
+      "TimestampMs": 1785454588561,
+      "SessionId": "c62a150a-d00c-434d-8dbf-781eef4cb515",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 109991,
+      "TimestampMs": 1785627699282,
+      "SessionId": "c3700594-724e-4f25-abbb-1a8b13640efb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

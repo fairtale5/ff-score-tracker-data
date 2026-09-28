@@ -1,0 +1,33 @@
+{
+  "Username": "bentsubframe",
+  "GUID": 76561198896739857,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_SS": {
+      "LapTimeMs": 102062,
+      "TimestampMs": 1790103577701,
+      "SessionId": "b785b53a-2e5d-4e2b-80fb-1ab655fc6925",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 101821,
+      "TimestampMs": 1790104295989,
+      "SessionId": "b785b53a-2e5d-4e2b-80fb-1ab655fc6925",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_m3_gt2_Clear_S": {
+      "LapTimeMs": 100151,
+      "TimestampMs": 1790105915584,
+      "SessionId": "b785b53a-2e5d-4e2b-80fb-1ab655fc6925",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

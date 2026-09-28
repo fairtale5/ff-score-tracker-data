@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1790403882240,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 132205,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790404014181,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 131941,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790404415871,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 130082,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790404546117,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 130250,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790404675868,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 129751,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790405128265,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 131288,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790405259065,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 130800,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790405520652,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 131677,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790405792352,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 133205,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "H"
+  }
+]

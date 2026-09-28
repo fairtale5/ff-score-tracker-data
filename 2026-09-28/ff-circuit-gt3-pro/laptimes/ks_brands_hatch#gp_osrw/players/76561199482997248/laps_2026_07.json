@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785035215129,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 92144,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785035305895,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 90768,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  }
+]

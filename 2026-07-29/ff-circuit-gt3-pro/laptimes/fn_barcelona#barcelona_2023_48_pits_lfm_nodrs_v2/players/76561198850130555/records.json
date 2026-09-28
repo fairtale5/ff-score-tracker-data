@@ -1,0 +1,41 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Hot_S": {
+      "LapTimeMs": 109179,
+      "TimestampMs": 1785133261804,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Hot_S": {
+      "LapTimeMs": 109695,
+      "TimestampMs": 1785135128293,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 108958,
+      "TimestampMs": 1785135582927,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 107964,
+      "TimestampMs": 1785136004998,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,49 @@
+{
+  "Username": "TettaNegga4i20",
+  "GUID": 76561199062825160,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_M": {
+      "LapTimeMs": 97923,
+      "TimestampMs": 1790520655557,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Fog_M": {
+      "LapTimeMs": 99891,
+      "TimestampMs": 1790519132232,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Fog",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mist_M": {
+      "LapTimeMs": 100957,
+      "TimestampMs": 1790519711553,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_LightDrizzle_M": {
+      "LapTimeMs": 98392,
+      "TimestampMs": 1790520341671,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_OvercastClouds_M": {
+      "LapTimeMs": 120851,
+      "TimestampMs": 1790521008271,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

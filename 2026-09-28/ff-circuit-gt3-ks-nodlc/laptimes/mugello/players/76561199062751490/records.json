@@ -1,0 +1,33 @@
+{
+  "Username": "FEDERICO ROT",
+  "GUID": 76561199062751490,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 109848,
+      "TimestampMs": 1778105555718,
+      "SessionId": "c7e01fa8-6e78-4e3f-9bcf-820afb868cc4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 111338,
+      "TimestampMs": 1787093558855,
+      "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 110424,
+      "TimestampMs": 1787094570317,
+      "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

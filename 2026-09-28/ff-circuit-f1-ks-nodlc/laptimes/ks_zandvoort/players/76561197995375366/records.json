@@ -1,0 +1,25 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 82754,
+      "TimestampMs": 1780539512004,
+      "SessionId": "f6281609-9a22-4552-9399-e26bb3e83d51",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 80742,
+      "TimestampMs": 1790123646752,
+      "SessionId": "b8fb154e-de3d-4427-9938-c3cc6ec918e7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

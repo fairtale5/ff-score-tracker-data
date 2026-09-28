@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1787379812281,
+    "SessionId": "84bdeea4-679e-45e7-a474-50c45892f807",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 297153,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787380097633,
+    "SessionId": "84bdeea4-679e-45e7-a474-50c45892f807",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 285362,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787380576903,
+    "SessionId": "84bdeea4-679e-45e7-a474-50c45892f807",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 479270,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Fog",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787446172487,
+    "SessionId": "89a51373-9126-4dfc-9335-90dc7fabb6f4",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 306064,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787446482022,
+    "SessionId": "89a51373-9126-4dfc-9335-90dc7fabb6f4",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 309534,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787538799645,
+    "SessionId": "4ca2ee80-e58a-4157-b261-361e7dc6b4c7",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "urd_darche_cup_2021",
+    "LapTimeMs": 300374,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightDrizzle",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1787539098765,
+    "SessionId": "4ca2ee80-e58a-4157-b261-361e7dc6b4c7",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "urd_darche_cup_2021",
+    "LapTimeMs": 299144,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "WET"
+  }
+]

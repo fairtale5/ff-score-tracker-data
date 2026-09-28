@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1784993384553,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 133703,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784994034774,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 150527,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784994167739,
+    "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 132968,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

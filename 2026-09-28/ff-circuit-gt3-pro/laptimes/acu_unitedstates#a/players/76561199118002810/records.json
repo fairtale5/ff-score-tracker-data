@@ -1,0 +1,33 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "acu_unitedstates",
+  "Layout": "a",
+  "BestLaps": {
+    "rss_gtm_lanzo_v8_Hot_D": {
+      "LapTimeMs": 130138,
+      "TimestampMs": 1790402736080,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Clear_D": {
+      "LapTimeMs": 128836,
+      "TimestampMs": 1790404137941,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Hot_D": {
+      "LapTimeMs": 129022,
+      "TimestampMs": 1790404924690,
+      "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

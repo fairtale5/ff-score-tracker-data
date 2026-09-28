@@ -1,0 +1,23 @@
+{
+  "Username": "marcos roig",
+  "GUID": 76561199082571290,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 131896,
+      "TimestampMs": 1781477478844,
+      "SessionId": "d0886901-492a-40b9-be76-9bddd06cea88",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 131624,
+      "TimestampMs": 1781478961275,
+      "SessionId": "d0886901-492a-40b9-be76-9bddd06cea88",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

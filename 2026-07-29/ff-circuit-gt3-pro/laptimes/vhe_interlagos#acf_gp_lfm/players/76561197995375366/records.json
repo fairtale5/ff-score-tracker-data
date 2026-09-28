@@ -1,0 +1,33 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 98717,
+      "TimestampMs": 1784861986623,
+      "SessionId": "0fc1e85f-a45b-41e0-9a05-0810f185065e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear": {
+      "LapTimeMs": 97673,
+      "TimestampMs": 1784863194380,
+      "SessionId": "0fc1e85f-a45b-41e0-9a05-0810f185065e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed": {
+      "LapTimeMs": 98188,
+      "TimestampMs": 1784863900605,
+      "SessionId": "0fc1e85f-a45b-41e0-9a05-0810f185065e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

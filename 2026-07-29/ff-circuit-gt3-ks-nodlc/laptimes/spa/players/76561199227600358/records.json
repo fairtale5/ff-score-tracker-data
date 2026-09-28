@@ -1,0 +1,25 @@
+{
+  "Username": "Chitown388",
+  "GUID": 76561199227600358,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 145169,
+      "TimestampMs": 1774919527167,
+      "SessionId": "ebde6d69-1632-458e-9560-0d5502d5205f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 144954,
+      "TimestampMs": 1783400463798,
+      "SessionId": "a139b25d-eeda-4576-9fd8-55a80f83ac58",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

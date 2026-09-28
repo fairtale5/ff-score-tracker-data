@@ -1,0 +1,73 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "circuit_charade2023",
+  "Layout": "charade2023_8km",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Mixed_D": {
+      "LapTimeMs": 187075,
+      "TimestampMs": 1790396237340,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_BrokenClouds_D": {
+      "LapTimeMs": 194226,
+      "TimestampMs": 1790390261559,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_ScatteredClouds_D": {
+      "LapTimeMs": 183494,
+      "TimestampMs": 1790396608982,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Clear_D": {
+      "LapTimeMs": 196735,
+      "TimestampMs": 1790397918250,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Hot_D": {
+      "LapTimeMs": 186173,
+      "TimestampMs": 1790398755248,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_Mixed_D": {
+      "LapTimeMs": 193997,
+      "TimestampMs": 1790474590724,
+      "SessionId": "de4a6232-c679-458c-8a95-8b239c43d0f3",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_Clear_D": {
+      "LapTimeMs": 190483,
+      "TimestampMs": 1790474781208,
+      "SessionId": "de4a6232-c679-458c-8a95-8b239c43d0f3",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds_D": {
+      "LapTimeMs": 188183,
+      "TimestampMs": 1790488727433,
+      "SessionId": "92724483-37aa-423f-be37-050a609a447c",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

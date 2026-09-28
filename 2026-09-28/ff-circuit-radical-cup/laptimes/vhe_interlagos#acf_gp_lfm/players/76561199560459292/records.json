@@ -1,0 +1,33 @@
+{
+  "Username": "NJ4FTP2 VR",
+  "GUID": 76561199560459292,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 95907,
+      "TimestampMs": 1785801082770,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 96232,
+      "TimestampMs": 1785801179000,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 96130,
+      "TimestampMs": 1785801662018,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

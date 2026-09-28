@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1779236008221,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 98487,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1779236106292,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 98077,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1779236204093,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 97808,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1779236566008,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 97553,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1779236663279,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 97274,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1779240510773,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 99010,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1779240608775,
+    "SessionId": "ebf786b4-48c0-476b-bdbc-c5a0793df919",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 98011,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "D4V1",
+  "GUID": 76561199010403265,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_ScatteredClouds_S": {
+      "LapTimeMs": 98758,
+      "TimestampMs": 1785543568697,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mist_M": {
+      "LapTimeMs": 100266,
+      "TimestampMs": 1785544960251,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

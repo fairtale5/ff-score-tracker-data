@@ -1,0 +1,23 @@
+{
+  "Username": "eoc811",
+  "GUID": 76561199029226761,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_98t_Clear": {
+      "LapTimeMs": 98283,
+      "TimestampMs": 1781452172179,
+      "SessionId": "9691423b-a593-4301-a2c2-11fd3633bc5e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 90391,
+      "TimestampMs": 1781453419548,
+      "SessionId": "9691423b-a593-4301-a2c2-11fd3633bc5e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

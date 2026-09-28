@@ -1,0 +1,33 @@
+{
+  "Username": "Trind4z",
+  "GUID": 76561199800662904,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 143175,
+      "TimestampMs": 1786159127844,
+      "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 142016,
+      "TimestampMs": 1786159574729,
+      "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Cold_M": {
+      "LapTimeMs": 146928,
+      "TimestampMs": 1786252578081,
+      "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "BrianMOZA KS Wheelit says",
+  "GUID": 76561198024179741,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 122629,
+      "TimestampMs": 1786924667438,
+      "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 123429,
+      "TimestampMs": 1786923314276,
+      "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

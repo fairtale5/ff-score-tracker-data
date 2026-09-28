@@ -1,0 +1,25 @@
+{
+  "Username": "Torreto",
+  "GUID": 76561198220802320,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 117428,
+      "TimestampMs": 1789156364728,
+      "SessionId": "94e81004-0d42-4aae-a779-b20dccc33cd0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 114466,
+      "TimestampMs": 1789157201088,
+      "SessionId": "94e81004-0d42-4aae-a779-b20dccc33cd0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "NJ4FTP2 VR",
+  "GUID": 76561199560459292,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 109484,
+      "TimestampMs": 1785695422203,
+      "SessionId": "f85f601c-2613-4828-8fdf-499383d0588e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 109112,
+      "TimestampMs": 1787008445270,
+      "SessionId": "c8431c18-b415-4c50-9dc7-87c9f35b6136",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Cesar Juarez",
+  "GUID": 76561198706405684,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 102585,
+      "TimestampMs": 1783893572669,
+      "SessionId": "136afce2-ac57-4b33-ba26-d03ac636e2ad",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 96424,
+      "TimestampMs": 1783894356671,
+      "SessionId": "136afce2-ac57-4b33-ba26-d03ac636e2ad",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1779619227674,
+    "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 99010,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1779619326671,
+    "SessionId": "86872a8a-fb86-4210-b788-5deec69bed0a",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 99028,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  }
+]

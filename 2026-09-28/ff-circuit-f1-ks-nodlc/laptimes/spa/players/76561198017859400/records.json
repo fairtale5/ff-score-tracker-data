@@ -1,0 +1,25 @@
+{
+  "Username": "VIBE_OFFICER",
+  "GUID": 76561198017859400,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 113740,
+      "TimestampMs": 1787701264473,
+      "SessionId": "747a7057-f042-45c9-b53b-0b30b7e330b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 114746,
+      "TimestampMs": 1787701692924,
+      "SessionId": "747a7057-f042-45c9-b53b-0b30b7e330b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

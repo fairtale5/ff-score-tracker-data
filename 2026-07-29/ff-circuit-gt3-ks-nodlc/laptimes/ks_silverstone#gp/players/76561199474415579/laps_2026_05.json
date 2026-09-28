@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778298396439,
+    "SessionId": "c182c0f8-0a99-49e9-a029-69f64f413053",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 136519,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778298540339,
+    "SessionId": "c182c0f8-0a99-49e9-a029-69f64f413053",
+    "Track": "ks_silverstone",
+    "Layout": "gp",
+    "Car": "mclaren_mp412c_gt3",
+    "LapTimeMs": 143906,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

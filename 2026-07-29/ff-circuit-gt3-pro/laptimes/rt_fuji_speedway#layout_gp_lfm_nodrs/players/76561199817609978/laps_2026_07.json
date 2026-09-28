@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1785174900732,
+    "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 106221,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785175765265,
+    "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 103874,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785176392204,
+    "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 105632,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785181760963,
+    "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 104264,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785181865295,
+    "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 104340,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

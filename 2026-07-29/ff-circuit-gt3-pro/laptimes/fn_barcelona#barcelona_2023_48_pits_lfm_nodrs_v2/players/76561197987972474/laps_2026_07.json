@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785133903236,
+    "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 109800,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785134009497,
+    "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 106262,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "S"
+  }
+]

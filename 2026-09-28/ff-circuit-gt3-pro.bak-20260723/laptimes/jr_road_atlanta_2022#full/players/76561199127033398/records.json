@@ -1,0 +1,44 @@
+{
+  "Username": "Kauan Aguiar",
+  "GUID": 76561199127033398,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed": {
+      "LapTimeMs": 87454,
+      "TimestampMs": 1780114126714,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds": {
+      "LapTimeMs": 86940,
+      "TimestampMs": 1780114395863,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_protech_p92_f6_Mist": {
+      "LapTimeMs": 87676,
+      "TimestampMs": 1780114803090,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_protech_p92_f6_Smoke": {
+      "LapTimeMs": 85562,
+      "TimestampMs": 1780115610567,
+      "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf",
+      "WeatherStart": "Smoke",
+      "WeatherEnd": "Smoke"
+    },
+    "rss_gtm_lanzo_v10_evo2_Mixed": {
+      "LapTimeMs": 84010,
+      "TimestampMs": 1780728599928,
+      "SessionId": "3785228a-f60c-4083-918d-327a402532e9",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition"
+    }
+  },
+  "LapTimeHistory": []
+}

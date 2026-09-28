@@ -1,0 +1,25 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "melbourne",
+  "Layout": "layout_f1_2026",
+  "BestLaps": {
+    "gp_2025_c45_Clear_S": {
+      "LapTimeMs": 85846,
+      "TimestampMs": 1783195797737,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "gp_2025_c45_Clear": {
+      "LapTimeMs": 88672,
+      "TimestampMs": 1783197035775,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}
