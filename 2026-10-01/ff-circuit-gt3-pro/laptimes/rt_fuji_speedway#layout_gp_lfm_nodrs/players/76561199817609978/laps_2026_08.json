@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1786667898406,
+    "SessionId": "3743adfe-f245-47a2-98b9-03e03c1b060f",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 105324,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1787165865515,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 107510,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787166078422,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 107409,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787166188986,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 110560,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787166294610,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 105630,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787166401808,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 107198,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787166926507,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 106831,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787167034036,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 107506,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787167255163,
+    "SessionId": "2b1c1ce8-ae66-4378-8e98-3d63f9ada391",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 106123,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "S"
+  }
+]

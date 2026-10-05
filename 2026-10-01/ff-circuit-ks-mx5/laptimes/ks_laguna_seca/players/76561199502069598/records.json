@@ -1,0 +1,25 @@
+{
+  "Username": "P.3.K",
+  "GUID": 76561199502069598,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ks_mazda_mx5_cup_Clear_H": {
+      "LapTimeMs": 109368,
+      "TimestampMs": 1788836190209,
+      "SessionId": "b6db33a8-300b-4b1e-a99a-f3c56f0c4161",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "ks_mazda_mx5_cup_Mixed_H": {
+      "LapTimeMs": 111986,
+      "TimestampMs": 1788836302201,
+      "SessionId": "b6db33a8-300b-4b1e-a99a-f3c56f0c4161",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

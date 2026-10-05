@@ -1,0 +1,41 @@
+{
+  "Username": "tabi",
+  "GUID": 76561199586981976,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 109191,
+      "TimestampMs": 1786663231875,
+      "SessionId": "a98e8de5-4aaa-4b2f-a448-e86776911d08",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 107602,
+      "TimestampMs": 1789355028150,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 110422,
+      "TimestampMs": 1786682407101,
+      "SessionId": "a98e8de5-4aaa-4b2f-a448-e86776911d08",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 110085,
+      "TimestampMs": 1790251596231,
+      "SessionId": "7cedd96c-0184-4511-a0ac-8a9b660defe2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

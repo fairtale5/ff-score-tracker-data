@@ -1,0 +1,97 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_bayer_v8_Clear": {
+      "LapTimeMs": 123271,
+      "TimestampMs": 1790301901774,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_bayer_v8_Mixed": {
+      "LapTimeMs": 122623,
+      "TimestampMs": 1790302147614,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_bayer_v8_Hot_H": {
+      "LapTimeMs": 122131,
+      "TimestampMs": 1790302543862,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_bayer_v8_Mixed_H": {
+      "LapTimeMs": 122385,
+      "TimestampMs": 1790303294010,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_bayer_v8_Clear_H": {
+      "LapTimeMs": 122789,
+      "TimestampMs": 1790303171619,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_hyperion_v8_Hot_D": {
+      "LapTimeMs": 123819,
+      "TimestampMs": 1790305093025,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_Clear": {
+      "LapTimeMs": 122926,
+      "TimestampMs": 1790305981389,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_hyperion_v8_Mixed": {
+      "LapTimeMs": 123352,
+      "TimestampMs": 1790306229551,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_hyperion_v8_ScatteredClouds_D": {
+      "LapTimeMs": 123437,
+      "TimestampMs": 1790306759167,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_Mixed_D": {
+      "LapTimeMs": 122385,
+      "TimestampMs": 1790306881549,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_BrokenClouds_D": {
+      "LapTimeMs": 124710,
+      "TimestampMs": 1790307401471,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

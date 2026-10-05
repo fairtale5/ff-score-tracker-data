@@ -1,0 +1,25 @@
+{
+  "Username": "Fiatz",
+  "GUID": 76561198178489902,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 147959,
+      "TimestampMs": 1786398282689,
+      "SessionId": "7f41eddf-ef95-40d6-9c62-05a86b64af26",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 145100,
+      "TimestampMs": 1786401453571,
+      "SessionId": "7f41eddf-ef95-40d6-9c62-05a86b64af26",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1786286367242,
+    "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 103392,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786286849347,
+    "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 104990,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786286953316,
+    "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 103971,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786287855274,
+    "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 103542,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786287957932,
+    "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 102658,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

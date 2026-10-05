@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1788629230703,
+    "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 112283,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788629341935,
+    "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 111233,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788629588056,
+    "SessionId": "d0db1c34-0db3-4dd9-ae74-2b4b199ab794",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 109570,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

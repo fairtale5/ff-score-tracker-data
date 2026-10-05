@@ -1,0 +1,25 @@
+{
+  "Username": "Rodrigo Fern\u00E1ndez Solano",
+  "GUID": 76561199733797913,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 113078,
+      "TimestampMs": 1783642153579,
+      "SessionId": "d194495f-e767-41d4-8c35-3ce976487ba4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 112818,
+      "TimestampMs": 1783642542430,
+      "SessionId": "d194495f-e767-41d4-8c35-3ce976487ba4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,591 @@
+{
+  "Records": {
+    "full": {
+      "rss_gtm_protech_p92_f6": {
+        "ScatteredClouds": {
+          "LapTimeMs": 82314,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778461290545,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mist": {
+          "LapTimeMs": 81532,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1779084342723,
+          "SessionId": "bb1f577e-ec66-41e2-944b-2d8569f8fd0d"
+        },
+        "Hot": {
+          "LapTimeMs": 80896,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778462840916,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mixed": {
+          "LapTimeMs": 81258,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778462922177,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Clear": {
+          "LapTimeMs": 81262,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1779083499117,
+          "SessionId": "bb1f577e-ec66-41e2-944b-2d8569f8fd0d"
+        },
+        "HeavyThunderstorm": {
+          "LapTimeMs": 86923,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778308558351,
+          "SessionId": "db660526-a264-44db-bdfa-3099367d96e8"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 83345,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1778381604040,
+          "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796"
+        },
+        "Cold": {
+          "LapTimeMs": 83651,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1779081866096,
+          "SessionId": "bb1f577e-ec66-41e2-944b-2d8569f8fd0d"
+        },
+        "Smoke": {
+          "LapTimeMs": 85562,
+          "PlayerName": "Kauan Aguiar",
+          "PlayerGuid": 76561199127033398,
+          "TimestampMs": 1780115610567,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        }
+      },
+      "rss_gtm_mercer_v8": {
+        "ScatteredClouds": {
+          "LapTimeMs": 79003,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778464109393,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Clear": {
+          "LapTimeMs": 79176,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778460494542,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Hot": {
+          "LapTimeMs": 78860,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778462724918,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mixed": {
+          "LapTimeMs": 79102,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778464030397,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mist": {
+          "LapTimeMs": 80813,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778460255451,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "HeavyThunderstorm": {
+          "LapTimeMs": 95773,
+          "PlayerName": "Felipe Berta",
+          "PlayerGuid": 76561199442198185,
+          "TimestampMs": 1778308560377,
+          "SessionId": "db660526-a264-44db-bdfa-3099367d96e8"
+        },
+        "Cold": {
+          "LapTimeMs": 83503,
+          "PlayerName": "LiuIAM",
+          "PlayerGuid": 76561199789828867,
+          "TimestampMs": 1779081772507,
+          "SessionId": "bb1f577e-ec66-41e2-944b-2d8569f8fd0d"
+        }
+      },
+      "rss_gtm_aero_v10_evo2": {
+        "Mixed": {
+          "LapTimeMs": 82076,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1777777419257,
+          "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 80949,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1777777830267,
+          "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e"
+        },
+        "Hot": {
+          "LapTimeMs": 82311,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1777776014639,
+          "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e"
+        },
+        "Clear": {
+          "LapTimeMs": 83914,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1777777337184,
+          "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e"
+        },
+        "Drizzle": {
+          "LapTimeMs": 83161,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1777778823148,
+          "SessionId": "8d05af93-3a0d-400a-85b4-2fe1b78dd80e"
+        },
+        "Mist": {
+          "LapTimeMs": 85956,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1781458479731,
+          "SessionId": "1f3b886f-781c-45fe-b09a-78c114911de7"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 86951,
+          "PlayerName": "matheus pereira",
+          "PlayerGuid": 76561198731583934,
+          "TimestampMs": 1778381420689,
+          "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796"
+        }
+      },
+      "rss_gtm_akuro_v6_evo2": {
+        "Hot": {
+          "LapTimeMs": 82934,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780638710043,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Mixed": {
+          "LapTimeMs": 79732,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778459882477,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 79178,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778459646522,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Clear": {
+          "LapTimeMs": 81325,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780639398036,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Drizzle": {
+          "LapTimeMs": 83994,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780636935353,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Mist": {
+          "LapTimeMs": 84628,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780637381382,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        }
+      },
+      "rss_gtm_lanzo_v10_evo2": {
+        "Mixed": {
+          "LapTimeMs": 81677,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778461037940,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mist": {
+          "LapTimeMs": 83327,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778264388981,
+          "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6"
+        },
+        "Clear": {
+          "LapTimeMs": 82249,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778265021091,
+          "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 81326,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778461119263,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Hot": {
+          "LapTimeMs": 83883,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778301021280,
+          "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe"
+        },
+        "Cold": {
+          "LapTimeMs": 84865,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778263782571,
+          "SessionId": "68aacc8f-5fe4-4143-8199-5df8f6088fd6"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 84748,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1778381603332,
+          "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796"
+        }
+      },
+      "rss_gtm_furiano_96_v6": {
+        "ScatteredClouds": {
+          "LapTimeMs": 79911,
+          "PlayerName": "y i e",
+          "PlayerGuid": 76561199330326813,
+          "TimestampMs": 1778459458503,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mixed": {
+          "LapTimeMs": 79125,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778454725013,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mist": {
+          "LapTimeMs": 81413,
+          "PlayerName": "y i e",
+          "PlayerGuid": 76561199330326813,
+          "TimestampMs": 1778451115472,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Cold": {
+          "LapTimeMs": 82902,
+          "PlayerName": "Crude",
+          "PlayerGuid": 76561199660068513,
+          "TimestampMs": 1778194573093,
+          "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2"
+        },
+        "Clear": {
+          "LapTimeMs": 79809,
+          "PlayerName": "y i e",
+          "PlayerGuid": 76561199330326813,
+          "TimestampMs": 1778460541508,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Hot": {
+          "LapTimeMs": 79819,
+          "PlayerName": "y i e",
+          "PlayerGuid": 76561199330326813,
+          "TimestampMs": 1778462811540,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        }
+      },
+      "rss_gtm_lux_v8": {
+        "ScatteredClouds": {
+          "LapTimeMs": 84064,
+          "PlayerName": "I NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1778203492611,
+          "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2"
+        },
+        "Mixed": {
+          "LapTimeMs": 85229,
+          "PlayerName": "I NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1778204023622,
+          "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2"
+        },
+        "Clear": {
+          "LapTimeMs": 85516,
+          "PlayerName": "I NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1778201630078,
+          "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2"
+        },
+        "Hot": {
+          "LapTimeMs": 83919,
+          "PlayerName": "I NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1778203752660,
+          "SessionId": "9af0b6ee-4b0f-4c42-b0b9-ee0e044337b2"
+        },
+        "Mist": {
+          "LapTimeMs": 111389,
+          "PlayerName": "IVANDIR NETO",
+          "PlayerGuid": 76561198143911235,
+          "TimestampMs": 1780114831768,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        }
+      },
+      "rss_gtm_lanzo_v10": {
+        "Clear": {
+          "LapTimeMs": 86189,
+          "PlayerName": "Felipe Berta",
+          "PlayerGuid": 76561199442198185,
+          "TimestampMs": 1778303931649,
+          "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe"
+        },
+        "Mixed": {
+          "LapTimeMs": 89326,
+          "PlayerName": "Felipe Berta",
+          "PlayerGuid": 76561199442198185,
+          "TimestampMs": 1778303567256,
+          "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe"
+        }
+      },
+      "rss_gtm_hyperion_v8": {
+        "Hot": {
+          "LapTimeMs": 79598,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778453751903,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Mist": {
+          "LapTimeMs": 83161,
+          "PlayerName": "Ojohnny",
+          "PlayerGuid": 76561198840444210,
+          "TimestampMs": 1778303218259,
+          "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe"
+        },
+        "Mixed": {
+          "LapTimeMs": 79294,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778454253743,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 80853,
+          "PlayerName": "Ojohnny",
+          "PlayerGuid": 76561198840444210,
+          "TimestampMs": 1778464210014,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "Clear": {
+          "LapTimeMs": 79723,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778453198377,
+          "SessionId": "93db28e4-0ddc-4b2c-9653-1f4e32b13f6e"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 91435,
+          "PlayerName": "vitor36000x",
+          "PlayerGuid": 76561199382306873,
+          "TimestampMs": 1778381441614,
+          "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796"
+        },
+        "Cold": {
+          "LapTimeMs": 92274,
+          "PlayerName": "vitor36000x",
+          "PlayerGuid": 76561199382306873,
+          "TimestampMs": 1778381835204,
+          "SessionId": "93ff18e1-f46b-4856-bdce-2ee5bfccc796"
+        }
+      },
+      "urd_darche_egt_2020_sprint": {
+        "ScatteredClouds": {
+          "LapTimeMs": 79385,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1778373848299,
+          "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61"
+        },
+        "Mixed": {
+          "LapTimeMs": 80040,
+          "PlayerName": "kwertz",
+          "PlayerGuid": 76561198098277372,
+          "TimestampMs": 1778373928333,
+          "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61"
+        }
+      },
+      "urd_amr_egt_2019_v2": {
+        "Hot": {
+          "LapTimeMs": 83592,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1778376970014,
+          "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61"
+        },
+        "Mixed": {
+          "LapTimeMs": 82543,
+          "PlayerName": "rafelgiroto",
+          "PlayerGuid": 76561199447178709,
+          "TimestampMs": 1778377328759,
+          "SessionId": "08d47fa8-2f68-48c2-9ee4-b02b6f8f4c61"
+        }
+      },
+      "rss_mph_protech_p96_v8": {
+        "ScatteredClouds": {
+          "LapTimeMs": 72446,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1780161124385,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "Mixed": {
+          "LapTimeMs": 71098,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1780161195480,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "Mist": {
+          "LapTimeMs": 76224,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780645723520,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Clear": {
+          "LapTimeMs": 79149,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1780114015678,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "Drizzle": {
+          "LapTimeMs": 71996,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1780145953560,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "Cold": {
+          "LapTimeMs": 71580,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1780161502957,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        }
+      },
+      "rss_gtm_bayer_v8": {
+        "Smoke": {
+          "LapTimeMs": 83723,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1780115544029,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "Mixed": {
+          "LapTimeMs": 82834,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1780115626863,
+          "SessionId": "5d17aa0d-5373-4467-94ca-182799af86bf"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 84115,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1780207634435,
+          "SessionId": "4f415d61-728a-437b-a3f4-6b558cd1bd29"
+        },
+        "Cold": {
+          "LapTimeMs": 82349,
+          "PlayerName": "fonthy",
+          "PlayerGuid": 76561198223948872,
+          "TimestampMs": 1780361249194,
+          "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7"
+        },
+        "Hot": {
+          "LapTimeMs": 81819,
+          "PlayerName": "fonthy",
+          "PlayerGuid": 76561198223948872,
+          "TimestampMs": 1780362400447,
+          "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7"
+        },
+        "Mist": {
+          "LapTimeMs": 87520,
+          "PlayerName": "fonthy",
+          "PlayerGuid": 76561198223948872,
+          "TimestampMs": 1780362686213,
+          "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7"
+        }
+      },
+      "rss_gtm_adonis_v8_evo": {
+        "Mixed": {
+          "LapTimeMs": 81984,
+          "PlayerName": "vitor",
+          "PlayerGuid": 76561198727662657,
+          "TimestampMs": 1780359710664,
+          "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7"
+        }
+      },
+      "rss_gtm_macca_72_evo_v8": {
+        "ScatteredClouds": {
+          "LapTimeMs": 83169,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780634323331,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Mixed": {
+          "LapTimeMs": 82609,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780634491105,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        },
+        "Hot": {
+          "LapTimeMs": 81453,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1780634737471,
+          "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9"
+        }
+      },
+      "rss_mph_bayer_hybrid_v8": {
+        "Clear": {
+          "LapTimeMs": 77320,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1781053718859,
+          "SessionId": "0cdf94ff-530c-49ca-8108-b0d7fe123b13"
+        },
+        "Mixed": {
+          "LapTimeMs": 75499,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1781054038419,
+          "SessionId": "0cdf94ff-530c-49ca-8108-b0d7fe123b13"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 75935,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1781054377209,
+          "SessionId": "0cdf94ff-530c-49ca-8108-b0d7fe123b13"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "AlissonSoares",
+  "GUID": 76561198196284298,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 120981,
+      "TimestampMs": 1783045710370,
+      "SessionId": "1cf12ec9-5fe6-46bc-ab4f-981428f0f96f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 119623,
+      "TimestampMs": 1783046904998,
+      "SessionId": "1cf12ec9-5fe6-46bc-ab4f-981428f0f96f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

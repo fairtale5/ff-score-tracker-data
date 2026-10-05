@@ -1,0 +1,25 @@
+{
+  "Username": "Joao Balbino",
+  "GUID": 76561198995178362,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 97819,
+      "TimestampMs": 1787699385749,
+      "SessionId": "82574e15-868d-4d15-9970-a97bbb19a767",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 96138,
+      "TimestampMs": 1787700355620,
+      "SessionId": "82574e15-868d-4d15-9970-a97bbb19a767",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

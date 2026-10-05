@@ -1,0 +1,25 @@
+{
+  "Username": "Phoenix",
+  "GUID": 76561199064126861,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 117724,
+      "TimestampMs": 1786759731608,
+      "SessionId": "88e28fce-03d4-48df-bee5-92b5c65d87c2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 118771,
+      "TimestampMs": 1790720712343,
+      "SessionId": "250188fc-d8bb-421b-8552-0859c20222f0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

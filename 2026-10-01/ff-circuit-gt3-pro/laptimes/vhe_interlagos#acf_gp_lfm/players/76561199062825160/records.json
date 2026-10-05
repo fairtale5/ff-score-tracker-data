@@ -1,0 +1,33 @@
+{
+  "Username": "TettaNegga4i20",
+  "GUID": 76561199062825160,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_cortex_v8_Mixed_D": {
+      "LapTimeMs": 122877,
+      "TimestampMs": 1790516215947,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_Clear_D": {
+      "LapTimeMs": 97510,
+      "TimestampMs": 1790516536662,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_FewClouds_D": {
+      "LapTimeMs": 99497,
+      "TimestampMs": 1790517388122,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

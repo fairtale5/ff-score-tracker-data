@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "ek_usui_circuit",
+  "Layout": "uphill_real",
+  "BestLaps": {
+    "ks_mazda_mx5_cup_Clear_H": {
+      "LapTimeMs": 130618,
+      "TimestampMs": 1787791070136,
+      "SessionId": "855adc16-e71b-42ee-b2a4-b0e9887cf4a0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "ks_mazda_mx5_cup_Clear": {
+      "LapTimeMs": 148044,
+      "TimestampMs": 1787790275234,
+      "SessionId": "855adc16-e71b-42ee-b2a4-b0e9887cf4a0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

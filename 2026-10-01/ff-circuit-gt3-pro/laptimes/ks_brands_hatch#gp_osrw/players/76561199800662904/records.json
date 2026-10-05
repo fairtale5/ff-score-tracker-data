@@ -1,0 +1,65 @@
+{
+  "Username": "Trind4z",
+  "GUID": 76561199800662904,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 87074,
+      "TimestampMs": 1785085408610,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mixed_S": {
+      "LapTimeMs": 87835,
+      "TimestampMs": 1785027101600,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Clear_S": {
+      "LapTimeMs": 88897,
+      "TimestampMs": 1785075722544,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Clear": {
+      "LapTimeMs": 90667,
+      "TimestampMs": 1785075022028,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_mercedes_amg_gt3_Clear_M": {
+      "LapTimeMs": 89382,
+      "TimestampMs": 1785075325174,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 88532,
+      "TimestampMs": 1785076811045,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mist_S": {
+      "LapTimeMs": 87614,
+      "TimestampMs": 1785077618295,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

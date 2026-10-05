@@ -1,0 +1,49 @@
+{
+  "Username": "Juan Castano",
+  "GUID": 76561199231392686,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Hot_D": {
+      "LapTimeMs": 92731,
+      "TimestampMs": 1789863182758,
+      "SessionId": "51f489b7-b826-4a14-afb7-e2c03285f7fa",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 90991,
+      "TimestampMs": 1789864667332,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Clear": {
+      "LapTimeMs": 89931,
+      "TimestampMs": 1789865285892,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_Clear_D": {
+      "LapTimeMs": 89387,
+      "TimestampMs": 1789866781566,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_ScatteredClouds_D": {
+      "LapTimeMs": 90166,
+      "TimestampMs": 1789918713633,
+      "SessionId": "f5717689-057f-4757-bd2f-c7933cd860a2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

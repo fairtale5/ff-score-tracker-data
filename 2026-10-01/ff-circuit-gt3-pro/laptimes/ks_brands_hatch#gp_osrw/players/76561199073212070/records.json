@@ -1,0 +1,25 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mist": {
+      "LapTimeMs": 94725,
+      "TimestampMs": 1785073369437,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 94188,
+      "TimestampMs": 1788045829647,
+      "SessionId": "e4b3f2a1-22cd-4b41-9795-c17b14a3532a",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,41 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 135478,
+      "TimestampMs": 1785824209848,
+      "SessionId": "fed9f52a-3337-4b8d-983d-0fd3b4b50410",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 134339,
+      "TimestampMs": 1786671074996,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 134249,
+      "TimestampMs": 1786669554338,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 132369,
+      "TimestampMs": 1786671763977,
+      "SessionId": "d8014376-3f05-4a31-bd76-cc671d006e95",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

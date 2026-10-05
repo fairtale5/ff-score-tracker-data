@@ -1,0 +1,73 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "fn_bahrain",
+  "Layout": "gp_lfm",
+  "BestLaps": {
+    "rss_formula_2010_Clear_S": {
+      "LapTimeMs": 98997,
+      "TimestampMs": 1790740114403,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Mixed_M": {
+      "LapTimeMs": 104595,
+      "TimestampMs": 1790741964207,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "rss_formula_2010_BrokenClouds_SS": {
+      "LapTimeMs": 95391,
+      "TimestampMs": 1790742354019,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_Mixed_SS": {
+      "LapTimeMs": 94960,
+      "TimestampMs": 1790742546436,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_ScatteredClouds_SS": {
+      "LapTimeMs": 94221,
+      "TimestampMs": 1790743977501,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_Mixed_S": {
+      "LapTimeMs": 95836,
+      "TimestampMs": 1790744386884,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Clear_SS": {
+      "LapTimeMs": 95287,
+      "TimestampMs": 1790777290433,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_FewClouds_SS": {
+      "LapTimeMs": 94853,
+      "TimestampMs": 1790777760862,
+      "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

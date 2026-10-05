@@ -1,0 +1,41 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Mist_S": {
+      "LapTimeMs": 100963,
+      "TimestampMs": 1785492697222,
+      "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 97793,
+      "TimestampMs": 1790530850091,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Clear_D": {
+      "LapTimeMs": 95074,
+      "TimestampMs": 1790531216603,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_FewClouds_D": {
+      "LapTimeMs": 95016,
+      "TimestampMs": 1790532622698,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

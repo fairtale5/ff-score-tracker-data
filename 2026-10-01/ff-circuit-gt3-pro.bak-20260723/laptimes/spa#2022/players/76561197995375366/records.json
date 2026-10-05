@@ -1,0 +1,51 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "spa",
+  "Layout": "2022",
+  "BestLaps": {
+    "rss_mph_protech_p96_v8_ScatteredClouds": {
+      "LapTimeMs": 131339,
+      "TimestampMs": 1780171448224,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_mph_protech_p96_v8_Mixed": {
+      "LapTimeMs": 129188,
+      "TimestampMs": 1780172732503,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition"
+    },
+    "rss_mph_protech_p96_v8_Hot": {
+      "LapTimeMs": 131753,
+      "TimestampMs": 1780171841546,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_mph_protech_p96_v8_Clear": {
+      "LapTimeMs": 131338,
+      "TimestampMs": 1780172470469,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_mph_protech_p96_v8_Cold": {
+      "LapTimeMs": 132198,
+      "TimestampMs": 1780173128432,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "rss_mph_protech_p96_v8_Mist": {
+      "LapTimeMs": 146051,
+      "TimestampMs": 1780173918140,
+      "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    }
+  },
+  "LapTimeHistory": []
+}

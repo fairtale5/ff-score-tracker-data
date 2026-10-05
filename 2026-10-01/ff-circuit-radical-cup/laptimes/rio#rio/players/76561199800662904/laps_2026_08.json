@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1786158984672,
+    "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 148679,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786159127844,
+    "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 143175,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786159280996,
+    "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 153148,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786159432716,
+    "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 151723,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786159574729,
+    "SessionId": "e2789c38-1dcd-46e8-afba-524c08f4bee6",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 142016,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786252431156,
+    "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 180116,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1786252578081,
+    "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 146928,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "el viejo de la volsa",
+  "GUID": 76561199108743115,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 93527,
+      "TimestampMs": 1782505865296,
+      "SessionId": "ee05069a-34ec-45db-93d2-9e71ae3277b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 94104,
+      "TimestampMs": 1782529971113,
+      "SessionId": "ee05069a-34ec-45db-93d2-9e71ae3277b8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

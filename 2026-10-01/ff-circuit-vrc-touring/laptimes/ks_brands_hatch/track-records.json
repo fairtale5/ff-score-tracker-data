@@ -1,0 +1,125 @@
+{
+  "Records": {
+    "gp_osrw": {
+      "vrc_erc_1999_vorax_csp": {
+        "HeavyDrizzle": {
+          "LapTimeMs": 107507,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789616558368,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "Mixed": {
+          "LapTimeMs": 95643,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789621604012,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 110492,
+          "PlayerName": "J.Horbach",
+          "PlayerGuid": 76561199016536676,
+          "TimestampMs": 1789619906659,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "Clear": {
+          "LapTimeMs": 94804,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789622910191,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1998_alfio_csp": {
+        "Mixed": {
+          "LapTimeMs": 103338,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789616776862,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "Clear": {
+          "LapTimeMs": 94143,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1789621634638,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 95461,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1789621051313,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1997_beamer_csp": {
+        "Clear": {
+          "LapTimeMs": 97929,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789618154395,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "Mixed": {
+          "LapTimeMs": 96625,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789618850136,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 97475,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789619596955,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1998_auriel_csp": {
+        "Clear": {
+          "LapTimeMs": 101446,
+          "PlayerName": "Dud",
+          "PlayerGuid": 76561198454645153,
+          "TimestampMs": 1789618195297,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1998_pageau_csp": {
+        "ScatteredClouds": {
+          "LapTimeMs": 98609,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789619972573,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1994_vokker_csp": {
+        "ScatteredClouds": {
+          "LapTimeMs": 98891,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789620811633,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        },
+        "Mixed": {
+          "LapTimeMs": 97877,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789621215814,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      },
+      "vrc_erc_1999_fortix_csp": {
+        "Clear": {
+          "LapTimeMs": 95789,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789622359176,
+          "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab"
+        }
+      }
+    }
+  }
+}

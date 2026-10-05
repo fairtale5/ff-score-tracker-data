@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1785542556073,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 101068,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785543568697,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 98758,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785544960251,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 100266,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  }
+]

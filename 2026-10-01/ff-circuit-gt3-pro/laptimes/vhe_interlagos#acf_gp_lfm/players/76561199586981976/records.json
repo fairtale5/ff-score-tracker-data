@@ -1,0 +1,81 @@
+{
+  "Username": "tabi",
+  "GUID": 76561199586981976,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mixed_WET": {
+      "LapTimeMs": 101974,
+      "TimestampMs": 1788486522622,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "WET"
+    },
+    "ks_mercedes_amg_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 99334,
+      "TimestampMs": 1788488261634,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_ScatteredClouds_M": {
+      "LapTimeMs": 96635,
+      "TimestampMs": 1788492837841,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Clear_M": {
+      "LapTimeMs": 96298,
+      "TimestampMs": 1788495659714,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_BrokenClouds_M": {
+      "LapTimeMs": 96206,
+      "TimestampMs": 1788496650547,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_BrokenClouds_M": {
+      "LapTimeMs": 98934,
+      "TimestampMs": 1788497796303,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 98848,
+      "TimestampMs": 1788498193824,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Cold_M": {
+      "LapTimeMs": 97682,
+      "TimestampMs": 1788499625114,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mixed_M": {
+      "LapTimeMs": 96173,
+      "TimestampMs": 1788501111168,
+      "SessionId": "1d999ebb-dfd4-4c9f-9aea-205751479531",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

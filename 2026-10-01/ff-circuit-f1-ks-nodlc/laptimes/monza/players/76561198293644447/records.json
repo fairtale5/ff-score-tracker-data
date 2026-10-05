@@ -1,0 +1,25 @@
+{
+  "Username": "twitch.tv/bodemancorj",
+  "GUID": 76561198293644447,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 98685,
+      "TimestampMs": 1786428675052,
+      "SessionId": "fb0e258a-fc98-440e-afa7-1a05b86bb974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 97038,
+      "TimestampMs": 1786429193901,
+      "SessionId": "fb0e258a-fc98-440e-afa7-1a05b86bb974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

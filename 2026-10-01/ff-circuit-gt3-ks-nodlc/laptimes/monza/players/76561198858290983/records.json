@@ -1,0 +1,30 @@
+{
+  "Username": "paranga ta na mente",
+  "GUID": 76561198858290983,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 118530,
+      "TimestampMs": 1778769628187,
+      "SessionId": "93801897-a3ef-4d42-a33e-276650a763b4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 117276,
+      "TimestampMs": 1778771903759,
+      "SessionId": "93801897-a3ef-4d42-a33e-276650a763b4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 115137,
+      "TimestampMs": 1780279449021,
+      "SessionId": "c6610e83-4ed5-4067-afb7-bef4837df53d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

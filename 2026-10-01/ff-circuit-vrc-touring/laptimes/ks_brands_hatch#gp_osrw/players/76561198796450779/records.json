@@ -1,0 +1,25 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "vrc_erc_1998_alfio_csp_ScatteredClouds_S": {
+      "LapTimeMs": 95461,
+      "TimestampMs": 1789621051313,
+      "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1998_alfio_csp_Clear_S": {
+      "LapTimeMs": 94143,
+      "TimestampMs": 1789621634638,
+      "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

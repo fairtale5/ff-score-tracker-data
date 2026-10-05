@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1785072023477,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 101015,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785072220898,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 97284,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785072316620,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 95719,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785072947567,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 91490,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785073053368,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 105797,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785073160098,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 106733,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785074272466,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 94265,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785075089475,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 101620,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

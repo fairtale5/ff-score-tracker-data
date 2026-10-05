@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1790307301862,
+    "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 130755,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790307431284,
+    "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 129433,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790307559466,
+    "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+    "Track": "ks_silverstone",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 128183,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  }
+]

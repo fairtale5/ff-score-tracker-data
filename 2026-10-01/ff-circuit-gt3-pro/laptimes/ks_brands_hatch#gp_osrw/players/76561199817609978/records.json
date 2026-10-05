@@ -1,0 +1,41 @@
+{
+  "Username": "Matheus",
+  "GUID": 76561199817609978,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Mist_M": {
+      "LapTimeMs": 90654,
+      "TimestampMs": 1785072224371,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mist": {
+      "LapTimeMs": 89493,
+      "TimestampMs": 1785073329381,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_Mixed_M": {
+      "LapTimeMs": 89265,
+      "TimestampMs": 1785076596092,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Clear_M": {
+      "LapTimeMs": 88878,
+      "TimestampMs": 1785074350316,
+      "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

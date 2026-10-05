@@ -1,0 +1,33 @@
+{
+  "Username": "GD",
+  "GUID": 76561198454645153,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gt_shadow_v8_Cold_S": {
+      "LapTimeMs": 93551,
+      "TimestampMs": 1790208841842,
+      "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "rss_gt_shadow_v8_Cold_M": {
+      "LapTimeMs": 93024,
+      "TimestampMs": 1790209296252,
+      "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "rss_gt_shadow_v8_Mixed_M": {
+      "LapTimeMs": 92254,
+      "TimestampMs": 1790209388498,
+      "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

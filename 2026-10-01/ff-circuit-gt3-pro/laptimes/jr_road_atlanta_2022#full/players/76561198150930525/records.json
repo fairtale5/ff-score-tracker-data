@@ -1,0 +1,65 @@
+{
+  "Username": "Luiz Eduardo",
+  "GUID": 76561198150930525,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_FewClouds_D": {
+      "LapTimeMs": 80551,
+      "TimestampMs": 1790313249447,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Clear_D": {
+      "LapTimeMs": 81161,
+      "TimestampMs": 1790313663950,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 79487,
+      "TimestampMs": 1790314134644,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_mercer_v8_ScatteredClouds_H": {
+      "LapTimeMs": 80418,
+      "TimestampMs": 1790316993560,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_mercer_v8_Mixed_H": {
+      "LapTimeMs": 80724,
+      "TimestampMs": 1790317287551,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_bayer_i6_evo_ScatteredClouds_D": {
+      "LapTimeMs": 80587,
+      "TimestampMs": 1790406709289,
+      "SessionId": "086236a3-8502-4bf7-8325-4d577619a8ca",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_aero_v10_evo2_FewClouds_H": {
+      "LapTimeMs": 83272,
+      "TimestampMs": 1790407183599,
+      "SessionId": "086236a3-8502-4bf7-8325-4d577619a8ca",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

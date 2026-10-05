@@ -1,0 +1,25 @@
+{
+  "Username": "VegettoTahWish",
+  "GUID": 76561199886835124,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 93675,
+      "TimestampMs": 1785299442794,
+      "SessionId": "e4ff66a8-c285-4924-9c3d-cd9ad844dc54",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 92022,
+      "TimestampMs": 1785299825396,
+      "SessionId": "e4ff66a8-c285-4924-9c3d-cd9ad844dc54",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

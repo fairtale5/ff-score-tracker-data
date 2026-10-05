@@ -1,0 +1,25 @@
+{
+  "Username": "fenzzer. SKINS",
+  "GUID": 76561199468955769,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 170986,
+      "TimestampMs": 1782088476400,
+      "SessionId": "f4da841b-216f-43ea-9b50-09148653331d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 148718,
+      "TimestampMs": 1783735138479,
+      "SessionId": "1de5d3cf-dada-4b99-8ef3-46a009b4e2e2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

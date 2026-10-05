@@ -1,0 +1,22 @@
+{
+  "Records": {
+    "default": {
+      "ks_audi_r8_lms_2016": {
+        "Hot": {
+          "LapTimeMs": 119037,
+          "PlayerName": "m4rcel1nn_",
+          "PlayerGuid": 76561198058660560,
+          "TimestampMs": 1773136945665,
+          "SessionId": "586a14b3-92fc-4afe-b95c-b3f7fa3a620a"
+        },
+        "Drizzle": {
+          "LapTimeMs": 115258,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1773347485963,
+          "SessionId": "9366d054-b634-4db1-ba92-0e18bea6b5ee"
+        }
+      }
+    }
+  }
+}

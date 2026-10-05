@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1781726906010,
+    "SessionId": "5ea1189f-8649-4892-af47-8928005b075a",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "lotus_98t",
+    "LapTimeMs": 97301,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781727004595,
+    "SessionId": "5ea1189f-8649-4892-af47-8928005b075a",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "lotus_98t",
+    "LapTimeMs": 98588,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781727088290,
+    "SessionId": "5ea1189f-8649-4892-af47-8928005b075a",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "lotus_98t",
+    "LapTimeMs": 83698,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

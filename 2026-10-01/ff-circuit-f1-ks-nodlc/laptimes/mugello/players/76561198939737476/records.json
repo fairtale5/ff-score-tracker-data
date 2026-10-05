@@ -1,0 +1,25 @@
+{
+  "Username": "JJjr",
+  "GUID": 76561198939737476,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 95003,
+      "TimestampMs": 1788216357539,
+      "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 95331,
+      "TimestampMs": 1788216760939,
+      "SessionId": "7d70de9e-d025-4d80-9643-934223a33134",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

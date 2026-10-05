@@ -1,0 +1,33 @@
+{
+  "Username": "GD",
+  "GUID": 76561198454645153,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_cortex_v8_Mist_D": {
+      "LapTimeMs": 133445,
+      "TimestampMs": 1789702074842,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_Mist": {
+      "LapTimeMs": 138437,
+      "TimestampMs": 1789701481624,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "rss_gtm_cortex_v8_Mixed_D": {
+      "LapTimeMs": 132851,
+      "TimestampMs": 1789702477089,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

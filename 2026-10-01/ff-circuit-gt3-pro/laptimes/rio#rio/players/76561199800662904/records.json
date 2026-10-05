@@ -1,0 +1,81 @@
+{
+  "Username": "Trind4z",
+  "GUID": 76561199800662904,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_BrokenClouds_S": {
+      "LapTimeMs": 149251,
+      "TimestampMs": 1785462282587,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mixed_S": {
+      "LapTimeMs": 139796,
+      "TimestampMs": 1785469066708,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Clear_S": {
+      "LapTimeMs": 144845,
+      "TimestampMs": 1785464230993,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 146352,
+      "TimestampMs": 1785465461565,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_S": {
+      "LapTimeMs": 142661,
+      "TimestampMs": 1785466024096,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 142665,
+      "TimestampMs": 1785466662560,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Cold_S": {
+      "LapTimeMs": 142803,
+      "TimestampMs": 1785466805477,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Cold_S": {
+      "LapTimeMs": 139820,
+      "TimestampMs": 1785468123415,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mist_S": {
+      "LapTimeMs": 139632,
+      "TimestampMs": 1785469968321,
+      "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

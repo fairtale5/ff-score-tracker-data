@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786605388297,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 144210,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786605530066,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 141772,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

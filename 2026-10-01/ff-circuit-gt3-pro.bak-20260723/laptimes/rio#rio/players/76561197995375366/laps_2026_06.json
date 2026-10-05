@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs": 1780535184490,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 147086,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780536224924,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 149390,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1780536642240,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 152246,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780536789997,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 147765,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780536933333,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 143338,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780537629958,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 147352,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780537940154,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 150730,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780538083855,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 143700,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1790839361341,
+    "SessionId": "25915635-cc53-4d9b-affd-6d4466091152",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 97244,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790839458001,
+    "SessionId": "25915635-cc53-4d9b-affd-6d4466091152",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 96663,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790839649683,
+    "SessionId": "25915635-cc53-4d9b-affd-6d4466091152",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 95834,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790839746553,
+    "SessionId": "25915635-cc53-4d9b-affd-6d4466091152",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 96870,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "H"
+  }
+]

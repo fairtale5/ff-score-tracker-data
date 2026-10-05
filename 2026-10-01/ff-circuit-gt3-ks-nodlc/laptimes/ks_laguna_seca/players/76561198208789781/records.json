@@ -1,0 +1,25 @@
+{
+  "Username": "Matias Rosello",
+  "GUID": 76561198208789781,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 95525,
+      "TimestampMs": 1785089734305,
+      "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 100904,
+      "TimestampMs": 1785090083437,
+      "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

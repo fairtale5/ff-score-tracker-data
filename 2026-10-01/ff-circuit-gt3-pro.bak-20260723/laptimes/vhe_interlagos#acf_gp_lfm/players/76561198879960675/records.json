@@ -1,0 +1,25 @@
+{
+  "Username": "volponi",
+  "GUID": 76561198879960675,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 100660,
+      "TimestampMs": 1784775784361,
+      "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 98687,
+      "TimestampMs": 1784776656327,
+      "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

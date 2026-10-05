@@ -1,0 +1,25 @@
+{
+  "Username": "jo\u00E3o_paulo",
+  "GUID": 76561199772563343,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 133593,
+      "TimestampMs": 1789855015036,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 133207,
+      "TimestampMs": 1789855674214,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Ricard\u00E3o",
+  "GUID": 76561199412223289,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_lux_v8_evo_Mixed_D": {
+      "LapTimeMs": 120690,
+      "TimestampMs": 1790659219026,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_LightRain_D": {
+      "LapTimeMs": 124828,
+      "TimestampMs": 1790661529833,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

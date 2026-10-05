@@ -1,0 +1,25 @@
+{
+  "Username": "marcos borges",
+  "GUID": 76561199077380329,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 133633,
+      "TimestampMs": 1778902189457,
+      "SessionId": "eeec950f-d6f7-4310-9b12-867af6e94d94",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 137981,
+      "TimestampMs": 1784427743531,
+      "SessionId": "df68db21-85a8-4f41-bec3-4e48436227c8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

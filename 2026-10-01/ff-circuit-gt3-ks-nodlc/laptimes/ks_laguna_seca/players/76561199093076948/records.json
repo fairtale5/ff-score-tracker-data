@@ -1,0 +1,25 @@
+{
+  "Username": "mrchogs",
+  "GUID": 76561199093076948,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 87943,
+      "TimestampMs": 1786509209294,
+      "SessionId": "988ba5cc-90e8-4b01-ae35-99bf127fee01",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 86779,
+      "TimestampMs": 1786509423993,
+      "SessionId": "988ba5cc-90e8-4b01-ae35-99bf127fee01",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

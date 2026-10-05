@@ -1,0 +1,25 @@
+{
+  "Username": "Driftyboi93/twitch.tv",
+  "GUID": 76561199131105591,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 73986,
+      "TimestampMs": 1781900955704,
+      "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 75381,
+      "TimestampMs": 1781901570178,
+      "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

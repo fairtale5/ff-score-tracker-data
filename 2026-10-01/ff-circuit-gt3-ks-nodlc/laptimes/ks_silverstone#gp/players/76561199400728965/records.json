@@ -1,0 +1,33 @@
+{
+  "Username": "Dankest",
+  "GUID": 76561199400728965,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 123502,
+      "TimestampMs": 1790641620422,
+      "SessionId": "7b946b06-32c0-4b2d-8964-4eb864c3d24f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 123599,
+      "TimestampMs": 1790646238689,
+      "SessionId": "7b946b06-32c0-4b2d-8964-4eb864c3d24f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 123741,
+      "TimestampMs": 1790645101647,
+      "SessionId": "7b946b06-32c0-4b2d-8964-4eb864c3d24f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

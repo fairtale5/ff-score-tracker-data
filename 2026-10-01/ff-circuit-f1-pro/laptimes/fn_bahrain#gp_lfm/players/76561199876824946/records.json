@@ -1,0 +1,57 @@
+{
+  "Username": "Nicolas24",
+  "GUID": 76561199876824946,
+  "Track": "fn_bahrain",
+  "Layout": "gp_lfm",
+  "BestLaps": {
+    "rss_formula_2010_Mixed_S": {
+      "LapTimeMs": 95530,
+      "TimestampMs": 1790727708614,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_ScatteredClouds_S": {
+      "LapTimeMs": 98587,
+      "TimestampMs": 1790728199710,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_LightRain_M": {
+      "LapTimeMs": 98544,
+      "TimestampMs": 1790730112871,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "M"
+    },
+    "rss_formula_2010_SunnyPuddles_SS": {
+      "LapTimeMs": 93427,
+      "TimestampMs": 1790732140843,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_SunnyDamp_H": {
+      "LapTimeMs": 97353,
+      "TimestampMs": 1790733176050,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyDamp",
+      "WeatherEnd": "SunnyDamp",
+      "TyreCompound": "H"
+    },
+    "rss_formula_2010_Mixed_H": {
+      "LapTimeMs": 96650,
+      "TimestampMs": 1790733272697,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyDamp",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,49 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 127452,
+      "TimestampMs": 1785796788863,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 155793,
+      "TimestampMs": 1785712515390,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Drizzle_S": {
+      "LapTimeMs": 138865,
+      "TimestampMs": 1785712654261,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Drizzle_WET": {
+      "LapTimeMs": 147509,
+      "TimestampMs": 1785713510112,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "WET"
+    },
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 130898,
+      "TimestampMs": 1785716242989,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

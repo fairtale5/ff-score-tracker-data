@@ -1,0 +1,79 @@
+[
+  {
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 141826,
+    "Layout" : "gp",
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "TimestampMs" : 1774747013347,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "LapTimeMs" : 151512,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "TimestampMs" : 1774747716073,
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "TimestampMs" : 1774748140745,
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 139036,
+    "Layout" : "gp"
+  },
+  {
+    "TimestampMs" : 1774748278242,
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "Track" : "ks_silverstone",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 137494,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "TimestampMs" : 1774748415195,
+    "WeatherEnd" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 136949,
+    "WeatherStart" : "Clear"
+  },
+  {
+    "LapTimeMs" : 134994,
+    "Layout" : "gp",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "TimestampMs" : 1774748550190,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "TimestampMs" : 1774748688122,
+    "SessionId" : "c064fecb-c028-4d15-8a30-26c7c728386b",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_silverstone",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "gp",
+    "LapTimeMs" : 137925
+  }
+]

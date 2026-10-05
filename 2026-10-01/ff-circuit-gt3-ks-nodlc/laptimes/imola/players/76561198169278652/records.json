@@ -1,0 +1,25 @@
+{
+  "Username": "Fasto",
+  "GUID": 76561198169278652,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 113399,
+      "TimestampMs": 1780091013387,
+      "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 115000,
+      "TimestampMs": 1789326293568,
+      "SessionId": "4527ac30-60cd-4ca1-8e18-d20ebd08c60f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1785604834452,
+    "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 139883,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1785605738791,
+    "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 141522,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1785605876177,
+    "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 137380,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1785606712266,
+    "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 132342,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786596909639,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 133082,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786597041147,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 131510,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786597921809,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 128932,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786598250367,
+    "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 129032,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Username": "RK VERSTAPPEN",
+  "GUID": 76561199713282591,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 123808,
+      "TimestampMs": 1779849392156,
+      "SessionId": "020c7c1c-6b88-48ea-b034-39e54733661c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 121800,
+      "TimestampMs": 1787420776082,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 121210,
+      "TimestampMs": 1787421634211,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

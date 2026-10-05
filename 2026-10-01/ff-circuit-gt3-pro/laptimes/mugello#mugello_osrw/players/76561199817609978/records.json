@@ -1,0 +1,33 @@
+{
+  "Username": "Matheus",
+  "GUID": 76561199817609978,
+  "Track": "mugello",
+  "Layout": "mugello_osrw",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Clear_M": {
+      "LapTimeMs": 112920,
+      "TimestampMs": 1786216964931,
+      "SessionId": "df955d10-d32b-4736-8bb1-45ca2bfbef99",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Hot_M": {
+      "LapTimeMs": 128158,
+      "TimestampMs": 1786215973609,
+      "SessionId": "df955d10-d32b-4736-8bb1-45ca2bfbef99",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 124328,
+      "TimestampMs": 1786216245677,
+      "SessionId": "df955d10-d32b-4736-8bb1-45ca2bfbef99",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

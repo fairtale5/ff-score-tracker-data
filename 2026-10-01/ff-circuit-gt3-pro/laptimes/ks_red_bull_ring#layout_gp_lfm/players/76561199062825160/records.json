@@ -1,0 +1,41 @@
+{
+  "Username": "TettaNegga4i20",
+  "GUID": 76561199062825160,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Clear": {
+      "LapTimeMs": 92757,
+      "TimestampMs": 1789865986884,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_Hot_D": {
+      "LapTimeMs": 92629,
+      "TimestampMs": 1789868976917,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 94304,
+      "TimestampMs": 1789869781563,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Clear_D": {
+      "LapTimeMs": 94950,
+      "TimestampMs": 1789871419438,
+      "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

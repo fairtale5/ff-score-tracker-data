@@ -1,0 +1,33 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_Mixed_D": {
+      "LapTimeMs": 116639,
+      "TimestampMs": 1790660534394,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds_D": {
+      "LapTimeMs": 118235,
+      "TimestampMs": 1790656573508,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_LightRain_D": {
+      "LapTimeMs": 118355,
+      "TimestampMs": 1790661495951,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

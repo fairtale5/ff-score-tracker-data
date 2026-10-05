@@ -1,0 +1,73 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 126716,
+      "TimestampMs": 1788896787501,
+      "SessionId": "4c5541c0-6c5a-4ee7-92ec-947710c10858",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 126468,
+      "TimestampMs": 1789853733688,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 127093,
+      "TimestampMs": 1788906848502,
+      "SessionId": "7e28b35c-e01d-47fa-b4d6-0e1a1b66f421",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 128359,
+      "TimestampMs": 1787867936847,
+      "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 126679,
+      "TimestampMs": 1787869414110,
+      "SessionId": "39c2edf4-a74c-4208-9c4a-1023630bb303",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 126223,
+      "TimestampMs": 1788934577991,
+      "SessionId": "7e28b35c-e01d-47fa-b4d6-0e1a1b66f421",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 127215,
+      "TimestampMs": 1788933960704,
+      "SessionId": "7e28b35c-e01d-47fa-b4d6-0e1a1b66f421",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 129280,
+      "TimestampMs": 1789847497367,
+      "SessionId": "f95eecc2-9af8-4c32-9b69-276b45fceef7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

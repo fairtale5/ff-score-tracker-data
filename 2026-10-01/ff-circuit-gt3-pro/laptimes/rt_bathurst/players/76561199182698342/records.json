@@ -1,0 +1,33 @@
+{
+  "Username": "Vettel",
+  "GUID": 76561199182698342,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 136000,
+      "TimestampMs": 1785887952939,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_S": {
+      "LapTimeMs": 128476,
+      "TimestampMs": 1785889117090,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 131162,
+      "TimestampMs": 1785893146463,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

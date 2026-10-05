@@ -1,0 +1,25 @@
+{
+  "Username": "TyreSlayer",
+  "GUID": 76561198026496079,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 102823,
+      "TimestampMs": 1778278533665,
+      "SessionId": "62ea2b45-83fa-46d8-a632-63980f50ec79",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 111298,
+      "TimestampMs": 1784844692784,
+      "SessionId": "89fb0ee8-0cea-4f1a-ad3f-ed6f4d2d4c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

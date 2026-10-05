@@ -1,0 +1,25 @@
+{
+  "Username": "Moon Tuner",
+  "GUID": 76561199870528767,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 99965,
+      "TimestampMs": 1785117678416,
+      "SessionId": "f99a3fc7-4b43-40be-8a81-e7e004d1c212",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_H": {
+      "LapTimeMs": 100486,
+      "TimestampMs": 1785118302515,
+      "SessionId": "f99a3fc7-4b43-40be-8a81-e7e004d1c212",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

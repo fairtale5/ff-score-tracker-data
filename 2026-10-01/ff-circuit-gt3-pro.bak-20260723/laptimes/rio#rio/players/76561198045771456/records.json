@@ -1,0 +1,30 @@
+{
+  "Username": "Gustavo Andreas",
+  "GUID": 76561198045771456,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "rss_gtm_lanzo_v10_evo2_ScatteredClouds": {
+      "LapTimeMs": 147271,
+      "TimestampMs": 1780535226774,
+      "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "rss_gtm_lanzo_v10_evo2_Mixed": {
+      "LapTimeMs": 142246,
+      "TimestampMs": 1780535369020,
+      "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_lanzo_v10_evo2_Drizzle": {
+      "LapTimeMs": 139047,
+      "TimestampMs": 1780536362544,
+      "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

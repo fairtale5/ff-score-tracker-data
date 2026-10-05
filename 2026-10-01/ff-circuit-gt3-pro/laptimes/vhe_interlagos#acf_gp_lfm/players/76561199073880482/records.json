@@ -1,0 +1,33 @@
+{
+  "Username": "Sudati",
+  "GUID": 76561199073880482,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Drizzle_WET": {
+      "LapTimeMs": 106397,
+      "TimestampMs": 1785526393915,
+      "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 99423,
+      "TimestampMs": 1785529418583,
+      "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 101587,
+      "TimestampMs": 1785529780342,
+      "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

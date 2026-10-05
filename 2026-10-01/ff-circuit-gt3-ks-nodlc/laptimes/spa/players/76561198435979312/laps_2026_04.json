@@ -1,0 +1,156 @@
+[
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 153803,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775348848674,
+    "WeatherCategory" : "Clear",
+    "Track" : "spa"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 150833,
+    "Layout" : "",
+    "WeatherEnd" : "Clear",
+    "TimestampMs" : 1775348999504,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "TimestampMs" : 1775349174555,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 175052,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775349344373,
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 169823,
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 158892,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775350587106
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 148908,
+    "TimestampMs" : 1775350907099,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Track" : "spa",
+    "WeatherCategory" : "Clear",
+    "Car" : "mercedes_sls_gt3"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775351064102,
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 157004,
+    "Layout" : ""
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 147369,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "TimestampMs" : 1775352565607,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 146974,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775352712579,
+    "Track" : "spa",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "LapTimeMs" : 162077,
+    "Layout" : "",
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Track" : "spa",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775352874653,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "Track" : "spa",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "TimestampMs" : 1775353027308,
+    "Layout" : "",
+    "LapTimeMs" : 152656,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "WeatherEnd" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 151809,
+    "WeatherStart" : "Clear",
+    "Track" : "spa",
+    "WeatherCategory" : "Clear",
+    "TimestampMs" : 1775353179115,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "Car" : "ferrari_458_gt2"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 144778,
+    "TimestampMs" : 1775353733713,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherCategory" : "Clear",
+    "Track" : "spa"
+  },
+  {
+    "Car" : "ferrari_458_gt2",
+    "WeatherCategory" : "Clear",
+    "Track" : "spa",
+    "TimestampMs" : 1775353879622,
+    "SessionId" : "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+    "WeatherEnd" : "Clear",
+    "LapTimeMs" : 145913,
+    "Layout" : "",
+    "WeatherStart" : "Clear"
+  }
+]

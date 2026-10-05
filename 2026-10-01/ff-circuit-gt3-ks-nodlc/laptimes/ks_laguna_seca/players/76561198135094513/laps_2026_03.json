@@ -1,0 +1,24 @@
+[
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "Track" : "ks_laguna_seca",
+    "WeatherCategory" : "Clear",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774824932199,
+    "Layout" : "",
+    "LapTimeMs" : 98671,
+    "WeatherStart" : "Clear",
+    "WeatherEnd" : "Clear"
+  },
+  {
+    "Car" : "mclaren_mp412c_gt3",
+    "WeatherEnd" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 99014,
+    "WeatherStart" : "Clear",
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_laguna_seca",
+    "SessionId" : "a0e48b87-bce6-4f92-af5e-279ba98811e9",
+    "TimestampMs" : 1774825031210
+  }
+]

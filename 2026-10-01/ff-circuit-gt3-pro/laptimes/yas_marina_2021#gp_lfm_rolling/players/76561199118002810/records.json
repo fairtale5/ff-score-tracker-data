@@ -1,0 +1,33 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 118004,
+      "TimestampMs": 1790656957494,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Mixed_D": {
+      "LapTimeMs": 116728,
+      "TimestampMs": 1790659023675,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_OvercastClouds_D": {
+      "LapTimeMs": 117505,
+      "TimestampMs": 1790659505903,
+      "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

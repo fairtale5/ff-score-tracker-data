@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1789270652398,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_lanzo_v12",
+    "LapTimeMs": 112766,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789270769896,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_lanzo_v12",
+    "LapTimeMs": 117497,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789270862533,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_lanzo_v12",
+    "LapTimeMs": 92631,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789270969148,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_lanzo_v12",
+    "LapTimeMs": 106614,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790218660066,
+    "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_vortex_v10",
+    "LapTimeMs": 92103,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790219209276,
+    "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_vortex_v10",
+    "LapTimeMs": 91871,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  }
+]

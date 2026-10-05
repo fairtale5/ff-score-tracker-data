@@ -1,0 +1,25 @@
+{
+  "Username": "arqbazz",
+  "GUID": 76561199344624743,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 109770,
+      "TimestampMs": 1790778335786,
+      "SessionId": "120300c7-f20d-4971-b53a-e1df5b1e989f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 110194,
+      "TimestampMs": 1790779401639,
+      "SessionId": "120300c7-f20d-4971-b53a-e1df5b1e989f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

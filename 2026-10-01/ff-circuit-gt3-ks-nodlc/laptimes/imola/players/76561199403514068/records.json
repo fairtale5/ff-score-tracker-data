@@ -1,0 +1,33 @@
+{
+  "Username": "Tavarim",
+  "GUID": 76561199403514068,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 121092,
+      "TimestampMs": 1782589820745,
+      "SessionId": "a035f2af-55ff-4529-b6f4-0a7c0c8b598d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 119928,
+      "TimestampMs": 1782610796285,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 122772,
+      "TimestampMs": 1782608670014,
+      "SessionId": "20294f09-8a64-436c-a9b9-3fc7477c4116",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

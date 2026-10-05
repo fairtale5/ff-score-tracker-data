@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786217486079,
+    "SessionId": "df955d10-d32b-4736-8bb1-45ca2bfbef99",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 119654,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1786217605778,
+    "SessionId": "df955d10-d32b-4736-8bb1-45ca2bfbef99",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 119698,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

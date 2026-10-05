@@ -1,0 +1,112 @@
+[
+  {
+    "TimestampMs": 1777663673292,
+    "SessionId": "5b07fa8d-82fe-49e7-aa25-c58bfabd8714",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 426738,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1777663673825,
+    "SessionId": "5b07fa8d-82fe-49e7-aa25-c58bfabd8714",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 427518,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1777664897437,
+    "SessionId": "5b07fa8d-82fe-49e7-aa25-c58bfabd8714",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 1223590,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1777941410674,
+    "SessionId": "a55c7d99-42a7-4e4b-b3e0-e3076a154c6d",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 296229,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1777941704572,
+    "SessionId": "a55c7d99-42a7-4e4b-b3e0-e3076a154c6d",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 293895,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778210733649,
+    "SessionId": "5d50adfb-dcb8-49d8-a17a-37fed128f5c8",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mazda_rx7_veilside_pushin_p",
+    "LapTimeMs": 388351,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778211120504,
+    "SessionId": "5d50adfb-dcb8-49d8-a17a-37fed128f5c8",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "mazda_rx7_veilside_pushin_p",
+    "LapTimeMs": 386866,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778298508338,
+    "SessionId": "62f95dd5-e259-4780-8d24-d0bc5dfa5591",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hd_gt86_nfsnl1",
+    "LapTimeMs": 376589,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778298509427,
+    "SessionId": "62f95dd5-e259-4780-8d24-d0bc5dfa5591",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ig_toyota_supra_a90",
+    "LapTimeMs": 349676,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1778298565585,
+    "SessionId": "62f95dd5-e259-4780-8d24-d0bc5dfa5591",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "hhrc_vette_c6",
+    "LapTimeMs": 392769,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

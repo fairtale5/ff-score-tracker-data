@@ -1,0 +1,73 @@
+{
+  "Username": "Trind4z",
+  "GUID": 76561199800662904,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 105097,
+      "TimestampMs": 1784897892000,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 105916,
+      "TimestampMs": 1784898268338,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mist_S": {
+      "LapTimeMs": 104458,
+      "TimestampMs": 1784899002800,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_Mixed_S": {
+      "LapTimeMs": 104100,
+      "TimestampMs": 1785290731098,
+      "SessionId": "a2c374b4-dba0-4699-b25b-133247428ed0",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 104131,
+      "TimestampMs": 1785293201786,
+      "SessionId": "588e7fea-4819-45a5-a49d-c155a8b8211f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 101956,
+      "TimestampMs": 1785293653231,
+      "SessionId": "588e7fea-4819-45a5-a49d-c155a8b8211f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_S": {
+      "LapTimeMs": 102658,
+      "TimestampMs": 1786287957932,
+      "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mist_S": {
+      "LapTimeMs": 103392,
+      "TimestampMs": 1786286367242,
+      "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

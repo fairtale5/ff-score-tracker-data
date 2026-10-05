@@ -1,0 +1,49 @@
+{
+  "Username": "K02",
+  "GUID": 76561199227641181,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 105923,
+      "TimestampMs": 1787882000937,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_M": {
+      "LapTimeMs": 107247,
+      "TimestampMs": 1787875702106,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Mixed_M": {
+      "LapTimeMs": 108229,
+      "TimestampMs": 1787876698516,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Cold_M": {
+      "LapTimeMs": 109159,
+      "TimestampMs": 1787880376172,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Cold_S": {
+      "LapTimeMs": 105409,
+      "TimestampMs": 1787881074376,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

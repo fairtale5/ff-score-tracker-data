@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1783195069616,
+    "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+    "Track": "melbourne",
+    "Layout": "layout_f1_2026",
+    "Car": "gp_2025_c45",
+    "LapTimeMs": 92642,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1783195152435,
+    "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+    "Track": "melbourne",
+    "Layout": "layout_f1_2026",
+    "Car": "gp_2025_c45",
+    "LapTimeMs": 82825,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1783195521224,
+    "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+    "Track": "melbourne",
+    "Layout": "layout_f1_2026",
+    "Car": "gp_2025_c45",
+    "LapTimeMs": 82109,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1783196905850,
+    "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+    "Track": "melbourne",
+    "Layout": "layout_f1_2026",
+    "Car": "gp_2025_c45",
+    "LapTimeMs": 94833,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1783196994416,
+    "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+    "Track": "melbourne",
+    "Layout": "layout_f1_2026",
+    "Car": "gp_2025_c45",
+    "LapTimeMs": 88568,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

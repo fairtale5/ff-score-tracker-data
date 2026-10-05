@@ -1,0 +1,25 @@
+{
+  "Username": "MIGIEZ",
+  "GUID": 76561199065000797,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 137053,
+      "TimestampMs": 1786755888716,
+      "SessionId": "88e28fce-03d4-48df-bee5-92b5c65d87c2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 160878,
+      "TimestampMs": 1786933407511,
+      "SessionId": "7414325d-fca3-4108-a80c-aa5f06fdf474",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

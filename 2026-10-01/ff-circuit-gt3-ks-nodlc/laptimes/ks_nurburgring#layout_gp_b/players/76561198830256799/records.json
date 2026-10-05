@@ -1,0 +1,25 @@
+{
+  "Username": "Maxi Fuenzalida",
+  "GUID": 76561198830256799,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 127302,
+      "TimestampMs": 1790719075373,
+      "SessionId": "250188fc-d8bb-421b-8552-0859c20222f0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 126125,
+      "TimestampMs": 1790719887474,
+      "SessionId": "250188fc-d8bb-421b-8552-0859c20222f0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

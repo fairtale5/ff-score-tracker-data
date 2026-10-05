@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1789780161355,
+    "SessionId": "dc089a18-ef16-463c-9ee3-f0a3c4c87234",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "ST"
+  },
+  {
+    "TimestampMs": 1789780998853,
+    "SessionId": "dc089a18-ef16-463c-9ee3-f0a3c4c87234",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 310330,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789781004339,
+    "SessionId": "dc089a18-ef16-463c-9ee3-f0a3c4c87234",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 313029,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789781073360,
+    "SessionId": "dc089a18-ef16-463c-9ee3-f0a3c4c87234",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_gtr_nismo2022",
+    "LapTimeMs": 384911,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789781428531,
+    "SessionId": "dc089a18-ef16-463c-9ee3-f0a3c4c87234",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_180sx",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": ""
+  }
+]

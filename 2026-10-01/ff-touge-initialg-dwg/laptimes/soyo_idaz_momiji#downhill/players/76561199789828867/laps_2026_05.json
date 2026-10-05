@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780037191018,
+    "SessionId": "5e0ff7eb-fb51-45af-9335-866f517cd93e",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780037582686,
+    "SessionId": "5e0ff7eb-fb51-45af-9335-866f517cd93e",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780046439409,
+    "SessionId": "5e0ff7eb-fb51-45af-9335-866f517cd93e",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 2,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

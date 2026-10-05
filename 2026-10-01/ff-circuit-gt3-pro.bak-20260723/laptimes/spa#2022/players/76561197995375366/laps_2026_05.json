@@ -1,0 +1,167 @@
+[
+  {
+    "TimestampMs": 1780171448224,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131339,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780171577940,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 129719,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780171841546,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131753,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780172208150,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 135481,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780172339130,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 130978,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780172470469,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131338,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780172603314,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 132845,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780172732503,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 129188,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780172864975,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 132469,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780172996231,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131257,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780173128432,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 132198,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780173288902,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 160461,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780173420191,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131292,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780173918140,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 146051,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780174083134,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 164991,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Hot"
+  }
+]

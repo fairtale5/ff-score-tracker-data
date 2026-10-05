@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1780030305503,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 254686,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780030785372,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 299575,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780031457963,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 244322,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780031868363,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 260480,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780032259551,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 338191,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

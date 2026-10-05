@@ -1,0 +1,85 @@
+{
+  "Records": {
+    "gp_lfm": {
+      "rss_formula_2010": {
+        "FewClouds": {
+          "LapTimeMs": 91835,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790744729533,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        },
+        "Mixed": {
+          "LapTimeMs": 91978,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790742497050,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 90927,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790744070060,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        },
+        "OvercastClouds": {
+          "LapTimeMs": 91658,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790742834999,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        },
+        "LightRain": {
+          "LapTimeMs": 97024,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790731510200,
+          "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6"
+        },
+        "Rain": {
+          "LapTimeMs": 107631,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1790730963430,
+          "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6"
+        },
+        "SunnyPuddles": {
+          "LapTimeMs": 93427,
+          "PlayerName": "Nicolas24",
+          "PlayerGuid": 76561199876824946,
+          "TimestampMs": 1790732140843,
+          "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6"
+        },
+        "SunnyDamp": {
+          "LapTimeMs": 93710,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790733028386,
+          "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6"
+        },
+        "Hot": {
+          "LapTimeMs": 93044,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790736540654,
+          "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6"
+        },
+        "Clear": {
+          "LapTimeMs": 91604,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790749101793,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 91347,
+          "PlayerName": "Spartan",
+          "PlayerGuid": 76561199013433139,
+          "TimestampMs": 1790743422984,
+          "SessionId": "68b3c249-5be4-438d-b1b6-90ebb3bcc487"
+        }
+      }
+    }
+  }
+}

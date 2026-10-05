@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1785526393915,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 106397,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1785528575139,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 100713,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785529096101,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 100806,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785529195730,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 99629,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785529418583,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 99423,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785529780342,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 101587,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  }
+]

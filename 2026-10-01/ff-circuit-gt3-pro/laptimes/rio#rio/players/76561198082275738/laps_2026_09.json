@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1788656972849,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 161570,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788657183521,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 210674,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788657368097,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 184575,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788657531361,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 163268,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664604655,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 206937,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664767531,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 162877,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664930946,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 163410,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788665091498,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 160559,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

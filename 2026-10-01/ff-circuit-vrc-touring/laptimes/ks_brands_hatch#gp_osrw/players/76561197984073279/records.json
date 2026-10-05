@@ -1,0 +1,25 @@
+{
+  "Username": "Shooter_Fast",
+  "GUID": 76561197984073279,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "vrc_erc_1997_beamer_csp_Clear_H": {
+      "LapTimeMs": 101963,
+      "TimestampMs": 1789618417516,
+      "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "vrc_erc_1997_beamer_csp_Mixed_M": {
+      "LapTimeMs": 99289,
+      "TimestampMs": 1789621455253,
+      "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,73 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 107693,
+      "TimestampMs": 1786287447192,
+      "SessionId": "26a6adb2-46ac-43d5-bd0e-363083ee6396",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 106055,
+      "TimestampMs": 1789228618565,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Clear_M": {
+      "LapTimeMs": 107473,
+      "TimestampMs": 1789234357531,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mist_M": {
+      "LapTimeMs": 108949,
+      "TimestampMs": 1789263633578,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_mclaren_650_gt3_Mixed_M": {
+      "LapTimeMs": 107429,
+      "TimestampMs": 1789263865631,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 106035,
+      "TimestampMs": 1789264864057,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 106383,
+      "TimestampMs": 1789266396499,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_M": {
+      "LapTimeMs": 105351,
+      "TimestampMs": 1789267291134,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

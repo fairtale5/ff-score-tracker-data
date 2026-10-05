@@ -1,0 +1,25 @@
+{
+  "Username": "Kyoto | MSR",
+  "GUID": 76561198990997004,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 126055,
+      "TimestampMs": 1790651966899,
+      "SessionId": "7b946b06-32c0-4b2d-8964-4eb864c3d24f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 125102,
+      "TimestampMs": 1790650350452,
+      "SessionId": "7b946b06-32c0-4b2d-8964-4eb864c3d24f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

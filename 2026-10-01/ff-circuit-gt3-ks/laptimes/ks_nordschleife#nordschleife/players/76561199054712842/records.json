@@ -1,0 +1,23 @@
+{
+  "Username" : "m araujo",
+  "Track" : "ks_nordschleife",
+  "Layout" : "nordschleife",
+  "GUID" : 76561199054712842,
+  "BestLaps" : {
+    "ks_ferrari_488_gt3_Clear" : {
+      "WeatherEnd" : "Clear",
+      "LapTimeMs" : 405698,
+      "WeatherStart" : "Clear",
+      "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+      "TimestampMs" : 1774649668745
+    },
+    "ks_porsche_911_gt3_r_2016_Clear" : {
+      "TimestampMs" : 1774651887861,
+      "SessionId" : "484430ff-6083-418c-99a2-4f86b769dd0d",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 408329,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "LapTimeHistory" : []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Z29Mx",
+  "GUID": 76561199069153421,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 105785,
+      "TimestampMs": 1785704931286,
+      "SessionId": "1ab6c7d4-1242-468f-93ad-47c18860c849",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 145333,
+      "TimestampMs": 1786846298523,
+      "SessionId": "e57473a1-9684-4b1d-92b5-1705fd6270e8",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

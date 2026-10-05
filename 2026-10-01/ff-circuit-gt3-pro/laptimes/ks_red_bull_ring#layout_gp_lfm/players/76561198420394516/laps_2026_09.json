@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1789839311609,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 96987,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789840734042,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 92870,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789840824983,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 90938,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789840916928,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 91946,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789841007801,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 90871,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789844102067,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 93087,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789844344780,
+    "SessionId": "7a559c21-aca0-4aca-9f61-242775aaff41",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 96288,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  }
+]

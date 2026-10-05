@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1789083133602,
+    "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 96257,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789086550785,
+    "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 98603,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789086647702,
+    "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 96915,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789086943434,
+    "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 94852,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789089749261,
+    "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 97904,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789089847069,
+    "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 97814,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "Username": "Naldin quaizi",
+  "GUID": 76561199001628334,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 144079,
+      "TimestampMs": 1775352564466,
+      "SessionId": "ea64fae3-50ef-449d-bb65-73ac08bbe881",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 146040,
+      "TimestampMs": 1776035372484,
+      "SessionId": "0ff1b91f-586e-4500-8aea-caec8b354501",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

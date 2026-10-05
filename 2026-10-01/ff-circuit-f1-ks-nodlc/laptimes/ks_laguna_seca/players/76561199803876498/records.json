@@ -1,0 +1,25 @@
+{
+  "Username": "Senna",
+  "GUID": 76561199803876498,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 73639,
+      "TimestampMs": 1786307252939,
+      "SessionId": "314d40cf-e771-45b5-91b0-59555acc0e19",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 74853,
+      "TimestampMs": 1786306039956,
+      "SessionId": "314d40cf-e771-45b5-91b0-59555acc0e19",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

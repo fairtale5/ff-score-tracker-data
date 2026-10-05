@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1790393653992,
+    "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 198338,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "WET"
+  },
+  {
+    "TimestampMs": 1790395333302,
+    "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_aero_v10_evo2",
+    "LapTimeMs": 191342,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790475772212,
+    "SessionId": "de4a6232-c679-458c-8a95-8b239c43d0f3",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 187455,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790477996318,
+    "SessionId": "92724483-37aa-423f-be37-050a609a447c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 178544,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1790493204629,
+    "SessionId": "6ecb7a23-92f0-4965-8ddc-c14651965b7d",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 185166,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790664121598,
+    "SessionId": "f1b668c1-8098-4a27-afb7-a574a54d3308",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 197656,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790664306912,
+    "SessionId": "f1b668c1-8098-4a27-afb7-a574a54d3308",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 185329,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  }
+]

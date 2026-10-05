@@ -1,0 +1,81 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 95447,
+      "TimestampMs": 1789081897556,
+      "SessionId": "f6c9ede1-4029-423d-a438-32a93e7bdfa7",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 96742,
+      "TimestampMs": 1789083080492,
+      "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 96122,
+      "TimestampMs": 1789083471149,
+      "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 95138,
+      "TimestampMs": 1789083881355,
+      "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Mixed_M": {
+      "LapTimeMs": 95344,
+      "TimestampMs": 1789084419835,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Mist_M": {
+      "LapTimeMs": 94630,
+      "TimestampMs": 1789084994645,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Clear_M": {
+      "LapTimeMs": 94081,
+      "TimestampMs": 1789086386414,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mixed_M": {
+      "LapTimeMs": 96933,
+      "TimestampMs": 1789089431561,
+      "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mist_M": {
+      "LapTimeMs": 96433,
+      "TimestampMs": 1789089771377,
+      "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

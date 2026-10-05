@@ -1,0 +1,49 @@
+{
+  "Username": "RyotoBan",
+  "GUID": 76561198197643525,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_FewClouds_D": {
+      "LapTimeMs": 93998,
+      "TimestampMs": 1789692559039,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_FewClouds_W": {
+      "LapTimeMs": 93133,
+      "TimestampMs": 1789693177310,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "W"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_W": {
+      "LapTimeMs": 114432,
+      "TimestampMs": 1789693627026,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "W"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 91631,
+      "TimestampMs": 1789696134271,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Hot_D": {
+      "LapTimeMs": 89909,
+      "TimestampMs": 1789697642642,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

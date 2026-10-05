@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1785630611498,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 91451,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785630819285,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 90441,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785630993492,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 84705,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631182714,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 90343,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631268530,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 85812,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631353344,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 84816,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631709430,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 84349,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631795889,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 86459,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785631983832,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 86298,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785632069536,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 85702,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "TimestampMs": 1780360850982,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 83821,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780361249194,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 82349,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1780362164053,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 84781,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780362400447,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 81819,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780362686213,
+    "SessionId": "5c7583c2-9b54-4e82-8855-c39ac6df43f7",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 87520,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  }
+]

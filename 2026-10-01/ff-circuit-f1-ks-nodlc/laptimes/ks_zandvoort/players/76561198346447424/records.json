@@ -1,0 +1,25 @@
+{
+  "Username": "VORCHAX.NR",
+  "GUID": 76561198346447424,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 83910,
+      "TimestampMs": 1784895215294,
+      "SessionId": "f34bc6e9-789b-464c-8682-b4dcb0d88c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 83683,
+      "TimestampMs": 1784896407680,
+      "SessionId": "f34bc6e9-789b-464c-8682-b4dcb0d88c5d",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

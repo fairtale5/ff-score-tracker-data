@@ -1,0 +1,33 @@
+{
+  "Username": "policite",
+  "GUID": 76561199665378932,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 98872,
+      "TimestampMs": 1786106881378,
+      "SessionId": "02898182-36cc-49a3-87ca-023f27ce2469",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 100484,
+      "TimestampMs": 1786107542372,
+      "SessionId": "02898182-36cc-49a3-87ca-023f27ce2469",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 98220,
+      "TimestampMs": 1786108601126,
+      "SessionId": "02898182-36cc-49a3-87ca-023f27ce2469",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

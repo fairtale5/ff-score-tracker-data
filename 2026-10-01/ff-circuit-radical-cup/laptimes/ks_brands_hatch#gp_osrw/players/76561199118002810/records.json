@@ -1,0 +1,25 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_ScatteredClouds_M": {
+      "LapTimeMs": 90805,
+      "TimestampMs": 1789342052958,
+      "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 87861,
+      "TimestampMs": 1789342905594,
+      "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

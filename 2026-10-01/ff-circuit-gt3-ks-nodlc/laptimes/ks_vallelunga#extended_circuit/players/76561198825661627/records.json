@@ -1,0 +1,25 @@
+{
+  "Username": "Agus senna",
+  "GUID": 76561198825661627,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 106100,
+      "TimestampMs": 1785799798830,
+      "SessionId": "ac1985e1-6868-4fb9-85db-454475394e30",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 102317,
+      "TimestampMs": 1785800856031,
+      "SessionId": "ac1985e1-6868-4fb9-85db-454475394e30",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

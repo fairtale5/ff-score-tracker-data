@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780536427601,
+    "SessionId": "38631bb8-55de-4d0b-810f-722cb9210876",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 154099,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle"
+  },
+  {
+    "TimestampMs": 1780538015398,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 146354,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780538165955,
+    "SessionId": "698d5b79-2db0-4c55-a9c6-55981b01b709",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 150559,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

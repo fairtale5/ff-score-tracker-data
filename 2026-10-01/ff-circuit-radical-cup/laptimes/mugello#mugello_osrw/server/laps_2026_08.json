@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1786250126352,
+    "SessionId": "18f8eebb-3608-4e84-96e3-d208fd9487b5",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 117715,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786250367395,
+    "SessionId": "18f8eebb-3608-4e84-96e3-d208fd9487b5",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 119474,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786250484305,
+    "SessionId": "18f8eebb-3608-4e84-96e3-d208fd9487b5",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 116904,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786250600729,
+    "SessionId": "18f8eebb-3608-4e84-96e3-d208fd9487b5",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 116428,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787487775842,
+    "SessionId": "9924cca5-0168-432e-b054-4dd26040af8c",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 119388,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787496282262,
+    "SessionId": "9924cca5-0168-432e-b054-4dd26040af8c",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 118931,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1787496400923,
+    "SessionId": "9924cca5-0168-432e-b054-4dd26040af8c",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 118659,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  }
+]

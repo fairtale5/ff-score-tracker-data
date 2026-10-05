@@ -1,0 +1,137 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Hot_M": {
+      "LapTimeMs": 107786,
+      "TimestampMs": 1784828864396,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_M": {
+      "LapTimeMs": 105889,
+      "TimestampMs": 1784829269641,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_M": {
+      "LapTimeMs": 103822,
+      "TimestampMs": 1784829823256,
+      "SessionId": "d3946200-c457-480d-9132-f40887dd3cc2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Rain_WET": {
+      "LapTimeMs": 116263,
+      "TimestampMs": 1784904936756,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Rain",
+      "WeatherEnd": "Rain",
+      "TyreCompound": "WET"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed": {
+      "LapTimeMs": 106328,
+      "TimestampMs": 1784909575068,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "ks_porsche_911_gt3_r_2016_Rain": {
+      "LapTimeMs": 106421,
+      "TimestampMs": 1784905956645,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Rain",
+      "WeatherEnd": "Rain",
+      "TyreCompound": ""
+    },
+    "ks_porsche_911_gt3_r_2016_Cold": {
+      "LapTimeMs": 102604,
+      "TimestampMs": 1784908187754,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds": {
+      "LapTimeMs": 100126,
+      "TimestampMs": 1784910714505,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_Drizzle": {
+      "LapTimeMs": 98978,
+      "TimestampMs": 1784913802530,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_Mixed": {
+      "LapTimeMs": 100223,
+      "TimestampMs": 1784914538117,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_Cold": {
+      "LapTimeMs": 101296,
+      "TimestampMs": 1784914740516,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_LightDrizzle_S": {
+      "LapTimeMs": 105840,
+      "TimestampMs": 1784916616674,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 100768,
+      "TimestampMs": 1784917130006,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Drizzle_S": {
+      "LapTimeMs": 99761,
+      "TimestampMs": 1784917651274,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Cold_S": {
+      "LapTimeMs": 98730,
+      "TimestampMs": 1785617135670,
+      "SessionId": "c1327db3-c252-4de3-b290-1e879c2d6dc7",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_bayer_i6_evo_Clear_D": {
+      "LapTimeMs": 97685,
+      "TimestampMs": 1790516535156,
+      "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

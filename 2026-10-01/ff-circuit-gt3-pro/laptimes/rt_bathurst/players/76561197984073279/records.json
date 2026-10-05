@@ -1,0 +1,41 @@
+{
+  "Username": "Shooter_Fast",
+  "GUID": 76561197984073279,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed": {
+      "LapTimeMs": 138398,
+      "TimestampMs": 1784998468677,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    },
+    "ks_nissan_gtr_gt3_Cold": {
+      "LapTimeMs": 137126,
+      "TimestampMs": 1784998605799,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    },
+    "ks_nissan_gtr_gt3_Cold_M": {
+      "LapTimeMs": 135355,
+      "TimestampMs": 1784999812018,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Mist_M": {
+      "LapTimeMs": 134589,
+      "TimestampMs": 1785007987680,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

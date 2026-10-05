@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1789270670655,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 124435,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789270790749,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 120097,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789270908073,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 117329,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789271017817,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 109748,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789271143211,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 125395,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789271671135,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 101216,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789271792101,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 120967,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789272126757,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 120399,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789272234009,
+    "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gt_adonis_d9_v12",
+    "LapTimeMs": 107252,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "LightDrizzle",
+    "TyreCompound": "S"
+  }
+]

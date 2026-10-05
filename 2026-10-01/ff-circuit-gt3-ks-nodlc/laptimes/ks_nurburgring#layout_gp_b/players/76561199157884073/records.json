@@ -1,0 +1,25 @@
+{
+  "Username": "\u00C1lvaro Concei\u00E7ao",
+  "GUID": 76561199157884073,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 125238,
+      "TimestampMs": 1787419676120,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 122570,
+      "TimestampMs": 1787420340863,
+      "SessionId": "3e11c51c-1141-4076-a48c-85ab83b46cd2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

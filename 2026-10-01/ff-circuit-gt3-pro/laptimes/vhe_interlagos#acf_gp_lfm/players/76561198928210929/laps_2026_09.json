@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1790517053523,
+    "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 96004,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790530302122,
+    "SessionId": "70aa7dad-7fd2-4680-8071-e28b609c4d81",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 94763,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

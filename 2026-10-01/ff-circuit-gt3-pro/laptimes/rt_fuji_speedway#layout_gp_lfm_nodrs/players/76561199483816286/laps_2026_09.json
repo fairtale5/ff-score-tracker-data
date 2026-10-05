@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1789210384945,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 107216,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789210740030,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 115672,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789216640333,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 111626,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789216747441,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 107102,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789216857802,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 110360,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789216967117,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 109317,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789217074165,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 107027,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1790520008054,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 100005,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790520608665,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 96864,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790520935085,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 124656,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790521065684,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 130594,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1790521483260,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 106327,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790521591030,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 107763,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790521692689,
+    "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 101655,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  }
+]

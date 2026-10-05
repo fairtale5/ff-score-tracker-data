@@ -1,0 +1,33 @@
+{
+  "Username": "D4V1",
+  "GUID": 76561199010403265,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mist_M": {
+      "LapTimeMs": 125782,
+      "TimestampMs": 1785717036433,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_M": {
+      "LapTimeMs": 131117,
+      "TimestampMs": 1785717575575,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Hot_M": {
+      "LapTimeMs": 122991,
+      "TimestampMs": 1785718223895,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

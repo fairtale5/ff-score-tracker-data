@@ -1,0 +1,73 @@
+{
+  "Username": "IVSS",
+  "GUID": 76561199204465375,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_akuro_v6_evo2_Drizzle_H": {
+      "LapTimeMs": 91832,
+      "TimestampMs": 1789690158855,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_FewClouds": {
+      "LapTimeMs": 102974,
+      "TimestampMs": 1789692273536,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_FewClouds_H": {
+      "LapTimeMs": 87104,
+      "TimestampMs": 1789693185890,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed_H": {
+      "LapTimeMs": 88259,
+      "TimestampMs": 1789695926157,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Mist": {
+      "LapTimeMs": 87765,
+      "TimestampMs": 1789694862967,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Mist_H": {
+      "LapTimeMs": 86968,
+      "TimestampMs": 1789695497308,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Hot": {
+      "LapTimeMs": 86036,
+      "TimestampMs": 1789696803391,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Hot_H": {
+      "LapTimeMs": 85896,
+      "TimestampMs": 1789698031472,
+      "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

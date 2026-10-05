@@ -1,0 +1,65 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 129049,
+      "TimestampMs": 1787189151357,
+      "SessionId": "a4108068-7a13-45d8-92f7-e9457843b102",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 128684,
+      "TimestampMs": 1787189641661,
+      "SessionId": "a4108068-7a13-45d8-92f7-e9457843b102",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_furiano_96_v6_Hot_D": {
+      "LapTimeMs": 122520,
+      "TimestampMs": 1790302518503,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Clear_D": {
+      "LapTimeMs": 123088,
+      "TimestampMs": 1790303148184,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Mixed_D": {
+      "LapTimeMs": 122928,
+      "TimestampMs": 1790303271113,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 122907,
+      "TimestampMs": 1790301885736,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 122102,
+      "TimestampMs": 1790302007838,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

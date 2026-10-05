@@ -1,0 +1,25 @@
+{
+  "Username": "Junin",
+  "GUID": 76561199730440739,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 99489,
+      "TimestampMs": 1785801327623,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_ScatteredClouds_M": {
+      "LapTimeMs": 108705,
+      "TimestampMs": 1785803065014,
+      "SessionId": "b4771b8a-163f-4ac4-a281-a877f40dc66f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

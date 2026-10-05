@@ -1,0 +1,33 @@
+{
+  "Username": "Reknaz",
+  "GUID": 76561198047012848,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 126038,
+      "TimestampMs": 1785975902280,
+      "SessionId": "ea4512e7-0fd3-4579-891a-4ecc2d932234",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 127174,
+      "TimestampMs": 1785976313695,
+      "SessionId": "ea4512e7-0fd3-4579-891a-4ecc2d932234",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 123111,
+      "TimestampMs": 1785977156916,
+      "SessionId": "ea4512e7-0fd3-4579-891a-4ecc2d932234",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

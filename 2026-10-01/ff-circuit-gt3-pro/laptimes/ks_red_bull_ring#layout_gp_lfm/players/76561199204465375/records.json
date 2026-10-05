@@ -1,0 +1,65 @@
+{
+  "Username": "IVSS",
+  "GUID": 76561199204465375,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed_M": {
+      "LapTimeMs": 93768,
+      "TimestampMs": 1789087569352,
+      "SessionId": "de70880a-a634-491b-8d78-368c91009abf",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 92766,
+      "TimestampMs": 1789084588238,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 92187,
+      "TimestampMs": 1789084014176,
+      "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mist_S": {
+      "LapTimeMs": 92526,
+      "TimestampMs": 1789084892118,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Clear_M": {
+      "LapTimeMs": 91630,
+      "TimestampMs": 1789086864968,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 93406,
+      "TimestampMs": 1789088214249,
+      "SessionId": "de70880a-a634-491b-8d78-368c91009abf",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Mist_M": {
+      "LapTimeMs": 93761,
+      "TimestampMs": 1789091319589,
+      "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

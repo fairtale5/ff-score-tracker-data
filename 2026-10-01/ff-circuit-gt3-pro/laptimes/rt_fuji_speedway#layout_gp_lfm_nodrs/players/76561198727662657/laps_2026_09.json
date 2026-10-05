@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789246092026,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 106064,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789281538956,
+    "SessionId": "8c10f543-6851-483a-a91c-c8c3b69aec01",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 106951,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789282400394,
+    "SessionId": "8c10f543-6851-483a-a91c-c8c3b69aec01",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 105240,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  }
+]

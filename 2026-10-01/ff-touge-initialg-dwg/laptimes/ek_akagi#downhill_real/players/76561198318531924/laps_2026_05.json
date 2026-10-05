@@ -1,0 +1,90 @@
+[
+  {
+    "TimestampMs": 1780030778392,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 292063,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780031446567,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 314957,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Hot"
+  },
+  {
+    "TimestampMs": 1780031906493,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 289060,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780032268017,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 296721,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780033873316,
+    "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 274968,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780220454988,
+    "SessionId": "16946545-b2d0-4235-9191-4742269cd371",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 287502,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780221155961,
+    "SessionId": "16946545-b2d0-4235-9191-4742269cd371",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 270749,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780221748011,
+    "SessionId": "16946545-b2d0-4235-9191-4742269cd371",
+    "Track": "ek_akagi",
+    "Layout": "downhill_real",
+    "Car": "dthwsh_nissan_240sx_c_missile",
+    "LapTimeMs": 266713,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1790737851398,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 109408,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790737953256,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 101854,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790738512643,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 104603,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790738614830,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 102184,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790738715206,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 100374,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790738817492,
+    "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 102280,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  }
+]

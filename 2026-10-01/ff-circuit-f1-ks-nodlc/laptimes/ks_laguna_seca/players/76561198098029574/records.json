@@ -1,0 +1,25 @@
+{
+  "Username": "Mark Lyons",
+  "GUID": 76561198098029574,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 64888,
+      "TimestampMs": 1789517900456,
+      "SessionId": "791b00ba-ca92-4be8-b629-8accc455c4f0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 64712,
+      "TimestampMs": 1789520709190,
+      "SessionId": "791b00ba-ca92-4be8-b629-8accc455c4f0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

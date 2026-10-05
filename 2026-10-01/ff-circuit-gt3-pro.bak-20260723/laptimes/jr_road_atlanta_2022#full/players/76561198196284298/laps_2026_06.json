@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780629890278,
+    "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 86069,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780632875693,
+    "SessionId": "2a95c1f8-8bc0-49b6-8786-7c9c895bc4e9",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 81750,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot"
+  }
+]

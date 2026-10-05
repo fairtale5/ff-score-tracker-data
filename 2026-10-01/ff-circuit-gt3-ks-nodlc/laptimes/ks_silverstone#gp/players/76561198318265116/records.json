@@ -1,0 +1,23 @@
+{
+  "Username": "FireZz",
+  "GUID": 76561198318265116,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 140816,
+      "TimestampMs": 1779935351043,
+      "SessionId": "04b20f07-9288-4366-ad1d-229cc57d1376",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 153235,
+      "TimestampMs": 1779938915379,
+      "SessionId": "04b20f07-9288-4366-ad1d-229cc57d1376",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

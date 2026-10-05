@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1790732514990,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 107614,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "SunnyPuddles",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790732856885,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 113652,
+    "WeatherCategory": "SunnyDamp",
+    "WeatherStart": "SunnyDamp",
+    "WeatherEnd": "SunnyDamp",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790732956710,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 99828,
+    "WeatherCategory": "SunnyDamp",
+    "WeatherStart": "SunnyDamp",
+    "WeatherEnd": "SunnyDamp",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790733059528,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 102820,
+    "WeatherCategory": "SunnyDamp",
+    "WeatherStart": "SunnyDamp",
+    "WeatherEnd": "SunnyDamp",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790733745294,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 121877,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1790733878851,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 133562,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1790733991076,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 112228,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1790734501729,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 99996,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "SS"
+  }
+]

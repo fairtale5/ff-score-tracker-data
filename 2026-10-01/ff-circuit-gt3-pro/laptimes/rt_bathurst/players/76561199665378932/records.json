@@ -1,0 +1,33 @@
+{
+  "Username": "POLICITE",
+  "GUID": 76561199665378932,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_Mixed": {
+      "LapTimeMs": 144492,
+      "TimestampMs": 1784998486423,
+      "SessionId": "f23508f7-c12e-42c2-a004-0c48fa8f7ae1",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Cold",
+      "TyreCompound": ""
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 138495,
+      "TimestampMs": 1785610038448,
+      "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 135357,
+      "TimestampMs": 1785611225992,
+      "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

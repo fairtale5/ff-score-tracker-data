@@ -1,0 +1,98 @@
+[
+  {
+    "TimestampMs": 1789690457822,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 90233,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789690547176,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 89354,
+    "WeatherCategory": "Drizzle",
+    "WeatherStart": "Drizzle",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692027161,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 92109,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692121352,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 94171,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692210057,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 88723,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692297223,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 87166,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692388126,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 90901,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789692474938,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 86810,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "H"
+  }
+]

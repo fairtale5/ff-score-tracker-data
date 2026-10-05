@@ -1,0 +1,25 @@
+{
+  "Username": "quake",
+  "GUID": 76561198974811340,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 121425,
+      "TimestampMs": 1788386090379,
+      "SessionId": "b753cf45-0eee-4997-8c73-a9e5c48d7890",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 121984,
+      "TimestampMs": 1788385469723,
+      "SessionId": "b753cf45-0eee-4997-8c73-a9e5c48d7890",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,52 @@
+{
+  "Records": {
+    "acf_gp_lfm": {
+      "ks_porsche_911_gt3_r_2016": {
+        "Mixed": {
+          "LapTimeMs": 101596,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1784775751893,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 98687,
+          "PlayerName": "volponi",
+          "PlayerGuid": 76561198879960675,
+          "TimestampMs": 1784776656327,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 98600,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1784778764533,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        }
+      },
+      "ks_nissan_gtr_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 96995,
+          "PlayerName": "Shooter_Fast",
+          "PlayerGuid": 76561197984073279,
+          "TimestampMs": 1784777234629,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        },
+        "Mixed": {
+          "LapTimeMs": 98683,
+          "PlayerName": "Shooter_Fast",
+          "PlayerGuid": 76561197984073279,
+          "TimestampMs": 1784777629443,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 97133,
+          "PlayerName": "Shooter_Fast",
+          "PlayerGuid": 76561197984073279,
+          "TimestampMs": 1784777726574,
+          "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff"
+        }
+      }
+    }
+  }
+}

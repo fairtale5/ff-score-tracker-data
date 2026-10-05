@@ -1,0 +1,62 @@
+[
+  {
+    "TimestampMs": 1790403875879,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 148322,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790404270818,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 134941,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790404404287,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 133458,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790404940476,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 136631,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790405221109,
+    "SessionId": "a84193e6-0d56-48d3-a52a-a3ecbcc4a22d",
+    "Track": "acu_unitedstates",
+    "Layout": "a",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 136501,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Username": "Danizin99",
+  "GUID": 76561199753950530,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed_M": {
+      "LapTimeMs": 96257,
+      "TimestampMs": 1789083133602,
+      "SessionId": "6a826ad0-431c-4508-b986-48a3a875d089",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Clear_M": {
+      "LapTimeMs": 94852,
+      "TimestampMs": 1789086943434,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_Mist_M": {
+      "LapTimeMs": 97814,
+      "TimestampMs": 1789089847069,
+      "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

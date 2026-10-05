@@ -1,0 +1,30 @@
+{
+  "Username": "Player",
+  "GUID": 76561198811840956,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 100915,
+      "TimestampMs": 1779588327873,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 99221,
+      "TimestampMs": 1779589789749,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 92537,
+      "TimestampMs": 1779597208368,
+      "SessionId": "86c8648c-e011-4380-9d6f-7adadd45eea4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

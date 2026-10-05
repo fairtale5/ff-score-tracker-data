@@ -1,0 +1,123 @@
+{
+  "Records": {
+    "layout_gp_lfm": {
+      "rss_gt_adonis_d9_v12": {
+        "Mixed": {
+          "LapTimeMs": 92534,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789272195561,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "Clear": {
+          "LapTimeMs": 92239,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789271536939,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 93845,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789272289406,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        }
+      },
+      "rss_gt_vortex_v10": {
+        "Clear": {
+          "LapTimeMs": 92890,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789271250776,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "Mixed": {
+          "LapTimeMs": 94779,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1789271988694,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "LightDrizzle": {
+          "LapTimeMs": 96226,
+          "PlayerName": "IVSS",
+          "PlayerGuid": 76561199204465375,
+          "TimestampMs": 1789272328943,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "Cold": {
+          "LapTimeMs": 91871,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1790219209276,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        }
+      },
+      "rss_gt_lanzo_v12": {
+        "Clear": {
+          "LapTimeMs": 92526,
+          "PlayerName": "arthur vitor",
+          "PlayerGuid": 76561199118002810,
+          "TimestampMs": 1789271148216,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "Mixed": {
+          "LapTimeMs": 92436,
+          "PlayerName": "arthur vitor",
+          "PlayerGuid": 76561199118002810,
+          "TimestampMs": 1789271874428,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "Cold": {
+          "LapTimeMs": 92784,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790217651486,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        }
+      },
+      "rss_gt_ferruccio_55": {
+        "LightDrizzle": {
+          "LapTimeMs": 93467,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1789272819920,
+          "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 92681,
+          "PlayerName": "tabi",
+          "PlayerGuid": 76561199586981976,
+          "TimestampMs": 1790220747886,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        }
+      },
+      "rss_gt_shadow_v8": {
+        "Cold": {
+          "LapTimeMs": 91416,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790219512524,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        },
+        "Mixed": {
+          "LapTimeMs": 91328,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790219884307,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        }
+      },
+      "rss_gt_tornado_v12": {
+        "ScatteredClouds": {
+          "LapTimeMs": 92348,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1790220462856,
+          "SessionId": "39ac3ff1-dd12-40ba-b9fa-fcd9347cab6c"
+        }
+      }
+    }
+  }
+}

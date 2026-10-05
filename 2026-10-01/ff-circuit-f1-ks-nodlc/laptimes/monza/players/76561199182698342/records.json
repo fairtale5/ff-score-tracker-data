@@ -1,0 +1,25 @@
+{
+  "Username": "Vettel",
+  "GUID": 76561199182698342,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 88584,
+      "TimestampMs": 1786406321656,
+      "SessionId": "fb0e258a-fc98-440e-afa7-1a05b86bb974",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 88470,
+      "TimestampMs": 1784074967009,
+      "SessionId": "1553cc8b-59b3-4604-a4f4-ea14d7bb51bf",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

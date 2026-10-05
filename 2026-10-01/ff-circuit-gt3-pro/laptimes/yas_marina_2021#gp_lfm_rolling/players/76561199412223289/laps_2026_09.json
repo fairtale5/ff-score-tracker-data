@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1790659098336,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_lux_v8_evo",
+    "LapTimeMs": 121005,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790659219026,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_lux_v8_evo",
+    "LapTimeMs": 120690,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790661529833,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 124828,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": "D"
+  }
+]

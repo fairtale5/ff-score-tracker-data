@@ -1,0 +1,33 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gt_vortex_v10_Clear": {
+      "LapTimeMs": 94591,
+      "TimestampMs": 1789270827075,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gt_vortex_v10_Clear_S": {
+      "LapTimeMs": 92890,
+      "TimestampMs": 1789271250776,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gt_vortex_v10_Mixed_M": {
+      "LapTimeMs": 94779,
+      "TimestampMs": 1789271988694,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

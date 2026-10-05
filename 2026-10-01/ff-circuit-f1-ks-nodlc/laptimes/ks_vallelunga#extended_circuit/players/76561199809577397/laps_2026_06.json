@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1781831311862,
+    "SessionId": "f2eee612-1fcc-4414-ac6e-bbdff34e4c7f",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_98t",
+    "LapTimeMs": 91604,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1781831396243,
+    "SessionId": "f2eee612-1fcc-4414-ac6e-bbdff34e4c7f",
+    "Track": "ks_vallelunga",
+    "Layout": "extended_circuit",
+    "Car": "lotus_98t",
+    "LapTimeMs": 84387,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "Username": "matheus pereira",
+  "GUID": 76561198731583934,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "ks_mercedes_amg_gt3_HeavyDrizzle": {
+      "LapTimeMs": 97465,
+      "TimestampMs": 1784944636509,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": ""
+    },
+    "ks_mercedes_amg_gt3_HeavyDrizzle_WET": {
+      "LapTimeMs": 95906,
+      "TimestampMs": 1784945431743,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_mercedes_amg_gt3_Clear_M": {
+      "LapTimeMs": 89245,
+      "TimestampMs": 1784946349235,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Clear": {
+      "LapTimeMs": 84921,
+      "TimestampMs": 1784947819619,
+      "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

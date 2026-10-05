@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785896033441,
+    "SessionId": "cd56dfb2-1f7d-45aa-a2f5-6a84d80d1345",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 106743,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785897937471,
+    "SessionId": "cd56dfb2-1f7d-45aa-a2f5-6a84d80d1345",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 113417,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "Luca Ale",
+  "GUID": 76561199134491537,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 147154,
+      "TimestampMs": 1777848156222,
+      "SessionId": "f52de384-6c3b-474b-9d8e-dac5d414f2e9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 157881,
+      "TimestampMs": 1786238750097,
+      "SessionId": "6973e5d0-2182-465d-88cb-ecda858573cb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

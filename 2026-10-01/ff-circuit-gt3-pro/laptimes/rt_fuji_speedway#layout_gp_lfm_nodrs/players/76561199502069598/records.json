@@ -1,0 +1,25 @@
+{
+  "Username": "P.3.K",
+  "GUID": 76561199502069598,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Clear_M": {
+      "LapTimeMs": 108260,
+      "TimestampMs": 1789216973361,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Mixed_M": {
+      "LapTimeMs": 121179,
+      "TimestampMs": 1789217094545,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

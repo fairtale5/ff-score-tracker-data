@@ -1,0 +1,25 @@
+{
+  "Username": "Nicolas",
+  "GUID": 76561199876824946,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_S": {
+      "LapTimeMs": 74759,
+      "TimestampMs": 1782825935864,
+      "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 76153,
+      "TimestampMs": 1782826546598,
+      "SessionId": "90f66bfe-380b-4f3f-a0f5-1f9dd3c31c49",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

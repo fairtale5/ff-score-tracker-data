@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1783279461480,
+    "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 115485,
+    "WeatherCategory": "Rain",
+    "WeatherStart": "Rain",
+    "WeatherEnd": "Rain",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1783279577178,
+    "SessionId": "833f509e-8bab-4957-8208-c50d2b960b43",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 115699,
+    "WeatherCategory": "Rain",
+    "WeatherStart": "Rain",
+    "WeatherEnd": "Rain",
+    "TyreCompound": "M"
+  }
+]

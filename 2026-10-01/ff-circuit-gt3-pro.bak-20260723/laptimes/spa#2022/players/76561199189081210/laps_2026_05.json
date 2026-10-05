@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1780172505373,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 215027,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780172736590,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 231208,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780173121577,
+    "SessionId": "20809de5-8918-47e1-b935-55b526cfd8e5",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_lanzo_v8_evo",
+    "LapTimeMs": 201607,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold"
+  }
+]

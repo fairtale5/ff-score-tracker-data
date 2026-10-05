@@ -1,0 +1,36 @@
+{
+  "Records": {
+    "default": {
+      "ks_mazda_mx5_cup": {
+        "Clear": {
+          "LapTimeMs": 96666,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790040600829,
+          "SessionId": "2c77ec45-3bb2-4812-8ca2-5fffbe14acf9"
+        },
+        "Mixed": {
+          "LapTimeMs": 104032,
+          "PlayerName": "tabi",
+          "PlayerGuid": 76561199586981976,
+          "TimestampMs": 1788837013233,
+          "SessionId": "b6db33a8-300b-4b1e-a99a-f3c56f0c4161"
+        },
+        "HeavyDrizzle": {
+          "LapTimeMs": 105734,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1788836778029,
+          "SessionId": "b6db33a8-300b-4b1e-a99a-f3c56f0c4161"
+        },
+        "HeavyRain": {
+          "LapTimeMs": 132291,
+          "PlayerName": "tabi",
+          "PlayerGuid": 76561199586981976,
+          "TimestampMs": 1788843381834,
+          "SessionId": "b6db33a8-300b-4b1e-a99a-f3c56f0c4161"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1788018390204,
+    "SessionId": "7e70ea71-a9b5-49b2-81df-3d4dae0ba50f",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "ig_toyota_gr86_premium",
+    "LapTimeMs": 2,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1788020398937,
+    "SessionId": "7e70ea71-a9b5-49b2-81df-3d4dae0ba50f",
+    "Track": "soyo_idaz_momiji",
+    "Layout": "downhill",
+    "Car": "dthwsh_nissan_silvia_s15_vaero",
+    "LapTimeMs": 1,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Drizzle",
+    "TyreCompound": "ST"
+  }
+]

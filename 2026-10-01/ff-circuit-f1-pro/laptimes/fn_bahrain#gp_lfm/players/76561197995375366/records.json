@@ -1,0 +1,137 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "fn_bahrain",
+  "Layout": "gp_lfm",
+  "BestLaps": {
+    "rss_formula_2010_LightRain": {
+      "LapTimeMs": 106660,
+      "TimestampMs": 1790729947117,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": ""
+    },
+    "rss_formula_2010_Mixed_W": {
+      "LapTimeMs": 105959,
+      "TimestampMs": 1790731251888,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "W"
+    },
+    "rss_formula_2010_Rain_W": {
+      "LapTimeMs": 114547,
+      "TimestampMs": 1790730679316,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Rain",
+      "WeatherEnd": "Rain",
+      "TyreCompound": "W"
+    },
+    "rss_formula_2010_LightRain_W": {
+      "LapTimeMs": 113348,
+      "TimestampMs": 1790731365240,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "W"
+    },
+    "rss_formula_2010_Mixed": {
+      "LapTimeMs": 120762,
+      "TimestampMs": 1790731952396,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": ""
+    },
+    "rss_formula_2010_SunnyPuddles": {
+      "LapTimeMs": 99639,
+      "TimestampMs": 1790732052037,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": ""
+    },
+    "rss_formula_2010_SunnyPuddles_S": {
+      "LapTimeMs": 96840,
+      "TimestampMs": 1790732423716,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Mixed_S": {
+      "LapTimeMs": 94426,
+      "TimestampMs": 1790734231170,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_SunnyDamp": {
+      "LapTimeMs": 95731,
+      "TimestampMs": 1790733118840,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "SunnyDamp",
+      "WeatherEnd": "SunnyDamp",
+      "TyreCompound": ""
+    },
+    "rss_formula_2010_ScatteredClouds_M": {
+      "LapTimeMs": 96376,
+      "TimestampMs": 1790738821137,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "rss_formula_2010_FewClouds_S": {
+      "LapTimeMs": 95432,
+      "TimestampMs": 1790739202593,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Clear_S": {
+      "LapTimeMs": 98159,
+      "TimestampMs": 1790737165243,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_BrokenClouds_S": {
+      "LapTimeMs": 95113,
+      "TimestampMs": 1790738119125,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Mixed_M": {
+      "LapTimeMs": 95608,
+      "TimestampMs": 1790738916744,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "rss_formula_2010_Mixed_SS": {
+      "LapTimeMs": 103618,
+      "TimestampMs": 1790739804984,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_Clear_SS": {
+      "LapTimeMs": 95573,
+      "TimestampMs": 1790740095179,
+      "SessionId": "b9cb6d09-6ce9-4f0e-aaea-a8933180e5ef",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}
