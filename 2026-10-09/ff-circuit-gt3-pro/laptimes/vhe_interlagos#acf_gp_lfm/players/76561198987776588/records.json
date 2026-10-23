@@ -1,0 +1,33 @@
+{
+  "Username": "FelipePiloto244",
+  "GUID": 76561198987776588,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_ScatteredClouds_D": {
+      "LapTimeMs": 100294,
+      "TimestampMs": 1791435219510,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 101917,
+      "TimestampMs": 1791435321427,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_OvercastClouds_D": {
+      "LapTimeMs": 100517,
+      "TimestampMs": 1791435825789,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

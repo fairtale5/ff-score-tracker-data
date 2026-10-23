@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1791423485534,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 96519,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "SunnyPuddles",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791423786447,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 100246,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "SunnyPuddles",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791423882695,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 96251,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791423986001,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 103309,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791424085109,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 99109,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791424180191,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 95086,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  }
+]

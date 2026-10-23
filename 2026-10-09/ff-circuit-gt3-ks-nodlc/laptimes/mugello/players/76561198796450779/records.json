@@ -1,0 +1,57 @@
+{
+  "Username": "SuperMario_Ichiban",
+  "GUID": 76561198796450779,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 109382,
+      "TimestampMs": 1790549537879,
+      "SessionId": "aacf8d9b-7bbc-42b7-8bf3-fa392f452389",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 109539,
+      "TimestampMs": 1789196105363,
+      "SessionId": "94e81004-0d42-4aae-a779-b20dccc33cd0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 112348,
+      "TimestampMs": 1791301427166,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Mixed": {
+      "LapTimeMs": 111080,
+      "TimestampMs": 1791323562642,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_ScatteredClouds": {
+      "LapTimeMs": 111547,
+      "TimestampMs": 1791323099356,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_BrokenClouds": {
+      "LapTimeMs": 110666,
+      "TimestampMs": 1791324145610,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

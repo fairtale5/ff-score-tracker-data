@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1791146058135,
+    "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 122267,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791157768416,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 146991,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791157890801,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 122408,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158014169,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 123383,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158135748,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 121588,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158269317,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 133588,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158581850,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 142757,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Fog",
+    "TyreCompound": "D"
+  }
+]

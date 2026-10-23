@@ -1,0 +1,73 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 104465,
+      "TimestampMs": 1790401287713,
+      "SessionId": "cefa1d9e-58a6-4d03-a2b3-4378be00946e",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_FewClouds_D": {
+      "LapTimeMs": 104310,
+      "TimestampMs": 1790982753106,
+      "SessionId": "49addafb-2503-4d41-9961-3e0771e24b98",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 102142,
+      "TimestampMs": 1790983530389,
+      "SessionId": "49addafb-2503-4d41-9961-3e0771e24b98",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_BrokenClouds_D": {
+      "LapTimeMs": 101631,
+      "TimestampMs": 1790986543182,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Clear_D": {
+      "LapTimeMs": 102042,
+      "TimestampMs": 1790987851448,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_FewClouds": {
+      "LapTimeMs": 103933,
+      "TimestampMs": 1790988335890,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed": {
+      "LapTimeMs": 102347,
+      "TimestampMs": 1790988756027,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_Clear": {
+      "LapTimeMs": 102603,
+      "TimestampMs": 1790988858633,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "lil rico",
+  "GUID": 76561199058804187,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 139628,
+      "TimestampMs": 1790906340617,
+      "SessionId": "8fc06bcf-f5ce-4761-a0ea-a16f2f7b86fa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 127053,
+      "TimestampMs": 1790908145323,
+      "SessionId": "8fc06bcf-f5ce-4761-a0ea-a16f2f7b86fa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

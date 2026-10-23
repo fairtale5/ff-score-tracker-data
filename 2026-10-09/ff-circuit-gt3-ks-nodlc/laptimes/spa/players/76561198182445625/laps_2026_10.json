@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1790981567897,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 152545,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790981719632,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 151737,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790983002282,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 154363,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790983155962,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 153676,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790983309861,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 153905,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790983472944,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 163092,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1790983627352,
+    "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+    "Track": "spa",
+    "Layout": "",
+    "Car": "bmw_z4_gt3",
+    "LapTimeMs": 154412,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "M"
+  }
+]

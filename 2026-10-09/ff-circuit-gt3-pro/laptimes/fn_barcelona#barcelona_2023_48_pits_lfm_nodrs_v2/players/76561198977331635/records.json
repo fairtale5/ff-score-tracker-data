@@ -1,0 +1,49 @@
+{
+  "Username": "guilhermeaugustocoimbra",
+  "GUID": 76561198977331635,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Mixed_D": {
+      "LapTimeMs": 101892,
+      "TimestampMs": 1790987470395,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_Clear_D": {
+      "LapTimeMs": 101937,
+      "TimestampMs": 1790987880182,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_furiano_96_v6_FewClouds": {
+      "LapTimeMs": 102181,
+      "TimestampMs": 1790988348972,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_furiano_96_v6_Mixed": {
+      "LapTimeMs": 101885,
+      "TimestampMs": 1790988761598,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_furiano_96_v6_Clear": {
+      "LapTimeMs": 101756,
+      "TimestampMs": 1790988863353,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

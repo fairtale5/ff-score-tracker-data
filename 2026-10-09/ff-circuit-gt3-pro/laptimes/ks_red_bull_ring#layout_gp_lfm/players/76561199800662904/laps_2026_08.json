@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1786768390611,
+    "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 93587,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786768637476,
+    "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 92772,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786768730095,
+    "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 92618,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  }
+]

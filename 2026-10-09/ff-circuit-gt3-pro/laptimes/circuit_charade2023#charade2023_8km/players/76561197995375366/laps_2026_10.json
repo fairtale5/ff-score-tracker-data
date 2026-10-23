@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1791232454751,
+    "SessionId": "1a439a48-1773-440a-b14f-f3fef87054a0",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 190627,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791233470867,
+    "SessionId": "1a439a48-1773-440a-b14f-f3fef87054a0",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 185055,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791233655149,
+    "SessionId": "1a439a48-1773-440a-b14f-f3fef87054a0",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 184279,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791233838504,
+    "SessionId": "1a439a48-1773-440a-b14f-f3fef87054a0",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 183353,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791243695705,
+    "SessionId": "92704582-b86a-49fe-bea6-b4b4e4c1922c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 188150,
+    "WeatherCategory": "SunnyPuddles",
+    "WeatherStart": "SunnyPuddles",
+    "WeatherEnd": "SunnyPuddles",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791245818871,
+    "SessionId": "92704582-b86a-49fe-bea6-b4b4e4c1922c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 184318,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791246736914,
+    "SessionId": "92704582-b86a-49fe-bea6-b4b4e4c1922c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 183029,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791246920127,
+    "SessionId": "92704582-b86a-49fe-bea6-b4b4e4c1922c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 183207,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791247944711,
+    "SessionId": "92704582-b86a-49fe-bea6-b4b4e4c1922c",
+    "Track": "circuit_charade2023",
+    "Layout": "charade2023_8km",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 179667,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789517754531,
+    "SessionId": "843907f7-5668-4037-881e-25d1e106d5c8",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "rize_efini_rx7_fd3s_keisuke_1",
+    "LapTimeMs": 393414,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789518095656,
+    "SessionId": "843907f7-5668-4037-881e-25d1e106d5c8",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "rize_efini_rx7_fd3s_keisuke_1",
+    "LapTimeMs": 341163,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1789518404530,
+    "SessionId": "843907f7-5668-4037-881e-25d1e106d5c8",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "rize_efini_rx7_fd3s_keisuke_1",
+    "LapTimeMs": 308862,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  }
+]

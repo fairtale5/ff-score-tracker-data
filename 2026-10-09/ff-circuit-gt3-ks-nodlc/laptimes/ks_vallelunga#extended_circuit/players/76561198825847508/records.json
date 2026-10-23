@@ -1,0 +1,25 @@
+{
+  "Username": "PtzPsico",
+  "GUID": 76561198825847508,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 98361,
+      "TimestampMs": 1790816439032,
+      "SessionId": "4e9bd0a2-99be-4223-84c1-daad41bd1852",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 97527,
+      "TimestampMs": 1790817519316,
+      "SessionId": "4e9bd0a2-99be-4223-84c1-daad41bd1852",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

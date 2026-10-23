@@ -1,0 +1,23 @@
+{
+  "Username": "wolf",
+  "GUID": 76561198010520770,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 88080,
+      "TimestampMs": 1781557086156,
+      "SessionId": "046267af-97d4-4735-987b-21ab294fc2ff",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "lotus_98t_Clear": {
+      "LapTimeMs": 99235,
+      "TimestampMs": 1781553692579,
+      "SessionId": "046267af-97d4-4735-987b-21ab294fc2ff",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

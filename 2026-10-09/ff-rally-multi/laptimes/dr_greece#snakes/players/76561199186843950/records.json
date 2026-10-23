@@ -1,0 +1,30 @@
+{
+  "Username": "DrGuyLeShace",
+  "GUID": 76561199186843950,
+  "Track": "dr_greece",
+  "Layout": "snakes",
+  "BestLaps": {
+    "rfc_opel_adam_r2_Clear": {
+      "LapTimeMs": 464819,
+      "TimestampMs": 1778532751177,
+      "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rw_subaru_imprezaS12_wrc_Clear": {
+      "LapTimeMs": 451630,
+      "TimestampMs": 1778534761861,
+      "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "ks_toyota_celica_st185_gravel_Clear": {
+      "LapTimeMs": 425012,
+      "TimestampMs": 1778535706902,
+      "SessionId": "56f6bf4d-a2aa-4058-a70e-beab356e1c50",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

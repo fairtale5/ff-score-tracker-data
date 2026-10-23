@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786253462599,
+    "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 154866,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786254123906,
+    "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "urd_radical_sr3xxr_2023",
+    "LapTimeMs": 161664,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  }
+]

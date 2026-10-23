@@ -1,0 +1,57 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b_osrw_lfm_tracklimits",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 125098,
+      "TimestampMs": 1785711387307,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_M": {
+      "LapTimeMs": 135199,
+      "TimestampMs": 1785712303199,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Drizzle_M": {
+      "LapTimeMs": 128283,
+      "TimestampMs": 1785712712190,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 123792,
+      "TimestampMs": 1785717494830,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 122049,
+      "TimestampMs": 1785717239731,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 123673,
+      "TimestampMs": 1785718382602,
+      "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

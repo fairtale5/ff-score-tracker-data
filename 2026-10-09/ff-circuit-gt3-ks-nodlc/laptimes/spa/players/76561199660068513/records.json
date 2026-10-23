@@ -1,0 +1,72 @@
+{
+  "Username": "_six_",
+  "GUID": 76561199660068513,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Mixed": {
+      "LapTimeMs": 143248,
+      "TimestampMs": 1774307639175,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 141591,
+      "TimestampMs": 1775964099023,
+      "SessionId": "ee76ed90-a65d-47ab-acc2-26f83a461bb6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_ScatteredClouds": {
+      "LapTimeMs": 144622,
+      "TimestampMs": 1774307352547,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    },
+    "bmw_z4_gt3_Mist": {
+      "LapTimeMs": 144919,
+      "TimestampMs": 1774308386528,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "bmw_z4_gt3_Cold": {
+      "LapTimeMs": 145711,
+      "TimestampMs": 1774308971566,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold"
+    },
+    "mercedes_sls_gt3_Mixed": {
+      "LapTimeMs": 146800,
+      "TimestampMs": 1774309657893,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "mclaren_mp412c_gt3_Mixed": {
+      "LapTimeMs": 144599,
+      "TimestampMs": 1774310228740,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition"
+    },
+    "mclaren_mp412c_gt3_Drizzle": {
+      "LapTimeMs": 155849,
+      "TimestampMs": 1774310699937,
+      "SessionId": "bf8fa79d-335d-47de-bd65-ac0a4eaffb64",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle"
+    },
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 142287,
+      "TimestampMs": 1775966621692,
+      "SessionId": "ee76ed90-a65d-47ab-acc2-26f83a461bb6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

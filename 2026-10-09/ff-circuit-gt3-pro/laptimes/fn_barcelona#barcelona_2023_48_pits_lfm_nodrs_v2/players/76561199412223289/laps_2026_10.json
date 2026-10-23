@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1790988360334,
+    "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 106992,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790988467366,
+    "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 107041,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790988573051,
+    "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 105679,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790989043732,
+    "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+    "Track": "fn_barcelona",
+    "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 121729,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  }
+]

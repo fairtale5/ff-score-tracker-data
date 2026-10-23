@@ -1,0 +1,41 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "circuit_charade2023",
+  "Layout": "charade2023_8km",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_Mixed_WET": {
+      "LapTimeMs": 198338,
+      "TimestampMs": 1790393653992,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "WET"
+    },
+    "rss_gtm_aero_v10_evo2_Mixed_H": {
+      "LapTimeMs": 191342,
+      "TimestampMs": 1790395333302,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed_H": {
+      "LapTimeMs": 178544,
+      "TimestampMs": 1790477996318,
+      "SessionId": "92724483-37aa-423f-be37-050a609a447c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_protech_p92_f6_Mixed_D": {
+      "LapTimeMs": 185166,
+      "TimestampMs": 1790493204629,
+      "SessionId": "6ecb7a23-92f0-4965-8ddc-c14651965b7d",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

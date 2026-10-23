@@ -1,0 +1,25 @@
+{
+  "Username": "Julio Damasceno",
+  "GUID": 76561198856686262,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 117005,
+      "TimestampMs": 1790901472017,
+      "SessionId": "e7a8c9b1-2d09-4f10-9e11-075505eda758",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 114110,
+      "TimestampMs": 1790902151659,
+      "SessionId": "e7a8c9b1-2d09-4f10-9e11-075505eda758",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "DearlynNatalie",
+  "GUID": 76561199388910098,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_FewClouds": {
+      "LapTimeMs": 137703,
+      "TimestampMs": 1791096614562,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_FewClouds_M": {
+      "LapTimeMs": 147402,
+      "TimestampMs": 1791095801671,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

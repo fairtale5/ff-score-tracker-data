@@ -1,0 +1,35 @@
+[
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 104989,
+    "Layout" : "",
+    "TimestampMs" : 1774659371107,
+    "SessionId" : "60e668a3-542d-4a46-a47d-6f489fd5b27a",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear"
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "TimestampMs" : 1774659476883,
+    "SessionId" : "60e668a3-542d-4a46-a47d-6f489fd5b27a",
+    "Track" : "ks_zandvoort",
+    "WeatherCategory" : "Clear",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "Layout" : "",
+    "LapTimeMs" : 105774
+  },
+  {
+    "Car" : "mercedes_sls_gt3",
+    "WeatherEnd" : "Clear",
+    "WeatherStart" : "Clear",
+    "LapTimeMs" : 105371,
+    "Layout" : "",
+    "SessionId" : "60e668a3-542d-4a46-a47d-6f489fd5b27a",
+    "TimestampMs" : 1774659582291,
+    "WeatherCategory" : "Clear",
+    "Track" : "ks_zandvoort"
+  }
+]

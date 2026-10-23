@@ -1,0 +1,49 @@
+{
+  "Username": "cadu",
+  "GUID": 76561199803060715,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Mist_M": {
+      "LapTimeMs": 112688,
+      "TimestampMs": 1789263579090,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 113960,
+      "TimestampMs": 1789263922305,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 110002,
+      "TimestampMs": 1789264415728,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_M": {
+      "LapTimeMs": 109445,
+      "TimestampMs": 1789266625555,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_M": {
+      "LapTimeMs": 110564,
+      "TimestampMs": 1789267138208,
+      "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 138275,
+      "TimestampMs": 1789949521158,
+      "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 137361,
+      "TimestampMs": 1789949658520,
+      "SessionId": "37e291b9-64d1-4abc-a9b0-11758cc7d496",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

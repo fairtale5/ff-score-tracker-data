@@ -1,0 +1,25 @@
+{
+  "Username": "Renato Cordob\u00EA",
+  "GUID": 76561198839690306,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 119335,
+      "TimestampMs": 1787095605253,
+      "SessionId": "31ba0fcc-c953-4cec-80a2-759b911fed09",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 125026,
+      "TimestampMs": 1787606077817,
+      "SessionId": "35d46615-f272-40fb-939f-791fcf6e250f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

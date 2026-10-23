@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1785463133885,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 149522,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785463284149,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 150262,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785463431743,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 147596,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785463579382,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 147638,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785463730644,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 151261,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785464110606,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 152483,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785464261292,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 150689,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785464407318,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 146023,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785465038172,
+    "SessionId": "ef9ffe97-523f-4fb8-861f-1c11bfb23da0",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 148699,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "Drivers Point",
+  "GUID": 76561198744218121,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 139147,
+      "TimestampMs": 1776395907621,
+      "SessionId": "0fa0c8d5-30a5-4bdb-b3ba-a526349806d7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 113286,
+      "TimestampMs": 1784933378919,
+      "SessionId": "23c38dcc-d25d-4503-a044-93aff6f40a1a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

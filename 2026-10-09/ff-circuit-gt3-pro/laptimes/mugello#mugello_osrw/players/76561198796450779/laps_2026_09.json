@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1790061169809,
+    "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 117979,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790061281529,
+    "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 111722,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790061392430,
+    "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 110900,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790062857697,
+    "SessionId": "d935bfc6-ac11-4c69-9076-59d3cb4e8509",
+    "Track": "mugello",
+    "Layout": "mugello_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 109527,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  }
+]

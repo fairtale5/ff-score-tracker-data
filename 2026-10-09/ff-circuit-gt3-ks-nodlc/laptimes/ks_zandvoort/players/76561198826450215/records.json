@@ -1,0 +1,49 @@
+{
+  "Username": "Gasmita",
+  "GUID": 76561198826450215,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_S": {
+      "LapTimeMs": 107670,
+      "TimestampMs": 1791385879654,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_BrokenClouds_M": {
+      "LapTimeMs": 107410,
+      "TimestampMs": 1791418858777,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_BrokenClouds_S": {
+      "LapTimeMs": 103916,
+      "TimestampMs": 1791426654161,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_BrokenClouds": {
+      "LapTimeMs": 104354,
+      "TimestampMs": 1791425952817,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_BrokenClouds_SS": {
+      "LapTimeMs": 104050,
+      "TimestampMs": 1791428891631,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

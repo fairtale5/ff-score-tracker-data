@@ -1,0 +1,25 @@
+{
+  "Username": "Supreme",
+  "GUID": 76561198138807535,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 154866,
+      "TimestampMs": 1786253462599,
+      "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 161664,
+      "TimestampMs": 1786254123906,
+      "SessionId": "4782967f-4461-445d-aa45-d66604eef86c",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

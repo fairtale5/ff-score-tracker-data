@@ -1,0 +1,49 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 97354,
+      "TimestampMs": 1790520316061,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_OvercastClouds_S": {
+      "LapTimeMs": 97925,
+      "TimestampMs": 1790518371847,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Fog_S": {
+      "LapTimeMs": 148742,
+      "TimestampMs": 1790519056995,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Fog",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 97443,
+      "TimestampMs": 1790519914304,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_LightDrizzle_S": {
+      "LapTimeMs": 98298,
+      "TimestampMs": 1790520536606,
+      "SessionId": "dd676d7a-deac-4849-a75b-9ab2314aac52",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

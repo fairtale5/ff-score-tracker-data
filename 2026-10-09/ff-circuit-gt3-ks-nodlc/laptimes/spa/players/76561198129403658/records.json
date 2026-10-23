@@ -1,0 +1,25 @@
+{
+  "Username": "Lucas Bertalia",
+  "GUID": 76561198129403658,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 143417,
+      "TimestampMs": 1775703217184,
+      "SessionId": "9438249f-8fcc-4009-a5ea-f23acdaceb18",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 143545,
+      "TimestampMs": 1782070527644,
+      "SessionId": "d805c58d-2076-4392-a78a-47c819945c59",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

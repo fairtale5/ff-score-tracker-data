@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1786122234317,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 151409,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786122402668,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 168370,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786122547562,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 144887,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786122692464,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 144894,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786123058923,
+    "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 147003,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786556496772,
+    "SessionId": "2fab0c60-4f7a-4fab-bbcf-0a7d53f78205",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 144594,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  }
+]

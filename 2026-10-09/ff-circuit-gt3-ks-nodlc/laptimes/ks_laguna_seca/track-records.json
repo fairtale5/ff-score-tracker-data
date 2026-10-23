@@ -1,0 +1,121 @@
+{
+  "Records": {
+    "default": {
+      "ferrari_458_gt2": {
+        "Clear": {
+          "LapTimeMs": 82571,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790035771079,
+          "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5"
+        },
+        "Mixed": {
+          "LapTimeMs": 85979,
+          "PlayerName": "Andre Barranco",
+          "PlayerGuid": 76561198001219103,
+          "TimestampMs": 1791502250517,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 85689,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1791503265606,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        }
+      },
+      "mercedes_sls_gt3": {
+        "Clear": {
+          "LapTimeMs": 83955,
+          "PlayerName": "m araujo",
+          "PlayerGuid": 76561199054712842,
+          "TimestampMs": 1778536241855,
+          "SessionId": "c1969ba4-74e9-4607-9b04-419569e6b239"
+        },
+        "Mixed": {
+          "LapTimeMs": 88366,
+          "PlayerName": "Professor Xavier",
+          "PlayerGuid": 76561198069877135,
+          "TimestampMs": 1791502289520,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 87685,
+          "PlayerName": "Professor Xavier",
+          "PlayerGuid": 76561198069877135,
+          "TimestampMs": 1791502465274,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        }
+      },
+      "bmw_z4_gt3": {
+        "Clear": {
+          "LapTimeMs": 83196,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1789525231762,
+          "SessionId": "ce2b603f-6030-43fd-b845-b533100acd7e"
+        },
+        "Mixed": {
+          "LapTimeMs": 84274,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1791502229586,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 83728,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1791503345159,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        }
+      },
+      "bmw_m3_gt2": {
+        "Clear": {
+          "LapTimeMs": 83370,
+          "PlayerName": "Mark Lyons",
+          "PlayerGuid": 76561198098029574,
+          "TimestampMs": 1790042325560,
+          "SessionId": "d0b76367-1ce0-4e58-a358-a936aeb556f5"
+        },
+        "Mixed": {
+          "LapTimeMs": 87110,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1791502082637,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 87612,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1791502440491,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        }
+      },
+      "mclaren_mp412c_gt3": {
+        "Clear": {
+          "LapTimeMs": 83866,
+          "PlayerName": "SuperMario_Ichiban",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1785535646958,
+          "SessionId": "15bc5366-3470-4adb-bb1e-18905ad1d09d"
+        },
+        "Mixed": {
+          "LapTimeMs": 85117,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1791502143650,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        },
+        "BrokenClouds": {
+          "LapTimeMs": 83967,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1791503344312,
+          "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd"
+        }
+      }
+    }
+  }
+}

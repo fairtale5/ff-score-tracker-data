@@ -1,0 +1,33 @@
+{
+  "Username": "cadu",
+  "GUID": 76561199803060715,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_lux_v8_evo_Mist_D": {
+      "LapTimeMs": 94367,
+      "TimestampMs": 1789927839582,
+      "SessionId": "f5717689-057f-4757-bd2f-c7933cd860a2",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_adonis_v8_evo_Mixed_D": {
+      "LapTimeMs": 96034,
+      "TimestampMs": 1789929012825,
+      "SessionId": "f5717689-057f-4757-bd2f-c7933cd860a2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_aero_v10_evo2_ScatteredClouds_H": {
+      "LapTimeMs": 95011,
+      "TimestampMs": 1789930206936,
+      "SessionId": "f5717689-057f-4757-bd2f-c7933cd860a2",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

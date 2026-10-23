@@ -1,0 +1,33 @@
+{
+  "Username": "POLICITE",
+  "GUID": 76561199665378932,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 113335,
+      "TimestampMs": 1784903104760,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 113075,
+      "TimestampMs": 1784903457606,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_M": {
+      "LapTimeMs": 111450,
+      "TimestampMs": 1785182096678,
+      "SessionId": "729b963e-19fa-4aca-94c5-c76ed231e479",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

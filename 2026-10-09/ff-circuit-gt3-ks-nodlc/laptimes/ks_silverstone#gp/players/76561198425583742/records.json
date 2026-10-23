@@ -1,0 +1,25 @@
+{
+  "Username": "lunxss",
+  "GUID": 76561198425583742,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 138141,
+      "TimestampMs": 1791079635455,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Mixed": {
+      "LapTimeMs": 136864,
+      "TimestampMs": 1791080576744,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

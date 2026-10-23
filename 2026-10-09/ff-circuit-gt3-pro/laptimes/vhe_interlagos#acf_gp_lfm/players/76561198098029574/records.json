@@ -1,0 +1,41 @@
+{
+  "Username": "Mark Lyons",
+  "GUID": 76561198098029574,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_adonis_v8_evo_Mixed": {
+      "LapTimeMs": 93291,
+      "TimestampMs": 1791427506397,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_adonis_v8_evo_ScatteredClouds": {
+      "LapTimeMs": 93132,
+      "TimestampMs": 1791424251208,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_adonis_v8_evo_Clear_D": {
+      "LapTimeMs": 92602,
+      "TimestampMs": 1791426654077,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_adonis_v8_evo_FewClouds": {
+      "LapTimeMs": 93844,
+      "TimestampMs": 1791427317118,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

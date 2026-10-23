@@ -1,0 +1,25 @@
+{
+  "Username": "Nikita Mazespin",
+  "GUID": 76561199805743793,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 88187,
+      "TimestampMs": 1785425669487,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 99967,
+      "TimestampMs": 1785426233739,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

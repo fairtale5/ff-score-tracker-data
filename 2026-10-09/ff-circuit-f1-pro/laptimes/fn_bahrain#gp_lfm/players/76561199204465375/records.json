@@ -1,0 +1,41 @@
+{
+  "Username": "IVSS",
+  "GUID": 76561199204465375,
+  "Track": "fn_bahrain",
+  "Layout": "gp_lfm",
+  "BestLaps": {
+    "rss_formula_2010_FewClouds_S": {
+      "LapTimeMs": 97054,
+      "TimestampMs": 1790899718589,
+      "SessionId": "aad88cf5-a331-4a18-8b5f-74795966469f",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Mixed_SS": {
+      "LapTimeMs": 95761,
+      "TimestampMs": 1790900058199,
+      "SessionId": "aad88cf5-a331-4a18-8b5f-74795966469f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "SS"
+    },
+    "rss_formula_2010_Mixed_S": {
+      "LapTimeMs": 95315,
+      "TimestampMs": 1790902114050,
+      "SessionId": "aad88cf5-a331-4a18-8b5f-74795966469f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "S"
+    },
+    "rss_formula_2010_Clear_SS": {
+      "LapTimeMs": 94794,
+      "TimestampMs": 1790903153988,
+      "SessionId": "aad88cf5-a331-4a18-8b5f-74795966469f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

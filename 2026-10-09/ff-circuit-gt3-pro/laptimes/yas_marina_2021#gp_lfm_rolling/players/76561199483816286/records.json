@@ -1,0 +1,41 @@
+{
+  "Username": "Suntecx",
+  "GUID": 76561199483816286,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_furiano_96_v6_Mixed_D": {
+      "LapTimeMs": 122267,
+      "TimestampMs": 1791146058135,
+      "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_Mixed": {
+      "LapTimeMs": 122408,
+      "TimestampMs": 1791157890801,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_cortex_v8_OvercastClouds": {
+      "LapTimeMs": 121588,
+      "TimestampMs": 1791158135748,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_cortex_v8_Mixed_D": {
+      "LapTimeMs": 142757,
+      "TimestampMs": 1791158581850,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

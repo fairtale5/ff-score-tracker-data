@@ -1,0 +1,33 @@
+{
+  "Username": "Vettel",
+  "GUID": 76561199182698342,
+  "Track": "melbourne",
+  "Layout": "layout_f1_2026",
+  "BestLaps": {
+    "gp_2025_rb21_Clear_S": {
+      "LapTimeMs": 75312,
+      "TimestampMs": 1783196126290,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "gp_2025_rb21_Clear": {
+      "LapTimeMs": 77525,
+      "TimestampMs": 1783196961281,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "gp_2025_rb21_Clear_M": {
+      "LapTimeMs": 77210,
+      "TimestampMs": 1783198483947,
+      "SessionId": "7be34bd1-a913-42c1-b2fe-d2db74b9b76e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

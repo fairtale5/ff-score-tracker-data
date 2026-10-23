@@ -1,0 +1,25 @@
+{
+  "Username": "Fran6six",
+  "GUID": 76561198722959236,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 80125,
+      "TimestampMs": 1785368244893,
+      "SessionId": "7d37143a-a7b8-4ecf-8dd6-f366418356af",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 79611,
+      "TimestampMs": 1785367611832,
+      "SessionId": "7d37143a-a7b8-4ecf-8dd6-f366418356af",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

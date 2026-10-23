@@ -1,0 +1,25 @@
+{
+  "Username": "opm07",
+  "GUID": 76561198841277368,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 123661,
+      "TimestampMs": 1787972856200,
+      "SessionId": "85184e97-8cb2-4c68-95be-67a6dbb18e2a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_BrokenClouds": {
+      "LapTimeMs": 123504,
+      "TimestampMs": 1791337381719,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

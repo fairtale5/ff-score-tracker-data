@@ -1,0 +1,25 @@
+{
+  "Username": "itseskeds420",
+  "GUID": 76561199558851476,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_m3_gt2_FewClouds_M": {
+      "LapTimeMs": 137732,
+      "TimestampMs": 1791094429114,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_FewClouds_S": {
+      "LapTimeMs": 139249,
+      "TimestampMs": 1791095691624,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

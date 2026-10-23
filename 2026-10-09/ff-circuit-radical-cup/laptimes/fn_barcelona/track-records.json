@@ -1,0 +1,29 @@
+{
+  "Records": {
+    "barcelona_2023_48_pits_lfm_nodrs_v2": {
+      "urd_radical_sr3xxr_2023": {
+        "Mixed": {
+          "LapTimeMs": 105649,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1786764750305,
+          "SessionId": "e8912cef-11cc-409f-951f-3492d42bb9ba"
+        },
+        "ScatteredClouds": {
+          "LapTimeMs": 106583,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1786763799378,
+          "SessionId": "e8912cef-11cc-409f-951f-3492d42bb9ba"
+        },
+        "Cold": {
+          "LapTimeMs": 106472,
+          "PlayerName": "DaviDPhaeL",
+          "PlayerGuid": 76561198857157036,
+          "TimestampMs": 1787016493986,
+          "SessionId": "08202074-823e-4c02-990e-4d6974141be3"
+        }
+      }
+    }
+  }
+}

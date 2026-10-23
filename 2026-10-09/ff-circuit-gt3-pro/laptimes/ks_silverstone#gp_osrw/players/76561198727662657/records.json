@@ -1,0 +1,25 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Mixed_S": {
+      "LapTimeMs": 129777,
+      "TimestampMs": 1789513709174,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_ScatteredClouds_S": {
+      "LapTimeMs": 129050,
+      "TimestampMs": 1789513838228,
+      "SessionId": "de86f278-a30b-41c8-bdb8-c9ad75afaa98",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

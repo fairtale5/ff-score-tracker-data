@@ -1,0 +1,33 @@
+{
+  "Username": "Felpax",
+  "GUID": 76561198062600140,
+  "Track": "singapore_2020",
+  "Layout": "er_singapore_2025",
+  "BestLaps": {
+    "rss_formula_hybrid_2023_LightRain_C4": {
+      "LapTimeMs": 108568,
+      "TimestampMs": 1791315547964,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "C4"
+    },
+    "rss_formula_hybrid_2023_Mixed_C2": {
+      "LapTimeMs": 103423,
+      "TimestampMs": 1791315940926,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "C2"
+    },
+    "rss_formula_hybrid_2023_SunnyPuddles_C2": {
+      "LapTimeMs": 102080,
+      "TimestampMs": 1791316357668,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "C2"
+    }
+  },
+  "LapTimeHistory": []
+}

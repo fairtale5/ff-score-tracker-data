@@ -1,0 +1,25 @@
+{
+  "Username": "S\u00E1vio Muller",
+  "GUID": 76561199559857410,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 122074,
+      "TimestampMs": 1789928980983,
+      "SessionId": "869d86ab-7e2c-4de5-b202-8945e093d005",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 124673,
+      "TimestampMs": 1789930024587,
+      "SessionId": "869d86ab-7e2c-4de5-b202-8945e093d005",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789210143073,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 109957,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789212774640,
+    "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 130381,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  }
+]

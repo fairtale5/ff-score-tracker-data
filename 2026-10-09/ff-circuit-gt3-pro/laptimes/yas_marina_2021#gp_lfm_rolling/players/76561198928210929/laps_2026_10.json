@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1791157752339,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 123939,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "LightDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791157880387,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 128051,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158002697,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 122312,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158131366,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 128671,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791158262863,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 131495,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791161776609,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 118902,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  }
+]

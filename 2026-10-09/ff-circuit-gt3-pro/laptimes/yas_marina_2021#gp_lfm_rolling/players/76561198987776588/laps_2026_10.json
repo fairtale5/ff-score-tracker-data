@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1791161579854,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 124935,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791161968452,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 125095,
+    "WeatherCategory": "Fog",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Fog",
+    "TyreCompound": "D"
+  }
+]

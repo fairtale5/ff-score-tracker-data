@@ -1,0 +1,25 @@
+{
+  "Username": "black",
+  "GUID": 76561198420394516,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 118066,
+      "TimestampMs": 1791145645364,
+      "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_ScatteredClouds_D": {
+      "LapTimeMs": 118014,
+      "TimestampMs": 1791145763379,
+      "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

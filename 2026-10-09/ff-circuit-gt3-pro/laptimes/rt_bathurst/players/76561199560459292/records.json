@@ -1,0 +1,49 @@
+{
+  "Username": "NJ4FTP2 VR",
+  "GUID": 76561199560459292,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Clear_M": {
+      "LapTimeMs": 127738,
+      "TimestampMs": 1785610113686,
+      "SessionId": "9b68b5aa-46de-45dc-ac8b-3c95817a5dc9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 127062,
+      "TimestampMs": 1786584543520,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 127905,
+      "TimestampMs": 1786585635566,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_M": {
+      "LapTimeMs": 128019,
+      "TimestampMs": 1786585895891,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Hot_M": {
+      "LapTimeMs": 127875,
+      "TimestampMs": 1786586408508,
+      "SessionId": "7ac8babe-756d-406d-b2c5-156c0b574000",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

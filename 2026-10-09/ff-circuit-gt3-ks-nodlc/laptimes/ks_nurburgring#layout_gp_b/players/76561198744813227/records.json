@@ -1,0 +1,33 @@
+{
+  "Username": "Tom\u00E1\u0161 Dole\u017Eal",
+  "GUID": 76561198744813227,
+  "Track": "ks_nurburgring",
+  "Layout": "layout_gp_b",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 136448,
+      "TimestampMs": 1784227641122,
+      "SessionId": "2689dd07-4ce2-4b9e-81ce-9e84553c2ac6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_Clear_M": {
+      "LapTimeMs": 130613,
+      "TimestampMs": 1784228158992,
+      "SessionId": "2689dd07-4ce2-4b9e-81ce-9e84553c2ac6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 128654,
+      "TimestampMs": 1784235479222,
+      "SessionId": "8b15f241-7117-41c0-8ab0-a72363c2057c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

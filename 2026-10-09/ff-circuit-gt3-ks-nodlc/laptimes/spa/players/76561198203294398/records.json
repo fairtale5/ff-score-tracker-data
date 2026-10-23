@@ -1,0 +1,33 @@
+{
+  "Username": "Makeiko",
+  "GUID": 76561198203294398,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_BrokenClouds_M": {
+      "LapTimeMs": 150116,
+      "TimestampMs": 1790983302060,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_Mixed_M": {
+      "LapTimeMs": 151067,
+      "TimestampMs": 1790983453124,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_FewClouds_M": {
+      "LapTimeMs": 147268,
+      "TimestampMs": 1790983748109,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

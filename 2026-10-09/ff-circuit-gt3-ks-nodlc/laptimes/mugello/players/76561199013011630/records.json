@@ -1,0 +1,25 @@
+{
+  "Username": "The_Gat0",
+  "GUID": 76561199013011630,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_BrokenClouds_M": {
+      "LapTimeMs": 203077,
+      "TimestampMs": 1791352159094,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_BrokenClouds": {
+      "LapTimeMs": 118149,
+      "TimestampMs": 1791353895430,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

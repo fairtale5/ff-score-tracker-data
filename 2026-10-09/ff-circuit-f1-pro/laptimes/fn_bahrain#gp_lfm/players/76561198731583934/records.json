@@ -1,0 +1,33 @@
+{
+  "Username": "matheus pereira",
+  "GUID": 76561198731583934,
+  "Track": "fn_bahrain",
+  "Layout": "gp_lfm",
+  "BestLaps": {
+    "rss_formula_2010_LightRain": {
+      "LapTimeMs": 103595,
+      "TimestampMs": 1790730193936,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": ""
+    },
+    "rss_formula_2010_Mixed_I": {
+      "LapTimeMs": 141396,
+      "TimestampMs": 1790730617130,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Rain",
+      "TyreCompound": "I"
+    },
+    "rss_formula_2010_Mixed_W": {
+      "LapTimeMs": 123640,
+      "TimestampMs": 1790731076559,
+      "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+      "WeatherStart": "Rain",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "W"
+    }
+  },
+  "LapTimeHistory": []
+}

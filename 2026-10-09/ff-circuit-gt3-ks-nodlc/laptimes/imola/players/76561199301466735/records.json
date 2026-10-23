@@ -1,0 +1,25 @@
+{
+  "Username": "Rhythm_539",
+  "GUID": 76561199301466735,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_M": {
+      "LapTimeMs": 110325,
+      "TimestampMs": 1791170476621,
+      "SessionId": "71d19dd4-102a-49e1-81d1-b07bc4eb0b84",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 110234,
+      "TimestampMs": 1791171990204,
+      "SessionId": "71d19dd4-102a-49e1-81d1-b07bc4eb0b84",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

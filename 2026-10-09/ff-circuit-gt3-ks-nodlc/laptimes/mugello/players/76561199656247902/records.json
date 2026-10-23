@@ -1,0 +1,25 @@
+{
+  "Username": "mindshot",
+  "GUID": 76561199656247902,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_BrokenClouds_M": {
+      "LapTimeMs": 121309,
+      "TimestampMs": 1791352331239,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 125102,
+      "TimestampMs": 1791352765286,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,33 @@
+{
+  "Username": "O\u0027sullivan Oman",
+  "GUID": 76561198999226357,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear_M": {
+      "LapTimeMs": 98157,
+      "TimestampMs": 1791497474245,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 92315,
+      "TimestampMs": 1791498427703,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 93340,
+      "TimestampMs": 1791499787257,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

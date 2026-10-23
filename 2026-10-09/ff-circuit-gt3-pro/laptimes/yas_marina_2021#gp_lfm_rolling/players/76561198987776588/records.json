@@ -1,0 +1,25 @@
+{
+  "Username": "FelipePiloto244",
+  "GUID": 76561198987776588,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mist_D": {
+      "LapTimeMs": 124935,
+      "TimestampMs": 1791161579854,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Fog_D": {
+      "LapTimeMs": 125095,
+      "TimestampMs": 1791161968452,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "Fog",
+      "WeatherEnd": "Fog",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

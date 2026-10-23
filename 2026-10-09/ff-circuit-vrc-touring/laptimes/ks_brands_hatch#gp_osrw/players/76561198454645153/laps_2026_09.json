@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1789618195297,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_auriel_csp",
+    "LapTimeMs": 101446,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789619851558,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_alfio_csp",
+    "LapTimeMs": 99517,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789619951756,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_alfio_csp",
+    "LapTimeMs": 100203,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789620154644,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_alfio_csp",
+    "LapTimeMs": 101403,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789620539123,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_alfio_csp",
+    "LapTimeMs": 100337,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1789620638804,
+    "SessionId": "f6484d47-a074-4b27-bbcd-176892e115ab",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "vrc_erc_1998_alfio_csp",
+    "LapTimeMs": 99687,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

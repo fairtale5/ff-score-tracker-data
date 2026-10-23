@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1789263579090,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 112688,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789263922305,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 113960,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789264415728,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 110002,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789266404666,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 110867,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789266516119,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 111463,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789266625555,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 109445,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789266749518,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 123973,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789267138208,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 110564,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789267254847,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 116647,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789267387017,
+    "SessionId": "5964776b-4396-469a-a0f8-a160dc222ef6",
+    "Track": "rt_fuji_speedway",
+    "Layout": "layout_gp_lfm_nodrs",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 132180,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

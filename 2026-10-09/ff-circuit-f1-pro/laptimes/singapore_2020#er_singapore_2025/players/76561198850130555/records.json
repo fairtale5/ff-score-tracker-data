@@ -1,0 +1,41 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "singapore_2020",
+  "Layout": "er_singapore_2025",
+  "BestLaps": {
+    "rss_formula_hybrid_2023_LightRain_C4": {
+      "LapTimeMs": 101085,
+      "TimestampMs": 1791315582011,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "LightRain",
+      "WeatherEnd": "LightRain",
+      "TyreCompound": "C4"
+    },
+    "rss_formula_hybrid_2023_Mixed_C4": {
+      "LapTimeMs": 101800,
+      "TimestampMs": 1791316426848,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "C4"
+    },
+    "rss_formula_hybrid_2023_Mixed_C3": {
+      "LapTimeMs": 101292,
+      "TimestampMs": 1791317074767,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "C3"
+    },
+    "rss_formula_hybrid_2023_Mixed_C5": {
+      "LapTimeMs": 100600,
+      "TimestampMs": 1791318209061,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "C5"
+    }
+  },
+  "LapTimeHistory": []
+}

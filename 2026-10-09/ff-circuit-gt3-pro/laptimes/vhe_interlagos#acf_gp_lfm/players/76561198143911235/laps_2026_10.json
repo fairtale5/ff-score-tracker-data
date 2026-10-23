@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1791415033777,
+    "SessionId": "2ef02828-7503-48c7-ab2f-a57f1bf71db1",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 95973,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791415249829,
+    "SessionId": "2ef02828-7503-48c7-ab2f-a57f1bf71db1",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 95245,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

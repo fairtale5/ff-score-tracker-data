@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789172286943,
+    "SessionId": "f9b721ac-a055-4768-ac6f-19f3fdf7ede5",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 296596,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Windy",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1789172572355,
+    "SessionId": "f9b721ac-a055-4768-ac6f-19f3fdf7ede5",
+    "Track": "hw_hiroshima",
+    "Layout": "arrows",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 285400,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  }
+]

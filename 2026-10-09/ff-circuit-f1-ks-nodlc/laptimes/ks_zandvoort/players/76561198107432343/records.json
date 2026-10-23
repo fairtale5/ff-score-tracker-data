@@ -1,0 +1,25 @@
+{
+  "Username": "Nicholas Goatifi",
+  "GUID": 76561198107432343,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 99124,
+      "TimestampMs": 1785425657064,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 101859,
+      "TimestampMs": 1785426148622,
+      "SessionId": "e02b39e6-4680-4a1b-b779-dc1875cbf870",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

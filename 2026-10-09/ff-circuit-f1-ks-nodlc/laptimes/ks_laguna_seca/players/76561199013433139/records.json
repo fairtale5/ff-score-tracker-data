@@ -1,0 +1,33 @@
+{
+  "Username": "Spartan",
+  "GUID": 76561199013433139,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 70353,
+      "TimestampMs": 1790990743903,
+      "SessionId": "898a962f-73a7-4b5f-8f93-18819cac6428",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 69592,
+      "TimestampMs": 1790974180194,
+      "SessionId": "898a962f-73a7-4b5f-8f93-18819cac6428",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 70387,
+      "TimestampMs": 1790992019426,
+      "SessionId": "898a962f-73a7-4b5f-8f93-18819cac6428",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

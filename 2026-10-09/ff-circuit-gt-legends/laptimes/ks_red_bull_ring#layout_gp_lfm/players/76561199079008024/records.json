@@ -1,0 +1,33 @@
+{
+  "Username": "Walisson Henrick",
+  "GUID": 76561199079008024,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "rss_gt_adonis_d9_v12_Clear_M": {
+      "LapTimeMs": 95121,
+      "TimestampMs": 1789270996846,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "rss_gt_adonis_d9_v12_Clear_S": {
+      "LapTimeMs": 95245,
+      "TimestampMs": 1789271642490,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gt_adonis_d9_v12_Mixed_S": {
+      "LapTimeMs": 108161,
+      "TimestampMs": 1789272082642,
+      "SessionId": "e8a50001-3adf-4421-a9b4-73e6c0ffece2",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

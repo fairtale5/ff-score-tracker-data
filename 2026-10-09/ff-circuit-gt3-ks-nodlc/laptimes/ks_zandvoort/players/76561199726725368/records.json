@@ -1,0 +1,33 @@
+{
+  "Username": "MandiocaMole (Com Casca)",
+  "GUID": 76561199726725368,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_BrokenClouds": {
+      "LapTimeMs": 110279,
+      "TimestampMs": 1791425361060,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "ferrari_458_gt2_BrokenClouds_S": {
+      "LapTimeMs": 108221,
+      "TimestampMs": 1791427118282,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "ferrari_458_gt2_BrokenClouds_SS": {
+      "LapTimeMs": 107138,
+      "TimestampMs": 1791429823332,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

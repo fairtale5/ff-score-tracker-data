@@ -1,0 +1,41 @@
+{
+  "Username": "Sudati",
+  "GUID": 76561199487850288,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mist_S": {
+      "LapTimeMs": 91961,
+      "TimestampMs": 1785819047565,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 92953,
+      "TimestampMs": 1785820458550,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 91926,
+      "TimestampMs": 1785821499206,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 93108,
+      "TimestampMs": 1785822346529,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

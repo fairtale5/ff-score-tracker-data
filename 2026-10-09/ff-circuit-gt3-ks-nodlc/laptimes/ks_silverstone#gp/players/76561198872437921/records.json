@@ -1,0 +1,23 @@
+{
+  "Username": "gabi",
+  "GUID": 76561198872437921,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 135469,
+      "TimestampMs": 1779224203916,
+      "SessionId": "df478e5e-9fe3-477b-98e1-df96abfe9378",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 139058,
+      "TimestampMs": 1779225694804,
+      "SessionId": "df478e5e-9fe3-477b-98e1-df96abfe9378",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

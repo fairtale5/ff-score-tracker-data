@@ -1,0 +1,25 @@
+{
+  "Username": "Rike Juodinys",
+  "GUID": 76561198281295991,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 122449,
+      "TimestampMs": 1789942390051,
+      "SessionId": "cc440d09-7089-4bf6-8a3b-9d204dfa2b47",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mercedes_sls_gt3_BrokenClouds_M": {
+      "LapTimeMs": 125365,
+      "TimestampMs": 1791341377951,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

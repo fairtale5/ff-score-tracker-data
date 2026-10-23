@@ -1,0 +1,25 @@
+{
+  "Username": "BADMUAN",
+  "GUID": 76561199340392319,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear_H": {
+      "LapTimeMs": 129047,
+      "TimestampMs": 1789354276452,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "mercedes_sls_gt3_Clear_H": {
+      "LapTimeMs": 112297,
+      "TimestampMs": 1789357262619,
+      "SessionId": "550971fd-cb74-4d49-acf5-d3deb8548c7c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,23 @@
+{
+  "Username": "Iluminati",
+  "GUID": 76561198881599181,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 110164,
+      "TimestampMs": 1779664290734,
+      "SessionId": "16f776bd-78b3-42b8-a69d-27907acfcb3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 112846,
+      "TimestampMs": 1780105055043,
+      "SessionId": "eaf8af5d-e5ec-4b14-9eb2-90b5a3d8fb7a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1784774214524,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 144454,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774358527,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 143997,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774402813,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144855,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774497679,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 139157,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774636462,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 138783,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774693287,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 143174,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774778305,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_mclaren_650_gt3",
+    "LapTimeMs": 141839,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774860429,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 167137,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784775005138,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144707,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784775018737,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 142101,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "M"
+  }
+]

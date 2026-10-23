@@ -1,0 +1,33 @@
+{
+  "Username": "Bakaus",
+  "GUID": 76561198332135686,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 150279,
+      "TimestampMs": 1779914787918,
+      "SessionId": "add324c4-9e34-4c62-9765-987668157f2a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 131626,
+      "TimestampMs": 1786488028550,
+      "SessionId": "b284c854-9c47-4d31-a442-0aa45de1e680",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 144815,
+      "TimestampMs": 1786480883241,
+      "SessionId": "b284c854-9c47-4d31-a442-0aa45de1e680",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    }
+  },
+  "LapTimeHistory": []
+}

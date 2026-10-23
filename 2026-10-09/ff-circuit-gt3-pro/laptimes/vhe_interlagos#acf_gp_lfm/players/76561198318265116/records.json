@@ -1,0 +1,33 @@
+{
+  "Username": "FireZz",
+  "GUID": 76561198318265116,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 96519,
+      "TimestampMs": 1791423485534,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed": {
+      "LapTimeMs": 96251,
+      "TimestampMs": 1791423882695,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_bayer_i6_evo_ScatteredClouds": {
+      "LapTimeMs": 95086,
+      "TimestampMs": 1791424180191,
+      "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1788649482210,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 156991,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788649638252,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 156038,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788650821773,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 151762,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788652722751,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 148270,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788652869800,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 147043,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788653013852,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144050,
+    "WeatherCategory": "HeavyDrizzle",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "HeavyDrizzle",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788653157058,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 143202,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "HeavyDrizzle",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788654185011,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144658,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788654649913,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 146037,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1788654794295,
+    "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144378,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  }
+]

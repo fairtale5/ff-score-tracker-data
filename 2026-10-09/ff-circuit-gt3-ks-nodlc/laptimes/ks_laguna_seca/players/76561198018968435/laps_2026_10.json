@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1791505231666,
+    "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 93333,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791505326310,
+    "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 94639,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  }
+]

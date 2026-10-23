@@ -1,0 +1,25 @@
+{
+  "Username": "Senna",
+  "GUID": 76561199803876498,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_Mixed_M": {
+      "LapTimeMs": 101451,
+      "TimestampMs": 1785544428820,
+      "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_nissan_gtr_gt3_FewClouds_M": {
+      "LapTimeMs": 97315,
+      "TimestampMs": 1788479416987,
+      "SessionId": "a003e376-1457-4e24-b1dd-4a661d92a7f6",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

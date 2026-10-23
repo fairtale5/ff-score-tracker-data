@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1785543078481,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 97851,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785543176794,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 98315,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785543916287,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 97138,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785544867910,
+    "SessionId": "00498391-8848-4c0e-ab53-483ae59d6c32",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 99289,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785617736556,
+    "SessionId": "c1327db3-c252-4de3-b290-1e879c2d6dc7",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 97755,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785617833604,
+    "SessionId": "c1327db3-c252-4de3-b290-1e879c2d6dc7",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 97046,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  }
+]

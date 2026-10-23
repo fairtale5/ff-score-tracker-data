@@ -1,0 +1,41 @@
+{
+  "Username": "Diego Bustos",
+  "GUID": 76561198164546727,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 86324,
+      "TimestampMs": 1791502007420,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_Mixed_S": {
+      "LapTimeMs": 86222,
+      "TimestampMs": 1791502269716,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_BrokenClouds_S": {
+      "LapTimeMs": 85817,
+      "TimestampMs": 1791502355539,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 84444,
+      "TimestampMs": 1791504841667,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

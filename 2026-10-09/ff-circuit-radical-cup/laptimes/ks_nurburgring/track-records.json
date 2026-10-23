@@ -1,0 +1,43 @@
+{
+  "Records": {
+    "layout_gp_b_osrw_lfm_tracklimits": {
+      "urd_radical_sr3xxr_2023": {
+        "ScatteredClouds": {
+          "LapTimeMs": 123790,
+          "PlayerName": "K02",
+          "PlayerGuid": 76561199227641181,
+          "TimestampMs": 1785711741342,
+          "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2"
+        },
+        "Mixed": {
+          "LapTimeMs": 123387,
+          "PlayerName": "K02",
+          "PlayerGuid": 76561199227641181,
+          "TimestampMs": 1785717417180,
+          "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2"
+        },
+        "Drizzle": {
+          "LapTimeMs": 124753,
+          "PlayerName": "NJ4FTP2 VR",
+          "PlayerGuid": 76561199560459292,
+          "TimestampMs": 1785713066807,
+          "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2"
+        },
+        "Mist": {
+          "LapTimeMs": 122049,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1785717239731,
+          "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2"
+        },
+        "Hot": {
+          "LapTimeMs": 122991,
+          "PlayerName": "D4V1",
+          "PlayerGuid": 76561199010403265,
+          "TimestampMs": 1785718223895,
+          "SessionId": "28674a09-0ce5-408b-a2eb-501079638dd2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Username": "Mario Manera",
+  "GUID": 76561198796450779,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Clear_H": {
+      "LapTimeMs": 81014,
+      "TimestampMs": 1790313752655,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_mercer_v8_FewClouds_H": {
+      "LapTimeMs": 80851,
+      "TimestampMs": 1790314628664,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_mercer_v8_BrokenClouds_H": {
+      "LapTimeMs": 80121,
+      "TimestampMs": 1790315087325,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_mercer_v8_Mixed_H": {
+      "LapTimeMs": 79516,
+      "TimestampMs": 1790316860180,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_mercer_v8_ScatteredClouds_H": {
+      "LapTimeMs": 79461,
+      "TimestampMs": 1790315815289,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "H"
+    },
+    "rss_gtm_protech_p92_f6_ScatteredClouds_D": {
+      "LapTimeMs": 81293,
+      "TimestampMs": 1790318455096,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_BrokenClouds_D": {
+      "LapTimeMs": 80186,
+      "TimestampMs": 1790318810634,
+      "SessionId": "952dc724-7553-45f0-81d1-f10e78a845fa",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lanzo_v10_evo2_FewClouds_H": {
+      "LapTimeMs": 81749,
+      "TimestampMs": 1790407302067,
+      "SessionId": "086236a3-8502-4bf7-8325-4d577619a8ca",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "H"
+    }
+  },
+  "LapTimeHistory": []
+}

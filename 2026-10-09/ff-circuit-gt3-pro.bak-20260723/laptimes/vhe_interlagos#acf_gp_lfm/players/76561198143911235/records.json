@@ -1,0 +1,25 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 98818,
+      "TimestampMs": 1784776786313,
+      "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds": {
+      "LapTimeMs": 100542,
+      "TimestampMs": 1784777349202,
+      "SessionId": "93e4a8e4-2e69-4cf4-9127-b244770f7aff",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "fonteny",
+  "Layout": "fonteny",
+  "BestLaps": {
+    "as_singer_dls_Mixed": {
+      "LapTimeMs": 771064,
+      "TimestampMs": 1791126241577,
+      "SessionId": "825eee64-5bcc-4e81-bf9d-3c36b8f26e38",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "as_singer_dls_Mixed_HR": {
+      "LapTimeMs": 630455,
+      "TimestampMs": 1791518888756,
+      "SessionId": "028b31ab-bc4f-4b7d-a856-40f0802a6be4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "HR"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "RAPHAEL LOPES \u003C013\u003E",
+  "GUID": 76561198706531485,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_WET": {
+      "LapTimeMs": 123288,
+      "TimestampMs": 1791154489921,
+      "SessionId": "71d19dd4-102a-49e1-81d1-b07bc4eb0b84",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "WET"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 113521,
+      "TimestampMs": 1791155677779,
+      "SessionId": "71d19dd4-102a-49e1-81d1-b07bc4eb0b84",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

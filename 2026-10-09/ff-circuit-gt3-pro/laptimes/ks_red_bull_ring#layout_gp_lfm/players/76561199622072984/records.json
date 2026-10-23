@@ -1,0 +1,25 @@
+{
+  "Username": "ismagomes22",
+  "GUID": 76561199622072984,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Clear_M": {
+      "LapTimeMs": 100976,
+      "TimestampMs": 1789085781715,
+      "SessionId": "67e97bb9-800d-4596-84ea-c72b336edf55",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_lamborghini_huracan_gt3_Mist_M": {
+      "LapTimeMs": 98409,
+      "TimestampMs": 1789089684259,
+      "SessionId": "704655d3-4747-442c-9ecd-7c947fc36e42",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

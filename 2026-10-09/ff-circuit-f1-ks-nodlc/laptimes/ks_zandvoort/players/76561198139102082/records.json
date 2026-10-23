@@ -1,0 +1,25 @@
+{
+  "Username": "Thiago Gomes",
+  "GUID": 76561198139102082,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 86608,
+      "TimestampMs": 1788622722910,
+      "SessionId": "3d2dbf39-ff68-4c6c-a018-7b5f29dab539",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 85400,
+      "TimestampMs": 1788624240186,
+      "SessionId": "3d2dbf39-ff68-4c6c-a018-7b5f29dab539",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

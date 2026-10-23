@@ -1,0 +1,73 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "singapore_2020",
+  "Layout": "er_singapore_2025",
+  "BestLaps": {
+    "rss_formula_hybrid_2023_Mixed_C5": {
+      "LapTimeMs": 94841,
+      "TimestampMs": 1791330400638,
+      "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_SunnyPuddles_C5": {
+      "LapTimeMs": 97457,
+      "TimestampMs": 1791316063529,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "SunnyPuddles",
+      "WeatherEnd": "SunnyPuddles",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_SunnyDamp_C5": {
+      "LapTimeMs": 95720,
+      "TimestampMs": 1791316899315,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "SunnyDamp",
+      "WeatherEnd": "SunnyDamp",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_LightDrizzle_C5": {
+      "LapTimeMs": 96015,
+      "TimestampMs": 1791319051627,
+      "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "LightDrizzle",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_OvercastClouds_C5": {
+      "LapTimeMs": 97353,
+      "TimestampMs": 1791328700009,
+      "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_BrokenClouds_C5": {
+      "LapTimeMs": 101302,
+      "TimestampMs": 1791329326282,
+      "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_ScatteredClouds_C5": {
+      "LapTimeMs": 95809,
+      "TimestampMs": 1791330087113,
+      "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "C5"
+    },
+    "rss_formula_hybrid_2023_FewClouds_C5": {
+      "LapTimeMs": 95243,
+      "TimestampMs": 1791330677884,
+      "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "C5"
+    }
+  },
+  "LapTimeHistory": []
+}

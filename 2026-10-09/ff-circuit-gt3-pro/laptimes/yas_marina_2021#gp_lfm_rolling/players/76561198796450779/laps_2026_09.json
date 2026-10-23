@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1790655733463,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 126517,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790656455273,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 120437,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790656573508,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 118235,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790658489486,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 117629,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790660534394,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 116639,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790661164151,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 118636,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1790661495951,
+    "SessionId": "e0671dac-9aad-4a4c-ac1c-87df82f92ef6",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 118355,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": "D"
+  }
+]

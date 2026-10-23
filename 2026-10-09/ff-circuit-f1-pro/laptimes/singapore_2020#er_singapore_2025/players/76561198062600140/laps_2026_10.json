@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1791315547964,
+    "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 108568,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": "C4"
+  },
+  {
+    "TimestampMs": 1791315940926,
+    "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 103423,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "SunnyPuddles",
+    "TyreCompound": "C2"
+  },
+  {
+    "TimestampMs": 1791316152731,
+    "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 104022,
+    "WeatherCategory": "SunnyPuddles",
+    "WeatherStart": "SunnyPuddles",
+    "WeatherEnd": "SunnyPuddles",
+    "TyreCompound": "C2"
+  },
+  {
+    "TimestampMs": 1791316357668,
+    "SessionId": "5e01772d-8741-42ce-99e8-c9f709d6752d",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 102080,
+    "WeatherCategory": "SunnyPuddles",
+    "WeatherStart": "SunnyPuddles",
+    "WeatherEnd": "SunnyPuddles",
+    "TyreCompound": "C2"
+  }
+]

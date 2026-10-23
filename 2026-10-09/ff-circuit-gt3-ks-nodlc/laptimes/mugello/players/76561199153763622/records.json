@@ -1,0 +1,41 @@
+{
+  "Username": "Rosso 71",
+  "GUID": 76561199153763622,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_BrokenClouds_S": {
+      "LapTimeMs": 115774,
+      "TimestampMs": 1791336971084,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_m3_gt2_BrokenClouds": {
+      "LapTimeMs": 114034,
+      "TimestampMs": 1791339248801,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_BrokenClouds_S": {
+      "LapTimeMs": 111047,
+      "TimestampMs": 1791342724475,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 110279,
+      "TimestampMs": 1791340628124,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

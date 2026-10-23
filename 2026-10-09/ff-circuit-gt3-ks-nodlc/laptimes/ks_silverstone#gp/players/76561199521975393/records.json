@@ -1,0 +1,49 @@
+{
+  "Username": "Niki Lauda",
+  "GUID": 76561199521975393,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 124655,
+      "TimestampMs": 1775968736616,
+      "SessionId": "790668f7-a632-4120-9ae2-84e18a90fb0e",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 124712,
+      "TimestampMs": 1776458240368,
+      "SessionId": "a6d59a77-5793-4475-a2e5-481276ef2ef0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_FewClouds_M": {
+      "LapTimeMs": 128815,
+      "TimestampMs": 1791081047025,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_FewClouds_S": {
+      "LapTimeMs": 129864,
+      "TimestampMs": 1791081712823,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_FewClouds": {
+      "LapTimeMs": 124094,
+      "TimestampMs": 1791082391674,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

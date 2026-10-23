@@ -1,0 +1,23 @@
+{
+  "Username": "Kkauantj",
+  "GUID": 76561199127033398,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_mercer_v8_Mixed": {
+      "LapTimeMs": 148398,
+      "TimestampMs": 1780077863080,
+      "SessionId": "972731ce-e558-4b40-8d0d-ccb37233a270",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_mercer_v8_ScatteredClouds": {
+      "LapTimeMs": 146184,
+      "TimestampMs": 1780078824746,
+      "SessionId": "972731ce-e558-4b40-8d0d-ccb37233a270",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds"
+    }
+  },
+  "LapTimeHistory": []
+}

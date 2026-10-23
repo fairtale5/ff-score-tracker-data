@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789692014282,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 90271,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789692135270,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 120983,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Username": "alex PICHET",
+  "GUID": 76561199176718029,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_Clear_M": {
+      "LapTimeMs": 90960,
+      "TimestampMs": 1785085512706,
+      "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 88415,
+      "TimestampMs": 1785085916985,
+      "SessionId": "53dc4e1b-9e14-4582-990e-8fcbffc10f4a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

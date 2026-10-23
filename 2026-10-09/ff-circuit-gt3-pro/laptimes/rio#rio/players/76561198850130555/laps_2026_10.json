@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1791484604262,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 146423,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791485028540,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 142590,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791487935629,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 134802,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791488701196,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 135187,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791488835862,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 134731,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791488971718,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 135856,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791489113619,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 141904,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

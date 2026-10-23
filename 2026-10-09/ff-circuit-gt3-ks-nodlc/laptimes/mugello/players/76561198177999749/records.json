@@ -1,0 +1,23 @@
+{
+  "Username": "Paul\u00E3o RD",
+  "GUID": 76561198177999749,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 116762,
+      "TimestampMs": 1780877743616,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 115612,
+      "TimestampMs": 1780879033191,
+      "SessionId": "e0f71381-f7f0-46fb-9eac-35fbbb72ec3c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

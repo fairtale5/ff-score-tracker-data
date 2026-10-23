@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1791490645554,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 152445,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791490793979,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 148423,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791490952361,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 158379,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791491098244,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 145890,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  }
+]

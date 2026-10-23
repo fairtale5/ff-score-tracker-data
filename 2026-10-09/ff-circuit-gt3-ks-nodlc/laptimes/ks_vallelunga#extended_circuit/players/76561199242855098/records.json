@@ -1,0 +1,25 @@
+{
+  "Username": "PRETO",
+  "GUID": 76561199242855098,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 98371,
+      "TimestampMs": 1785797945785,
+      "SessionId": "ac1985e1-6868-4fb9-85db-454475394e30",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 97794,
+      "TimestampMs": 1789408441006,
+      "SessionId": "530b5f7c-b3d1-45a6-8135-f27354aa429f",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

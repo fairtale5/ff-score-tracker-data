@@ -1,0 +1,25 @@
+{
+  "Username": "Huling Cowser",
+  "GUID": 76561199244935390,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_BrokenClouds_M": {
+      "LapTimeMs": 119208,
+      "TimestampMs": 1791339821395,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 113381,
+      "TimestampMs": 1791340257406,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

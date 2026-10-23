@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1791332312183,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 139326,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791332476296,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 164105,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791332598931,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "mercedes_sls_gt3",
+    "LapTimeMs": 122636,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  }
+]

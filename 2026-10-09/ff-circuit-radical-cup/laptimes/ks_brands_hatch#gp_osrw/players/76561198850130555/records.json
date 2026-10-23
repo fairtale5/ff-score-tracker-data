@@ -1,0 +1,49 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_brands_hatch",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_ScatteredClouds_S": {
+      "LapTimeMs": 86919,
+      "TimestampMs": 1789356573710,
+      "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 87539,
+      "TimestampMs": 1789356376388,
+      "SessionId": "11872502-ce84-473b-b4b8-2955bdab59e4",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Cold_S": {
+      "LapTimeMs": 88908,
+      "TimestampMs": 1785816628468,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Clear_S": {
+      "LapTimeMs": 89332,
+      "TimestampMs": 1785821667507,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Hot_S": {
+      "LapTimeMs": 89732,
+      "TimestampMs": 1785822521440,
+      "SessionId": "2baa5205-6084-4d7b-a97a-870dcdcdb109",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "MandiocaMole (Com Casca)",
+  "GUID": 76561199726725368,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_FewClouds_S": {
+      "LapTimeMs": 161858,
+      "TimestampMs": 1790992287685,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "bmw_m3_gt2_FewClouds": {
+      "LapTimeMs": 174852,
+      "TimestampMs": 1790993514630,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

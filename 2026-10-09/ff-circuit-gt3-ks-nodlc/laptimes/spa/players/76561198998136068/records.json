@@ -1,0 +1,25 @@
+{
+  "Username": "Jotinha",
+  "GUID": 76561198998136068,
+  "Track": "spa",
+  "Layout": "",
+  "BestLaps": {
+    "mercedes_sls_gt3_FewClouds_S": {
+      "LapTimeMs": 144791,
+      "TimestampMs": 1790992249815,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_FewClouds": {
+      "LapTimeMs": 142761,
+      "TimestampMs": 1790993884046,
+      "SessionId": "ac949bc4-8a8e-449b-a2b1-972e7991e3a2",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

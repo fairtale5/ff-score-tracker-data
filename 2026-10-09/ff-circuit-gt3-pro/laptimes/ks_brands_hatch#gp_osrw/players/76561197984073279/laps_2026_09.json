@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1789695169476,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 93537,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789695380603,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 93962,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789695654469,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 91904,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789695744788,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 90322,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789695835973,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 91185,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1789695925941,
+    "SessionId": "da41543c-7d7a-4a59-a940-f5d3bad9f11a",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "rss_gtm_bayer_v8",
+    "LapTimeMs": 89968,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  }
+]

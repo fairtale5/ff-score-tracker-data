@@ -1,0 +1,25 @@
+{
+  "Username": "Gasmita",
+  "GUID": 76561198826450215,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_BrokenClouds_M": {
+      "LapTimeMs": 123053,
+      "TimestampMs": 1791338417211,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_BrokenClouds": {
+      "LapTimeMs": 115384,
+      "TimestampMs": 1791338764582,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

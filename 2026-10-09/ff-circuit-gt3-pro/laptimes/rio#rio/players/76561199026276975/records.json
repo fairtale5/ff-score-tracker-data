@@ -1,0 +1,25 @@
+{
+  "Username": "gusttavo silva",
+  "GUID": 76561199026276975,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "rss_gtm_protech_p92_f6_ScatteredClouds_D": {
+      "LapTimeMs": 148423,
+      "TimestampMs": 1791490793979,
+      "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_protech_p92_f6_Mixed_D": {
+      "LapTimeMs": 145890,
+      "TimestampMs": 1791491098244,
+      "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

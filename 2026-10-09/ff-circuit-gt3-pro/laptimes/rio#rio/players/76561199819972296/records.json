@@ -1,0 +1,49 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 156038,
+      "TimestampMs": 1788649638252,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 151762,
+      "TimestampMs": 1788650821773,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_HeavyDrizzle_S": {
+      "LapTimeMs": 144050,
+      "TimestampMs": 1788653013852,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 143202,
+      "TimestampMs": 1788653157058,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_S": {
+      "LapTimeMs": 144378,
+      "TimestampMs": 1788654794295,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

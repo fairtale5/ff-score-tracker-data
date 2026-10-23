@@ -1,0 +1,49 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "vrc_erc_1997_beamer_csp_ScatteredClouds_S": {
+      "LapTimeMs": 160290,
+      "TimestampMs": 1789607039845,
+      "SessionId": "1d7bd22f-fe6e-4888-8bfe-8cc68d3737b7",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1997_beamer_csp_Mixed_S": {
+      "LapTimeMs": 154972,
+      "TimestampMs": 1789608000220,
+      "SessionId": "1d7bd22f-fe6e-4888-8bfe-8cc68d3737b7",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1997_beamer_csp_Clear_S": {
+      "LapTimeMs": 156079,
+      "TimestampMs": 1789610136503,
+      "SessionId": "1d7bd22f-fe6e-4888-8bfe-8cc68d3737b7",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1999_vorax_csp_ScatteredClouds_S": {
+      "LapTimeMs": 151562,
+      "TimestampMs": 1789614308617,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1999_vorax_csp_Mixed_S": {
+      "LapTimeMs": 153780,
+      "TimestampMs": 1789614616557,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

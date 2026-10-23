@@ -1,0 +1,25 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "circuit_charade2023",
+  "Layout": "charade2023_8km",
+  "BestLaps": {
+    "rss_gtm_lanzo_v8_Clear_D": {
+      "LapTimeMs": 193770,
+      "TimestampMs": 1790395680203,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_lanzo_v8_ScatteredClouds_D": {
+      "LapTimeMs": 190898,
+      "TimestampMs": 1790396464685,
+      "SessionId": "c9bd7c57-4f7f-491e-a88c-645090265619",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

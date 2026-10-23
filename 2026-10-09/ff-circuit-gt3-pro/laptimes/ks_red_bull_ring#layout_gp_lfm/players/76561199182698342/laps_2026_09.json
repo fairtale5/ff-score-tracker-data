@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1789865632356,
+    "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 99203,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789865729390,
+    "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_cortex_v8",
+    "LapTimeMs": 97036,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1789866367379,
+    "SessionId": "8cf0459f-00c1-44a5-8fa1-a28d5057ff03",
+    "Track": "ks_red_bull_ring",
+    "Layout": "layout_gp_lfm",
+    "Car": "rss_gtm_bayer_i6_evo",
+    "LapTimeMs": 92825,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  }
+]

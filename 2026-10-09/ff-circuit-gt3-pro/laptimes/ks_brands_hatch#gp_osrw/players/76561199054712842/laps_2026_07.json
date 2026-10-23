@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1785072218497,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 86649,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785072639002,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 85593,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785072944343,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 87768,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785073030087,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 85743,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  }
+]

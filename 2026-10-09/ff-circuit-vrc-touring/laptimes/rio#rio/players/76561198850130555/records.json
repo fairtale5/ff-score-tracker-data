@@ -1,0 +1,41 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "vrc_erc_1994_vokker_csp_Mixed_S": {
+      "LapTimeMs": 156829,
+      "TimestampMs": 1789612525988,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1994_vokker_csp_ScatteredClouds_M": {
+      "LapTimeMs": 162791,
+      "TimestampMs": 1789613101077,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "vrc_erc_1999_renoir_csp_Mixed_S": {
+      "LapTimeMs": 150391,
+      "TimestampMs": 1789614877891,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "vrc_erc_1999_renoir_csp_Mist_S": {
+      "LapTimeMs": 155214,
+      "TimestampMs": 1789615568500,
+      "SessionId": "0e74782a-271a-447e-abd4-e42d3618e5ad",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

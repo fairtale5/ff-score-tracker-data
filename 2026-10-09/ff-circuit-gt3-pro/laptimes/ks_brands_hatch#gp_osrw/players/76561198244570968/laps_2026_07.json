@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1785039883054,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 90618,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785039972589,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 89401,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785040063615,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 91166,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785040154103,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 90426,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785040243932,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 89892,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1785040652328,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 92109,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785040948335,
+    "SessionId": "36894bed-415e-496e-b352-eb04905a0c10",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 91841,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "TimestampMs": 1779931981434,
+    "SessionId": "d0a60256-750a-465b-8cb4-1b17c504594a",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 265573,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780085977703,
+    "SessionId": "b5d72ffa-b7f6-4a90-8111-b5cfc2651a19",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 240721,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  },
+  {
+    "TimestampMs": 1780089616986,
+    "SessionId": "b5d72ffa-b7f6-4a90-8111-b5cfc2651a19",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 238681,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780165772362,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 238394,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780166009597,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 237247,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1780167486904,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 212773,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Mist"
+  },
+  {
+    "TimestampMs": 1780170027534,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_mercer_v8",
+    "LapTimeMs": 239404,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

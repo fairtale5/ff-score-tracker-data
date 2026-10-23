@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1789274131987,
+    "SessionId": "1cc00ddb-65e9-410e-b67b-ba7915e03e73",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 98311,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "Hpr"
+  },
+  {
+    "TimestampMs": 1789274339384,
+    "SessionId": "1cc00ddb-65e9-410e-b67b-ba7915e03e73",
+    "Track": "ks_brands_hatch",
+    "Layout": "gp_osrw",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 99505,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "Hpr"
+  }
+]

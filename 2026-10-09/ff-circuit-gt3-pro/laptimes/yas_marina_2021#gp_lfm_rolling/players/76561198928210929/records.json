@@ -1,0 +1,25 @@
+{
+  "Username": "Verdi",
+  "GUID": 76561198928210929,
+  "Track": "yas_marina_2021",
+  "Layout": "gp_lfm_rolling",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mixed": {
+      "LapTimeMs": 118902,
+      "TimestampMs": 1791161776609,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_OvercastClouds": {
+      "LapTimeMs": 128671,
+      "TimestampMs": 1791158131366,
+      "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+      "WeatherStart": "OvercastClouds",
+      "WeatherEnd": "OvercastClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

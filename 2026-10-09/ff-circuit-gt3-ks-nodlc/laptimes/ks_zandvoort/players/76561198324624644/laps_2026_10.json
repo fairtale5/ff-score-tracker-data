@@ -1,0 +1,86 @@
+[
+  {
+    "TimestampMs": 1791414002766,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 103483,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791414107384,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 104667,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791414211643,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 104256,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791414565655,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 102426,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791414846839,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 108253,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1791414962698,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 115867,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1791415099105,
+    "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+    "Track": "ks_zandvoort",
+    "Layout": "",
+    "Car": "bmw_m3_gt2",
+    "LapTimeMs": 136409,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "S"
+  }
+]

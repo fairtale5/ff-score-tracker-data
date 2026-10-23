@@ -1,0 +1,57 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "ks_red_bull_ring",
+  "Layout": "layout_gp_lfm",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Hot_M": {
+      "LapTimeMs": 93587,
+      "TimestampMs": 1785328892690,
+      "SessionId": "b3791a83-a4f7-43bb-ab71-33ad39ae788c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Hot_S": {
+      "LapTimeMs": 92830,
+      "TimestampMs": 1786773444640,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Mist_S": {
+      "LapTimeMs": 94211,
+      "TimestampMs": 1786768947354,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Mixed_S": {
+      "LapTimeMs": 92761,
+      "TimestampMs": 1786769583300,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 92400,
+      "TimestampMs": 1786769876167,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Drizzle_S": {
+      "LapTimeMs": 96206,
+      "TimestampMs": 1786770805564,
+      "SessionId": "31b24eaa-2749-47ee-9331-f4fd68bb770a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

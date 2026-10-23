@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1791300227951,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 115009,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791300506931,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 112673,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1791301159687,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 111238,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  },
+  {
+    "TimestampMs": 1791336287505,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 139318,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791336404669,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 117168,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791336528620,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 123952,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791336644301,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 115682,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791336761280,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 116985,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791336886986,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 125707,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791337013909,
+    "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+    "Track": "mugello",
+    "Layout": "",
+    "Car": "ferrari_458_gt2",
+    "LapTimeMs": 126928,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  }
+]

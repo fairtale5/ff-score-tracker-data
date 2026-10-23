@@ -1,0 +1,23 @@
+{
+  "Username": "vitor",
+  "GUID": 76561198727662657,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "etc_formula_uno_turbo_Clear": {
+      "LapTimeMs": 114599,
+      "TimestampMs": 1779504372242,
+      "SessionId": "b8956a7b-f947-4af5-a88a-ae4db13b33ba",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "etc_formula_uno_turbo_Mixed": {
+      "LapTimeMs": 114642,
+      "TimestampMs": 1779506715303,
+      "SessionId": "b8956a7b-f947-4af5-a88a-ae4db13b33ba",
+      "WeatherStart": "LightDrizzle",
+      "WeatherEnd": "Drizzle"
+    }
+  },
+  "LapTimeHistory": []
+}

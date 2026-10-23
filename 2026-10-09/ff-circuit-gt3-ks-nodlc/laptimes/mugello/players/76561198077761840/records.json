@@ -1,0 +1,33 @@
+{
+  "Username": "cap",
+  "GUID": 76561198077761840,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 114446,
+      "TimestampMs": 1791322418657,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_BrokenClouds_M": {
+      "LapTimeMs": 116924,
+      "TimestampMs": 1791325960326,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_BrokenClouds": {
+      "LapTimeMs": 114484,
+      "TimestampMs": 1791326846421,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

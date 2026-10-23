@@ -1,0 +1,57 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 112120,
+      "TimestampMs": 1787873885596,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 111451,
+      "TimestampMs": 1787874500338,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Clear_S": {
+      "LapTimeMs": 111322,
+      "TimestampMs": 1787876220432,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_bayer_i6_evo_ScatteredClouds_D": {
+      "LapTimeMs": 108769,
+      "TimestampMs": 1790985661685,
+      "SessionId": "49addafb-2503-4d41-9961-3e0771e24b98",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 108626,
+      "TimestampMs": 1790985893022,
+      "SessionId": "49addafb-2503-4d41-9961-3e0771e24b98",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_BrokenClouds_D": {
+      "LapTimeMs": 110660,
+      "TimestampMs": 1790986445308,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

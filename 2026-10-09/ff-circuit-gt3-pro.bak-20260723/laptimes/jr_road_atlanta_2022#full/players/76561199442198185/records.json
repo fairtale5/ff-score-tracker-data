@@ -1,0 +1,51 @@
+{
+  "Username": "Felipe Berta",
+  "GUID": 76561199442198185,
+  "Track": "jr_road_atlanta_2022",
+  "Layout": "full",
+  "BestLaps": {
+    "rss_gtm_aero_v10_evo2_Hot": {
+      "LapTimeMs": 88947,
+      "TimestampMs": 1778301070850,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot"
+    },
+    "rss_gtm_aero_v10_evo2_Mist": {
+      "LapTimeMs": 113421,
+      "TimestampMs": 1778301858758,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist"
+    },
+    "rss_gtm_aero_v10_evo2_Mixed": {
+      "LapTimeMs": 89460,
+      "TimestampMs": 1778301948216,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Transition"
+    },
+    "rss_gtm_lanzo_v10_Clear": {
+      "LapTimeMs": 86189,
+      "TimestampMs": 1778303931649,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_lanzo_v10_Mixed": {
+      "LapTimeMs": 89326,
+      "TimestampMs": 1778303567256,
+      "SessionId": "da789650-d479-4b14-b3c6-6853579ecbbe",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Clear"
+    },
+    "rss_gtm_mercer_v8_HeavyThunderstorm": {
+      "LapTimeMs": 95773,
+      "TimestampMs": 1778308560377,
+      "SessionId": "db660526-a264-44db-bdfa-3099367d96e8",
+      "WeatherStart": "HeavyThunderstorm",
+      "WeatherEnd": "HeavyThunderstorm"
+    }
+  },
+  "LapTimeHistory": []
+}

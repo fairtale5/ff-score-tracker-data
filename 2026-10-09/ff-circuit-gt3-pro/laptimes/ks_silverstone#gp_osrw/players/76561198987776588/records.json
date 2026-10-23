@@ -1,0 +1,33 @@
+{
+  "Username": "FelipePiloto244",
+  "GUID": 76561198987776588,
+  "Track": "ks_silverstone",
+  "Layout": "gp_osrw",
+  "BestLaps": {
+    "rss_gtm_macca_72_evo_v8_Mixed_D": {
+      "LapTimeMs": 138741,
+      "TimestampMs": 1790305513760,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_macca_72_evo_v8_Clear": {
+      "LapTimeMs": 130630,
+      "TimestampMs": 1790306005696,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "rss_gtm_macca_72_evo_v8_Mixed": {
+      "LapTimeMs": 129398,
+      "TimestampMs": 1790306135097,
+      "SessionId": "f1694e2c-d7b5-4bad-be66-ff1d7d2e0a0c",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

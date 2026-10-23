@@ -1,0 +1,25 @@
+{
+  "Username": "Nicolas",
+  "GUID": 76561199876824946,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear_SS": {
+      "LapTimeMs": 106054,
+      "TimestampMs": 1787353757051,
+      "SessionId": "ada15c97-9385-4f66-b7e6-b72c8df2ff02",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "ferrari_458_gt2_Mixed": {
+      "LapTimeMs": 103315,
+      "TimestampMs": 1791413641912,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

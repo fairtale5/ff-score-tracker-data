@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1791164548256,
+    "SessionId": "5906ec65-4388-4282-a8bc-dfd25ce53c86",
+    "Track": "fonteny",
+    "Layout": "fonteny_dirt_road",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 789201,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791165222032,
+    "SessionId": "5906ec65-4388-4282-a8bc-dfd25ce53c86",
+    "Track": "fonteny",
+    "Layout": "fonteny_dirt_road",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 673771,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": ""
+  }
+]

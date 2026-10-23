@@ -1,0 +1,25 @@
+{
+  "Username": "Matheus da Silva",
+  "GUID": 76561198045176538,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 144887,
+      "TimestampMs": 1786122547562,
+      "SessionId": "2a06f3d8-e0da-456a-91e8-d7ecb8906a42",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Mixed_S": {
+      "LapTimeMs": 144594,
+      "TimestampMs": 1786556496772,
+      "SessionId": "2fab0c60-4f7a-4fab-bbcf-0a7d53f78205",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

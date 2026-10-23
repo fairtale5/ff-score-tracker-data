@@ -1,0 +1,25 @@
+{
+  "Username": "Yves Werneck",
+  "GUID": 76561199863448805,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 88774,
+      "TimestampMs": 1778544195120,
+      "SessionId": "c1969ba4-74e9-4607-9b04-419569e6b239",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 90148,
+      "TimestampMs": 1782768145440,
+      "SessionId": "99317550-a53a-43fa-89af-50cf32208be1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

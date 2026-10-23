@@ -1,0 +1,81 @@
+{
+  "Username": "tabi",
+  "GUID": 76561199586981976,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Mixed_M": {
+      "LapTimeMs": 139544,
+      "TimestampMs": 1788670530528,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_ScatteredClouds_M": {
+      "LapTimeMs": 137529,
+      "TimestampMs": 1788659611527,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_HeavyDrizzle_WET": {
+      "LapTimeMs": 149492,
+      "TimestampMs": 1788652522417,
+      "SessionId": "034c4cda-0c6e-4e55-b42d-c0fb3e4c1d6d",
+      "WeatherStart": "HeavyDrizzle",
+      "WeatherEnd": "HeavyDrizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_audi_r8_lms_2016_Cold_M": {
+      "LapTimeMs": 136315,
+      "TimestampMs": 1788666721526,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Clear_M": {
+      "LapTimeMs": 138115,
+      "TimestampMs": 1788662408922,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Cold_S": {
+      "LapTimeMs": 137903,
+      "TimestampMs": 1788667600014,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Cold",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mixed_S": {
+      "LapTimeMs": 136364,
+      "TimestampMs": 1788668207708,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Drizzle_M": {
+      "LapTimeMs": 137093,
+      "TimestampMs": 1788669998930,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    },
+    "ks_audi_r8_lms_2016_Mist_S": {
+      "LapTimeMs": 136673,
+      "TimestampMs": 1788671176486,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

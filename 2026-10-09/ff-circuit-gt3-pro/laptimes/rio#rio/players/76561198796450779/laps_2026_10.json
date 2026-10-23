@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1791484602667,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 153284,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791484739205,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 136533,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791488583369,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_adonis_v8_evo",
+    "LapTimeMs": 145909,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "D"
+  }
+]

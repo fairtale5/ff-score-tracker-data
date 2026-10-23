@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "grandprix": {
+      "ks_mercedes_amg_gt3": {
+        "ScatteredClouds": {
+          "LapTimeMs": 88134,
+          "PlayerName": "Oganess\u00F4nio",
+          "PlayerGuid": 76561198850130555,
+          "TimestampMs": 1784826150807,
+          "SessionId": "a2859fec-a071-42d0-9713-1ab3655f040d"
+        }
+      },
+      "ks_lamborghini_huracan_gt3": {
+        "Mixed": {
+          "LapTimeMs": 87583,
+          "PlayerName": "Jotinha Sapeca",
+          "PlayerGuid": 76561199858135498,
+          "TimestampMs": 1784835251412,
+          "SessionId": "3237d41f-c8cd-4114-9195-8700a6e135d1"
+        }
+      }
+    }
+  }
+}

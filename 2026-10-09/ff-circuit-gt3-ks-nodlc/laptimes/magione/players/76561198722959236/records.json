@@ -1,0 +1,33 @@
+{
+  "Username": "Fran6six",
+  "GUID": 76561198722959236,
+  "Track": "magione",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 72979,
+      "TimestampMs": 1780597623988,
+      "SessionId": "a013d083-62bb-40e5-8898-6832381d87ab",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_M": {
+      "LapTimeMs": 75282,
+      "TimestampMs": 1781900247515,
+      "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 73831,
+      "TimestampMs": 1781900959577,
+      "SessionId": "92df0a1c-a5d1-40dd-9d1d-2e16db5241ec",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

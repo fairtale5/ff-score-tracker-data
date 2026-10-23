@@ -1,0 +1,23 @@
+{
+  "Username": "SchumaGames",
+  "GUID": 76561199225152547,
+  "Track": "monza",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 127459,
+      "TimestampMs": 1775083459655,
+      "SessionId": "cd0e89d5-e4f3-49ea-b654-881733367ad9",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mercedes_sls_gt3_Clear": {
+      "LapTimeMs": 123328,
+      "TimestampMs": 1776624661171,
+      "SessionId": "f0f2c010-ff2e-4791-bca1-1061b0083ab6",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785891977774,
+    "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 138505,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785892438568,
+    "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 135278,
+    "WeatherCategory": "Hot",
+    "WeatherStart": "Hot",
+    "WeatherEnd": "Hot",
+    "TyreCompound": "M"
+  }
+]

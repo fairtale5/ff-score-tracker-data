@@ -1,0 +1,122 @@
+[
+  {
+    "TimestampMs": 1791147428049,
+    "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 117440,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1791147544842,
+    "SessionId": "f39d8c9f-37f6-4007-a8fc-abb6d9a90a47",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 116795,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1791158912865,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 123129,
+    "WeatherCategory": "Fog",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Fog",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1791159029189,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 116325,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Fog",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1791159145938,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 116748,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "H"
+  },
+  {
+    "TimestampMs": 1791159601348,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 118054,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791160142394,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 116653,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791160259460,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 117068,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791160375928,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_akuro_v6_evo2",
+    "LapTimeMs": 116467,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791160955559,
+    "SessionId": "a68e8d41-8090-42a6-bcb2-e64639937b4f",
+    "Track": "yas_marina_2021",
+    "Layout": "gp_lfm_rolling",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 122021,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

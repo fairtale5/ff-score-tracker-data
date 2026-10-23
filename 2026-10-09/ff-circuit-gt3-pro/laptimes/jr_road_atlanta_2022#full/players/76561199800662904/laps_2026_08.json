@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1785625956448,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 87833,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785626127185,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_nissan_gtr_gt3",
+    "LapTimeMs": 84000,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785626868597,
+    "SessionId": "9b97ead6-81ca-48ea-a16e-5cf7e6daf92d",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_mercedes_amg_gt3",
+    "LapTimeMs": 84594,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1790729843670,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 106287,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790729983043,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 139364,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790730090333,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 107287,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790730193936,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 103595,
+    "WeatherCategory": "LightRain",
+    "WeatherStart": "LightRain",
+    "WeatherEnd": "LightRain",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1790730617130,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 141396,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Rain",
+    "TyreCompound": "I"
+  },
+  {
+    "TimestampMs": 1790731076559,
+    "SessionId": "85ca0c56-0112-4156-b000-ec337c4ca2c6",
+    "Track": "fn_bahrain",
+    "Layout": "gp_lfm",
+    "Car": "rss_formula_2010",
+    "LapTimeMs": 123640,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Rain",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "W"
+  }
+]

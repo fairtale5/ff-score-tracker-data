@@ -1,0 +1,35 @@
+[
+  {
+    "TimestampMs": 1779734222597,
+    "SessionId": "5721a690-95d9-4a93-9f88-6ef32c0b7c0b",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 115845,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1779734643113,
+    "SessionId": "5721a690-95d9-4a93-9f88-6ef32c0b7c0b",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 142376,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  },
+  {
+    "TimestampMs": 1779734755259,
+    "SessionId": "5721a690-95d9-4a93-9f88-6ef32c0b7c0b",
+    "Track": "ks_laguna_seca",
+    "Layout": "",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 112147,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear"
+  }
+]

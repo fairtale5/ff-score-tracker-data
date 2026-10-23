@@ -1,0 +1,57 @@
+{
+  "Username": "IVANDIR NETO",
+  "GUID": 76561198143911235,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Mixed_S": {
+      "LapTimeMs": 110334,
+      "TimestampMs": 1787874425974,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Clear_S": {
+      "LapTimeMs": 108186,
+      "TimestampMs": 1787874643665,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_ferrari_488_gt3_Clear_M": {
+      "LapTimeMs": 112926,
+      "TimestampMs": 1787875594053,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Clear_M": {
+      "LapTimeMs": 110186,
+      "TimestampMs": 1787876594678,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_M": {
+      "LapTimeMs": 109146,
+      "TimestampMs": 1787876703832,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed": {
+      "LapTimeMs": 109723,
+      "TimestampMs": 1787877041365,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

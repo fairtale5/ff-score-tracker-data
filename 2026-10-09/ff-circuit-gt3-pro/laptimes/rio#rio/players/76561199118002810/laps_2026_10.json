@@ -1,0 +1,38 @@
+[
+  {
+    "TimestampMs": 1791483719191,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_furiano_96_v6",
+    "LapTimeMs": 140364,
+    "WeatherCategory": "FewClouds",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "FewClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791485710880,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 136603,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "FewClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791485845434,
+    "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "rss_gtm_hyperion_v8",
+    "LapTimeMs": 134560,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "D"
+  }
+]

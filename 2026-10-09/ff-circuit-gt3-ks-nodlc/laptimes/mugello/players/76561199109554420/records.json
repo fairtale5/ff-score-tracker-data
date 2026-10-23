@@ -1,0 +1,25 @@
+{
+  "Username": "Ray_22",
+  "GUID": 76561199109554420,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_BrokenClouds_M": {
+      "LapTimeMs": 114838,
+      "TimestampMs": 1791341432480,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "ferrari_458_gt2_BrokenClouds": {
+      "LapTimeMs": 111592,
+      "TimestampMs": 1791343221773,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

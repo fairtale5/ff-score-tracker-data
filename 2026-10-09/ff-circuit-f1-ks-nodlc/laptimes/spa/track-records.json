@@ -1,0 +1,24 @@
+{
+  "Records": {
+    "default": {
+      "lotus_exos_125_s1": {
+        "Clear": {
+          "LapTimeMs": 111847,
+          "PlayerName": "Mario Manera",
+          "PlayerGuid": 76561198796450779,
+          "TimestampMs": 1790916878295,
+          "SessionId": "e7a8c9b1-2d09-4f10-9e11-075505eda758"
+        }
+      },
+      "lotus_98t": {
+        "Clear": {
+          "LapTimeMs": 129453,
+          "PlayerName": "Erik Fairtale",
+          "PlayerGuid": 76561197995375366,
+          "TimestampMs": 1779923377527,
+          "SessionId": "5b31e0a3-b2e6-4856-b587-3d8fc0b302eb"
+        }
+      }
+    }
+  }
+}

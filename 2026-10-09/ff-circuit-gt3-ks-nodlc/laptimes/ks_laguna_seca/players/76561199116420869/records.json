@@ -1,0 +1,33 @@
+{
+  "Username": "Kay",
+  "GUID": 76561199116420869,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 89428,
+      "TimestampMs": 1786509150056,
+      "SessionId": "988ba5cc-90e8-4b01-ae35-99bf127fee01",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "mclaren_mp412c_gt3_Clear_S": {
+      "LapTimeMs": 93873,
+      "TimestampMs": 1786509557117,
+      "SessionId": "988ba5cc-90e8-4b01-ae35-99bf127fee01",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 92399,
+      "TimestampMs": 1786510271755,
+      "SessionId": "988ba5cc-90e8-4b01-ae35-99bf127fee01",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

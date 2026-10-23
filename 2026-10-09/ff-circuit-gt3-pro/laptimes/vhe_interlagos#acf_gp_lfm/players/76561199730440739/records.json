@@ -1,0 +1,41 @@
+{
+  "Username": "Junin",
+  "GUID": 76561199730440739,
+  "Track": "vhe_interlagos",
+  "Layout": "acf_gp_lfm",
+  "BestLaps": {
+    "ks_ferrari_488_gt3_Drizzle_WET": {
+      "LapTimeMs": 119934,
+      "TimestampMs": 1784912276023,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "WET"
+    },
+    "ks_ferrari_488_gt3_Drizzle": {
+      "LapTimeMs": 100636,
+      "TimestampMs": 1784918236346,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": ""
+    },
+    "ks_ferrari_488_gt3_Mixed_M": {
+      "LapTimeMs": 103600,
+      "TimestampMs": 1784917040836,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    },
+    "ks_ferrari_488_gt3_Drizzle_M": {
+      "LapTimeMs": 101765,
+      "TimestampMs": 1784917458389,
+      "SessionId": "8c7636be-990e-448d-92fe-efd99c295ca5",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

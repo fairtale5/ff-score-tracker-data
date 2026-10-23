@@ -1,0 +1,33 @@
+{
+  "Username": "arthur vitor",
+  "GUID": 76561199118002810,
+  "Track": "rio",
+  "Layout": "rio",
+  "BestLaps": {
+    "ks_audi_r8_lms_2016_Mist_S": {
+      "LapTimeMs": 150213,
+      "TimestampMs": 1788672243462,
+      "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_furiano_96_v6_FewClouds_D": {
+      "LapTimeMs": 140364,
+      "TimestampMs": 1791483719191,
+      "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_hyperion_v8_Mixed_D": {
+      "LapTimeMs": 134560,
+      "TimestampMs": 1791485845434,
+      "SessionId": "02c4c51b-5933-4fc5-b444-d15ccd93f07b",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

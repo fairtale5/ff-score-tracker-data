@@ -1,0 +1,25 @@
+{
+  "Username": "M*GR*O_FOZ",
+  "GUID": 76561198973273454,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_S": {
+      "LapTimeMs": 108520,
+      "TimestampMs": 1784263566318,
+      "SessionId": "6dd5d893-3536-421c-9a02-578ecf5ec6aa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "lotus_exos_125_s1_Clear_M": {
+      "LapTimeMs": 130259,
+      "TimestampMs": 1784264472362,
+      "SessionId": "6dd5d893-3536-421c-9a02-578ecf5ec6aa",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

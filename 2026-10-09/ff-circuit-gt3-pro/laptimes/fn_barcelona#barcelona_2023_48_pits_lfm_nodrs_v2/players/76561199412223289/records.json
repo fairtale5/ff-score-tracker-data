@@ -1,0 +1,25 @@
+{
+  "Username": "Ricard\u00E3o",
+  "GUID": 76561199412223289,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "rss_gtm_akuro_v6_evo2_FewClouds": {
+      "LapTimeMs": 106992,
+      "TimestampMs": 1790988360334,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    },
+    "rss_gtm_akuro_v6_evo2_Mixed": {
+      "LapTimeMs": 105679,
+      "TimestampMs": 1790988573051,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

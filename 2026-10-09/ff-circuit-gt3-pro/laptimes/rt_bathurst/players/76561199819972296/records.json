@@ -1,0 +1,25 @@
+{
+  "Username": "Jm gordeste SKINS",
+  "GUID": 76561199819972296,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_Mist": {
+      "LapTimeMs": 139488,
+      "TimestampMs": 1789701203097,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "rss_gtm_bayer_i6_evo_Mist_D": {
+      "LapTimeMs": 154018,
+      "TimestampMs": 1789701972535,
+      "SessionId": "571676b6-eb2d-4eb2-863c-c300ffd73115",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

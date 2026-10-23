@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1784774402813,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144855,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774693287,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 143174,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784774860429,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 167137,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784775005138,
+    "SessionId": "23991fce-cf83-4f1c-9e8d-9d5ad59705a4",
+    "Track": "rt_bathurst",
+    "Layout": "",
+    "Car": "ks_porsche_911_gt3_r_2016",
+    "LapTimeMs": 144707,
+    "WeatherCategory": "Cold",
+    "WeatherStart": "Cold",
+    "WeatherEnd": "Cold",
+    "TyreCompound": "S"
+  }
+]

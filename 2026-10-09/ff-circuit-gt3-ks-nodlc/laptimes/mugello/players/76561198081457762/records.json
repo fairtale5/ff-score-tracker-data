@@ -1,0 +1,23 @@
+{
+  "Username": "Zerbinatto",
+  "GUID": 76561198081457762,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 116744,
+      "TimestampMs": 1777946528143,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 115375,
+      "TimestampMs": 1777948109065,
+      "SessionId": "41578227-c875-4aee-b409-8e175b9b09b2",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1791126241577,
+    "SessionId": "825eee64-5bcc-4e81-bf9d-3c36b8f26e38",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 771064,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791126857491,
+    "SessionId": "825eee64-5bcc-4e81-bf9d-3c36b8f26e38",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 595950,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "Hpr"
+  },
+  {
+    "TimestampMs": 1791518888756,
+    "SessionId": "028b31ab-bc4f-4b7d-a856-40f0802a6be4",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 630455,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "HR"
+  },
+  {
+    "TimestampMs": 1791518889665,
+    "SessionId": "028b31ab-bc4f-4b7d-a856-40f0802a6be4",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 630000,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1791519524872,
+    "SessionId": "028b31ab-bc4f-4b7d-a856-40f0802a6be4",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 636114,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "HR"
+  },
+  {
+    "TimestampMs": 1791519526811,
+    "SessionId": "028b31ab-bc4f-4b7d-a856-40f0802a6be4",
+    "Track": "fonteny",
+    "Layout": "fonteny",
+    "Car": "as_singer_dls",
+    "LapTimeMs": 637141,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": ""
+  }
+]

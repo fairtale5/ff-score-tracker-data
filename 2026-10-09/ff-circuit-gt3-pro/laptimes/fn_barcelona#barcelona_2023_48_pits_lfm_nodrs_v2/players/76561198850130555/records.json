@@ -1,0 +1,129 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "ks_mclaren_650_gt3_Hot_S": {
+      "LapTimeMs": 107461,
+      "TimestampMs": 1787280839680,
+      "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Hot_S": {
+      "LapTimeMs": 109695,
+      "TimestampMs": 1785135128293,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_Mixed_S": {
+      "LapTimeMs": 108958,
+      "TimestampMs": 1785135582927,
+      "SessionId": "e0af1bb9-3b88-48ff-bef1-460a97446f6b",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_nissan_gtr_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 106633,
+      "TimestampMs": 1787898609005,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 106279,
+      "TimestampMs": 1787272807456,
+      "SessionId": "5e21665f-9a81-486d-9af6-b3e91be74895",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed_S": {
+      "LapTimeMs": 105442,
+      "TimestampMs": 1787894679677,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Clear_S": {
+      "LapTimeMs": 105116,
+      "TimestampMs": 1787895973166,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_mclaren_650_gt3_Mixed": {
+      "LapTimeMs": 105848,
+      "TimestampMs": 1787877080687,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds": {
+      "LapTimeMs": 107160,
+      "TimestampMs": 1787877430307,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "ks_mclaren_650_gt3_ScatteredClouds_M": {
+      "LapTimeMs": 106976,
+      "TimestampMs": 1787877906408,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_mercedes_amg_gt3_Mixed_S": {
+      "LapTimeMs": 108820,
+      "TimestampMs": 1787896986095,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_mercedes_amg_gt3_ScatteredClouds_S": {
+      "LapTimeMs": 105682,
+      "TimestampMs": 1787897411318,
+      "SessionId": "02b8e483-b8be-4f5a-b45f-ffa28296bcda",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "rss_gtm_cortex_v8_Mixed_D": {
+      "LapTimeMs": 103309,
+      "TimestampMs": 1790988653385,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_FewClouds_D": {
+      "LapTimeMs": 104195,
+      "TimestampMs": 1790988335421,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_cortex_v8_Clear_D": {
+      "LapTimeMs": 105518,
+      "TimestampMs": 1790987667440,
+      "SessionId": "09033239-c822-4af6-abb0-4abd363a1430",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1778554182990,
+    "SessionId": "bd729911-53c7-4653-a533-048d804b2cc2",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 453241,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Cold"
+  },
+  {
+    "TimestampMs": 1778555184356,
+    "SessionId": "bd729911-53c7-4653-a533-048d804b2cc2",
+    "Track": "ks_nordschleife",
+    "Layout": "nordschleife",
+    "Car": "rss_gtm_lanzo_v10_evo2",
+    "LapTimeMs": 466181,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Clear"
+  }
+]

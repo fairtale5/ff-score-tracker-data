@@ -1,0 +1,65 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "rt_fuji_speedway",
+  "Layout": "layout_gp_lfm_nodrs",
+  "BestLaps": {
+    "ks_porsche_911_gt3_r_2016_ScatteredClouds_M": {
+      "LapTimeMs": 109973,
+      "TimestampMs": 1784902649639,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_M": {
+      "LapTimeMs": 112437,
+      "TimestampMs": 1784903456798,
+      "SessionId": "18c4b3b7-0239-41df-b4c1-7e14421e920f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    },
+    "ks_porsche_911_gt3_r_2016_Clear_S": {
+      "LapTimeMs": 110248,
+      "TimestampMs": 1789215339909,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_porsche_911_gt3_r_2016_Mixed_S": {
+      "LapTimeMs": 107958,
+      "TimestampMs": 1789214579903,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Clear": {
+      "LapTimeMs": 108769,
+      "TimestampMs": 1789216740227,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ks_audi_r8_lms_2016_Mixed": {
+      "LapTimeMs": 111297,
+      "TimestampMs": 1789217081858,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "ks_ferrari_488_gt3_Clear_M": {
+      "LapTimeMs": 110488,
+      "TimestampMs": 1789233887215,
+      "SessionId": "9531f398-509f-4845-b2b2-718411f6ecc0",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

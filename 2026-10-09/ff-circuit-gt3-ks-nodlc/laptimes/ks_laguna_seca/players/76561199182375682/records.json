@@ -1,0 +1,33 @@
+{
+  "Username": "kolpiu.rp",
+  "GUID": 76561199182375682,
+  "Track": "ks_laguna_seca",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 86379,
+      "TimestampMs": 1783136938166,
+      "SessionId": "6deb63a6-a0e0-4083-9b62-b1c045c0e6eb",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 85188,
+      "TimestampMs": 1791503267323,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_BrokenClouds_S": {
+      "LapTimeMs": 85927,
+      "TimestampMs": 1791504852484,
+      "SessionId": "1d53ae24-3863-4c7f-97b8-4191b491ffcd",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

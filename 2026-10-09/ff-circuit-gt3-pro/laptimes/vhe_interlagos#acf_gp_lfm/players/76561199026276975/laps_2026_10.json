@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1791427978220,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 103902,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791428083881,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 105660,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791428184454,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 100574,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791435044274,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 97296,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791435620065,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 97120,
+    "WeatherCategory": "OvercastClouds",
+    "WeatherStart": "OvercastClouds",
+    "WeatherEnd": "OvercastClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791436219423,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 95657,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791436754385,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 95618,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791436849627,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 95241,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  },
+  {
+    "TimestampMs": 1791437414106,
+    "SessionId": "93f6edf5-adcc-4514-8fc7-a297641e2ed4",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "rss_gtm_protech_p92_f6",
+    "LapTimeMs": 110165,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "D"
+  }
+]

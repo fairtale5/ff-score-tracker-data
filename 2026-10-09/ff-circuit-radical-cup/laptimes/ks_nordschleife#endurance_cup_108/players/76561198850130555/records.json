@@ -1,0 +1,33 @@
+{
+  "Username": "Oganess\u00F4nio",
+  "GUID": 76561198850130555,
+  "Track": "ks_nordschleife",
+  "Layout": "endurance_cup_108",
+  "BestLaps": {
+    "urd_radical_sr3xxr_2023_Mixed_S": {
+      "LapTimeMs": 536042,
+      "TimestampMs": 1787583521533,
+      "SessionId": "502db22b-cd9a-4508-a481-884eab51fdf0",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "urd_radical_sr3xxr_2023_Hot_M": {
+      "LapTimeMs": 535529,
+      "TimestampMs": 1788152817857,
+      "SessionId": "f97ad318-5b55-4acc-84c7-4839fd5cee0b",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "M"
+    },
+    "urd_radical_sr3xxr_2023_Mixed_M": {
+      "LapTimeMs": 530935,
+      "TimestampMs": 1788153348786,
+      "SessionId": "f97ad318-5b55-4acc-84c7-4839fd5cee0b",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "M"
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,25 @@
+{
+  "Username": "Raposito808",
+  "GUID": 76561199073212070,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "lotus_exos_125_s1_Clear_SS": {
+      "LapTimeMs": 94794,
+      "TimestampMs": 1785974449526,
+      "SessionId": "155f0610-b388-4bee-9ee6-9f4b6b5f93a4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "SS"
+    },
+    "lotus_exos_125_s1_Clear": {
+      "LapTimeMs": 94987,
+      "TimestampMs": 1785976243509,
+      "SessionId": "155f0610-b388-4bee-9ee6-9f4b6b5f93a4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

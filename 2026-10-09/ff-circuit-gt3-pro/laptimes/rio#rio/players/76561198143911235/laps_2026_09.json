@@ -1,0 +1,110 @@
+[
+  {
+    "TimestampMs": 1788662408546,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 153914,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788662560199,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 151648,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788663613117,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 149033,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788663768689,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 155585,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788663916160,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 147459,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664063237,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 147077,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664573556,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 151768,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788664869516,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 142287,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "M"
+  },
+  {
+    "TimestampMs": 1788673469983,
+    "SessionId": "7657b928-1c51-4f8d-b02c-9442c106b53a",
+    "Track": "rio",
+    "Layout": "rio",
+    "Car": "ks_lamborghini_huracan_gt3",
+    "LapTimeMs": 157177,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "M"
+  }
+]

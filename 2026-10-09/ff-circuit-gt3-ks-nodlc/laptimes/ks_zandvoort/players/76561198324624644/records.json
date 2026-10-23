@@ -1,0 +1,41 @@
+{
+  "Username": "ManoLopes",
+  "GUID": 76561198324624644,
+  "Track": "ks_zandvoort",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Mixed_M": {
+      "LapTimeMs": 103483,
+      "TimestampMs": 1791414002766,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_BrokenClouds_M": {
+      "LapTimeMs": 104256,
+      "TimestampMs": 1791414211643,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "M"
+    },
+    "bmw_m3_gt2_BrokenClouds": {
+      "LapTimeMs": 102426,
+      "TimestampMs": 1791414565655,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "bmw_m3_gt2_BrokenClouds_S": {
+      "LapTimeMs": 108253,
+      "TimestampMs": 1791414846839,
+      "SessionId": "76ba9c99-a46c-4b30-afb7-719d08d2b54e",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

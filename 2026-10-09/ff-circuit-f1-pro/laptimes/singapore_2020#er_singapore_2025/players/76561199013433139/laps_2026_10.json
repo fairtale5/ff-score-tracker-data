@@ -1,0 +1,74 @@
+[
+  {
+    "TimestampMs": 1791329028080,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 141104,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "C5"
+  },
+  {
+    "TimestampMs": 1791329125176,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 97099,
+    "WeatherCategory": "BrokenClouds",
+    "WeatherStart": "BrokenClouds",
+    "WeatherEnd": "BrokenClouds",
+    "TyreCompound": "C5"
+  },
+  {
+    "TimestampMs": 1791330235622,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 101266,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "C5"
+  },
+  {
+    "TimestampMs": 1791332540663,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 109214,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds",
+    "TyreCompound": "C5"
+  },
+  {
+    "TimestampMs": 1791333668679,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 98582,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "C5"
+  },
+  {
+    "TimestampMs": 1791334195359,
+    "SessionId": "608df430-9628-4125-9239-adaeda56b569",
+    "Track": "singapore_2020",
+    "Layout": "er_singapore_2025",
+    "Car": "rss_formula_hybrid_2023",
+    "LapTimeMs": 102461,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Transition",
+    "TyreCompound": "C5"
+  }
+]

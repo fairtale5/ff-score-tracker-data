@@ -1,0 +1,23 @@
+{
+  "Username": "don",
+  "GUID": 76561198085179218,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "ferrari_458_gt2_Clear": {
+      "LapTimeMs": 118028,
+      "TimestampMs": 1778111838076,
+      "SessionId": "c7e01fa8-6e78-4e3f-9bcf-820afb868cc4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 116212,
+      "TimestampMs": 1778257392681,
+      "SessionId": "88b28dff-827a-444e-b043-a37719ac1ffd",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

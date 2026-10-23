@@ -1,0 +1,23 @@
+{
+  "Username": "Thales Ogliari",
+  "GUID": 76561198032370448,
+  "Track": "imola",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_m3_gt2_Clear": {
+      "LapTimeMs": 128247,
+      "TimestampMs": 1781376178452,
+      "SessionId": "07ac0656-c88f-45dd-bab3-6cbb5f6889d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    },
+    "mclaren_mp412c_gt3_Clear": {
+      "LapTimeMs": 114545,
+      "TimestampMs": 1781403208180,
+      "SessionId": "07ac0656-c88f-45dd-bab3-6cbb5f6889d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear"
+    }
+  },
+  "LapTimeHistory": []
+}

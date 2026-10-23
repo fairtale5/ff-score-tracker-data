@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1780170067185,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 267720,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "Transition",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1780170327987,
+    "SessionId": "968b6d24-7a1f-4d49-9ffd-880d01366c59",
+    "Track": "sx_lemans",
+    "Layout": "chicane_24h_race",
+    "Car": "rss_gtm_macca_72_evo_v8",
+    "LapTimeMs": 260806,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  }
+]

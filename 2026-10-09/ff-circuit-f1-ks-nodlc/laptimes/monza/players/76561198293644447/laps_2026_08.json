@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1786428675052,
+    "SessionId": "fb0e258a-fc98-440e-afa7-1a05b86bb974",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 98685,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1786429193901,
+    "SessionId": "fb0e258a-fc98-440e-afa7-1a05b86bb974",
+    "Track": "monza",
+    "Layout": "",
+    "Car": "lotus_exos_125_s1",
+    "LapTimeMs": 97038,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "SS"
+  }
+]

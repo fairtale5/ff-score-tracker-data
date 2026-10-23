@@ -1,0 +1,25 @@
+{
+  "Username": "FEDERICO ROT",
+  "GUID": 76561199062751490,
+  "Track": "ks_vallelunga",
+  "Layout": "extended_circuit",
+  "BestLaps": {
+    "bmw_z4_gt3_Clear": {
+      "LapTimeMs": 96301,
+      "TimestampMs": 1785796136217,
+      "SessionId": "ac1985e1-6868-4fb9-85db-454475394e30",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_Clear_S": {
+      "LapTimeMs": 96539,
+      "TimestampMs": 1785794052358,
+      "SessionId": "ac1985e1-6868-4fb9-85db-454475394e30",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

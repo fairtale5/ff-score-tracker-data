@@ -1,0 +1,89 @@
+{
+  "Username": "Erik Fairtale",
+  "GUID": 76561197995375366,
+  "Track": "ek_akagi",
+  "Layout": "downhill_real",
+  "BestLaps": {
+    "ig_nissan_370z_nismo_Mixed": {
+      "LapTimeMs": 248826,
+      "TimestampMs": 1773865321435,
+      "SessionId": "5ca4de23-75e4-46f5-a9e0-a218a081e5d4",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "dthwsh_nissan_240sx_c_missile_Mixed": {
+      "LapTimeMs": 234975,
+      "TimestampMs": 1773898936650,
+      "SessionId": "69c3d13b-66ad-423a-a953-dbbd5823988f",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "ig_toyota_gr86_premium_Mixed": {
+      "LapTimeMs": 296925,
+      "TimestampMs": 1773864145652,
+      "SessionId": "5ca4de23-75e4-46f5-a9e0-a218a081e5d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Transition",
+      "TyreCompound": ""
+    },
+    "ig_honda_type_r_fl5_Clear": {
+      "LapTimeMs": 275191,
+      "TimestampMs": 1773865782036,
+      "SessionId": "5ca4de23-75e4-46f5-a9e0-a218a081e5d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "ig_honda_type_r_fl5_Mixed": {
+      "LapTimeMs": 260231,
+      "TimestampMs": 1773866084324,
+      "SessionId": "5ca4de23-75e4-46f5-a9e0-a218a081e5d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": ""
+    },
+    "dthwsh_mazda_rx7_fd3s_veilside_Clear": {
+      "LapTimeMs": 259336,
+      "TimestampMs": 1773868930589,
+      "SessionId": "5ca4de23-75e4-46f5-a9e0-a218a081e5d4",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": ""
+    },
+    "dthwsh_nissan_silvia_s15_vaero_Mixed": {
+      "LapTimeMs": 237922,
+      "TimestampMs": 1773951220004,
+      "SessionId": "49eb749b-47bb-4220-b96f-d43e932b87fe",
+      "WeatherStart": "Cold",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": ""
+    },
+    "dthwsh_nissan_silvia_s15_vaero_Mist": {
+      "LapTimeMs": 338191,
+      "TimestampMs": 1780032259551,
+      "SessionId": "37c360ed-e68b-43bd-bac3-5a315717efcd",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": ""
+    },
+    "..novibe_e92_Hot_WDTS": {
+      "LapTimeMs": 287801,
+      "TimestampMs": 1787086161742,
+      "SessionId": "db7bb2ed-beee-43f8-8bda-532a13caae42",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "WDTS"
+    },
+    "..novibe_e92_Hot": {
+      "LapTimeMs": 281683,
+      "TimestampMs": 1787086635730,
+      "SessionId": "db7bb2ed-beee-43f8-8bda-532a13caae42",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

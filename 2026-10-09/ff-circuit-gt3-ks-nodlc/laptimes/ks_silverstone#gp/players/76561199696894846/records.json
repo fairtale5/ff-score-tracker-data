@@ -1,0 +1,25 @@
+{
+  "Username": "Ricko",
+  "GUID": 76561199696894846,
+  "Track": "ks_silverstone",
+  "Layout": "gp",
+  "BestLaps": {
+    "mercedes_sls_gt3_FewClouds_S": {
+      "LapTimeMs": 126132,
+      "TimestampMs": 1791096322262,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "S"
+    },
+    "mercedes_sls_gt3_FewClouds": {
+      "LapTimeMs": 126436,
+      "TimestampMs": 1791095090254,
+      "SessionId": "bd77a127-3af5-4326-bc17-064dbfc0c223",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": ""
+    }
+  },
+  "LapTimeHistory": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1784948011880,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 91296,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1784948100222,
+    "SessionId": "32b181d9-5255-4625-8a9b-eff2042639cb",
+    "Track": "jr_road_atlanta_2022",
+    "Layout": "full",
+    "Car": "ks_audi_r8_lms_2016",
+    "LapTimeMs": 88335,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": "S"
+  }
+]

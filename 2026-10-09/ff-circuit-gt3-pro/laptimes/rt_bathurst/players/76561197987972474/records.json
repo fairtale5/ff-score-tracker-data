@@ -1,0 +1,73 @@
+{
+  "Username": "Fabra",
+  "GUID": 76561197987972474,
+  "Track": "rt_bathurst",
+  "Layout": "",
+  "BestLaps": {
+    "ks_lamborghini_huracan_gt3_Drizzle_S": {
+      "LapTimeMs": 131255,
+      "TimestampMs": 1785124432440,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Drizzle",
+      "WeatherEnd": "Drizzle",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mixed_S": {
+      "LapTimeMs": 129830,
+      "TimestampMs": 1785125993205,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_lamborghini_huracan_gt3_Mist_S": {
+      "LapTimeMs": 127891,
+      "TimestampMs": 1785127247953,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mist_S": {
+      "LapTimeMs": 128194,
+      "TimestampMs": 1785127912071,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Mist",
+      "WeatherEnd": "Mist",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Mixed_S": {
+      "LapTimeMs": 129119,
+      "TimestampMs": 1785128175078,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Clear_S": {
+      "LapTimeMs": 127363,
+      "TimestampMs": 1785129424457,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_ScatteredClouds_S": {
+      "LapTimeMs": 134428,
+      "TimestampMs": 1785131038250,
+      "SessionId": "5ffe925d-e0cc-4824-ad18-1c1acc2645d1",
+      "WeatherStart": "ScatteredClouds",
+      "WeatherEnd": "ScatteredClouds",
+      "TyreCompound": "S"
+    },
+    "ks_audi_r8_lms_2016_Hot_S": {
+      "LapTimeMs": 130913,
+      "TimestampMs": 1785892396382,
+      "SessionId": "be405b64-dda6-4ad9-ab02-11a1b228cc81",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

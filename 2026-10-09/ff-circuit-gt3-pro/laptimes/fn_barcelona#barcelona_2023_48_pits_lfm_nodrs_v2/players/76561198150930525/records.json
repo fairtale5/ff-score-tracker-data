@@ -1,0 +1,41 @@
+{
+  "Username": "Luiz Eduardo",
+  "GUID": 76561198150930525,
+  "Track": "fn_barcelona",
+  "Layout": "barcelona_2023_48_pits_lfm_nodrs_v2",
+  "BestLaps": {
+    "rss_gtm_bayer_i6_evo_FewClouds_D": {
+      "LapTimeMs": 104418,
+      "TimestampMs": 1790972285166,
+      "SessionId": "c4b0d487-54a3-42b4-afe3-5594724efa42",
+      "WeatherStart": "FewClouds",
+      "WeatherEnd": "FewClouds",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Hot_D": {
+      "LapTimeMs": 103149,
+      "TimestampMs": 1790974586143,
+      "SessionId": "c4b0d487-54a3-42b4-afe3-5594724efa42",
+      "WeatherStart": "Hot",
+      "WeatherEnd": "Hot",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Mixed_D": {
+      "LapTimeMs": 102621,
+      "TimestampMs": 1790974792825,
+      "SessionId": "c4b0d487-54a3-42b4-afe3-5594724efa42",
+      "WeatherStart": "Transition",
+      "WeatherEnd": "Transition",
+      "TyreCompound": "D"
+    },
+    "rss_gtm_bayer_i6_evo_Clear_D": {
+      "LapTimeMs": 103454,
+      "TimestampMs": 1790973953573,
+      "SessionId": "c4b0d487-54a3-42b4-afe3-5594724efa42",
+      "WeatherStart": "Clear",
+      "WeatherEnd": "Clear",
+      "TyreCompound": "D"
+    }
+  },
+  "LapTimeHistory": []
+}

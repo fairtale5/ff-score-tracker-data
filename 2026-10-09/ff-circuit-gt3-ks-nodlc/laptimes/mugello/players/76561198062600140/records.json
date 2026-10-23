@@ -1,0 +1,25 @@
+{
+  "Username": "Felpax",
+  "GUID": 76561198062600140,
+  "Track": "mugello",
+  "Layout": "",
+  "BestLaps": {
+    "bmw_z4_gt3_BrokenClouds": {
+      "LapTimeMs": 109908,
+      "TimestampMs": 1791339792753,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": ""
+    },
+    "bmw_z4_gt3_BrokenClouds_S": {
+      "LapTimeMs": 110488,
+      "TimestampMs": 1791340313063,
+      "SessionId": "e80c140f-26d4-4d6e-a54b-9473e91ecf2a",
+      "WeatherStart": "BrokenClouds",
+      "WeatherEnd": "BrokenClouds",
+      "TyreCompound": "S"
+    }
+  },
+  "LapTimeHistory": []
+}

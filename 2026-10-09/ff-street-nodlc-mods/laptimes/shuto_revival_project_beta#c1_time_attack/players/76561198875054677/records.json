@@ -1,0 +1,23 @@
+{
+  "Track" : "shuto_revival_project_beta",
+  "Username" : "LA_PESTE",
+  "BestLaps" : {
+    "mazda_rx7_veilside_pushin_p_Clear" : {
+      "WeatherEnd" : "Clear",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 379157,
+      "SessionId" : "4c37f69e-856f-415e-8171-04433308119d",
+      "TimestampMs" : 1775079851023
+    },
+    "w_subaru_wrx_sti_tuned_Clear" : {
+      "TimestampMs" : 1774956591350,
+      "SessionId" : "e39fb874-77db-49df-9798-ce37974aa731",
+      "WeatherStart" : "Clear",
+      "LapTimeMs" : 300387,
+      "WeatherEnd" : "Clear"
+    }
+  },
+  "LapTimeHistory" : [],
+  "Layout" : "c1_time_attack",
+  "GUID" : 76561198875054677
+}

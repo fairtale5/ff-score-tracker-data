@@ -1,0 +1,50 @@
+[
+  {
+    "TimestampMs": 1785555820277,
+    "SessionId": "5a20305d-e3ad-4bd8-a7e0-2ac5941b271c",
+    "Track": "ek_usui_circuit",
+    "Layout": "uphill_real",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 160507,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785556131236,
+    "SessionId": "5a20305d-e3ad-4bd8-a7e0-2ac5941b271c",
+    "Track": "ek_usui_circuit",
+    "Layout": "uphill_real",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 133123,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785557221409,
+    "SessionId": "5a20305d-e3ad-4bd8-a7e0-2ac5941b271c",
+    "Track": "ek_usui_circuit",
+    "Layout": "uphill_real",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 146689,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  },
+  {
+    "TimestampMs": 1785557360068,
+    "SessionId": "5a20305d-e3ad-4bd8-a7e0-2ac5941b271c",
+    "Track": "ek_usui_circuit",
+    "Layout": "uphill_real",
+    "Car": "ks_mazda_mx5_cup",
+    "LapTimeMs": 138660,
+    "WeatherCategory": "Clear",
+    "WeatherStart": "Clear",
+    "WeatherEnd": "Clear",
+    "TyreCompound": ""
+  }
+]

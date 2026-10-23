@@ -1,0 +1,26 @@
+[
+  {
+    "TimestampMs": 1785492596267,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 285562,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  },
+  {
+    "TimestampMs": 1785492697222,
+    "SessionId": "175c1baf-f463-4db7-97ad-e178099b1fa3",
+    "Track": "vhe_interlagos",
+    "Layout": "acf_gp_lfm",
+    "Car": "ks_ferrari_488_gt3",
+    "LapTimeMs": 100963,
+    "WeatherCategory": "Mist",
+    "WeatherStart": "Mist",
+    "WeatherEnd": "Mist",
+    "TyreCompound": "S"
+  }
+]

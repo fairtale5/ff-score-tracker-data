@@ -1,0 +1,24 @@
+[
+  {
+    "TimestampMs": 1781242002124,
+    "SessionId": "36f3cd3a-2209-4db4-bfc2-48ce1876cacf",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131654,
+    "WeatherCategory": "ScatteredClouds",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "ScatteredClouds"
+  },
+  {
+    "TimestampMs": 1781242133149,
+    "SessionId": "36f3cd3a-2209-4db4-bfc2-48ce1876cacf",
+    "Track": "spa",
+    "Layout": "2022",
+    "Car": "rss_mph_protech_p96_v8",
+    "LapTimeMs": 131029,
+    "WeatherCategory": "Mixed",
+    "WeatherStart": "ScatteredClouds",
+    "WeatherEnd": "Transition"
+  }
+]
